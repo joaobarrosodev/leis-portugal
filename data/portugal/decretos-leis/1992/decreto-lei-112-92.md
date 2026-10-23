@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/1992/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1992-516738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e87d21f78ec5fca57b2cded5b05ecbd469792c61099427589976e5c283463588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10b76fca73f75fead5ab5ff63a8921ff5f7edba023b89f1c3436d0ce8b2202c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
 - Código das Sociedades Comerciais
-- Contabilidade
 - Código do Registo Comercial
+- Contabilidade
 - Controlo Financeiro
 - Plano Oficial de Contabilidade
 - Prestação de Contas
 - Registo Comercial
+- Sociedade Comercial
 relationships:
 - type: cites
   target: celex:31983L0349
   label: null
   source: http://data.europa.eu/eli/dir/1983/349/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:49Z'
   warnings: []
   errors: []
 ---
@@ -106,18 +106,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As empresas obrigadas por lei à consolidação de contas nos termos do Decreto-Lei n.º 238/91, de 2 de Julho, e das disposições aplicáveis do Código das Sociedades Comerciais, poderão apresentar e apreciar, até 30 de Junho de 1992, os documentos respeitantes à prestação das contas consolidadas relativamente ao exercício social do ano de 1991.
+Artigo 1.º As empresas obrigadas por lei à consolidação de contas nos termos do Decreto-Lei n.º 238/91, de 2 de Julho, e das disposições aplicáveis do Código das Sociedades Comerciais, poderão apresentar e apreciar, até 30 de Junho de 1992, os documentos respeitantes à prestação das contas consolidadas relativamente ao exercício social do ano de 1991.
 
-###### Art. 2.º O presente decreto-lei produz efeitos desde 1 de Abril de 1992.
+Art. 2.º O presente decreto-lei produz efeitos desde 1 de Abril de 1992.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/204a00/46904691.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/328/1991/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1b94c0c90e856e0c5e5726c672ebf45faa292e29ee1e87c8b5f4ec4522f5fee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a5e4c4213a80e03d8d49834966a8bf738b4c71aff4c3c323b66bd5308b9ba80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Caixa Geral de Depósitos
 - Caixa Geral de Aposentações
+- Caixa Geral de Depósitos
+- Forças Armadas
 - Fundo de Pensões
 - Fundo de Pensões dos Militares das Forças Armadas
-- Forças Armadas
 - Pensões
 relationships:
 - type: amended_by
   target: pt:dre:239840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239840:por
+  label: "Determinado que o Fundo criado pelo Dec Lei 269/90, de 31-ago, na redação do presente diploma, se conside extinto,\
+    \ sem necessidade de cumprimento de quaisquer outras formalidades, de natureza legal ou regulamentar, após integral transferência\
+    \ do seu património para a CGA, I.P., e com a sua liquidação total, pelo DEC LEI.166-A/2013.27.12.2013.MDN, DR.IS [251-Supl]\
+    \ de 27.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-a-2013-239840
+  date: '2013-12-27'
+- type: cites
+  target: pt:dre:546221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:22Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 16.º e 17.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 16.º e 17.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 16.º — [...]
 
@@ -121,7 +133,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 O cálculo das contribuições em atraso tem como base o último vencimento, acrescido de suplemento da condição militar, processado ao militar que se encontre em dívida para com o Fundo.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, o artigo 17.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, o artigo 17.º-A, com a seguinte redacção:
 
 ###### Artigo 17.º-A — Resgate
 
@@ -135,16 +147,16 @@ b) Desistência de participação no Fundo de Pensões dos Militares das Forças
 
 3 - O valor de resgate será igual ao valor das contribuições actualizadas, para cada ano, pela taxa de variação percentual do índice 100 da grelha salarial do corpo especial dos militares, multiplicado pelo factor 0,85.
 
-###### Art. 3.º Os militares que tenham participado no Fundo de Pensões dos Militares das Forças Armadas e tenham desistido antes da data de publicação do presente diploma são reembolsados das contribuições que tenham sido descontadas até esta data pela entidade processadora de vencimentos na totalidade e sem quaisquer acréscimos ou deduções.
+Art. 3.º Os militares que tenham participado no Fundo de Pensões dos Militares das Forças Armadas e tenham desistido antes da data de publicação do presente diploma são reembolsados das contribuições que tenham sido descontadas até esta data pela entidade processadora de vencimentos na totalidade e sem quaisquer acréscimos ou deduções.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Oliveira Costa.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Agosto de 1991.**
+Referendado em 27 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

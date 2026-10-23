@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/217a00/49774978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/354/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1991-301637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1bb8cfd203fa4729f0fdc210e888d3f483d1d3d4acb42cd293395f9fc3d979d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2f985075cd109d64f543e7716313acf1750d4ca625e4e65cdb44e1052e92f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direitos de Importação
 - Importação
 - Pauta Aduaneira
 - Pauta dos Direitos de Importação
-- Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43-a/1991/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/43-a/1991/01/23/p/dre
+- type: cites
+  target: pt:dre:348325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:57Z'
   warnings: []
   errors: []
 ---
@@ -104,25 +118,25 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 37.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 43-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-1991-348325), de 23 de Janeiro, é alterada nos termos do mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º A Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 43-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-1991-348325), de 23 de Janeiro, é alterada nos termos do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º As mercadorias constantes do anexo referido no artigo anterior, com excepção das abrangidas pelas rectificações aos capítulos 07 e 73, beneficiam das preferências pautais aplicáveis pela Comunidade dos Dez e de liberdade de direitos face à Comunidade Económica Europeia.
+Art. 2.º As mercadorias constantes do anexo referido no artigo anterior, com excepção das abrangidas pelas rectificações aos capítulos 07 e 73, beneficiam das preferências pautais aplicáveis pela Comunidade dos Dez e de liberdade de direitos face à Comunidade Económica Europeia.
 
-###### Art. 3.º O presente diploma produz efeitos desde 1 de Julho de 1991, com excepção da alteração relativa aos códigos 7901 11 00 e 7901 12 10, que produz efeitos desde 1 de Abril de 1991, e das rectificações relativas aos códigos 0705 11 10, 0705 11 90 e 7320 20 20, 7320 20 89, que produzem efeitos desde 1 de Janeiro de 1991.
+Art. 3.º O presente diploma produz efeitos desde 1 de Julho de 1991, com excepção da alteração relativa aos códigos 7901 11 00 e 7901 12 10, que produz efeitos desde 1 de Abril de 1991, e das rectificações relativas aos códigos 0705 11 10, 0705 11 90 e 7320 20 20, 7320 20 89, que produzem efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Filipe Alves Monteiro.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/217a00/49774978.pdf))](https://files.diariodarepublica.pt/1s/1991/09/217a00/49774978.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/217a00/49774978.pdf)
 
 Alterações às notas dos capítulos
 

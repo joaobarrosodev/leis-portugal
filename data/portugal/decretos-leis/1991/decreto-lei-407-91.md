@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/239a00/53955397.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/407/1991/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1991-288873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbb0edbabd490ceb33e76de5043d4b2f402688a8b178110412a1875ba94599c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faf5cadecdcf1b74dce7ceca3c6c2a59c5fa545ef7e9ba4aa2797331d0c47324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,76 @@ reuse:
 subjects:
 - Acumulação de Funções
 - Administração Central
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
+- Assembleia da República
+- Contratação de Pessoal
 - Contrato
 - Destacamento de Pessoal
-- Administração Pública
-- Formas de Provimento
-- Pessoal de Justiça
-- Presidência da República
-- Instituto Público
-- Contratação de Pessoal
-- Nomeação
-- Assembleia da República
-- Prazo
 - Emprego
+- Formas de Provimento
+- Funcionário Público
+- Instituto Público
+- Mobilidade de Pessoal
+- Nomeação
+- Pessoal de Justiça
+- Prazo
+- Presidência da República
 - Regime Jurídico
 - Requisição de Pessoal
-- Mobilidade de Pessoal
-- Funcionário Público
-- Administração Regional
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653148:por
+  label: "Estabelecida uma excepção ao disposto nos nºs 1 e 2 do art. 19º do Dec Lei 427/89 de 07-Dez, com a redacção do presente\
+    \ diploma, pelo DEC LEI.247/97.19.09.1997.MADRP, DR.IS-A [217] de 19.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1997-653148
+  date: '1997-09-19'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:03Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +158,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 19.º, 20.º, 22.º, 31.º, 36.º, 37.º, 38.º, 39.º, 40.º e 44.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 19.º, 20.º, 22.º, 31.º, 36.º, 37.º, 38.º, 39.º, 40.º e 44.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 19.º — Selecção de candidatos
 
@@ -250,24 +286,24 @@ No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/8
 
 5 - O disposto nos artigos 6.º, 7.º e 35.º não prejudica os períodos probatórios de duração superior a um ano fixados em leis especiais, aplicando-se-lhes a disciplina daqueles preceitos, com as necessárias adaptações.
 
-###### Art. 2.º - 1 - Ao pessoal referido no n.º 1 do artigo 37.º e no n.º 1 do artigo 39.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, que exerça funções em áreas das carreiras técnico-profissionais e tenha sido admitido para o exercício das mesmas em data anterior à entrada em vigor do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, são apenas exigidos, para o efeito do n.º 3 do mencionado artigo 37.º, os requisitos habilitacionais previstos na legislação vigente até essa data, sendo-lhe aplicável o regime consignado nos n.os 2 a 6 do artigo 38.º
+Art. 2.º - 1 - Ao pessoal referido no n.º 1 do artigo 37.º e no n.º 1 do artigo 39.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, que exerça funções em áreas das carreiras técnico-profissionais e tenha sido admitido para o exercício das mesmas em data anterior à entrada em vigor do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, são apenas exigidos, para o efeito do n.º 3 do mencionado artigo 37.º, os requisitos habilitacionais previstos na legislação vigente até essa data, sendo-lhe aplicável o regime consignado nos n.os 2 a 6 do artigo 38.º
 
 2 - Os prazos previstos nos n.os 1 e 3 do artigo 38.º contam-se, relativamente ao mesmo pessoal, a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 3.º A correspondência entre as funções exercidas pelo pessoal a que alude o artigo anterior e as das carreiras técnico-profissionais é fixada através de declaração passada pelo respectivo serviço ou organismo, a qual especificará as tarefas e responsabilidades que lhe estiveram cometidas e o tempo de serviço prestado no exercício dessas funções.
+Art. 3.º A correspondência entre as funções exercidas pelo pessoal a que alude o artigo anterior e as das carreiras técnico-profissionais é fixada através de declaração passada pelo respectivo serviço ou organismo, a qual especificará as tarefas e responsabilidades que lhe estiveram cometidas e o tempo de serviço prestado no exercício dessas funções.
 
-###### Art. 4.º O tempo de serviço que vier a ser apurado nos termos do artigo anterior conta como prestado na categoria de ingresso para efeitos de acesso na carreira.
+Art. 4.º O tempo de serviço que vier a ser apurado nos termos do artigo anterior conta como prestado na categoria de ingresso para efeitos de acesso na carreira.
 
-###### Art. 5.º O artigo 1.º deste diploma produz efeitos reportados à data da entrada em vigor do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sem prejuízo da manutenção de prazos superiores dos contratos de trabalho a termo entretanto celebrados ou de situações desde então legalmente constituídas.
+Art. 5.º O artigo 1.º deste diploma produz efeitos reportados à data da entrada em vigor do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sem prejuízo da manutenção de prazos superiores dos contratos de trabalho a termo entretanto celebrados ou de situações desde então legalmente constituídas.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 3 de Outubro de 1991.**
+Promulgado em 3 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1991.**
+Referendado em 7 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

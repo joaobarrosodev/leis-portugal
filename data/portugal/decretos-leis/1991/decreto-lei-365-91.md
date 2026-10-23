@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/228a00/51455145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/365/1991/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1991-293717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6560e0fe3e9d2b0264e1050b941a390110eb7af6e3072e6364290b218e8856a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e12f728e3f9aa5c187550a93c48fd9de8ba950b516e420054b87f6aeff3b387
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Campeonato do Mundo de Futebol de Juniores de 1991
+- Desporto
+- Financiamento
 - Fundo de Fomento do Desporto
 - Futebol
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/52/1991/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52/1991/08/06/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687805:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:12Z'
   warnings: []
   errors: []
 ---
@@ -108,16 +122,16 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 52/91](https://diariodarepublica.pt/dr/detalhe/lei/52-1991-687805), de 6 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São afectados ao Fundo de Fomento do Desporto 20% das verbas resultantes da aplicação, aos prémios do jogo do loto, da taxa liberatória prevista na alínea c) do n.º 2 do artigo 74.º do Código do IRS, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, até ao limite de 1200000 contos, destinados à cobertura de despesas resultantes da organização do Campeonato do Mundo de Futebol - Juniores (SUB 20).
+Artigo único. São afectados ao Fundo de Fomento do Desporto 20% das verbas resultantes da aplicação, aos prémios do jogo do loto, da taxa liberatória prevista na alínea c) do n.º 2 do artigo 74.º do Código do IRS, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, até ao limite de 1200000 contos, destinados à cobertura de despesas resultantes da organização do Campeonato do Mundo de Futebol - Juniores (SUB 20).
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 19 de Setembro de 1991.**
+Promulgado em 19 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

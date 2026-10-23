@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/257a00/57175722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/436/1991/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1991-331855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5dd4c139d9874bed01f4a7ee50b70d03ca6180aa2d299e900d6146aa45a819c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fff9986369a03295e445913b8f75aaa8c070c26fe2a25805857ce95ce85f2d64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Comissão Interministerial para o Comércio de Produtos Estratégicos
 - Defesa Estratégica
-- Política de Defesa
+- Exportação
 - Importação
 - Licenciamento
 - Nova Tecnologia
-- Exportação
+- Política de Defesa
 relationships:
 - type: amended_by
   target: pt:dre:670066:por
@@ -82,16 +82,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22-a/1991/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22-a/1991/06/27/p/dre
+- type: cites
+  target: pt:dre:431641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:670066:por
+  label: "Revogado, a partir de 27.06.2011, pela LEI.37/2011.22.06.2011.AR, DR.IS [119] de 22.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2011-670066
+  date: '2011-06-22'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:43Z'
   warnings: []
   errors: []
 ---
@@ -224,14 +233,14 @@ A infracção do disposto nos n.os 3 e 4 do artigo 7.º e dos n.os 4 e 5 do arti
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Duarte Ivo Cruz - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 24 de Outubro de 1991.**
+Promulgado em 24 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1991.**
+Referendado em 28 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/257a00/57175722.pdf))](https://files.diariodarepublica.pt/1s/1991/11/257a00/57175722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/257a00/57175722.pdf)

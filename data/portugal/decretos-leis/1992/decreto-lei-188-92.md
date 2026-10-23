@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/1992/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1992-261128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a190e9cfe4e7f14ae51b369fe869238a49a3f7955334ba03a336db9b10558d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07ba626990eaa1c863f22087f856341d6af81c14463874ff4ae03fe2cb3f7346
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
 - Definição de Competências
 - Extinção de Serviços
-- Lisboa
 - Instituto Nacional de Investigação Científica
-- Observatório Astronómico
+- Investigador
 - Jnict
+- Lisboa
+- Observatório Astronómico
 - Quadro de Efectivos Interdepartamentais
 - Quadro de Excedentes
 - Quadro de Pessoal
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:30Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +131,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É extinto o Instituto Nacional de Investigação Científica, adiante designado por INIC, passando a Junta Nacional de Investigação Científica e Tecnológica, adiante designada por JNICT, a assegurar as seguintes atribuições:
+Artigo 1.º - 1 - É extinto o Instituto Nacional de Investigação Científica, adiante designado por INIC, passando a Junta Nacional de Investigação Científica e Tecnológica, adiante designada por JNICT, a assegurar as seguintes atribuições:
 
 a) Apoio aos centros de investigação e aos serviços de natureza conexa dependentes do INIC que venham a ser integrados nas universidades, através de um programa específico de contratos plurianuais;
 
@@ -141,7 +149,7 @@ e) Patrocínio da realização de congressos, colóquios e outras reuniões cien
 
 4 - A JNICT assegurará a concessão de bolsas de estudo, no País e no estrangeiro, aos actuais bolseiros do INIC, garantindo a continuação dessas bolsas nos termos previstos na lei em vigor à data da concessão.
 
-###### Art. 2.º - 1 - Até 30 de Novembro de 1992, podem ser integrados nas universidades onde vinham desenvolvendo a sua actividade os centros de investigação do INIC.
+Art. 2.º - 1 - Até 30 de Novembro de 1992, podem ser integrados nas universidades onde vinham desenvolvendo a sua actividade os centros de investigação do INIC.
 
 2 - Até 30 de Novembro de 1992, podem ser integrados na Universidade Técnica de Lisboa, na Universidade de Lisboa e na Universidade Nova de Lisboa, respectivamente, os Complexos Interdisciplinares I e II e o Centro de Tecnologia Química e Biológica.
 
@@ -153,7 +161,7 @@ e) Patrocínio da realização de congressos, colóquios e outras reuniões cien
 
 6 - Quando seja desencadeado, nos termos da Lei de Autonomia das Universidades, o processo de integração a que se referem os n.os 1, 2 e 3, deve a deliberação do senado universitário que contenha a proposta de integração ser comunicada, até 15 de Outubro de 1992, ao Ministro do Planeamento e da Administração do Território.
 
-###### Art. 3.º - 1 - O pessoal do quadro dos serviços dependentes do INIC que vinha prestando serviço nos centros de investigação e constituído em excedente, ingressando no quadro de efectivos interdepartamentais, a menos que ocorra a integração a que se refere o artigo anterior, caso em que transitará para a instituição universitária.
+Art. 3.º - 1 - O pessoal do quadro dos serviços dependentes do INIC que vinha prestando serviço nos centros de investigação e constituído em excedente, ingressando no quadro de efectivos interdepartamentais, a menos que ocorra a integração a que se refere o artigo anterior, caso em que transitará para a instituição universitária.
 
 2 - O pessoal integrado no quadro da afectação do INIC regressa à situação de origem, podendo ser integrado no quadro de efectivos interdepartamentais, nos termos da lei.
 
@@ -169,13 +177,13 @@ e) Patrocínio da realização de congressos, colóquios e outras reuniões cien
 
 8 - Os investigadores visitantes contratados tratados pelo INIC são afectos à JNICT, de acordo com o regime contratual antes estabelecido.
 
-###### Art. 4.º - 1 - O património próprio do INIC que se encontra afectado aos centros de investigação e a outros organismos dependentes desse Instituto que venham a ser extintos será colocado à disposição de outras unidades de investiação mediante despacho conjunto dos Ministros das Finanças, do Planeamento e da Administração do Território e da Educação, sem dependência de quaisquer formalidades.
+Art. 4.º - 1 - O património próprio do INIC que se encontra afectado aos centros de investigação e a outros organismos dependentes desse Instituto que venham a ser extintos será colocado à disposição de outras unidades de investiação mediante despacho conjunto dos Ministros das Finanças, do Planeamento e da Administração do Território e da Educação, sem dependência de quaisquer formalidades.
 
 2 - Quando os organismos ou centros de investigação sejam integrados em universidades, o património a que se refere o número anterior transfere-se para a instituição universitária em que ocorra a integração.
 
 3 - Os arquivos do INIC existentes nos serviços centrais transitam para a JNICT, com dispensa de todas as formalidades.
 
-###### Art. 5.º - 1 - A transição do pessoal a que se reporta o artigo 3.º será efectuada através da publicação de listas nominativas pelos serviços integradores até 30 de Novembro de 1992.
+Art. 5.º - 1 - A transição do pessoal a que se reporta o artigo 3.º será efectuada através da publicação de listas nominativas pelos serviços integradores até 30 de Novembro de 1992.
 
 2 - Os serviços integradores devem promover a adequação dos respectivos quadros à transição do pessoal a que se refere o número anterior, como salvaguarda da progressão nas respectivas carreiras.
 
@@ -189,12 +197,12 @@ e) Patrocínio da realização de congressos, colóquios e outras reuniões cien
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - António Fernando Conto dos Santos.
 
-**Promulgado em 11 de Agosto de 1992.**
+Promulgado em 11 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1992.**
+Referendado em 12 de Agosto de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 276/1991, 1º Suplemento, Série I-A de 1991-11-30
   number: '276'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6274-(2) a 6274-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/276a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/449/1991/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1991-491891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdba23977ab42346bc2024466bd8caddbf63339a34725145a92470acfa178e85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 414be6663a8bd608d959c22b4c44971724516d7a0b3167b3d4331578a5af9568
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,33 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:54Z'
   warnings: []
   errors: []
 ---
@@ -100,36 +117,36 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa do 5.º Centenário do Descobrimento Europeu da América, integrada na série internacional ibero-americana alusiva ao «Encontro de Dois Mundos», com o valor facial de 1000$00.
+Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa do 5.º Centenário do Descobrimento Europeu da América, integrada na série internacional ibero-americana alusiva ao «Encontro de Dois Mundos», com o valor facial de 1000$00.
 
 2 - A moeda referida no número anterior será cunhada em liga de prata 500/1000, com 40 mm de diâmetro e 27,0 g de peso, com uma tolerância de (mais ou menos) 1% no título e no peso, e terá bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, as armas nacionais de Portugal circundadas pela legenda «República Portuguesa. 1000 Esc.» entre duas circunferências, orladas pelas armas nacionais dos restantes países participantes nesta série internacional, respectivamente Argentina, Bolívia, Brasil, Colômbia, Cuba, Chile, Equador, Espanha, México, Nicarágua, Peru, Uruguai e Venezuela.
+Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, as armas nacionais de Portugal circundadas pela legenda «República Portuguesa. 1000 Esc.» entre duas circunferências, orladas pelas armas nacionais dos restantes países participantes nesta série internacional, respectivamente Argentina, Bolívia, Brasil, Colômbia, Cuba, Chile, Equador, Espanha, México, Nicarágua, Peru, Uruguai e Venezuela.
 
 2 - A gravura do reverso apresenta, no centro do campo, limitado por uma cercadura lisa, a figuração de uma caravela portuguesa de dois mastros, do lado direito uma representação cartográfica quinhentista do mapa da Europa e da África, parcialmente encoberta pelo pano da caravela, do lado esquerdo idêntica representação do novo mundo americano, com o mapa do Brasil sobreposto à proa da caravela, e, na orla, a legenda «Encontro de Dois Mundos», na metade superior, e as eras «1492-1992» entre cruzes de Cristo, na metade inferior.
 
-###### Art. 3.º O limite da emissão desta moeda comemorativa é fixado em 400000000$00.
+Art. 3.º O limite da emissão desta moeda comemorativa é fixado em 400000000$00.
 
-###### Art. 4.º - 1 - Dentro do limite estabelecido no artigo anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 50000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados a comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 4.º - 1 - Dentro do limite estabelecido no artigo anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 50000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), destinados a comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 2 - Os espécimes numismáticos de prata referidos no número anterior serão cunhados em liga de prata 925/1000, com o diâmetro de 40 mm, peso de 27,0 g e bordo serrilhado, sendo as tolerâncias, no peso e na liga, de (mais ou menos) 1%.
 
-###### Art. 5.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
+Art. 5.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado, por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 6.º O diferencial entre o valor facial e os correspondentes custos de produção será posto pelo Ministério das Finanças à disposição do Comissariado de Portugal para a Exposição Universal de Sevilha de 1992, através da Presidência do Conselho de Ministros, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
+Art. 6.º O diferencial entre o valor facial e os correspondentes custos de produção será posto pelo Ministério das Finanças à disposição do Comissariado de Portugal para a Exposição Universal de Sevilha de 1992, através da Presidência do Conselho de Ministros, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
 
-###### Art. 7.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 50000$00 nesta moeda.
+Art. 7.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 50000$00 nesta moeda.
 
-###### Art. 8.º O presente diploma produz efeitos desde 15 de Novembro de 1991.
+Art. 8.º O presente diploma produz efeitos desde 15 de Novembro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1991. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos - Jorge Braga de Macedo.
 
-**Promulgado em 29 de Novembro de 1991.**
+Promulgado em 29 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Novembro de 1991.**
+Referendado em 29 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

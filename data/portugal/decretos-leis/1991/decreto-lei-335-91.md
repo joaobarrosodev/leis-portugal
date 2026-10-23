@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/335/1991/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1991-304330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a11e980462f62f699056bfa1eb345697891791553cb21602d544a2bdd0cc29a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f6568426e60e9aff7da3f07d0e5b8ef6d1718bd75685684a21278e2ab369053
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
 - Enatur
 - Marina
-- Cascais
 relationships:
 - type: amended_by
   target: pt:dre:539417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:510801:por
+  label: "Alterados os arts. 2.º, 4.º e 5.º, bem como a Base IV, constante do anexo I, e revogado o nº 2 da Base I, constante\
+    \ do mesmo anexo, pelo DEC LEI.14/94.1994.01.20.MCT DR.IS-A [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1994-510801
+  date: '1994-01-20'
+- type: amended_by
+  target: pt:dre:493703:por
+  label: "Transferidos para o município de Cascais os poderes gerais de concedente, em representação do Estado, bem como os\
+    \ restantes poderes atribuídos à ENATUR pelo presente diploma e respectivo anexo I, com a redacção introduzida pelo Dec\
+    \ Lei 14/94 de 15-Fev, assim como remetidas todas as referências feitas à ENATUR, nos referidos diplomas e em todos os\
+    \ documentos relativos à concessão da marina de Cascais, para o município de Cascais, pelo DEC LEI.232/2003.2003.09.27.MADRP\
+    \ DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-2003-493703
+  date: '2003-09-27'
+- type: amended_by
+  target: pt:dre:539417:por
+  label: "Substituído o mapa constante do anexo II pelo Dec Lei.149/2006.02.08.2006.PCM, DR.IS [148] de 02.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2006-539417
+  date: '2006-08-02'
+- type: cites
+  target: pt:dre:218893:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:198329:por
+  label: "Rectificado pela DECL-RECT.234/91.1991.10.22.SG-PCM, DR.IS-A [251]4ºSupl de 31/Out/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/234-1991-198329
+  date: '1991-10-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:32Z'
   warnings: []
   errors: []
 ---
@@ -105,23 +134,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Fica a ENATUR - Empresa Nacional de Turismo, E. P., adiante designada por ENATUR, E. P., autorizada a celebrar contrato de concessão, em regime de serviço público, da construção e exploração de uma marina para apoio à navegação e abrigo portuário de embarcações de recreio, bem como das instalações e serviços de natureza industrial e comercial operacionais, complementares e acessórios.
+Artigo 1.º - 1 - Fica a ENATUR - Empresa Nacional de Turismo, E. P., adiante designada por ENATUR, E. P., autorizada a celebrar contrato de concessão, em regime de serviço público, da construção e exploração de uma marina para apoio à navegação e abrigo portuário de embarcações de recreio, bem como das instalações e serviços de natureza industrial e comercial operacionais, complementares e acessórios.
 
 2 - São conferidos à ENATUR, E. P., em representação do Estado, os poderes gerais de concedente e, bem assim, aqueles que sejam objecto de disposição específica nas bases gerais da concessão, constantes do anexo I ao presente diploma, do qual faz parte integrante.
 
 3 - O complexo referido no n.º 1 fica situado junto à cidadela de Cascais, nos termos dos mapas constantes dos anexos II e III ao presente diploma, do qual fazem parte integrante, e é designado «Marina de Cascais».
 
-###### Art. 2.º - 1 - O contrato de concessão será precedido de concurso limitado com pré-qualificação pública, aplicando-se as normas respectivas do [Decreto-Lei n.º 235/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1986-218893), de 18 de Agosto.
+Art. 2.º - 1 - O contrato de concessão será precedido de concurso limitado com pré-qualificação pública, aplicando-se as normas respectivas do [Decreto-Lei n.º 235/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1986-218893), de 18 de Agosto.
 
 2 - O concurso será aberto no prazo máximo de 60 dias contados da data de entrada em vigor do presente diploma, não podendo o período para apresentação de propostas exceder 90 dias a contar da data de abertura do concurso.
 
-###### Art. 3.º - 1 - O contrato de concessão será outorgado nos termos das bases gerais da concessão.
+Art. 3.º - 1 - O contrato de concessão será outorgado nos termos das bases gerais da concessão.
 
 2 - A outorga do contrato, bem como a respectiva rescisão, é precedida de homologação pelo membro do Governo responsável pela área do turismo.
 
 3 - O regulamento de exploração e utilização da Marina de Cascais será aprovado por despacho conjunto do Ministro das Obras Públicas, Transportes e Comunicações e do membro do Governo responsável pela área do turismo.
 
-###### Art. 4.º - 1 - Integra a concessão a zona dominial constituída pelos terrenos delimitados no mapa constante do anexo II ao presente diploma, bem como as obras e edificações nela construídas ou a construir.
+Art. 4.º - 1 - Integra a concessão a zona dominial constituída pelos terrenos delimitados no mapa constante do anexo II ao presente diploma, bem como as obras e edificações nela construídas ou a construir.
 
 2 - Integra ainda a concessão o direito de exploração, para fins portuários, da zona do domínio público marítimo delimitada no mapa referido no número anterior.
 
@@ -129,35 +158,41 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - As desocupações e remoções necessárias à execução do disposto no número anterior devem ter lugar até à data nele indicada.
 
-###### Art. 5.º Os subsídios concedidos pelo Estado para a construção da Marina de Cascais podem ser atribuídos à concessionária, total ou parcialmente, a fundo perdido, devendo, em tal caso, ser-lhes entregues à medida e em função das obras executadas.
+Art. 5.º Os subsídios concedidos pelo Estado para a construção da Marina de Cascais podem ser atribuídos à concessionária, total ou parcialmente, a fundo perdido, devendo, em tal caso, ser-lhes entregues à medida e em função das obras executadas.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1991. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - José Oliveira Costa - Jorge Manuel Mendes Antas - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Agosto de 1991.**
+Referendado em 27 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Bases gerais da concessão da Marina de Cascais
 
 ### CAPÍTULO I — Da concessão
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 1 - A concessão tem por objecto a construção e exploração em Cascais, em regime de serviço público regular e contínuo, de uma marina para apoio à navegação e abrigo portuário de embarcações de recreio, bem como as instalações e serviços de natureza comercial e industrial operacionais, complementares e acessórios que possam contribuir para a melhor prossecução desse objectivo, denominando-se o complexo «Marina de Cascais».
 
 2 - A ENATUR, E. P., pode reservar para si, em administração directa, o exercício de actividades relacionadas directa ou instrumentalmente com o seu fim principal.
 
-###### Base II — Forma de concessão
+Base II
+
+Forma de concessão
 
 A concessão da construção e exploração do complexo da Marina de Cascais será feita unitariamente pelo mesmo título, para as zonas afectadas e cedidas, sendo as relações entre a entidade concedente e a empresa concessionária reguladas, na falta de disposição específica, pelos princípios gerais vigentes em matéria de concessão da exploração de bens, de obras e de serviços públicos.
 
-###### Base III — Estabelecimento da concessão
+Base III
+
+Estabelecimento da concessão
 
 1 - A Marina de Cascais compreende as zonas dominiais delimitadas no mapa anexo II, bem como todas as infra-estruturas, os bens móveis e imóveis, as instalações e os equipamentos que venham a ser construídos, fornecidos e montados pela concessionária na área da Marina, em conformidade com os projectos aprovados e o respectivo caderno de encargos, designadamente:
 
@@ -177,7 +212,9 @@ d) Equipamentos, mobiliário urbano, ferramentas, utensílios, peças de reserva
 
 5 - Os projectos referidos nos n.os 3 e 4 considerar-se-ão aprovados se, no prazo de 30 dias contados da recepção dos respectivos pedidos, não for comunicada à ENATUR, E. P., decisão expressa sobre os mesmos.
 
-###### Base IV — Obrigações da concessionária relativas à construção
+Base IV
+
+Obrigações da concessionária relativas à construção
 
 1 - São obrigações da concessionária:
 
@@ -197,7 +234,9 @@ f) Pagar às entidades competentes as taxas devidas pelas ligações referidas n
 
 3 - Na realização das obras serão observadas as regras das empreitadas de obras públicas.
 
-###### Base V — Serviços e instalações obrigatórios
+Base V
+
+Serviços e instalações obrigatórios
 
 1 - A concessionária assegurará obrigatoriamente a instalação e o funcionamento na Marina de Cascais dos serviços, instalações e equipamentos a seguir indicados:
 
@@ -263,11 +302,15 @@ b') Heliestação, mediante programa a estabelecer no contrato de concessão.
 
 4 - A construção da heliestação referida na alínea b') do n.º 1 desta base poderá ser adiada mediante pedido da concessionária fundamentado em estudo de mercado.
 
-###### Base VI — Prazos de execução
+Base VI
+
+Prazos de execução
 
 O programa geral do objecto da concessão e os prazos parcelares para o seu estudo, construção e entrada em exploração serão definidos no contrato de concessão.
 
-###### Base VII — Prazo da concessão
+Base VII
+
+Prazo da concessão
 
 1 - O prazo da concessão da Marina de Cascais não poderá exceder 75 anos contados a partir da data da celebração do respectivo contrato.
 
@@ -275,7 +318,9 @@ O programa geral do objecto da concessão e os prazos parcelares para o seu estu
 
 ### CAPÍTULO II — Da concessionária
 
-###### Base VIII — Sociedade concessionária
+Base VIII
+
+Sociedade concessionária
 
 1 - A empresa a quem for adjudicada a concessão obriga-se a constituir, antes da celebração do contrato de concessão, uma sociedade comercial cujo objecto consistirá exclusivamente na prestação do serviço público concedido.
 
@@ -285,7 +330,9 @@ O programa geral do objecto da concessão e os prazos parcelares para o seu estu
 
 4 - A sociedade terá a sua sede em Cascais e será constituída segundo a lei portuguesa.
 
-###### Base IX — Responsabilidade da sociedade concessionária
+Base IX
+
+Responsabilidade da sociedade concessionária
 
 1 - A sociedade concessionária responde perante o concedente pelos actos e omissões dos seus administradores e agentes, bem como pelos actos e omissões daqueles que, por seu mandato, construírem obras ou fornecerem e montarem materiais e equipamentos, devendo, para cobertura da respectiva responsabilidade, contratar obrigatoriamente com empresa seguradora com sede em Portugal um seguro para cobertura de todos os riscos das instalações e equipamentos da Marina.
 
@@ -303,7 +350,9 @@ O programa geral do objecto da concessão e os prazos parcelares para o seu estu
 
 8 - O pagamento das multas não isenta a concessionária da responsabilidade civil em que incorrer.
 
-###### Base X — Caução
+Base X
+
+Caução
 
 1 - A concessionária prestará caução para garantir o exacto e pontual cumprimento das obrigações assumidas no contrato de concessão e o pagamento das penalidades que lhe forem aplicadas pelo concedente, salvo se este optar ou a lei lhe impuser que opte por outro processo de execução.
 
@@ -317,7 +366,9 @@ O programa geral do objecto da concessão e os prazos parcelares para o seu estu
 
 6 - A caução em dinheiro poderá ser substituída por títulos de dívida pública, garantia bancária ou seguro-caução, de acordo com o que for estabelecido no contrato de concessão e desde que dessa substituição não resulte diminuição das garantias do concedente.
 
-###### Base XI — Actos da concessionária a aprovar pelo concedente
+Base XI
+
+Actos da concessionária a aprovar pelo concedente
 
 Carecem de aprovação prévia do concedente, dada por escrito, para além dos especialmente previstos, os actos da concessionária que tenham por fim ou efeito:
 
@@ -337,7 +388,9 @@ g) Os projectos de execução das obras a realizar no âmbito da concessão.
 
 ### CAPÍTULO III — Da exploração da concessão
 
-###### Base XII — Regime de exploração
+Base XII
+
+Regime de exploração
 
 1 - A Marina de Cascais será explorada em regime de serviço público, de forma regular e contínua, nos termos fixados no contrato de concessão e em conformidade com o disposto no respectivo regulamento de exploração e utilização.
 
@@ -345,7 +398,9 @@ g) Os projectos de execução das obras a realizar no âmbito da concessão.
 
 3 - O estabelecido no número anterior não abrange o acesso nem a prestação de serviços a embarcações que não sejam de recreio.
 
-###### Base XIII — Obrigações do serviço público
+Base XIII
+
+Obrigações do serviço público
 
 A exploração da Marina em regime de serviço público obriga a concessionária a:
 
@@ -355,7 +410,9 @@ b) Prestar aos utentes os serviços que integram o objecto da concessão;
 
 c) Assegurar que os serviços sejam prestados com a maior segurança, eficiência e economia, segundo métodos racionais e técnicas actualizadas, por forma a garantir prestações de qualidade e de preço compatíveis e concorrentes com estabelecimentos similares.
 
-###### Base XIV — Licenciamento da exploração
+Base XIV
+
+Licenciamento da exploração
 
 1 - A exploração da Marina só poderá iniciar-se quando a concessionária estiver munida das licenças e autorização exigidas por lei para o exercício das actividades nela compreendidas.
 
@@ -363,7 +420,9 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 3 - A concessionária dará conhecimento ao concedente do início da exploração com, pelo menos, 60 dias de antecedência.
 
-###### Base XV — Obrigações da concessionária relativas à exploração
+Base XV
+
+Obrigações da concessionária relativas à exploração
 
 1 - Compete à concessionária, no âmbito da exploração do complexo da Marina de Cascais e sem prejuízo da competência conferida a outras entidades:
 
@@ -387,7 +446,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 3 - Os agentes da concessionária directamente ligados às operações de apoio à navegação e à segurança portuária serão ajuramentados, nos termos da lei, para efeitos da alínea f) do n.º 1.
 
-###### Base XVI — Regulamento de exploração e utilização da Marina
+Base XVI
+
+Regulamento de exploração e utilização da Marina
 
 1 - Compete à ENATUR, E. P., elaborar, por sua iniciativa, ouvida a concessionária, ou sob proposta desta, o regulamento de exploração e utilização da Marina, bem como as suas alterações, e submetê-lo à aprovação dos Ministérios das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
@@ -395,7 +456,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 3 - O regulamento e a sua versão em língua inglesa deverão ser afixados pela concessionária em locais bem visíveis e de frequente e fácil acesso público.
 
-###### Base XVII — Cobrança de tarifas pela concessionária
+Base XVII
+
+Cobrança de tarifas pela concessionária
 
 1 - A concessionária terá direito de cobrar taxas pelos serviços que prestar no âmbito da concessão e pela utilização das instalações e equipamentos da Marina.
 
@@ -405,7 +468,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 4 - A concessionária não poderá cobrar quaisquer taxas que não constem da tabela de tarifas nem aplicá-las por forma diferente daquela que dela constar ou onerar, por qualquer outra forma, o preço dos serviços ou da utilização das instalações.
 
-###### Base XVIII — Preferência dos sócios do Clube Naval de Cascais
+Base XVIII
+
+Preferência dos sócios do Clube Naval de Cascais
 
 1 - Em igualdade de condições, os sócios do Clube Naval de Cascais terão direito de preferência na aquisição ou locação dos primeiros 125 postos de acostagem que forem comercializados.
 
@@ -415,7 +480,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 4 - Cada sócio do Clube Naval de Cascais só poderá adquirir no local um posto de acostagem ao abrigo do estabelecido nesta base.
 
-###### Base XIX — Renda devida pela concessionária
+Base XIX
+
+Renda devida pela concessionária
 
 1 - A concessionária pagará à ENATUR, E. P., a título de renda, o montante anual fixado no contrato de concessão.
 
@@ -425,7 +492,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 4 - O pagamento da renda efectuar-se-á a partir do início da exploração.
 
-###### Base XX — Conservação dos bens afectos à concessão
+Base XX
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, de sua conta e responsabilidade, todos os que se destruírem ou se mostrarem inadequados para os fins a que se destinam por desgaste físico, avaria, deterioração ou por se tornarem obsoletos.
 
@@ -441,7 +510,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 7 - No caso de a concessionária não cumprir com os prazos fixados ou não proceder de acordo com as determinações do concedente este poderá mandar executar as obras ou substituir os equipamentos, retirando do fundo de conservação e renovação e ou da caução as importâncias necessárias para o efeito.
 
-###### Base XXI — Guarda e vigilância das instalações
+Base XXI
+
+Guarda e vigilância das instalações
 
 1 - Competirá à concessionária, nos termos da lei, a guarda e vigilância das instalações, serviços e equipamentos que integram o estabelecimento da concessão.
 
@@ -449,7 +520,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 3 - A concessionária participará à autoridade pública competente (marítima, segurança pública, aduaneira ou concedente) o incumprimento por parte dos utentes e visitantes das normas de segurança, disciplina e conduta fixadas no regulamento e na legislação em vigor.
 
-###### Base XXII — Pessoal da concessionária
+Base XXII
+
+Pessoal da concessionária
 
 1 - O pessoal da concessionária prestando serviço na Marina terá o poder, dentro das suas atribuições respectivas, de conceder autorizações específicas e de dar todas as ordens e instruções necessárias ao bom funcionamento da Marina.
 
@@ -461,7 +534,9 @@ h) Prestar à Câmara Municipal de Cascais e aos departamentos e serviços do Es
 
 5 - A concessionária dará conhecimento ao concedente do seu quadro de pessoal.
 
-###### Base XXIII — Fiscalização
+Base XXIII
+
+Fiscalização
 
 1 - As instalações da Marina e as actividades nela exercidas pela concessionária serão objecto de fiscalização por parte do concedente, cabendo à concessionária cumprir, nos prazos que lhe forem fixados, as determinações daquele emanadas por escrito.
 
@@ -485,7 +560,9 @@ f) Facultar à fiscalização o acesso ao livro de reclamações, que deverá es
 
 5 - Constituirão encargo da concessionária as despesas com vistorias extraordinárias, nomeadamente as que resultarem de reclamações de terceiros, desde que a vistoria conclua pela existência de irregularidades imputáveis à concessionária.
 
-###### Base XXIV — Exploração por terceiros
+Base XXIV
+
+Exploração por terceiros
 
 1 - A concessionária poderá ceder a terceiros que disponham de idoneidade pessoal, técnica e financeira os direitos de exploração de instalações e serviços de natureza comercial ou industrial, considerando-se, porém, ineficazes perante o concedente as cláusulas dos contratos de cessão que confiram aos respectivos cessionários direitos ou faculdades que a concessionária não detinha ou que visem transferir ou diminuir a responsabilidade desta perante o concedente, mesmo que respeitante apenas à exploração cedida.
 
@@ -495,25 +572,33 @@ f) Facultar à fiscalização o acesso ao livro de reclamações, que deverá es
 
 ### CAPÍTULO IV — Da modificação e extinção da concessão
 
-###### Base XXV — Modificação do contrato de concessão
+Base XXV
+
+Modificação do contrato de concessão
 
 1 - A modificação dos direitos e obrigações resultantes do contrato de concessão só pode fazer-se pelos processos, nas formas e medidas em que o permitam os princípios gerais do direito administrativo português aplicáveis desta matéria.
 
 2 - A modificação das obrigações do serviço público da concessionária, por determinação unilateral do concedente, ficará condicionada à revisão das cláusulas que respeitam ao equilíbrio das contrapartidas financeiras do contrato.
 
-###### Base XXVI — Subconcessão
+Base XXVI
+
+Subconcessão
 
 1 - A concessionária não poderá, sem prévia autorização do concedente, subconceder a concessão no todo ou em parte.
 
 2 - No caso de subconcessão, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXVII — Caso de guerra ou de emergência grave
+Base XXVII
+
+Caso de guerra ou de emergência grave
 
 1 - Em caso de guerra, estado de sítio ou estado de emergência, o concedente reserva-se o direito de gerir e explorar os serviços concedidos, nas condições de legislação aplicável, mediante requisição dos serviços de pessoas, bens e organização afectos a concessão.
 
 2 - Durante o período em que se verifique a situação prevista no número anterior suspende-se o decurso do prazo por que for outorgada a concessão ou qualquer das suas prorrogações, ficando a concessionária exonerada do cumprimento das obrigações a esse período respeitantes.
 
-###### Base XXVIII — Sequestro
+Base XXVIII
+
+Sequestro
 
 1 - O concedente poderá tomar conta da administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja iminente a sua cessação total ou parcial por causa imputável à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometerem a regularidade da exploração.
 
@@ -523,7 +608,9 @@ f) Facultar à fiscalização o acesso ao livro de reclamações, que deverá es
 
 4 - Se a concessionária não quiser ou não puder retomar a exploração ou, se o tiver feito, continuarem a verificar-se graves deficiências na organização e no funcionamento dos serviços, poderá ser declarada pelo concedente a imediata rescisão da concessão.
 
-###### Base XXIX — Termo da concessão e reversão do estabelecimento
+Base XXIX
+
+Termo da concessão e reversão do estabelecimento
 
 1 - A concessão termina pelo decurso do prazo, pela extinção do serviço, pelo resgate, pela rescisão e pela resolução convencional.
 
@@ -533,7 +620,9 @@ f) Facultar à fiscalização o acesso ao livro de reclamações, que deverá es
 
 4 - Para os efeitos, entre outros, do disposto no número anterior, a concessionária deverá submeter ao concedente, até 31 de Maio de cada ano, o inventário discriminativo do conjunto de bens afectos à concessão, referido a 31 de Dezembro do ano anterior, com a indicação dos correspondentes valores de aquisição.
 
-###### Base XXX — Termo da concessão pelo decurso do prazo
+Base XXX
+
+Termo da concessão pelo decurso do prazo
 
 1 - Finda a concessão pelo decurso do prazo, o Estado entrará imediatamente na posse de todos os bens que constituam o estabelecimento, que para ele reverterão gratuitamente, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -553,11 +642,15 @@ f) Facultar à fiscalização o acesso ao livro de reclamações, que deverá es
 
 9 - As condições da cedência referida no número anterior e a fixação do valor das instalações a que se refere o n.º 7 serão reguladas por acordo ou, na sua falta, por recurso à arbitragem.
 
-###### Base XXXI — Extinção do serviço
+Base XXXI
+
+Extinção do serviço
 
 Se o Governo, por razões ligadas ao interesse público, resolver extinguir o serviço público da exploração da Marina, caducará automaticamente a concessão e a concessionária será indemnizada nos termos previstos para o resgate.
 
-###### Base XXXII — Resgate da concessão
+Base XXXII
+
+Resgate da concessão
 
 1 - O concedente poderá resgatar a concessão sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos 25 anos a partir da data de início do respectivo prazo, mediante aviso feito à concessionária por escrito com pelo menos um ano de antecedência.
 
@@ -571,7 +664,9 @@ Se o Governo, por razões ligadas ao interesse público, resolver extinguir o se
 
 6 - O pagamento dos montantes devidos à concessionária poderá ser feito por uma só vez ou em anuidades, conforme o determinar a entidade resgatante, até ao limite previsto para o termo do prazo de concessão.
 
-###### Base XXXIII — Rescisão do contrato
+Base XXXIII
+
+Rescisão do contrato
 
 1 - O concedente poderá dar por finda a concessão mediante rescisão do contrato sempre que do não cumprimento das obrigações essenciais da concessionária resultem graves perturbações na organização e no funcionamento dos serviços concedidos.
 
@@ -607,14 +702,18 @@ l) A falência da concessionária, salvo se o concedente autorizar que os credor
 
 6 - A rescisão implica, quando determinada como sanção, a perda a favor do concedente da caução a que se refere a base X, bem como do fundo de conservação e renovação previsto no n.º 4 da base XX.
 
-###### Base XXXIV — Resolução convencional
+Base XXXIV
+
+Resolução convencional
 
 Concedente e concessionária poderão em qualquer momento resolver o contrato por mútuo acordo.
 
 ### CAPÍTULO V — Do contencioso do contrato
 
-###### Base XXXV — Arbitragem
+Base XXXV
+
+Arbitragem
 
 Os litígios derivados do contrato de concessão poderão ser resolvidos mediante a celebração de convenções de arbitragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/206a00/47664772.pdf))](https://files.diariodarepublica.pt/1s/1991/09/206a00/47664772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/206a00/47664772.pdf)

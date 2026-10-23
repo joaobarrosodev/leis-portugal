@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/1992/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1992-516875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d9b10517614945f30aefb1086d34818cf8754b8afe312c3f1dfe4141cf3fdf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fe582df183bae73e7e5773c5550f240305cb9ca0c21d3f6918feaa08437c2a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Comissão de Explosivos
 - Extinção de Serviços
 - Fundo de Substancias Explosivas
 - Inspecção de Explosivos
 - Orgânica
+- PSP
 - Quadro de Pessoal
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -84,16 +84,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:172165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689451:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:39Z'
   warnings: []
   errors: []
 ---
@@ -174,12 +210,12 @@ d) O artigo 20.º do [Decreto-Lei n.º 55/87](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

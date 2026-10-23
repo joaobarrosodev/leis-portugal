@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/1992/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1992-288223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdec503470ba37b2980377f8ca61d8a4b4614b66e34089bff5805e5d9c53f22d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f8c31704a15496370958088904ab78ac9738eb517ae8d65869ee070c4ab1004
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Carris
 - Comissão Administrativa
 - Conselho de Administração
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:15Z'
   warnings: []
   errors: []
 ---
@@ -104,24 +112,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A comissão administrativa da Companhia Carris de Ferro de Lisboa, S. A. (CCFL), é substituída por um conselho de administração.
+Artigo 1.º A comissão administrativa da Companhia Carris de Ferro de Lisboa, S. A. (CCFL), é substituída por um conselho de administração.
 
-###### Art. 2.º Será convocada a assembleia geral para, em conformidade com o disposto no presente diploma, proceder às alterações dos estatutos da CCFL e à eleição do conselho de administração.
+Art. 2.º Será convocada a assembleia geral para, em conformidade com o disposto no presente diploma, proceder às alterações dos estatutos da CCFL e à eleição do conselho de administração.
 
-###### Art. 3.º Os membros da comissão administrativa da CCFL mantêm-se em funções, com as competências que lhes estão cometidas, até à eleição dos membros do conselho de administração.
+Art. 3.º Os membros da comissão administrativa da CCFL mantêm-se em funções, com as competências que lhes estão cometidas, até à eleição dos membros do conselho de administração.
 
-###### Art. 4.º A alteração aos estatutos efectuada nos termos do artigo 2.º produz efeitos imediatos relativamente a terceiros, independentemente do registo, o qual, no entanto, deverá ser requerido nos 90 dias seguintes à data da sua aprovação pela assembleia geral.
+Art. 4.º A alteração aos estatutos efectuada nos termos do artigo 2.º produz efeitos imediatos relativamente a terceiros, independentemente do registo, o qual, no entanto, deverá ser requerido nos 90 dias seguintes à data da sua aprovação pela assembleia geral.
 
-###### Art. 5.º É revogado o artigo 4.º do [Decreto-Lei n.º 346/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1975-336743), de 3 de Julho.
+Art. 5.º É revogado o artigo 4.º do [Decreto-Lei n.º 346/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1975-336743), de 3 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 7 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Junho de 1992.**
+Promulgado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1992.**
+Referendado em 15 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

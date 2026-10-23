@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/182a00/37663770.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/1992/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1992-283925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c99c96df44fb5f0a75e42b7b7b81e4fee516b1a0afa47f5729fefae972c9f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32a666b148475e40e0b56a1b0a761ad7e889e5e90301bf8ca63b0002332fc3c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Publicidade
 - CEE
 - Etiquetagem
+- Produto Alimentar
 - Proteção do Consumidor
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:654933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621542:por
+  label: "Alterados os art.s 3º e 8º bem como a lista de géneros alimentícios publicada em anexo, pelo DEC LEI.273/94.1994.10.28.MA,\
+    \ DR.IS-A [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1994-621542
+  date: '1994-10-28'
+- type: amended_by
+  target: pt:dre:164052:por
+  label: "Aditados os nºs 5 e 6 ao art. 3º pelo DEC LEI.159/97.1997.06.24.MADRP DR.IS-A [143], na redacção dada pelo Dec Lei\
+    \ 273/94 de 28-Out\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1997-164052
+  date: '1997-06-24'
 - type: cites
   target: celex:31979L0112
   label: null
@@ -104,16 +116,26 @@ relationships:
   target: celex:31991L0238
   label: null
   source: http://data.europa.eu/eli/dir/1991/238/oj
+- type: corrected_by
+  target: pt:dre:340978:por
+  label: "Rectificado pela DECL-RECT.173/92.26.10.1992.SG-PCM, DR.IS-A [252]2ºSupl de 31.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/173-1992-340978
+  date: '1992-10-26'
+- type: repealed_by
+  target: pt:dre:654933:por
+  label: "Revogado pelo DEC LEI.560/99.1999.12.18.MADRP DR.IS-A [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/560-1999-654933
+  date: '1999-12-18'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:05Z'
   warnings: []
   errors: []
 ---
@@ -356,15 +378,15 @@ O presente diploma, salvo o disposto no artigo 11.º, entra em vigor seis meses 
 
 Visto e aprovado em Conselho de Ministros, de 23 de Abril de 1992. - Aníbal António Cavaco Silva - Luís António Damásio Capoulas - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Géneros alimentícios em que é dispensada a indicação da data
 

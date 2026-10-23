@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/256a00/56845688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/433/1991/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1991-331590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b38c72f49b49b0ade32417a832d700ba47a121543ee9ed0531c6dc8be4e2f005
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66c6e8455b4bbd90c84b7b9a6c6293a4e787a29df1f6aa3b43e02528008dad2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,62 @@ relationships:
   target: pt:dre:391198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:290633:por
+  label: "Alterados os arts. 3º, 5º, 7º, 12º, 17º e revogados os arts. 4º, 15º e 16º, pelo DEC LEI.175/94.1994.06.27.MF, DR.IS-A\
+    \ [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-1994-290633
+  date: '1994-06-27'
+- type: amended_by
+  target: pt:dre:425287:por
+  label: "Alterados os arts. 6º, 7º, 8º, 12º e 13º, pelo DEC LEI.230/98.1998.07.22.MF DR.IS-A [167]ç\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-1998-425287
+  date: '1998-07-22'
+- type: cites
+  target: pt:dre:194389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615462:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:491882:por
+  label: "Rectificado pela DECL-RECT.254/91.14.11.1991.SG-PCM, DR.IS-A [276]2ºSupl de 30.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/254-1991-491882
+  date: '1991-11-14'
+- type: repealed_by
+  target: pt:dre:391198:por
+  label: "Revogado, na redacção dos Decretos-Leis n.ºs 175/94, de 27 de Junho, e 230/98, de 22 de Julho, pelo DEC LEI.319/2002.28.12.2002.MECO,\
+    \ DR.IS-A [300] de 28.12.2002\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-2002-391198
+  date: '2002-12-28'
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:36Z'
   warnings: []
   errors: []
 ---
@@ -319,12 +365,12 @@ São revogados os Decretos-Leis n.os [17/86](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 24 de Outubro de 1991.**
+Promulgado em 24 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Outubro de 1991.**
+Referendado em 26 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19134-1962-516266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0a320fe62b6a3ffbad1aba187e649f5715e0a2573da08a43ebe717345a11d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e55648336be4c41febd775b0d90b05c81bb579fd8302c210a264ff2d665e0726
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171366:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:50Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ Nos termos do artigo 5.º do [Decreto-Lei n.º 43756](https://diariodarepublica.
 
 Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, sob proposta do Conselho Técnico de Leprologia, aprovar o seguinte regulamento interno do mesmo Conselho:
 
-###### Artigo 1.º Compete ao presidente do Conselho Técnico:
+Artigo 1.º Compete ao presidente do Conselho Técnico:
 
 a) Orientar os trabalhos do Conselho;
 
@@ -106,7 +110,7 @@ g) Submeter a despacho do Ministro da Saúde e Assistência todos os processos q
 
 § 2.º Nas suas faltas e impedimentos, o presidente do Conselho Técnico será substituído pelo director do Instituto.
 
-###### Art. 2.º Ao secretário do Conselho compete:
+Art. 2.º Ao secretário do Conselho compete:
 
 a) Redigir, submeter a aprovação e proceder ao lançamento das actas no livro próprio;
 
@@ -114,7 +118,7 @@ b) Dirigir o serviço de expediente do Conselho.
 
 § único. O serviço de expediente será efectuado pelo pessoal administrativo do Instituto de Assistência aos Leprosos que para tal efeito for designado pelo respectivo director.
 
-###### Art. 3.º Os processos destinados à apreciação do Conselho devem:
+Art. 3.º Os processos destinados à apreciação do Conselho devem:
 
 1.º Ser constituídos apenas por elementos respeitantes a assuntos técnicos e administrativos;
 
@@ -126,14 +130,14 @@ b) Dirigir o serviço de expediente do Conselho.
 
 em regra, superior a 30 dias, findo o qual o processo será devolvido se a solicitação não for satisfeita.
 
-###### Art. 4.º Os processos recebidos serão apresentados na primeira sessão do Conselho para distribuição.
+Art. 4.º Os processos recebidos serão apresentados na primeira sessão do Conselho para distribuição.
 
-###### Art. 5.º O vogal relator elaborará um projecto de parecer, devidamente fundamentado, no prazo de 30 dias, salvo se, pela natureza do assunto ou outras circunstâncias, for fixado prazo diferente.
+Art. 5.º O vogal relator elaborará um projecto de parecer, devidamente fundamentado, no prazo de 30 dias, salvo se, pela natureza do assunto ou outras circunstâncias, for fixado prazo diferente.
 
 § único. Para conveniente desempenho da sua função, poderá o relator solicitar quaisquer elementos ou informações a outros serviços públicos ou entidades de qualquer natureza, bem como encarregar a secretaria da execução de quaisquer trabalhos subsidiários que se revelem indispensáveis.
 
-###### Art. 6.º Os assuntos submetidos à apreciação do Conselho serão resolvidos por maioria de votos dos membros presentes à respectiva reunião, incluindo o presidente, que terá voto de qualidade no caso de empate.
+Art. 6.º Os assuntos submetidos à apreciação do Conselho serão resolvidos por maioria de votos dos membros presentes à respectiva reunião, incluindo o presidente, que terá voto de qualidade no caso de empate.
 
-###### Art. 7.º Compete ao Ministro da Saúde e Assistência, ouvido o Conselho, estabelecer por despacho as instruções complementares que sejam julgadas necessárias ao bom funcionamento daquele e resolver as dúvidas suscitadas na execução do presente regulamento ou das referidas instruções.
+Art. 7.º Compete ao Ministro da Saúde e Assistência, ouvido o Conselho, estabelecer por despacho as instruções complementares que sejam julgadas necessárias ao bom funcionamento daquele e resolver as dúvidas suscitadas na execução do presente regulamento ou das referidas instruções.
 
 Ministério da Saúde e Assistência, 16 de Abril de 1962. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

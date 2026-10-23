@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/344/1991/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1991-301457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f34b5c40d45ee8d551e21b4f15ed32e96fed5a6476e9b0207776baddea74c902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 578cd391c33fdad68da75c7c3a5bb3a62e7c8a40cd1dd8835b01c6b3e3cacdfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,197 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Comunidades Europeias
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Quadro de Pessoal
-- Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:638533:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178522:por
+  label: "Alterado o quadro de pessoal pela PORT.181/92.16.03.1992.MF, DR.IS-B [63] de 16.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-1992-178522
+  date: '1992-03-16'
+- type: amended_by
+  target: pt:dre:259691:por
+  label: "Alterado o quadro de pessoal, constante do mapa anexo I, pelo DN.203/94.1994.03.11.MF, DR.IS-B [76] de 31/Mar/1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/203-1994-259691
+  date: '1994-03-11'
+- type: amended_by
+  target: pt:dre:290985:por
+  label: "Alterado o quadro de pessoal, pelo DN.472/94.1994.05.26.MF, DR.IS-B [154] de 06/Jul/1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/472-1994-290985
+  date: '1994-05-26'
+- type: amended_by
+  target: pt:dre:291435:por
+  label: "Alterado o quadro de pessoal, pelo DN.467/94.1994.05.26.MF, DR.IS-B [152] de 04/Jul/1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/467-1994-291435
+  date: '1994-05-26'
+- type: amended_by
+  target: pt:dre:225457:por
+  label: "Alterado o quadro de pessoal constante do quadro anexo I, pelo DN.592/94.1994.07.08.MF, DR.IS-B [186] de 12/Ago/1994\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/592-1994-225457
+  date: '1994-07-08'
+- type: amended_by
+  target: pt:dre:619774:por
+  label: "Alterado o quadro de pessoal, pela PORT.902/94.1994.10.10.MF, DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-1994-619774
+  date: '1994-10-10'
+- type: amended_by
+  target: pt:dre:223383:por
+  label: "Altera o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.360/95.1995.04.26.MF, DR.IS-B\
+    \ [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-1995-223383
+  date: '1995-04-26'
+- type: amended_by
+  target: pt:dre:475568:por
+  label: "Alterado o quadro de pessoal, pela PORT.635/95.1995.06.22.MF, DR.IS-B [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-1995-475568
+  date: '1995-06-22'
+- type: amended_by
+  target: pt:dre:664116:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.1205/95.1995.10.04.MF, DR.IS-B\
+    \ [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1205-1995-664116
+  date: '1995-10-04'
+- type: amended_by
+  target: pt:dre:663344:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.1230/95.1995.10.11.MF, DR.IS-B\
+    \ [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1230-1995-663344
+  date: '1995-10-11'
+- type: amended_by
+  target: pt:dre:1641193:por
+  label: "Alterado o quadro de pessoal, pela PORT.124/96IIS.1996.07.22.PCM, DR.IIS [191] de 19/Ago/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/124-1996-1641193
+  date: '1996-07-22'
+- type: amended_by
+  target: pt:dre:232875:por
+  label: "Alterado o quadro de pessoal, pela PORT.545/96.1996.10.07.PCM, DR.IS-B [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/545-1996-232875
+  date: '1996-10-07'
+- type: amended_by
+  target: pt:dre:232969:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.554/96.1996.10.08.PCM, DR.IS-B\
+    \ [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1996-232969
+  date: '1996-10-08'
+- type: amended_by
+  target: pt:dre:232970:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.555/96.1996.10.08.PCM, DR.IS-B\
+    \ [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/555-1996-232970
+  date: '1996-10-08'
+- type: amended_by
+  target: pt:dre:233075:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.553/96.1996.10.08.PCM, DR.IS-B\
+    \ [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1996-233075
+  date: '1996-10-08'
+- type: amended_by
+  target: pt:dre:233097:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, pela PORT.556/96.1996.10.09.PCM, DR.IS-B\
+    \ [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/556-1996-233097
+  date: '1996-10-09'
+- type: amended_by
+  target: pt:dre:233098:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, constante do anexo I ao presente diploma,\
+    \ pela PORT.557/96.1996.10.09.PCM, DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/557-1996-233098
+  date: '1996-10-09'
+- type: amended_by
+  target: pt:dre:233099:por
+  label: "Alterado o quadro de pessoal da Direcção Geral dos Assuntos Comunitários, constante do anexo I ao presente diploma,\
+    \ pela PORT.558/96.1996.10.09.PCM, DR.IS-B [234]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/558-1996-233099
+  date: '1996-10-09'
+- type: amended_by
+  target: pt:dre:302086:por
+  label: "Alterado o quadro de pessoal pela PORT.30/97.1997.01.09.PCM, MNE E MF DR.IS-B [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/30-1997-302086
+  date: '1997-01-09'
+- type: amended_by
+  target: pt:dre:3025506:por
+  label: "Alterado o quadro de pessoal pela PORT.391/97(2ªSÉRIE).1997.06.19.PCM, MNE e MF DR.IIS [155] de 08/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1997-3025506
+  date: '1997-06-19'
+- type: amended_by
+  target: pt:dre:2743677:por
+  label: "Alterado o quadro de pessoal pela PORT.1053/97(2ªSÉRIE).1997.12.03.PCM, MNE E MF DR.IIS [295] DE 23/DEZ/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1053-1997-2743677
+  date: '1997-12-03'
+- type: amended_by
+  target: pt:dre:2743694:por
+  label: "Alterado o quadro de pessoal pela PORT.1055/97(2ªSÉRIE).1997.12.03.PCM, MNE, MF DR.IIS [295] de 1997.12.23\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1055-1997-2743694
+  date: '1997-12-03'
+- type: amended_by
+  target: pt:dre:2743695:por
+  label: "Alterado o quadro de pessoal pela PORT.1054/97(2ªSÉRIE).1997.12.03.PCM, MNE, MF, DR.IIS [295] de 1997.12.237\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1054-1997-2743695
+  date: '1997-12-03'
+- type: amended_by
+  target: pt:dre:2199882:por
+  label: "Alterado o quadro de pessoal pela PORT.130/99(2ªSérie).1999.01.22.PCM DR.IIS [36] DE 12/Fev/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-1999-2199882
+  date: '1999-01-22'
+- type: amended_by
+  target: pt:dre:667134:por
+  label: "Alterados os arts. 3º, 13º e 14º e aditados os arts. 12º-A e 13º-A e alterado o Quadro de Pessoal pelo DEC LEI.408/99.1999.10.15.MNE,\
+    \ DR.IS-A [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1999-667134
+  date: '1999-10-15'
+- type: amended_by
+  target: pt:dre:638533:por
+  label: "Determinado que a Direcção-Geral dos Assuntos Europeus, suceda nas atribuições à Direcção-Geral dos Assuntos Comunitários\
+    \ (cuja denominação é alterada para Direcção-Geral dos Assuntos Europeus com feitos a 01.01.2007), cuja orgânica consta\
+    \ do presente diploma, agora revogado, pelo DEC LEI.207/2007.29.05.2007.MNE, DR.IS [103] de 29.05.2007, nos termos do\
+    \ seu artigo 17.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2007-638533
+  date: '2007-05-29'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:42Z'
   warnings: []
   errors: []
 ---
@@ -611,23 +784,23 @@ São revogados os Decretos-Leis n.os [526/85](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1991. - Joaquim Fernando Nogueira - José Manuel Alves Elias da Costa - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 QUADRO ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf))](https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf)
 
 QUADRO ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf))](https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/214a00/49004908.pdf)
 
 ## ANEXO III — Conteúdo funcional de técnico auxiliar
 

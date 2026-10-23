@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1992, 1º Suplemento, Série I-A de 1992-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2648-(2) a 2648-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1992-410282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 407f8b8d9bb89e449037bde89bc7d711328e5dafd5c955e3fc18dc1a191b7f4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bd53d35eacd403f403400bb21a618724fb80579836acf3a15455715a6ba0ff7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,89 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arquivo Nacional da Torre do Tombo
+- Biblioteca Nacional
 - Cinemateca Nacional
 - Comissão de Classificação de Espectáculos
 - Comissão Nacional da Língua Portuguesa
 - Direcção Geral da Acção Cultural
 - Direcção Geral dos Espectáculos e do Direito de Autor
+- Direcção Geral dos Serviços Centrais
 - Extinção de Serviços
-- Secretaria de Estado da Cultura
+- Gabinete de Organização e Pessoal
 - Gabinete de Planeamento
-- Biblioteca Nacional
 - Instituto Português de Arquivos
 - Instituto Português do Livro e da Leitura
 - Instituto Português do Património Cultural
-- Direcção Geral dos Serviços Centrais
 - Presidência do Conselho de Ministros
-- Gabinete de Organização e Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:469652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662933:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469652:por
+  label: "Revogado pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:29Z'
   warnings: []
   errors: []
 ---
@@ -228,12 +281,12 @@ O disposto na alínea h) do artigo 1.º produz efeitos na data que for fixada pa
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Manuel de Carvalho Fernandes Thomaz - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

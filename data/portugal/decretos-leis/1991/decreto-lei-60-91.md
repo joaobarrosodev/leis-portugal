@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/1991/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1991-508980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e40d00f0c426b64e7b321e5cf85ed1bb807d9d621f721322417540a0c172e32d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7175f9f7ffc648d0898c35331b1cc33104045283e015b57277871651b35775d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - CAÇA
-- Proteção do Ambiente
 - Comércio
+- Proteção do Ambiente
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:598312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:23Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +110,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 9.º, 16.º, 17.º, 18.º, 20.º, 22.º, 24.º, 26.º, 42.º, 52.º, 55.º, 69.º, 72.º, 76.º, 79.º, 84.º, 85.º, 86.º, 87.º, 88.º, 90.º, 91.º, 93.º e 123.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 9.º, 16.º, 17.º, 18.º, 20.º, 22.º, 24.º, 26.º, 42.º, 52.º, 55.º, 69.º, 72.º, 76.º, 79.º, 84.º, 85.º, 86.º, 87.º, 88.º, 90.º, 91.º, 93.º e 123.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -112,13 +120,13 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/86](https:
 
 4 - ...
 
-###### Art. 9.º - 1 - A concessão de carta de caçador fica dependente da prévia aprovação em exame a realizar pelo candidato perante um júri composto por representantes da Direcção-Geral das Florestas e por representantes das associações de caçadores designados pelas respectivas federações regionais ou pela Confederação Nacional dos Caçadores Portugueses.
+Art. 9.º - 1 - A concessão de carta de caçador fica dependente da prévia aprovação em exame a realizar pelo candidato perante um júri composto por representantes da Direcção-Geral das Florestas e por representantes das associações de caçadores designados pelas respectivas federações regionais ou pela Confederação Nacional dos Caçadores Portugueses.
 
 2 - ...
 
 3 - ...
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - ...
 
@@ -140,11 +148,11 @@ c) Licença para a caça aos patos;
 
 d) Licença de caça com arco ou besta
 
-###### Art. 17.º - 1 - A licença nacional de caça e a licença de caça para não residentes autorizam o acto venatório em todo o território nacional.
+Art. 17.º - 1 - A licença nacional de caça e a licença de caça para não residentes autorizam o acto venatório em todo o território nacional.
 
 2 - ...
 
-###### Art. 18.º - 1 - O exercício de caça às espécies de caça maior e aos patos e a caça de batida às perdizes só são permitidos a quem, sendo titular de licença geral válida para a correspondente área, seja também titular da licença especial respectiva.
+Art. 18.º - 1 - O exercício de caça às espécies de caça maior e aos patos e a caça de batida às perdizes só são permitidos a quem, sendo titular de licença geral válida para a correspondente área, seja também titular da licença especial respectiva.
 
 2 - ...
 
@@ -154,11 +162,11 @@ d) Licença de caça com arco ou besta
 
 5 - ...
 
-###### Art. 20.º - 1 - A licença de caça para não residentes no território nacional permite o exercício da caça àqueles que estão dispensados da carta de caçador.
+Art. 20.º - 1 - A licença de caça para não residentes no território nacional permite o exercício da caça àqueles que estão dispensados da carta de caçador.
 
 2 - ...
 
-###### Art. 22.º - 1 - ...
+Art. 22.º - 1 - ...
 
 2 - ...
 
@@ -168,13 +176,13 @@ d) Licença de caça com arco ou besta
 
 5 - ...
 
-###### Art. 24.º - 1 - Os caçadores podem ser ajudados por auxiliares designados «mochileiros», com a função de transportar equipamentos, mantimentos, munições ou caça abatida.
+Art. 24.º - 1 - Os caçadores podem ser ajudados por auxiliares designados «mochileiros», com a função de transportar equipamentos, mantimentos, munições ou caça abatida.
 
 2 - ...
 
 3 - ...
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 2 - Na prática venatória às espécies de caça menor, com excepção do processo de caça de batida, cada caçador pode utilizar até dois cães, sem prejuízo do seguinte:
 
@@ -196,7 +204,7 @@ c) ...
 
 8 - ...
 
-###### Art. 42.º - 1 - ...
+Art. 42.º - 1 - ...
 
 2 - Nos terrenos do regime cinegético geral a caça de salto à raposa e saca-rabos só é permitida nos meses de Outubro a Dezembro.
 
@@ -206,17 +214,17 @@ c) ...
 
 5 - É permitida a caça à raposa com arco ou com besta nas condições definidas para as espécies de caça maior.
 
-###### Art. 52.º - 1 - A caça aos tordos pode ser permitida nos meses de Outubro a Fevereiro, inclusive, sem prejuízo do disposto no número seguinte.
+Art. 52.º - 1 - A caça aos tordos pode ser permitida nos meses de Outubro a Fevereiro, inclusive, sem prejuízo do disposto no número seguinte.
 
 2 - Nos terrenos do regime cinegético geral, nos meses de Janeiro e Fevereiro, a caça aos tordos só é permitida nos locais e demais condições fixados em edital da Direcção-Geral das Florestas.
 
-###### Art. 55.º A caça à gralha preta, à pega-rabuda, ao gaio e estorninhos pode ser permitida nas condições definidas na portaria referida no artigo 37.º do presente diploma.
+Art. 55.º A caça à gralha preta, à pega-rabuda, ao gaio e estorninhos pode ser permitida nas condições definidas na portaria referida no artigo 37.º do presente diploma.
 
-###### Art. 69.º - 1 - O processo administrativo tendente a constituição de zonas de caça de regime cinegético especial é fixado por portaria do Ministro da Agricultura, Pescas e Alimentação, da qual constarão, designadamente, os prazos de entrega dos pedidos de concessão, os requisitos a que o mesmo deve obedecer e os prazos de decisão.
+Art. 69.º - 1 - O processo administrativo tendente a constituição de zonas de caça de regime cinegético especial é fixado por portaria do Ministro da Agricultura, Pescas e Alimentação, da qual constarão, designadamente, os prazos de entrega dos pedidos de concessão, os requisitos a que o mesmo deve obedecer e os prazos de decisão.
 
 2 - A portaria referida no número anterior pode estabelecer a possibilidade de a Direcção-Geral das Florestas, a solicitação dos interessados na constituição de uma zona de caça do regime cinegético especial, determinar a proibição temporária do exercício de caça nos terrenos por esta abrangidos em momento anterior à sua efectiva constituição.
 
-###### Art. 72.º ...
+Art. 72.º ...
 
 ...
 
@@ -224,7 +232,7 @@ e) As fotocópias das licenças de caça exigidas pelo artigo 79.º-A;
 
 f) Outros elementos que sejam, expressa e justificadamente, solicitados pela Direcção-Geral das Florestas.
 
-###### Art. 76.º - 1 - ...
+Art. 76.º - 1 - ...
 
 2 - ...
 
@@ -234,7 +242,7 @@ f) Outros elementos que sejam, expressa e justificadamente, solicitados pela Dir
 
 5 - Sem prejuízo do disposto no número anterior, pode a Direcção-Geral das Florestas autorizar que zonas de regime cinegético especial confinantes ou próximas organizem em conjunto a fiscalização, ficando, neste caso, os respectivos guardas habilitados a exercer as suas competências em qualquer das áreas por elas abrangidas.
 
-###### Art. 79.º - 1 - ...
+Art. 79.º - 1 - ...
 
 2 - As ZCA só podem ser concedidas a associações de caçadores que tenham um mínimo de 20 associados.
 
@@ -246,11 +254,11 @@ f) Outros elementos que sejam, expressa e justificadamente, solicitados pela Dir
 
 6 - Quando a área cinegética do município já esteja abrangida em 50%, ou mais, por zonas de caça do regime cinegético especial, só se podem constituir mais ZCA desde que pelo menos metade dos membros das associações de caçadores requerentes seja natural ou residente na freguesia em causa, salvo quando, por razões atendíveis, tal não seja possível, caso em que a naturalidade e residência se reportará ao respectivo município.
 
-###### Art. 84.º - 1 - A Direcção-Geral das Florestas pode constituir ou autorizar a instalação de campos de treino, destinados à prática de actividades de carácter venatório durante todo o ano, nomeadamente exercício de tiro com arma de caça, arco, besta, cetraria e treino de cães de caça e para a realização de corridas de lebres.
+Art. 84.º - 1 - A Direcção-Geral das Florestas pode constituir ou autorizar a instalação de campos de treino, destinados à prática de actividades de carácter venatório durante todo o ano, nomeadamente exercício de tiro com arma de caça, arco, besta, cetraria e treino de cães de caça e para a realização de corridas de lebres.
 
 2 - ...
 
-###### Art. 85.º - 1 - É proibida a detenção, o transporte, o comércio e a exposição de exemplares mortos de espécies cinegéticas não marcadas, excepto, tratando-se de exemplares mortos em actividades cinegéticas, durante os respectivos períodos de caça e nos cinco dias seguintes.
+Art. 85.º - 1 - É proibida a detenção, o transporte, o comércio e a exposição de exemplares mortos de espécies cinegéticas não marcadas, excepto, tratando-se de exemplares mortos em actividades cinegéticas, durante os respectivos períodos de caça e nos cinco dias seguintes.
 
 2 - É proibida a venda, o transporte para venda, a detenção para venda e ainda o acto de pôr à venda exemplares mortos de espécies cinegéticas, bem como de qualquer parte ou produto obtido a partir dos mesmos e como tal facilmente identificáveis, excepto:
 
@@ -258,17 +266,17 @@ a) Tratando-se de espécies cinegéticas constantes de portaria do Ministro da A
 
 b) Tratando-se de exemplares criados em cativeiro nos termos definidos no presente diploma e sua regulamentação.
 
-###### Art. 86.º - 1 - A detenção e o comércio de exemplares naturalizados, peles, troféus ou partes identificadas de espécies cinegéticas são regulados por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 86.º - 1 - A detenção e o comércio de exemplares naturalizados, peles, troféus ou partes identificadas de espécies cinegéticas são regulados por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 2 - A Direcção-Geral das Florestas deve organizar e manter um cadastro nacional de troféus de caça.
 
 3 - Para efeitos de classificação de troféus de caça maior o Ministro da Agricultura, Pescas e Alimentação nomeará uma comissão nacional de homologação de troféus, presidida pela Direcção-Geral das Florestas.
 
-###### Art. 87.º - 1 - A detenção, comércio e transporte de exemplares vivos de espécies cinegéticas só são permitidos quando autorizados pela Direcção-Geral das Florestas.
+Art. 87.º - 1 - A detenção, comércio e transporte de exemplares vivos de espécies cinegéticas só são permitidos quando autorizados pela Direcção-Geral das Florestas.
 
 2 - É proibida a venda, o transporte para venda, a detenção para venda e ainda o acto de pôr à venda exemplares vivos de espécies cinegéticas que não constem da portaria referida no n.º 2 do artigo 85.º, excepto quando se trate de exemplares criados em cativeiro.
 
-###### Art. 88.º - 1 - Depende de autorização da Direcção-Geral das Florestas e da Direcção-Geral da Pecuária, quanto aos aspectos hígio-sanitários, a importação e a exportação de exemplares vivos ou mortos de espécies cinegéticas, sem prejuízo do disposto nos números seguintes.
+Art. 88.º - 1 - Depende de autorização da Direcção-Geral das Florestas e da Direcção-Geral da Pecuária, quanto aos aspectos hígio-sanitários, a importação e a exportação de exemplares vivos ou mortos de espécies cinegéticas, sem prejuízo do disposto nos números seguintes.
 
 2 - Não carece da autorização da Direcção-Geral das Florestas prevista no número anterior:
 
@@ -278,7 +286,7 @@ b) A importação de exemplares mortos de espécies cinegéticas desde que trans
 
 3 - A importação de exemplares vivos de espécies cinegéticas não indígenas depende de autorização dada pela Direcção-Geral das Florestas, sob parecer favorável do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Art. 90.º - 1 - As espécies cinegéticas podem ser objecto de acções de correcção quando tal seja necessária para prevenir ou minimizar a ocorrência de danos na fauna, na flora, nas pescas, nas florestas, na agricultura e pecuária ou ainda para a protecção da saúde e segurança pública.
+Art. 90.º - 1 - As espécies cinegéticas podem ser objecto de acções de correcção quando tal seja necessária para prevenir ou minimizar a ocorrência de danos na fauna, na flora, nas pescas, nas florestas, na agricultura e pecuária ou ainda para a protecção da saúde e segurança pública.
 
 2 - As acções de correcção são efectuadas pela Direcção-Geral das Florestas ou pelos interessados por ela devidamente licenciados.
 
@@ -288,7 +296,7 @@ b) A importação de exemplares mortos de espécies cinegéticas desde que trans
 
 5 - As acções de correcção previstas nos números anteriores serão reguladas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 91.º - 1 - As espécies não cinegéticas podem ser objecto de acções de correcção quando tal se revele necessário para a protecção da fauna ou para evitar danos importantes às culturas, ao gado, às florestas ou às pescas.
+Art. 91.º - 1 - As espécies não cinegéticas podem ser objecto de acções de correcção quando tal se revele necessário para a protecção da fauna ou para evitar danos importantes às culturas, ao gado, às florestas ou às pescas.
 
 2 - As acções de correcção são efectuadas pela Direcção-Geral das Florestas após parecer favorável do Serviço Nacional de Parques, Reservas e Conservação da Natureza, a emitir no prazo de 20 dias após a sua solicitação.
 
@@ -296,7 +304,7 @@ b) A importação de exemplares mortos de espécies cinegéticas desde que trans
 
 4 - O disposto nos números anteriores não prejudica as competências próprias do Serviço Nacional de Parques, Reservas e Conservação da Natureza.
 
-###### Art. 93.º - 1 - ...
+Art. 93.º - 1 - ...
 
 2 - ...
 
@@ -312,30 +320,30 @@ b) Em conjunto pela Direcção-Geral das Florestas e Serviço Nacional de Parque
 
 6 - Os processos a observar para a concessão das indemnizações previstas nos n.os 3 e 4 são regulados, respectivamente, por portaria do Ministro da Agricultura, Pescas e Alimentação e por portaria dos Ministros da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais.
 
-###### Art. 123.º - 1 - As associações de caçadores, sociedades de caça ou clubes de caçadores, adiante designados por associações de caçadores, com a competência prevista na [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, tem âmbito municipal, podendo federar-se e confederar-se a nível regional e nacional, respectivamente, nos termos da lei geral, sem prejuízo do disposto no número seguinte.
+Art. 123.º - 1 - As associações de caçadores, sociedades de caça ou clubes de caçadores, adiante designados por associações de caçadores, com a competência prevista na [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, tem âmbito municipal, podendo federar-se e confederar-se a nível regional e nacional, respectivamente, nos termos da lei geral, sem prejuízo do disposto no número seguinte.
 
 2 - ...
 
-###### Art. 2.º É introduzido o artigo 79.º-A, com a seguinte redacção:
+Art. 2.º É introduzido o artigo 79.º-A, com a seguinte redacção:
 
-###### Art. 79.º-A. Os membros das associações de caçadores que requererem a concessão de uma ZCA têm obrigatoriamente de, no momento da apresentação do respectivo pedido e durante o período da concessão, ser titulares de licença geral de caça e das licenças especiais relativas ao tipo de caça previsto no plano de exploração apresentado.
+Art. 79.º-A. Os membros das associações de caçadores que requererem a concessão de uma ZCA têm obrigatoriamente de, no momento da apresentação do respectivo pedido e durante o período da concessão, ser titulares de licença geral de caça e das licenças especiais relativas ao tipo de caça previsto no plano de exploração apresentado.
 
-###### Art. 3.º A epígrafe do capítulo IV passa a ter a seguinte redacção:
+Art. 3.º A epígrafe do capítulo IV passa a ter a seguinte redacção:
 
 ### CAPÍTULO IV — Criação de espécies cinegéticas em cativeiro
 
-###### Art. 4.º - 1 - São revogados os artigos 68.º e 92.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+Art. 4.º - 1 - São revogados os artigos 68.º e 92.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
 
 2 - É revogada a lista II anexa ao [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1990. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Nunes Ferreira Real.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

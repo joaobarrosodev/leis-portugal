@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19036-1962-518993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87dbcf6218650b7465b61cbffaa02429a4fd96c3a63c897bd1dd7aa52c2db756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3408c377b1f9c50f26710545b7cd4061220560d161e2280d6177db66f3947cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EPSM
+- Exército
 relationships:
 - type: amended_by
   target: pt:dre:238813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:558432:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:238813:por
+  label: "Revogado o artigo 31.º do Regulamento pelo DEC LEI.46195.20.02.1965.MX, DG.IS [43] de 20.02.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46195-1965-238813
+  date: '1965-02-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:44Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +111,13 @@ ESCOLA PRÁTICA DO SERVIÇO DE MATERIAL (EPSM)
 
 ORGANIZAÇÃO (PROVISÓRIA)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/03600/01400146.pdf))](https://files.diariodarepublica.pt/1s/1962/02/03600/01400146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/03600/01400146.pdf)
 
 MAPA N.º 2
 
 Quadro orgânico em tempo de paz (provisório)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/03600/01400146.pdf))](https://files.diariodarepublica.pt/1s/1962/02/03600/01400146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/03600/01400146.pdf)
 
 Notas
 
@@ -120,7 +131,7 @@ Regulamento da Escola Prática do Serviço de Material
 
 ### CAPÍTULO I — Fins e organização da Escola Prática do Serviço de Material
 
-###### Artigo 1.º A Escola Prática do Serviço de Material é o principal centro de instrução do serviço de material e tem por fim:
+Artigo 1.º A Escola Prática do Serviço de Material é o principal centro de instrução do serviço de material e tem por fim:
 
 1.º Ministrar os conhecimentos necessários à preparação e formação de todos os especialistas do serviço de material, com excepção dos que pertencem ao ramo eléctrico, radioeléctrico e electrónico, que continuam a ser preparados e formados na Escola Militar de Electromecânica;
 
@@ -134,9 +145,9 @@ Regulamento da Escola Prática do Serviço de Material
 
 6.º Cooperar na instrução das armas e outros cursos quando for determinado.
 
-###### Art. 2.º A Escola Prática do Serviço de Material depende da Direcção do Serviço de Material e para efeitos de instrução através da Inspecção de Instrução do Serviço de Material.
+Art. 2.º A Escola Prática do Serviço de Material depende da Direcção do Serviço de Material e para efeitos de instrução através da Inspecção de Instrução do Serviço de Material.
 
-###### Art. 3.º Para desempenhar o fim a que é destinada, compreende a Escola Prática do Serviço de Material:
+Art. 3.º Para desempenhar o fim a que é destinada, compreende a Escola Prática do Serviço de Material:
 
 a) O comando, incluindo conselho escolar e secretaria-geral;
 
@@ -146,17 +157,17 @@ c) Os serviços gerais de administração, incluindo conselho administrativo, se
 
 ### CAPÍTULO II — Quadro permanente e suas atribuições
 
-###### Art. 4.º O quadro permanente da Escola Prática do Serviço de Material é o que consta do quadro geral anexo a este regulamento. Os detalhes de organização serão regulados pelo comando em harmonia com os progressos militares, necessidades de instrução e de experiências a realizar.
+Art. 4.º O quadro permanente da Escola Prática do Serviço de Material é o que consta do quadro geral anexo a este regulamento. Os detalhes de organização serão regulados pelo comando em harmonia com os progressos militares, necessidades de instrução e de experiências a realizar.
 
-###### Art. 5.º O comandante da Escola Prática do Serviço de Material é nomeado pelo Ministro do Exército, sob proposta do director do serviço. A nomeação dos restantes oficiais será proposta ao Ministro do Exército pelo mesmo director, precedendo proposta do comando da Escola.
+Art. 5.º O comandante da Escola Prática do Serviço de Material é nomeado pelo Ministro do Exército, sob proposta do director do serviço. A nomeação dos restantes oficiais será proposta ao Ministro do Exército pelo mesmo director, precedendo proposta do comando da Escola.
 
-###### Art. 6.º Os sargentos serão promovidos nos termos do respectivo regulamento ou transferidos das respectivas unidades, mediante proposta do comandante da Escola Prática do Serviço de Material.
+Art. 6.º Os sargentos serão promovidos nos termos do respectivo regulamento ou transferidos das respectivas unidades, mediante proposta do comandante da Escola Prática do Serviço de Material.
 
-###### Art. 7.º As praças da Escola Prática do Serviço de Material constituem um quadro privativo, que será constituído por praças especializadas no serviço de material e de diversas armas ou serviços com as especialidades constantes do quadro orgânico anexo.
+Art. 7.º As praças da Escola Prática do Serviço de Material constituem um quadro privativo, que será constituído por praças especializadas no serviço de material e de diversas armas ou serviços com as especialidades constantes do quadro orgânico anexo.
 
 § único. As praças a transferir das unidades para o quadro da Escola para completo do seu quadro permanente deverão estar classificadas nas 1.ª ou 2.ª classes de comportamento.
 
-###### Art. 8.º O comandante da Escola tem as mesmas atribuições e deveres gerais que os comandantes de regimentos e, bem assim, a competência destes relativamente ao pessoal seu subordinado que por aquele motivo se ache em serviço ou instrução na Escola, cumprindo-lhe especialmente:
+Art. 8.º O comandante da Escola tem as mesmas atribuições e deveres gerais que os comandantes de regimentos e, bem assim, a competência destes relativamente ao pessoal seu subordinado que por aquele motivo se ache em serviço ou instrução na Escola, cumprindo-lhe especialmente:
 
 1.º Dirigir superiormente a instrução e os demais serviços na Escola;
 
@@ -178,7 +189,7 @@ c) Os serviços gerais de administração, incluindo conselho administrativo, se
 
 10.º Remeter anualmente à Inspecção de Instrução do Serviço de Material um relatório sobre a instrução ministrada durante o ano, em que proponha as modificações que dependem de autorização superior e julgue convenientes para o progresso da Escola e o máximo desenvolvimento do ensino.
 
-###### Art. 9.º Cumpre ao 2.º comandante:
+Art. 9.º Cumpre ao 2.º comandante:
 
 1.º Substituir o comandante nos seus impedimentos e coadjuvá-lo em tudo o que disser respeito ao serviço, administração, disciplina e instrução;
 
@@ -190,7 +201,7 @@ c) Os serviços gerais de administração, incluindo conselho administrativo, se
 
 5.º Desempenhar todas as outras funções de serviço, incluindo as de instrução, que lhe sejam superiormente determinadas, acumulando as suas funções com as de director das instruções, quando necessário se torne.
 
-###### Art. 10.º Compete ao director das instruções:
+Art. 10.º Compete ao director das instruções:
 
 1.º Substituir o 2.º comandante em todos os serviços que este tenha a seu cargo e substituí-lo no seu impedimento, acumulando as duas funções quando necessário se torne;
 
@@ -202,7 +213,7 @@ c) Os serviços gerais de administração, incluindo conselho administrativo, se
 
 5.º Entregar anualmente ao comandante o relatório dos trabalhos a seu cargo, acompanhado de propostas que julgar vantajosas para o progresso do ensino.
 
-###### Art. 11.º Compete ao chefe da secretaria da Escola:
+Art. 11.º Compete ao chefe da secretaria da Escola:
 
 1.º Coadjuvar o comandante e 2.º comandante nos diferentes serviços da Escola, executando as ordens que deles receber;
 
@@ -220,7 +231,7 @@ c) Os serviços gerais de administração, incluindo conselho administrativo, se
 
 8.º Fazer parte do pessoal docente das aulas regimentais, competindo-lhe a sua direcção.
 
-###### Art. 12.º Compete ao corpo de instrutores ministrar a instrução dada na Escola, devendo:
+Art. 12.º Compete ao corpo de instrutores ministrar a instrução dada na Escola, devendo:
 
 1.º Instrutores principais:
 
@@ -244,7 +255,7 @@ a) Ministrar as instruções constantes dos respectivos programas-horários de c
 
 b) Tomar parte nos trabalhos de instrução geral para que forem nomeados.
 
-###### Art. 13.º Compete ao médico:
+Art. 13.º Compete ao médico:
 
 1.º Dirigir a enfermaria e desempenhar o serviço das suas especialidades segundo a legislação vigente;
 
@@ -252,21 +263,21 @@ b) Tomar parte nos trabalhos de instrução geral para que forem nomeados.
 
 3.º Ministrar a instrução de higiene e técnica de primeiros socorros ao pessoal instruendo que for necessário.
 
-###### Art. 14.º Compete ao chefe da contabilidade o desempenho das funções da sua especialidade, conforme a legislação vigente, e a direcção e instrução de administração e escrituração militar ao pessoal instruendo que for determinada.
+Art. 14.º Compete ao chefe da contabilidade o desempenho das funções da sua especialidade, conforme a legislação vigente, e a direcção e instrução de administração e escrituração militar ao pessoal instruendo que for determinada.
 
-###### Art. 15.º Compete ao adjunto do chefe de contabilidade, além do desempenho das funções da sua especialidade, conforme a legislação vigente, a instrução sobre o serviço de subsistência em tempo de paz e em campanha ao pessoal instruendo que for determinado.
+Art. 15.º Compete ao adjunto do chefe de contabilidade, além do desempenho das funções da sua especialidade, conforme a legislação vigente, a instrução sobre o serviço de subsistência em tempo de paz e em campanha ao pessoal instruendo que for determinado.
 
-###### Art. 16.º Ao oficial tesoureiro compete, além das suas funções expressas na legislação vigente como oficial de fardamento e material de aquartelamento, ministrar as instruções sobre os serviços de fardamento e a escrituração militar de cargas de material de aquartelamento aos instruendos que lhe forem determinados. Este oficial tem a seu cargo todos os aposentos não distribuídos.
+Art. 16.º Ao oficial tesoureiro compete, além das suas funções expressas na legislação vigente como oficial de fardamento e material de aquartelamento, ministrar as instruções sobre os serviços de fardamento e a escrituração militar de cargas de material de aquartelamento aos instruendos que lhe forem determinados. Este oficial tem a seu cargo todos os aposentos não distribuídos.
 
-###### Art. 17.º Os oficiais encarregados do material de guerra e de instrução têm à sua responsabilidade todo aquele material, responsabilizando-se também pela entrada e saída dos artigos distribuídos e fazendo a escrituração dos registos respectivos sendo chefes dos depósitos de material de guerra e de instrução.
+Art. 17.º Os oficiais encarregados do material de guerra e de instrução têm à sua responsabilidade todo aquele material, responsabilizando-se também pela entrada e saída dos artigos distribuídos e fazendo a escrituração dos registos respectivos sendo chefes dos depósitos de material de guerra e de instrução.
 
 Ministram a instrução inerente ao movimento e carga do material aos instruendos que lhes forem determinados.
 
-###### Art. 18.º Além do que expressamente fica mencionado nos artigos anteriores, todo o pessoal fazendo parte do quadro da Escola desempenhará os serviços que pela legislação em vigor corresponda às suas graduações e especialidades e o que for ordenado pelo comando, de harmonia com as habilitações que tiverem.
+Art. 18.º Além do que expressamente fica mencionado nos artigos anteriores, todo o pessoal fazendo parte do quadro da Escola desempenhará os serviços que pela legislação em vigor corresponda às suas graduações e especialidades e o que for ordenado pelo comando, de harmonia com as habilitações que tiverem.
 
 ### CAPÍTULO III — Instrução
 
-###### Art. 19.º A instrução a ministrar na Escola compreende:
+Art. 19.º A instrução a ministrar na Escola compreende:
 
 1.º A preparação e formação de todos os especialistas do serviço de material, com excepção dos que pertencem ao ramo eléctrico, radioeléctrico e electrónico, que continuam a ser formados na Escola Militar de Electromecânica;
 
@@ -276,53 +287,53 @@ Ministram a instrução inerente ao movimento e carga do material aos instruendo
 
 ### CAPÍTULO IV — Conselho escolar
 
-###### Art. 20.º O conselho escolar é constituído pelo comandante, 2.º comandante, director da instrução, chefe do gabinete de estudos e um oficial da secção de estudos e planeamento, que servirá de secretário sem voto, podendo ser-lhe adstritos como vogais sem voto os instrutores principais ou os oficiais que o comando julgar convenientes.
+Art. 20.º O conselho escolar é constituído pelo comandante, 2.º comandante, director da instrução, chefe do gabinete de estudos e um oficial da secção de estudos e planeamento, que servirá de secretário sem voto, podendo ser-lhe adstritos como vogais sem voto os instrutores principais ou os oficiais que o comando julgar convenientes.
 
 ### CAPÍTULO V — Gabinete de estudos
 
-###### Art. 21.º O gabinete de estudos é o órgão centralizador dos estudos e trabalhos escolares e é chefiado por um capitão do S. M., sob as ordens do director das instruções, em conformidade com as determinações do comando escolar.
+Art. 21.º O gabinete de estudos é o órgão centralizador dos estudos e trabalhos escolares e é chefiado por um capitão do S. M., sob as ordens do director das instruções, em conformidade com as determinações do comando escolar.
 
-###### Art. 22.º Ao gabinete de estudos compete:
+Art. 22.º Ao gabinete de estudos compete:
 
 1.º A execução dos trabalhos materiais necessários à preparação, organização e funcionamento dos vários cursos, como seja: reprodução e distribuição dos planos dos cursos, ordens, relatórios de informação e cursos, etc., preparação de elementos didácticos (desenhos, quadros, croquis, etc.), arquivo de processos relativos a cada curso, registos de relatórios e boletins de informação sobre os instruendos, etc., e arquivo do conselho escolar.
 
 2.º A organização, publicação e distribuição do boletim da Escola, destinado especialmente à divulgação dos trabalhos escolares pelas várias unidades e estabelecimentos do Exército, para se manter o contacto permanente entre a Escola e os oficiais do Exército em geral e do serviço de material em especial.
 
-###### Art. 23.º Além dos registos e livros precisos para satisfazer ao preceituado no artigo anterior haverá mais: registos do pessoal que tenha concorrido à instrução, de que conste a biografia escolar dos instruendos, e livros de actas dos cursos e das provas ou exames.
+Art. 23.º Além dos registos e livros precisos para satisfazer ao preceituado no artigo anterior haverá mais: registos do pessoal que tenha concorrido à instrução, de que conste a biografia escolar dos instruendos, e livros de actas dos cursos e das provas ou exames.
 
-###### Art. 24.º Além dos louvores que nos termos da legislação em vigor o comando poderá conceder ao pessoal seu subordinado, quer no quadro permanente, quer do quadro eventual, haverá ainda a possibilidade de atribuição de prémios a instruendos que durante os cursos revelem excepcionais qualidades de aptidão e conhecimentos, prémios estes que nunca excederão 1000$00 e sòmente um por curso.
+Art. 24.º Além dos louvores que nos termos da legislação em vigor o comando poderá conceder ao pessoal seu subordinado, quer no quadro permanente, quer do quadro eventual, haverá ainda a possibilidade de atribuição de prémios a instruendos que durante os cursos revelem excepcionais qualidades de aptidão e conhecimentos, prémios estes que nunca excederão 1000$00 e sòmente um por curso.
 
-###### Art. 25.º Além dos prémios pecuniários a atribuir serão ainda distribuídos por todos os instruendos, com aptidão, diplomas de aproveitamento dos diferentes cursos que frequentaram.
+Art. 25.º Além dos prémios pecuniários a atribuir serão ainda distribuídos por todos os instruendos, com aptidão, diplomas de aproveitamento dos diferentes cursos que frequentaram.
 
-###### Art. 26.º As verbas para atribuição dos prémios e encargos com diplomas serão suportados pelas verbas dos fundos de instrução do Exército atribuídas à unidade e em conformidade com as disponibilidades do referido fundo.
+Art. 26.º As verbas para atribuição dos prémios e encargos com diplomas serão suportados pelas verbas dos fundos de instrução do Exército atribuídas à unidade e em conformidade com as disponibilidades do referido fundo.
 
 ### CAPÍTULO VI — Secretaria
 
-###### Art. 27.º A secretaria escolar destina-se à execução de todo o serviço de expediente, registos e arquivo, funcionando sob as ordens dos respectivos chefes, que directamente dependem do 2.º comandante da Escola.
+Art. 27.º A secretaria escolar destina-se à execução de todo o serviço de expediente, registos e arquivo, funcionando sob as ordens dos respectivos chefes, que directamente dependem do 2.º comandante da Escola.
 
-###### Art. 28.º A escrituração da secretaria e respectivo arquivo será organizada conforme os preceitos dos regulamentos em vigor, com as modificações exigidas pelos serviços especiais da Escola e em harmonia com as disposições do presente regulamento.
+Art. 28.º A escrituração da secretaria e respectivo arquivo será organizada conforme os preceitos dos regulamentos em vigor, com as modificações exigidas pelos serviços especiais da Escola e em harmonia com as disposições do presente regulamento.
 
 ### CAPÍTULO VII — Conselho administrativo
 
-###### Art. 29.º O conselho administrativo tem as atribuições que na generalidade são inerentes aos conselhos administrativos das unidades e estabelecimentos militares, sendo constituído pelo 2.º comandante (presidente), chefe da contabilidade e tesoureiro, e funcionará em conformidade com a legislação vigente.
+Art. 29.º O conselho administrativo tem as atribuições que na generalidade são inerentes aos conselhos administrativos das unidades e estabelecimentos militares, sendo constituído pelo 2.º comandante (presidente), chefe da contabilidade e tesoureiro, e funcionará em conformidade com a legislação vigente.
 
 ### CAPÍTULO VIII — Alojamento e alimentação
 
-###### Art. 30.º Nos termos do artigo 4.º do [Decreto-Lei n.º 43595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43595-1961-558432), de 13 de Abril de 1961, os oficiais e sargentos da Escola Prática do Serviço de Material terão, quanto a alimentação, gratificações e alojamento, as mesmas regalias consideradas nas disposições em vigor para o pessoal que presta serviço em escolas práticas no desempenho de idênticas funções.
+Art. 30.º Nos termos do artigo 4.º do [Decreto-Lei n.º 43595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43595-1961-558432), de 13 de Abril de 1961, os oficiais e sargentos da Escola Prática do Serviço de Material terão, quanto a alimentação, gratificações e alojamento, as mesmas regalias consideradas nas disposições em vigor para o pessoal que presta serviço em escolas práticas no desempenho de idênticas funções.
 
-###### Art. 31.º Aos oficiais e sargentos ou furriéis do quadro orgânico da Escola Prática do Serviço de Material será fornecido alojamento para si e suas famílias.
+Art. 31.º Aos oficiais e sargentos ou furriéis do quadro orgânico da Escola Prática do Serviço de Material será fornecido alojamento para si e suas famílias.
 
 § único (transitório). Enquanto se verificar a impossibilidade de se observar o disposto no corpo deste artigo é autorizado para os oficiais, sargentos ou furriéis casados o abono a dinheiro da importância correspondente à diferença entre as verbas concedidas para o almoço e as consignadas para alimentação e alojamento do pessoal das mesmas categorias na frequência de cursos, estágios e tirocínios.
 
 ### CAPÍTULO IX
 
-###### Art. 32.º O serviço desempenhado na Escola Prática do Serviço de Material é considerado para todos os efeitos como serviço prestado nas unidades e de comando para o comandante e 2.º comandante da Escola, director da instrução, comandantes das companhias de instruendos e formação.
+Art. 32.º O serviço desempenhado na Escola Prática do Serviço de Material é considerado para todos os efeitos como serviço prestado nas unidades e de comando para o comandante e 2.º comandante da Escola, director da instrução, comandantes das companhias de instruendos e formação.
 
 § 1.º O serviço prestado na instrução dos diversos cursos conta, para efeito de promoção, como efectivação da escola de recrutas.
 
 § 2.º Os oficiais da Escola Prática do Serviço de Material quando fazem parte dos quadros dos diversos cursos desempenharão simultâneamente o serviço de instrutores escolares, tendo, portanto, os correspondentes direitos e deveres.
 
-###### Art. 33.º Ao serviço interno da Escola serão aplicáveis as disposições dos regulamentos em vigor, com as alterações indispensáveis exigidas pela natureza especial do serviço escolar e por efeito das prescrições deste regulamento.
+Art. 33.º Ao serviço interno da Escola serão aplicáveis as disposições dos regulamentos em vigor, com as alterações indispensáveis exigidas pela natureza especial do serviço escolar e por efeito das prescrições deste regulamento.
 
 § 1.º Como princípio, o serviço interno não dispensa da comparência às instruções.
 
@@ -330,6 +341,6 @@ Ministram a instrução inerente ao movimento e carga do material aos instruendo
 
 § 3.º Do restante pessoal eventual poderá ser nomeado para serviço conforme a sua graduação, e ainda para auxiliar o serviço de instrução, qualquer oficial, sargento ou praça quando o comandante o determine.
 
-###### Art. 34.º A Escola não fornece serviço algum exterior ou de guarnição.
+Art. 34.º A Escola não fornece serviço algum exterior ou de guarnição.
 
 Ministério do Exército, 17 de Fevereiro de 1962. - O Ministro do Exército, Mário José Pereira da Silva.

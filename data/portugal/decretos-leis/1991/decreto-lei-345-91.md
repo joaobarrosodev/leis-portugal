@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/214a00/49084909.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/345/1991/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1991-301458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45ebdb930c461a7cfb00c4855037c391f01c4b0b272d44c4aa97943e0beb5752
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cb21e2cbe760f43431ffbdd5264488cff2f69a2abeb245f210d573c44ccfc28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Interministerial para as Comunidades Europeias
-- Orgânica
 - Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:552535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:546606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638533:por
+  label: "Revogados os n.ºs 1 e 2 do artigo 2.º pelo DEC LEI.207/2007.29.05.2007.MNE, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2007-638533
+  date: '2007-05-29'
+- type: repealed_by
+  target: pt:dre:552535:por
+  label: "Revogado partir de 15.04.2012, na redação do Dec Lei 207/2007, de 29-mai, pelo DEC LEI.87/2012.10.04.2012.MNE, DR.IS\
+    \ [71] de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2012-552535
+  date: '2012-04-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:42Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +119,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Comissão Interministerial para as Comunidades Europeias (CICE) funciona no âmbito do Ministério dos Negócios Estrangeiros e tem como objectivo assegurar a coordenação entre os diversos ministérios e órgãos de governo próprio das Regiões Autónomas, com vista ao estabelecimento de orientações concertadas e à definição das posições portuguesas, a nível técnico, junto das diferentes instituições comunitárias.
+Artigo 1.º A Comissão Interministerial para as Comunidades Europeias (CICE) funciona no âmbito do Ministério dos Negócios Estrangeiros e tem como objectivo assegurar a coordenação entre os diversos ministérios e órgãos de governo próprio das Regiões Autónomas, com vista ao estabelecimento de orientações concertadas e à definição das posições portuguesas, a nível técnico, junto das diferentes instituições comunitárias.
 
-###### Art. 2.º - 1 - A CICE é presidida pelo Ministro dos Negócios Estrangeiros.
+Art. 2.º - 1 - A CICE é presidida pelo Ministro dos Negócios Estrangeiros.
 
 2 - O Ministro dos Negócios Estrangeiros poderá delegar a presidência da Comissão no secretário de Estado do Ministério dos Negócios Estrangeiros responsável pelos assuntos comunitários.
 
@@ -114,7 +129,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A Comissão integra representantes de diferentes ministérios e das Regiões Autónomas, sendo a sua composição definida pelo Conselho de Ministros, sob proposta do Ministro dos Negócios Estrangeiros.
 
-###### Art. 3.º Tendo em conta a prossecução dos seus objectivos, compete à CICE, designadamente:
+Art. 3.º Tendo em conta a prossecução dos seus objectivos, compete à CICE, designadamente:
 
 a) Apresentar propostas relativas às grandes linhas de orientação quanto aos principais assuntos comunitários;
 
@@ -128,21 +143,21 @@ e) Apreciar os pareceres dos parceiros económicos e sociais;
 
 f) Definir a orientação portuguesa em matéria de pré-contencioso e de contencioso comunitário.
 
-###### Art. 4.º - 1 - Os projectos de agenda das reuniões da CICE são elaborados pela Direcção-Geral das Comunidades Europeias (DGCE).
+Art. 4.º - 1 - Os projectos de agenda das reuniões da CICE são elaborados pela Direcção-Geral das Comunidades Europeias (DGCE).
 
 2 - Os representantes dos ministérios e das Regiões Autónomas poderão apresentar em tempo oportuno propostas de inclusão de temas inscritos nas respectivas áreas de intervenção específica, tendo em conta as atribuições deste órgão.
 
 3 - A CICE aprovará o respectivo regulamento interno.
 
-###### Art. 5.º A CICE instituirá subcomissões especializadas de coordenação técnica, integrando representantes dos diferentes ministérios e órgãos de governo próprio das Regiões Autónomas, com vista ao estudo de determinadas matérias, nos termos do mandato que lhe seja conferido.
+Art. 5.º A CICE instituirá subcomissões especializadas de coordenação técnica, integrando representantes dos diferentes ministérios e órgãos de governo próprio das Regiões Autónomas, com vista ao estudo de determinadas matérias, nos termos do mandato que lhe seja conferido.
 
-###### Art. 6.º - 1 - Os representantes dos ministérios e dos órgãos de governo próprio das Regiões Autónomas na CICE são os responsáveis dos departamentos incumbidos da coordenação dos assuntos comunitários respectivos.
+Art. 6.º - 1 - Os representantes dos ministérios e dos órgãos de governo próprio das Regiões Autónomas na CICE são os responsáveis dos departamentos incumbidos da coordenação dos assuntos comunitários respectivos.
 
 2 - Cada representante é nomeado por despacho conjunto do Ministro dos Negócios Estrangeiros e do respectivo ministro da tutela, ou, ainda, por despacho do Ministro dos Negócios Estrangeiros, sob proposta dos governos das Regiões Autónomas.
 
 3 - Cada representante deve ter um substituto, a nomear nos termos do número anterior.
 
-###### Art. 7.º - 1 - A CICE reúne semanalmente e sempre que o seu presidente a convocar.
+Art. 7.º - 1 - A CICE reúne semanalmente e sempre que o seu presidente a convocar.
 
 2 - O presidente pode fazer-se substituir, em caso de impedimento, por qualquer dos vice-presidentes ou, em caso de simultâneo impedimento destes, pelo membro da Comissão mais antigo nessas funções.
 
@@ -150,7 +165,7 @@ f) Definir a orientação portuguesa em matéria de pré-contencioso e de conten
 
 4 - Poderão ainda participar nas reuniões da Comissão, com estatuto de observadores, outros funcionários ou agentes do Estado, desde que, em consideração das matérias agendadas, acompanhem o representante da respectiva área ministerial na Comissão, com anuência do presidente, ou sejam expressamente convocados pelo presidente.
 
-###### Art. 8.º - 1 - O secretariado da CICE é assegurado pela DGCE.
+Art. 8.º - 1 - O secretariado da CICE é assegurado pela DGCE.
 
 2 - Compete ao secretariado da Comissão:
 
@@ -164,20 +179,20 @@ d) Reunir os relatórios respeitantes a cada sessão do Conselho de Ministros da
 
 e) Assegurar a difusão dos elementos de informação indispensáveis ao bom funcionamento das reuniões da Comissão.
 
-###### Art. 9.º As reuniões da CICE realizar-se-ão nas instalações da DGCE, ou em outro local que para o efeito seja designado pelo presidente.
+Art. 9.º As reuniões da CICE realizar-se-ão nas instalações da DGCE, ou em outro local que para o efeito seja designado pelo presidente.
 
-###### Art. 10.º - 1 - É revogado o [Decreto-Lei n.º 527/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1985-546606), de 31 de Dezembro.
+Art. 10.º - 1 - É revogado o [Decreto-Lei n.º 527/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1985-546606), de 31 de Dezembro.
 
 2 - As referências feitas nos diplomas que regulamentam o funcionamento dos Gabinetes dos Assuntos Europeus dos Ministérios ao [Decreto-Lei n.º 527/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1985-546606), de 31 de Dezembro, passam a considerar-se efectuadas ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1991. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/037a00/07270729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/1991/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1991-477637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ed9f95133b877576a03a4f2c750a801c50ebc7ac2a81080743e0ee099f0b6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72d719e437bdc6f8ec2a9d9475441162679a29f199fefbe1f17536ab279d1b37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Vida Selvagem
-- Multa
-- Proteção dos Animais
+- Comércio
 - Contra-ordenação
 - Direcção Geral das Florestas
-- Ministério do Ambiente e Recursos Naturais
-- Proteção do Ambiente
 - Espécie Protegida
+- Ministério do Ambiente e Recursos Naturais
+- Multa
+- Proteção do Ambiente
+- Proteção dos Animais
 - Serviço Nacional de Parques Reservas e Conservação da Natureza
-- Comércio
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:531828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:268840:por
+  label: "SUBSTITUIDO O ANEXO I, PELO DECRETO LEI 224/93, PUBLICADO NO DR.IS-A, 141, DE 930618.E\0E\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-1993-268840
+  date: '1993-06-18'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -89,16 +94,21 @@ relationships:
   target: celex:31986L0122
   label: null
   source: http://data.europa.eu/eli/dir/1986/122/oj
+- type: repealed_by
+  target: pt:dre:531828:por
+  label: "Revogado pelo DEC LEI.140/99.1999.04.24.MAM DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1999-531828
+  date: '1999-04-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:43Z'
   warnings: []
   errors: []
 ---
@@ -123,19 +133,19 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Com vista à conservação das espécies de aves que vivem no estado selvagem em território nacional, o presente diploma estabelece medidas de protecção das aves, ninhos e ovos e de salvaguarda dos respectivos habitats.
+Artigo 1.º - 1 - Com vista à conservação das espécies de aves que vivem no estado selvagem em território nacional, o presente diploma estabelece medidas de protecção das aves, ninhos e ovos e de salvaguarda dos respectivos habitats.
 
 2 - Salvo nos casos expressamente previstos na lei, o presente diploma não se aplica às espécies cinegéticas, reguladas nos termos da legislação venatória em vigor, sem prejuízo do necessário cumprimento dos princípios constantes da Directiva n.º [79/409/CEE](http://data.europa.eu/eli/dir/1979/409/oj?locale=pt),, do Conselho, de 2 de Abril de 1979.
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) Espécime - ave viva ou morta, incluindo as partes ou produtos dela derivados e facilmente identificáveis;
 
 b) Criado em cativeiro - que nasceu em cativeiro ou que perdeu a condição de ave selvagem em consequência da captura devidamente autorizada ou posteriormente legalizada.
 
-###### Art. 3.º Os territórios mais apropriados, em número e extensão, para a protecção das aves mencionadas no anexo I ao presente diploma, que dele faz parte integrante, e das espécies de aves migratórias não referidas neste anexo e cuja ocorrência no território nacional seja regular são classificados em zonas de protecção especial a criar por decreto-lei.
+Art. 3.º Os territórios mais apropriados, em número e extensão, para a protecção das aves mencionadas no anexo I ao presente diploma, que dele faz parte integrante, e das espécies de aves migratórias não referidas neste anexo e cuja ocorrência no território nacional seja regular são classificados em zonas de protecção especial a criar por decreto-lei.
 
-###### Art. 4.º - 1 - Por autorização a conferir por despacho do Ministro do Ambiente e Recursos Naturais, ouvido o Serviço Nacional de Parques, Reservas e Conservação da Natureza, adiante designado por SNPRCN, pode ser permitido o abate, captura ou detenção das aves que vivem no estado selvagem sempre que:
+Art. 4.º - 1 - Por autorização a conferir por despacho do Ministro do Ambiente e Recursos Naturais, ouvido o Serviço Nacional de Parques, Reservas e Conservação da Natureza, adiante designado por SNPRCN, pode ser permitido o abate, captura ou detenção das aves que vivem no estado selvagem sempre que:
 
 a) Estiverem em causa interesses da saúde e segurança pública;
 
@@ -151,7 +161,7 @@ e) Permita uma exploração judiciosa de certas espécies de aves em pequenas qu
 
 3 - O disposto nos números anteriores não prejudica as competências atribuídas à Direcção-Geral das Florestas pelo regime jurídico da caça.
 
-###### Art. 5.º Sem prejuízo do disposto no artigo anterior e com vista à protecção das aves selvagens que vivem no estado bravio em território nacional, é proibido:
+Art. 5.º Sem prejuízo do disposto no artigo anterior e com vista à protecção das aves selvagens que vivem no estado bravio em território nacional, é proibido:
 
 a) Abater, capturar ou deter os espécimes respectivos, qualquer que seja o método utilizado;
 
@@ -159,13 +169,13 @@ b) Destruir, danificar, colher ou deter os seus ninhos e ovos;
 
 c) Perturbar intencionalmente os respectivos espécimes durante o período de reprodução e dependência.
 
-###### Art. 6.º - 1 - Salvo o disposto no número seguinte, é proibida a comercialização de espécimes vivos ou mortos das aves que vivem em estado selvagem em território nacional, bem como de qualquer parte ou produto obtido a partir dessas aves e que seja facilmente identificável.
+Art. 6.º - 1 - Salvo o disposto no número seguinte, é proibida a comercialização de espécimes vivos ou mortos das aves que vivem em estado selvagem em território nacional, bem como de qualquer parte ou produto obtido a partir dessas aves e que seja facilmente identificável.
 
 2 - A exploração comercial de espécimes das aves inscritas no anexo II ao presente diploma, do qual faz parte integrante, será regulamentada por portaria do Ministro do Ambiente e Recursos Naturais.
 
 3 - A taxidermia de espécies das aves que vivem no estado selvagem em território nacional será regulamentada por portaria do Ministro do Ambiente e Recursos Naturais.
 
-###### Art. 7.º - 1 - Até à entrada em vigor da portaria a que se refere o n.º 2 do artigo anterior é permitida a comercialização dos espécimes das espécies de aves inscritas no anexo II ao presente diploma, desde que:
+Art. 7.º - 1 - Até à entrada em vigor da portaria a que se refere o n.º 2 do artigo anterior é permitida a comercialização dos espécimes das espécies de aves inscritas no anexo II ao presente diploma, desde que:
 
 a) Comprovadamente tenham nascido e sido criados em cativeiro;
 
@@ -175,7 +185,7 @@ b) Tenham entrado no circuito comercial antes da entrada em vigor do presente di
 
 3 - Os taxidermistas que detenham espécies de aves que vivam em estado selvagem em território nacional são obrigados a, no prazo de seis meses a contar da entrada em vigor do presente diploma, enviar ao SNPRCN a lista das espécies e o número de espécimes de aves que detenham à data.
 
-###### Art. 8.º - 1 - É proibido coleccionar ovos das espécies referidas no artigo 1.º
+Art. 8.º - 1 - É proibido coleccionar ovos das espécies referidas no artigo 1.º
 
 2 - Exceptuam-se do disposto no número anterior as colecções para fins de investigação ou de ensino.
 
@@ -183,11 +193,11 @@ b) Tenham entrado no circuito comercial antes da entrada em vigor do presente di
 
 4 - Para efeitos da aplicação do disposto nos números anteriores, as entidades possuidoras de ovos das espécies referidas no n.º 1 ficam obrigadas a, no prazo de 150 dias contados da data de entrada em vigor do presente diploma, dar conhecimento ao SNPRCN das características essenciais dessas colecções.
 
-###### Art. 9.º - 1 - As funções de fiscalização para efeitos do presente diploma competem aos funcionários agentes do SNPRCN, da Direcção-Geral das Florestas, da Guarda Fiscal, da Guarda Nacional Republicana demais autoridades policiais.
+Art. 9.º - 1 - As funções de fiscalização para efeitos do presente diploma competem aos funcionários agentes do SNPRCN, da Direcção-Geral das Florestas, da Guarda Fiscal, da Guarda Nacional Republicana demais autoridades policiais.
 
 2 - As associações de defesa do ambiente podem também exercer funções de fiscalização no âmbito do presente diploma, denunciando as infracções de que tiverem conhecimento junto das entidades referidas no número anterior.
 
-###### Art. 10.º - 1 - As infracções ao disposto no artigo 5.º e no n.º 1 do artigo 6.º constituem contra-ordenação punível com coimas de 5000$00 a 500000$00.
+Art. 10.º - 1 - As infracções ao disposto no artigo 5.º e no n.º 1 do artigo 6.º constituem contra-ordenação punível com coimas de 5000$00 a 500000$00.
 
 2 - As infracções ao disposto na regulamentação prevista nos n.os 2 e 3 do artigo 6.º constituem contra-ordenação punível com coimas de 3000$00 a 250000$00.
 
@@ -197,31 +207,31 @@ b) Tenham entrado no circuito comercial antes da entrada em vigor do presente di
 
 5 - A negligencia é punível.
 
-###### Art. 11.º Para além das coimas previstas no artigo anterior, e nos termos da legislação aplicável, pode ser decretada, como sanção acessória, a apreensão dos espécimes, bem como a apreensão do equipamento utilizado para a sua captura ou abate ilegal, que reverterão para o SNPRCN, que lhes dará o destino que entender mais conveniente.
+Art. 11.º Para além das coimas previstas no artigo anterior, e nos termos da legislação aplicável, pode ser decretada, como sanção acessória, a apreensão dos espécimes, bem como a apreensão do equipamento utilizado para a sua captura ou abate ilegal, que reverterão para o SNPRCN, que lhes dará o destino que entender mais conveniente.
 
-###### Art. 12.º O produto das coimas é distribuído da seguinte forma:
+Art. 12.º O produto das coimas é distribuído da seguinte forma:
 
 a) 60% para o Estado;
 
 b) 40% para o SNRPCN.
 
-###### Art. 13.º - 1 - Compete ao SNPRCN o processamento das contra-ordenações e aplicação das sanções previstas nos artigos 10.º e 11.º
+Art. 13.º - 1 - Compete ao SNPRCN o processamento das contra-ordenações e aplicação das sanções previstas nos artigos 10.º e 11.º
 
 2 - Na falta de pagamento voluntário das coimas, os processos de contra-ordenação instruídos serão enviados ao representante do Ministério Público competente, para promover a execução nos termos dos artigos 89.º e seguintes do Decreto-Lei n.º 433/82, de 27 de Outubro.
 
-###### Art. 14.º Nas Regiões Autónomas dos Açores e da Madeira, as competências do SNPRCN são exercidas pelas estruturas regionais competentes na área do ambiente.
+Art. 14.º Nas Regiões Autónomas dos Açores e da Madeira, as competências do SNPRCN são exercidas pelas estruturas regionais competentes na área do ambiente.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Arlindo Marques da Cunha - José António Leite de Araújo - Fernando Nunes Ferreira Real.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/029a00/07110712.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/1992/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1992-150513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 610286e0ebfbd88aff13a4ce623ae1cb0fb2cef5f87e069e8eb937acae6282b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e39be39f7d344d478f60e9fbc3b9047839c638f732e55334aba665e3f17d4df9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Comissão Vitivinícola Regional da Península de Setúbal
 - Denominação de Origem
 - Setúbal
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:492980:por
@@ -83,16 +83,28 @@ relationships:
   target: celex:31988R4252
   label: null
   source: http://data.europa.eu/eli/reg/1988/4252/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:492980:por
+  label: Revogado [nos termos da al. n) do art. 23º e do n.º 2 do art. 24º do Dec Lei 212/2004, de 23-Ago] pela PORT.793/2009.28.07.2009.MADRP,
+    DR.IS [144] de 28.07.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/793-2009-492980
+  date: '2009-07-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:14Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +125,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Lei n.º 8/85, de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Denominação de Origem Controlada Setúbal, anexo a este diploma e dele fazendo parte integrante.
+Artigo 1.º É aprovado o Regulamento da Denominação de Origem Controlada Setúbal, anexo a este diploma e dele fazendo parte integrante.
 
-###### Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional da Península de Setúbal (CVRPS) a defesa da Denominação de Origem Controlada Setúbal, bem como a aplicação da respectiva regulamentação, o fomento e controlo do vinho licoroso ali produzido e a garantia da sua genuinidade e qualidade.
+Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional da Península de Setúbal (CVRPS) a defesa da Denominação de Origem Controlada Setúbal, bem como a aplicação da respectiva regulamentação, o fomento e controlo do vinho licoroso ali produzido e a garantia da sua genuinidade e qualidade.
 
 2 - A CVRPS está submetida à tutela do Ministro da Agricultura, a quem cabe, designadamente:
 
@@ -125,35 +137,35 @@ b) Solicitar quaisquer informações ou ordenar inspecções e inquéritos ao se
 
 c) Apreciar o orçamento e contas de exercício.
 
-###### Art. 3.º É revogado o Decreto n.º 23734, de 2 de Abril de 1934, bem como as disposições referentes ao vinho generoso moscatel de Setúbal, constantes do Decreto n.º 1, de 10 de Maio de 1907, do Decreto de 1 de Outubro de 1908, do Decreto-Lei n.º 23230, de 17 de Novembro de 1933, e da Portaria n.º 1054/83, de 23 de Dezembro.
+Art. 3.º É revogado o Decreto n.º 23734, de 2 de Abril de 1934, bem como as disposições referentes ao vinho generoso moscatel de Setúbal, constantes do Decreto n.º 1, de 10 de Maio de 1907, do Decreto de 1 de Outubro de 1908, do Decreto-Lei n.º 23230, de 17 de Novembro de 1933, e da Portaria n.º 1054/83, de 23 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 1991. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 21 de Janeiro de 1992.**
+Promulgado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento da Denominação de Origem Controlada Setúbal
 
-###### Artigo 1.º - 1 - É confirmada como denominação de origem controlada (DOC) a denominação «Setúbal», a qual só poderá ser usada para a identificação do vinho licoroso, produzido na área delimitada, que satisfaça as exigências estabelecidas neste diploma e na demais legislação aplicável, integrando-se na categoria dos vinhos licorosos de qualidade produzidos em região determinada (VLQPRD) da nomenclatura comunitária.
+Artigo 1.º - 1 - É confirmada como denominação de origem controlada (DOC) a denominação «Setúbal», a qual só poderá ser usada para a identificação do vinho licoroso, produzido na área delimitada, que satisfaça as exigências estabelecidas neste diploma e na demais legislação aplicável, integrando-se na categoria dos vinhos licorosos de qualidade produzidos em região determinada (VLQPRD) da nomenclatura comunitária.
 
 2 - A menção tradicional «vinho generoso» ou «generoso» só pode ser utilizada em associação à denominação de origem.
 
 3 - Fica proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos neste Regulamento, induzirem a confusão do consumidor, mesmo que precedidos dos termos «tipo», «estilo» ou outros análogos.
 
-###### Art. 2.º A área geográfica de produção de vinhos cobertos pela denominação de origem controlada Setúbal, delimitada na carta 1:500000, em anexo, abrange:
+Art. 2.º A área geográfica de produção de vinhos cobertos pela denominação de origem controlada Setúbal, delimitada na carta 1:500000, em anexo, abrange:
 
 a) Os municípios de Palmela e de Setúbal;
 
 b) Do município de Sesimbra parte da freguesia de Nossa Senhora do Castelo.
 
-###### Art. 3.º As vinhas destinadas à produção do vinho a que se refere o presente Regulamento devem estar instaladas em solos com as seguintes características:
+Art. 3.º As vinhas destinadas à produção do vinho a que se refere o presente Regulamento devem estar instaladas em solos com as seguintes características:
 
 a) Solos calcários pardos ou vermelhos;
 
@@ -165,7 +177,7 @@ d) Solos podzolizados de areias e arenitos;
 
 e) Regossolos psamíticos.
 
-###### Art. 4.º - 1 - Nas parcelas que se destinam à produção dos vinhos de denominação de origem controlada Setúbal, as castas a utilizar são as seguintes:
+Art. 4.º - 1 - Nas parcelas que se destinam à produção dos vinhos de denominação de origem controlada Setúbal, as castas a utilizar são as seguintes:
 
 a) Vinhos brancos:
 
@@ -183,7 +195,7 @@ ii) Castas autorizadas: Castelão-Francês ou Periquita, Alforcheiro, Bastardo, 
 
 3 - Até ao início da campanha vinícola de 1994-1995 podem as parcelas inscritas para a produção destes vinhos não obedecer ao estabelecido nos números anteriores, devendo, contudo, os vinhos elaborados provir das castas e respeitar as percentagens neles indicadas.
 
-###### Art. 5.º - 1 - As práticas culturais a utilizar são as tradicionais ou as autorizadas pelo Instituto da Vinha e do Vinho (IVV), sob proposta da Comissão Vitivinícola Regional da Península de Setúbal (CVRPS), tendo em vista a obtenção de produtos de qualidade superior.
+Art. 5.º - 1 - As práticas culturais a utilizar são as tradicionais ou as autorizadas pelo Instituto da Vinha e do Vinho (IVV), sob proposta da Comissão Vitivinícola Regional da Península de Setúbal (CVRPS), tendo em vista a obtenção de produtos de qualidade superior.
 
 2 - Os vinhos protegidos por este Regulamento devem provir de vinhas com um mínimo de quatro anos de enxertia, estremes, em forma baixa, conduzidas em taça ou cordão, com poda em vara e talão ou só em talão.
 
@@ -191,15 +203,15 @@ ii) Castas autorizadas: Castelão-Francês ou Periquita, Alforcheiro, Bastardo, 
 
 4 - A rega da vinha só pode ser efectuada em condições excepcionais, reconhecidas pelo IVV, e sob autorização prévia, caso a caso, da CVRPS, à qual incumbe velar pelo cumprimento das normas que para o efeito vierem a ser definidas.
 
-###### Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por este Regulamento devem, a pedido dos interessados, ser inscritas na CVRPS, a qual verifica se satisfazem os necessários requisitos, procedendo ao cadastro das mesmas e efectuando no decurso do ano as observações que entender necessárias.
+Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por este Regulamento devem, a pedido dos interessados, ser inscritas na CVRPS, a qual verifica se satisfazem os necessários requisitos, procedendo ao cadastro das mesmas e efectuando no decurso do ano as observações que entender necessárias.
 
 2 - Sempre que se verifiquem alterações no encepamento das vinhas cadastradas e aprovadas, será do facto dado conhecimento pelos respectivos viticultores, sem o que os seus vinhos deixarão de ter direito à denominação de origem.
 
-###### Art. 7.º - 1 - O rendimento base, por hectare, das vinhas destinadas aos vinhos de denominação de origem é fixado em 70 hl, podendo, no entanto, de acordo com as condições climatéricas e a qualidade dos mostos, o IVV sob proposta da CVRPS, fixar anualmente o rendimento máximo por hectare, que não poderá, em qualquer caso, exceder em 50% aquele rendimento base.
+Art. 7.º - 1 - O rendimento base, por hectare, das vinhas destinadas aos vinhos de denominação de origem é fixado em 70 hl, podendo, no entanto, de acordo com as condições climatéricas e a qualidade dos mostos, o IVV sob proposta da CVRPS, fixar anualmente o rendimento máximo por hectare, que não poderá, em qualquer caso, exceder em 50% aquele rendimento base.
 
 2 - No caso de a produção exceder o quantitativo fixado, não pode ser utilizada a denominação de origem para a totalidade da colheita, salvo em anos de produção excepcional, devendo, nesses casos, por portaria do ministro da tutela, sob proposta da CVRPS e parecer favorável do IVV, ser estabelecido o limite de produção com direito à utilização da denominação de origem e o destino da produção excedentária.
 
-###### Art. 8.º - 1 - Na elaboração dos vinhos de denominação de origem serão seguidos os métodos e práticas de vinificação tradicionais e os legalmente autorizados que conduzam a vinhos de qualidade superior.
+Art. 8.º - 1 - Na elaboração dos vinhos de denominação de origem serão seguidos os métodos e práticas de vinificação tradicionais e os legalmente autorizados que conduzam a vinhos de qualidade superior.
 
 2 - A paragem da fermentação alcoólica deverá ser efectuada com recurso a aguardente ou álcool vínicos que apresentem um título alcoométrico volúmico compreendido entre 58% e 77%, e não inferior a 96%, respectivamente, e satisfazer as outras características legais.
 
@@ -209,7 +221,7 @@ ii) Castas autorizadas: Castelão-Francês ou Periquita, Alforcheiro, Bastardo, 
 
 5 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação de origem, a CVRPS estabelecerá os termos em que deverá decorrer a vinificação, devendo os referidos vinhos ser conservados em secções separadas e em vasilhas com a devida identificação, de que constem, nomeadamente, as indicações relativas ao volume da vasilha, à espécie de vinho contido e ao ano de colheita.
 
-###### Art. 9.º - 1 - Os mostos a utilizar para a produção dos vinhos com direito à denominação de origem devem possuir um título alcoométrico volúmico em potência natural mínimo de 11% em volume.
+Art. 9.º - 1 - Os mostos a utilizar para a produção dos vinhos com direito à denominação de origem devem possuir um título alcoométrico volúmico em potência natural mínimo de 11% em volume.
 
 2 - Os vinhos com direito à denominação de origem devem apresentar as características gerais legalmente estabelecidas e, particularmente:
 
@@ -221,24 +233,24 @@ c) Os açúcares redutores, expressos em açúcar invertido, em valores máximos
 
 3 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, à limpidez, ao aroma e ao sabor, a definir por regulamento interno da CVRPS.
 
-###### Art. 10.º - 1 - Pode ser usada, como designativo complementar de qualidade dos vinhos de denominação de origem controlada Setúbal, a menção «Superior», quando os vinhos se destaquem pela sua qualidade em prova efectuada aos 2 anos de idade e obtenham confirmação em nova prova, a realizar aos 5 anos de idade.
+Art. 10.º - 1 - Pode ser usada, como designativo complementar de qualidade dos vinhos de denominação de origem controlada Setúbal, a menção «Superior», quando os vinhos se destaquem pela sua qualidade em prova efectuada aos 2 anos de idade e obtenham confirmação em nova prova, a realizar aos 5 anos de idade.
 
 2 - Até escoamento das provisões existentes, e mediante controlo da CVRPS, são permitidas as indicações «10 anos de idade» ou «20 anos de idade», desde que os vinhos em causa tenham, no mínimo, as idades indicadas.
 
-###### Art. 11.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas que se dediquem à comercialização dos vinhos abrangidos por este Regulamento, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigados a fazer a sua inscrição, bem como a das respectivas instalações, em registo apropriado da CVRPS.
+Art. 11.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas que se dediquem à comercialização dos vinhos abrangidos por este Regulamento, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigados a fazer a sua inscrição, bem como a das respectivas instalações, em registo apropriado da CVRPS.
 
-###### Art. 12.º Os vinhos de qualidade objecto do presente Regulamento só podem ser postos em circulação e comercialização desde que nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela CVRPS.
+Art. 12.º Os vinhos de qualidade objecto do presente Regulamento só podem ser postos em circulação e comercialização desde que nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela CVRPS.
 
-###### Art. 13.º - 1 - Os vinhos que constituem objecto deste Regulamento só podem ser engarrafados após um estágio mínimo de 24 meses.
+Art. 13.º - 1 - Os vinhos que constituem objecto deste Regulamento só podem ser engarrafados após um estágio mínimo de 24 meses.
 
 2 - O engarrafamento só pode ser feito após a aprovação do respectivo vinho pela CVRPS.
 
 3 - Os projectos de rótulos a utilizar deverão ser previamente aprovados pela CVRPS.
 
-###### Art. 14.º Por despacho normativo do ministro da tutela, sob proposta da CVRPS e parecer favorável do IVV, podem ser autorizados, como designação complementar da denominação de origem, topónimos abrangidos pela respectiva região delimitada.
+Art. 14.º Por despacho normativo do ministro da tutela, sob proposta da CVRPS e parecer favorável do IVV, podem ser autorizados, como designação complementar da denominação de origem, topónimos abrangidos pela respectiva região delimitada.
 
-###### Art. 15.º Cabe à CVRPS proceder à colheita de amostras em armazéns ou instalações de vinificação e selagem dos produtos, sempre que tal se mostrar adequado, bem como realizar as vistorias que entenda necessárias, podendo ainda ter acesso a toda a documentação que permita verificar a obediência aos preceitos comunitários e nacionais relativos aos produtos vínicos da região que tenham direito à denominação de origem controlada Setúbal.
+Art. 15.º Cabe à CVRPS proceder à colheita de amostras em armazéns ou instalações de vinificação e selagem dos produtos, sempre que tal se mostrar adequado, bem como realizar as vistorias que entenda necessárias, podendo ainda ter acesso a toda a documentação que permita verificar a obediência aos preceitos comunitários e nacionais relativos aos produtos vínicos da região que tenham direito à denominação de origem controlada Setúbal.
 
 ## ANEXO — Carta referida no artigo 2.º do Regulamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/029a00/07110712.pdf))](https://files.diariodarepublica.pt/1s/1992/02/029a00/07110712.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/029a00/07110712.pdf)

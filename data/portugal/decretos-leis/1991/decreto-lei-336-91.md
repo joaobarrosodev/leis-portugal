@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/208a00/47824784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/336/1991/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1991-303775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 540deef5fb5394d153a6fdc2eebba56668ece491f14803a81d485fa1176a2393
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01168b59212822141cf8218be1bda7dc9fa7eec6bc502b95155c04c0ec34a9ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Militar
-- Recrutamento de Pessoal
 - Forças Armadas
+- Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:393396:por
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/1991/06/19/p/dre
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659544:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393396:por
+  label: Revogado pelo DEC LEI.320-A/2000.2000.12.15.MDN, DR.IS-A [288]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-a-2000-393396
+  date: '2000-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:32Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +130,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, com as alterações introduzidas pelas Leis n.º 89/88, de 5 de Agosto, e n.º 22/91, de 19 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma estabelece os termos da criação e atribuição de incentivos aos cidadãos para prestação de serviço efectivo nos regimes de voluntariado (RV) e de contrato (RC), a que se refere o artigo 4.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, na redacção dada pela [Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/lei/22-1991-659544), de 19 de Junho.
+Artigo 1.º - 1 - O presente diploma estabelece os termos da criação e atribuição de incentivos aos cidadãos para prestação de serviço efectivo nos regimes de voluntariado (RV) e de contrato (RC), a que se refere o artigo 4.º da [Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/lei/30-1987-420192), de 7 de Julho, na redacção dada pela [Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/lei/22-1991-659544), de 19 de Junho.
 
 2 - Os militares abrangidos pelo número anterior podem beneficiar de medidas especiais de formação académica e profissional, compensação financeira e apoio social que lhes facilitem o acesso a uma carreira profissional no termo do respectivo período de prestação de serviço efectivo.
 
@@ -125,7 +138,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/87](https:
 
 4 - A execução das acções previstas neste diploma é assegurada pelos departamentos do Estado intervenientes, em colaboração com as Forças Armadas.
 
-###### Art. 2.º Os incentivos à prestação de serviço efectivo em RV e RC abrangem as seguintes modalidades:
+Art. 2.º Os incentivos à prestação de serviço efectivo em RV e RC abrangem as seguintes modalidades:
 
 a) Informação e orientação profissional;
 
@@ -139,7 +152,7 @@ e) Apoio à inserção ou reinserção na vida activa civil;
 
 f) Apoio social.
 
-###### Art. 3.º - 1 - A informação e orientação profissionais têm por objectivo apoiar o militar na definição de um projecto profissional civil e proporcionar-lhe o respectivo encaminhamento.
+Art. 3.º - 1 - A informação e orientação profissionais têm por objectivo apoiar o militar na definição de um projecto profissional civil e proporcionar-lhe o respectivo encaminhamento.
 
 2 - A informação e orientação profissionais têm lugar nos centros de classificação e selecção (CCS) dos três ramos das Forças Armadas e compreendem:
 
@@ -153,7 +166,7 @@ c) Apoio ao estudo da adaptabilidade das capacidades, valores e interesses às m
 
 4 - As acções referidas nos números anteriores são efectuadas preferencialmente por técnicos de informação e orientação profissional do Instituto do Emprego e Formação Profissional (IEFP), ou formados por este, segundo protocolo a estabelecer entre os Ministérios da Defesa Nacional e do Emprego e da Segurança Social.
 
-###### Art. 4.º - 1 - No âmbito do sistema educativo, o apoio à obtenção de habilitações académicas e à formação profissional compreende a possibilidade de frequência, sem prejuízo do serviço, de cursos do ensino básico e secundário, nas diferentes vias.
+Art. 4.º - 1 - No âmbito do sistema educativo, o apoio à obtenção de habilitações académicas e à formação profissional compreende a possibilidade de frequência, sem prejuízo do serviço, de cursos do ensino básico e secundário, nas diferentes vias.
 
 2 - Os cursos a que se refere o número anterior têm por objectivo proporcionar a aquisição de habilitações académicas de qualquer dos níveis escolares do ensino básico e secundário e incluem os cursos técnico-profissionais e os cursos das escolas profissionais dos Ministérios da Educação e do Emprego e da Segurança Social.
 
@@ -165,7 +178,7 @@ b) Nas escolas de formação das Forças Armadas ou em unidades militares selecc
 
 4 - Por portaria conjunta dos Ministros da Defesa Nacional e da Educação são definidos os termos do regime especial de candidatura ao ensino superior por parte dos militares a que se refere o artigo 1.º, bem como o respectivo regime especial de escolaridade.
 
-###### Art. 5.º - 1 - No âmbito do sistema de formação profissional, o apoio à formação profissional pode abranger:
+Art. 5.º - 1 - No âmbito do sistema de formação profissional, o apoio à formação profissional pode abranger:
 
 a) Organização e realização de cursos de formação profissional inicial, possibilitando a obtenção dos níveis de qualificação 1, 2 ou 3 (CEE);
 
@@ -185,9 +198,9 @@ c) Nos centros de formação de empresas e outras instituições que cooperam co
 
 d) Nos centros de formação a instalar em unidades militares seleccionadas, através de projectos de colaboração com os Ministérios da Indústria e Energia e do Emprego e da Segurança Social.
 
-###### Art. 6.º Os cursos previstos nas alíneas a) e b) do n.º 1 do artigo 5.º, a ministrar nos termos das alíneas a) e d) do n.º 2 do mesmo artigo, bem como os referidos no artigo 4.º, são estabelecidos, em cada ano, por portaria conjunta dos Ministros da Defesa Nacional, da Indústria e Energia, da Educação e do Emprego e da Segurança Social.
+Art. 6.º Os cursos previstos nas alíneas a) e b) do n.º 1 do artigo 5.º, a ministrar nos termos das alíneas a) e d) do n.º 2 do mesmo artigo, bem como os referidos no artigo 4.º, são estabelecidos, em cada ano, por portaria conjunta dos Ministros da Defesa Nacional, da Indústria e Energia, da Educação e do Emprego e da Segurança Social.
 
-###### Art. 7.º - 1 - A compensação financeira e material abrange:
+Art. 7.º - 1 - A compensação financeira e material abrange:
 
 a) Retribuição monetária, de montante não inferior ao salário mínimo nacional, no caso dos militares em RV;
 
@@ -197,7 +210,7 @@ c) Atribuição de fardamento, alojamento e alimentação por conta do Estado du
 
 2 - O montante da retribuição monetária referida na alínea a) do número anterior é definido por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
 
-###### Art. 8.º O apoio à inserção ou reinserção na vida activa civil compreende:
+Art. 8.º O apoio à inserção ou reinserção na vida activa civil compreende:
 
 a) Equiparação da prestação do serviço efectivo em RV e RC a experiência profissional para efeito de concursos de ingresso na Administração Pública, nas forças de segurança e nos quadros de pessoal militarizado;
 
@@ -205,7 +218,7 @@ b) Atribuição de um subsídio de integração correspondente a um mês de retr
 
 c) Habilitação ao subsídio de desemprego, em termos a regulamentar por portaria conjunta dos Ministros da Defesa Nacional e do Emprego e da Segurança Social.
 
-###### Art. 9.º O apoio social aos militares em RV e RC compreende os seguintes benefícios:
+Art. 9.º O apoio social aos militares em RV e RC compreende os seguintes benefícios:
 
 a) Assistência na doença para o militar e o respectivo agregado familiar, de acordo com o regime definido nas disposições legais e regulamentares atinentes;
 
@@ -215,16 +228,16 @@ c) Benefícios previstos no regime das prestações de natureza social, designad
 
 d) Acesso aos mecanismos das políticas de apoio à juventude, designadamente no que respeita à habitação e à instalação na vida activa por conta própria.
 
-###### Art. 10.º As normas técnicas necessárias ao processamento dos incentivos previstos no presente diploma serão aprovadas por portaria do Ministro da Defesa Nacional.
+Art. 10.º As normas técnicas necessárias ao processamento dos incentivos previstos no presente diploma serão aprovadas por portaria do Ministro da Defesa Nacional.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Agosto de 1991.**
+Referendado em 30 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

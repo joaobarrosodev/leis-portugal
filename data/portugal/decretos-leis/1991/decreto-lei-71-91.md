@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/033a00/06160618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/1991/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1991-478262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 223320ead487c6cf767dbe685badb4c08d4d9cef7a13e4698c1f86713304ddb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34af9c630c23e6e000636b0e544a513042d803fd3cd52edcd7a855b1858a3d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Multa
 - Contra-ordenação
 - Controlo de Qualidade
 - Fiscalização
-- Medicina Veterinária
-- Normas de Segurança
 - Material Médico-Cirúrgico
+- Medicina
+- Medicina Veterinária
+- Multa
 - Normalização
+- Normas de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
@@ -83,16 +83,22 @@ relationships:
   target: celex:31984L0539
   label: null
   source: http://data.europa.eu/eli/dir/1984/539/oj
+- type: repealed_by
+  target: pt:dre:155732595:por
+  label: Revogado, a partir de 28.07.2021, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+    nos termos do art. 181.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:38Z'
   warnings: []
   errors: []
 ---
@@ -155,15 +161,15 @@ O presente diploma entra em vigor no dia 1 de Março de 1991.
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1990. - Aníbal António Cavaco Silva - Vasco Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - Fernando Nunes Ferreira Real.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Lista dos aparelhos referidos no artigo 1.º
 
@@ -353,7 +359,7 @@ Ponto 19.3: corrente auxiliar do paciente; condição normal - 1mA; condição d
 
 ## ANEXO III — Modelo de marca de conformidade afixada pelo fabricante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/033a00/06160618.pdf))](https://files.diariodarepublica.pt/1s/1991/02/033a00/06160618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/033a00/06160618.pdf)
 
 ## ANEXO IV — Modelo de declaração de conformidade (ver nota 1)
 

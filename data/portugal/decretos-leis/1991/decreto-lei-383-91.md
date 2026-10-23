@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/232a00/52335239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/383/1991/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1991-288232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8bd23d6010203ec4ca4fe17aa4922cd520fbfa016a0fbbc29459912da8a8e3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2c2e3149c132d115069f7f85a7a68d70c0f05caa21f799b30518ace6eebc1a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aprendizagem Profissional
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional
-- Formação Profissional
 - Comissão Nacional de Aprendizagem
-- Plano de Estudos
 - Escolaridade Obrigatória
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Jovem Trabalhador
-- Pré-aprendizagem
+- Plano de Estudos
 - Política de Emprego
+- Pré-aprendizagem
 relationships:
 - type: amended_by
   target: pt:dre:226416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226416:por
+  label: "Revogado pelo DEC LEI.205/96.1996.10.25.MQE, DR.IS-A [248], na data da entrada em vigor do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1996-226416
+  date: '1996-10-25'
 article_structure:
   article_count: 14
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:32Z'
   warnings: []
   errors: []
 ---
@@ -278,15 +291,15 @@ c) Treinar competências necessárias ao desempenho das funções correspondente
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro - António José de Castro Bagão Félix.
 
-**Promulgado em 19 de Setembro de 1991.**
+Promulgado em 19 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — I - Matemática
 
@@ -338,7 +351,7 @@ Subtracção;
 
 Multiplicação, propriedades (comutativa, associativa, existência de elemento neutro e absorvente, distributiva em relação à subtracção);
 
-##### Divisão;
+Divisão;
 
 Múltiplo de um número;
 
@@ -346,7 +359,7 @@ Operadores do tipo multiplicativo e partitivo;
 
 Multiplicação de um número por: 10; 100; 1000; 0,1; 0,01; 0,001; 5; 25; 50; 0,5 e 0,25 (regras de cálculo);
 
-##### Divisão de um número por: 10; 100; 1000; 0,1; 0,01; 0,001; 5; 25; 50; 0,5 e 0,25 (regras de cálculo);
+Divisão de um número por: 10; 100; 1000; 0,1; 0,01; 0,001; 5; 25; 50; 0,5 e 0,25 (regras de cálculo);
 
 Média aritmética;
 
@@ -366,9 +379,9 @@ Multiplicação de um número fraccionário por um número inteiro;
 
 Multiplicação de números fraccionários;
 
-##### Divisão de um número fraccionário por um número inteiro;
+Divisão de um número fraccionário por um número inteiro;
 
-##### Divisão de números fraccionários;
+Divisão de números fraccionários;
 
 Expressões numéricas.
 

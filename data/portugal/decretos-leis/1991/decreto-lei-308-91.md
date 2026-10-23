@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/188a00/42124213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/1991/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1991-674425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ebafa03c02d37af1da3b36b80d645ca27caf0c2aedf48e0ce23028deca0bdc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d351dfe91bac51f466a37afabe6d985a25048549431545aa77c676ca3a99cfe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do Imposto Municipal de SISA e do Imposto sobre as Sucessões e Doações
-- Sisa
 - Imposto sobre Sucessões e Doações
 - Isenção Fiscal
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:57Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +119,13 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea c) do n.º 1 do artigo 25.º e pelos n.os 1 e 2, alíneas b), c) e d), do artigo 27.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Código da Sisa e do Imposto sobre as Sucessões e Doações passa a designar-se «Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações».
+Artigo 1.º - 1 - O Código da Sisa e do Imposto sobre as Sucessões e Doações passa a designar-se «Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações».
 
 2 - No texto de todo o articulado do Código referido no número anterior onde se lê «sisa» deve ler-se «imposto municipal de sisa».
 
-###### Art. 2.º Os artigos 16.º, 17.º, 91.º 115.º e 183.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+Art. 2.º Os artigos 16.º, 17.º, 91.º 115.º e 183.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
-###### Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º, 9.º e 12.º, alínea a), e 21.º, 26., 30.º e 31.º do artigo 11.º e n.º 7.º do artigo 12.º deixarão de beneficiar de isenção logo que se verifique, respectivamente:
+Art. 16.º As transmissões de que tratam os n.os 3.º, 8.º, 9.º e 12.º, alínea a), e 21.º, 26., 30.º e 31.º do artigo 11.º e n.º 7.º do artigo 12.º deixarão de beneficiar de isenção logo que se verifique, respectivamente:
 
 1.º ...
 
@@ -135,13 +149,13 @@ No uso da autorização legislativa concedida pela alínea c) do n.º 1 do artig
 
 § 3.º ...
 
-###### Art. 17.º Ficarão igualmente sem efeito as isenções de que tratam os n.os 14.º e 16.º do artigo 11.º e 3.º, 7.º e 14.º do artigo 13.º, quando os bens forem alienados ou lhes for dado outro destino sem autorização do Ministro das Finanças.
+Art. 17.º Ficarão igualmente sem efeito as isenções de que tratam os n.os 14.º e 16.º do artigo 11.º e 3.º, 7.º e 14.º do artigo 13.º, quando os bens forem alienados ou lhes for dado outro destino sem autorização do Ministro das Finanças.
 
 § único. ...
 
-###### Art. 91.º No caso de ficar sem efeito a redução do imposto municipal de sisa, nos termos do artigo 38.º, § 2.º, ou a isenção ou redução do imposto municipal de sisa e do imposto sobre as sucessões e doações, nos termos dos artigos 16.º e seu § 1.,º, 16.º-A, 17.º, 17.º-A e 18.º-A, devem as pessoas ou entidades sujeitas ao seu pagamento solicitar, no prazo de 30 dias, a respectiva liquidação.
+Art. 91.º No caso de ficar sem efeito a redução do imposto municipal de sisa, nos termos do artigo 38.º, § 2.º, ou a isenção ou redução do imposto municipal de sisa e do imposto sobre as sucessões e doações, nos termos dos artigos 16.º e seu § 1.,º, 16.º-A, 17.º, 17.º-A e 18.º-A, devem as pessoas ou entidades sujeitas ao seu pagamento solicitar, no prazo de 30 dias, a respectiva liquidação.
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 1.º ...
 
@@ -157,7 +171,7 @@ No uso da autorização legislativa concedida pela alínea c) do n.º 1 do artig
 
 7.º ...
 
-###### Art. 183.º Ficam isentos do imposto por avença:
+Art. 183.º Ficam isentos do imposto por avença:
 
 1.º Os títulos pertencentes ao Estado ou a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência, bem como os títulos nominativos e os títulos ao portador registados ou depositados para efeitos do imposto sobre o rendimento das pessoas singulares, pertencentes a outras entidades isentas do imposto sobre as sucessões e doações, nos termos e com as limitações dos artigos 12.º e 13.º;
 
@@ -181,20 +195,20 @@ b) Nos outros casos, em face do respectivo assento, averbamento, pertence ou end
 
 § 3.º ...
 
-###### Art. 3.º É aditado o artigo 17.º-A ao Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações, com a seguinte redacção:
+Art. 3.º É aditado o artigo 17.º-A ao Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações, com a seguinte redacção:
 
-###### Art. 17.º-A Ficarão sem efeito a isenção e redução de taxas, previstas, respectivamente, no n.º 22.º do artigo 11.º e no n.º 2 do artigo 33.º, quando aos imóveis for dado destino diferente do da habitação, no prazo de três anos a contar da data da aquisição, salvo no caso de venda.
+Art. 17.º-A Ficarão sem efeito a isenção e redução de taxas, previstas, respectivamente, no n.º 22.º do artigo 11.º e no n.º 2 do artigo 33.º, quando aos imóveis for dado destino diferente do da habitação, no prazo de três anos a contar da data da aquisição, salvo no caso de venda.
 
-###### Art. 4.º Ficam isentas de imposto municipal de sisa as transmissões resultantes da divisão de prédios rústicos em regime de compropriedade, relativamente aos quais tenha sido emitido, pela câmara municipal respectiva, o alvará de loteamento para bairros integrados em zonas de recuperação urbanística, quanto à parte excedente do valor da quota-parte que ao adquirente pertencer.
+Art. 4.º Ficam isentas de imposto municipal de sisa as transmissões resultantes da divisão de prédios rústicos em regime de compropriedade, relativamente aos quais tenha sido emitido, pela câmara municipal respectiva, o alvará de loteamento para bairros integrados em zonas de recuperação urbanística, quanto à parte excedente do valor da quota-parte que ao adquirente pertencer.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

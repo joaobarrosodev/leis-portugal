@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/152a00/31883194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1992-288258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c65fae35c9e05995b10f1e9a35f811a7ac33713501a4358b1915601b5bb550d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db5bec11017454b55dfaa93b53ce8bcc79807b33feaee498f08171f125a7dd52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Formação Profissional
-- Sistema Retributivo
 - Internato Complementar
 - Internato Geral
+- Médico
 - Regime de Exclusividade
 - Regime Jurídico
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:518466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:648372:por
+  label: "Alterados os arts. 24.º, 27.º e 30.º e aditado o art. 30.º-A ao presente diploma, pela LEI.4/93.1993.02.12.AR DR.IS-A\
+    \ [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1993-648372
+  date: '1993-02-12'
+- type: amended_by
+  target: pt:dre:430459:por
+  label: "Prorrogado o prazo dos contratos administrativos de provimento dos internos que iniciaram os internatos complementares\
+    \ de Clínica Geral e da Saúde Pública em 1 de Janeiro de 1993, a que se refere o presente diploma, com as alterações introduzidas\
+    \ pela Lei 4/93 de 12-Fev, pelo DEC LEI.83/96.1996.06.22.MS DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-1996-430459
+  date: '1996-06-22'
+- type: amended_by
+  target: pt:dre:667138:por
+  label: "Alterados os arts. 15º e 25º pelo DEC LEI.412/99.1999.10.15.MS, DR.IS-A [241] ((Este documento vem referido incorrectamente\
+    \ como Dec Lei 128/92 de 04 de Junho, no Diário da República)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-1999-667138
+  date: '1999-10-15'
+- type: amended_by
+  target: pt:dre:632390:por
+  label: "Alterada a escala indiciária a que se refere o nº 1 do art. 18º, pelo DEC LEI.531/99.1999.12.10.MS, DR.IS-A [286]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/531-1999-632390
+  date: '1999-12-10'
 - type: cites
   target: celex:31975L0363
   label: null
@@ -87,16 +112,23 @@ relationships:
   target: celex:31986L0457
   label: null
   source: http://data.europa.eu/eli/dir/1986/457/oj
+- type: repealed_by
+  target: pt:dre:480703:por
+  label: "Revogado o presente diploma, na redacção da Lei 4/93 de 12-Fev e dos Dec Lei 83/96 de 22-Jun, 412/99 de 15-Out e\
+    \ 531/99 de 10-Dez, sem prejuízo do disposto no nº 4 e na al. a) do nº 5 do art. 30º do DEC LEI.203/2004.18.08.2004.MS,\
+    \ DR.IS-A [194] de 18.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2004-480703
+  date: '2004-08-18'
 article_structure:
   article_count: 33
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:10Z'
   warnings: []
   errors: []
 ---
@@ -467,16 +499,16 @@ d) O artigo 60.º e anexo II do Decreto-Lei n.º 73/90, de 6 de Março, com a re
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Jorge Braga de Macedo - João de Deus Rogado Salvador Pinheiro - Arlindo Gomes de Carvalho - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 10 de Junho de 1992.**
+Promulgado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1992.**
+Referendado em 15 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Escala a que se refere o artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/152a00/31883194.pdf))](https://files.diariodarepublica.pt/1s/1992/07/152a00/31883194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/152a00/31883194.pdf)

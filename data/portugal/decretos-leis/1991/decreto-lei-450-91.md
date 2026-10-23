@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/450/1991/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1991-315567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9814ad0f9c787a3035a1978b6187688e53e1b57c6058c20590b0efe514bfbfb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1617fcb04d533a3f23f24f478dfbf3650d8b70c908f6945a5ea3d563c7577d4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,38 @@ relationships:
   target: pt:dre:176747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO RECTIFICAÇÃO NUMERO 262/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-A, NUMERO 301,\
+    \ 3 SUPLEMENTO, DE 31/12/91.\01/12/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165/1991/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/165/1991/05/07/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616782:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:176747:por
+  label: "Retificado o art. 13º pela DECL-RECT.262/91.31.12.1991.PCM, DR.IS-A [301-3ºSupl] de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/262-1991-176747
+  date: '1991-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:58Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +121,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, do [Decreto-Lei n.º 165/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1991-616782), de 7 de Maio, e do presente diploma, a segunda fase da reprivatização do Banco Espírito Santo e Comercial de Lisboa, S. A., consistente na alienação de 24000000 de acções de que o Estado é titular, correspondente a 60% do respectivo capital social.
+Artigo 1.º É aprovada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, do [Decreto-Lei n.º 165/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1991-616782), de 7 de Maio, e do presente diploma, a segunda fase da reprivatização do Banco Espírito Santo e Comercial de Lisboa, S. A., consistente na alienação de 24000000 de acções de que o Estado é titular, correspondente a 60% do respectivo capital social.
 
-###### Art. 2.º Na operação de alienação das acções a que se refere o artigo anterior observar-se-á o seguinte:
+Art. 2.º Na operação de alienação das acções a que se refere o artigo anterior observar-se-á o seguinte:
 
 a) Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um lote de acções correspondentes a 15% do capital a alienar nesta fase;
 
@@ -115,9 +133,9 @@ c) Será reservado para aquisição por residentes detentores de títulos de par
 
 d) Será reservado para aquisição por depositantes do banco um lote de acções correspondentes a 10% do capital a alienar nesta fase.
 
-###### Art. 3.º As acções a alienar ao abrigo do presente diploma, remanescentes das operações referidas no artigo anterior ou que, respeitando a essas reservas não hajam sido adquiridas pelos respectivos beneficiários, serão objecto de oferta pública de transacção em bolsa de valores.
+Art. 3.º As acções a alienar ao abrigo do presente diploma, remanescentes das operações referidas no artigo anterior ou que, respeitando a essas reservas não hajam sido adquiridas pelos respectivos beneficiários, serão objecto de oferta pública de transacção em bolsa de valores.
 
-###### Art. 4.º - 1 - O preço de venda das acções será fixado pelo Governo, em resolução do Conselho de Ministros, devendo ponderar-se, nessa fixação, o preço médio de venda em leilão competitivo na 1.ª fase de reprivatização, os factores patrimoniais ou de outro tipo que tenham influenciado, posteriormente, a valia do banco, as transacções posteriormente efectuadas e a cotação das acções em bolsa.
+Art. 4.º - 1 - O preço de venda das acções será fixado pelo Governo, em resolução do Conselho de Ministros, devendo ponderar-se, nessa fixação, o preço médio de venda em leilão competitivo na 1.ª fase de reprivatização, os factores patrimoniais ou de outro tipo que tenham influenciado, posteriormente, a valia do banco, as transacções posteriormente efectuadas e a cotação das acções em bolsa.
 
 2 - A venda das acções previstas no artigo 2.º será efectuada a preço fixo.
 
@@ -125,23 +143,23 @@ d) Será reservado para aquisição por depositantes do banco um lote de acçõe
 
 4 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade, em condições a fixar mediante resolução do Conselho de Ministros.
 
-###### Art. 5.º A resolução do Conselho de Ministros a que se refere o artigo 12.º fixará ainda as quantidades individuais máximas a que terá de obedecer a aquisição por trabalhadores, as quantidades mínimas e máximas, bem como as condições de rateio, quando necessário, respeitantes à aquisição por pequenos subscritores e emigrantes, a proporcionalidade a vigorar entre as acções detidas pelos accionistas e aquelas que poderão ser adquiridas por estes ao abrigo da reserva constante da alínea b) do artigo 2.º, as quantidades mínimas e máximas de acções a que se sujeita a aquisição por residentes detentores de títulos de participação e por depositantes do banco e as demais condições respeitantes à alienação visada pelo presente diploma.
+Art. 5.º A resolução do Conselho de Ministros a que se refere o artigo 12.º fixará ainda as quantidades individuais máximas a que terá de obedecer a aquisição por trabalhadores, as quantidades mínimas e máximas, bem como as condições de rateio, quando necessário, respeitantes à aquisição por pequenos subscritores e emigrantes, a proporcionalidade a vigorar entre as acções detidas pelos accionistas e aquelas que poderão ser adquiridas por estes ao abrigo da reserva constante da alínea b) do artigo 2.º, as quantidades mínimas e máximas de acções a que se sujeita a aquisição por residentes detentores de títulos de participação e por depositantes do banco e as demais condições respeitantes à alienação visada pelo presente diploma.
 
-###### Art. 6.º Para os efeitos deste diploma, entende-se como trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+Art. 6.º Para os efeitos deste diploma, entende-se como trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 7.º Nenhuma entidade, singular ou colectiva, poderá adquirir, ao abrigo das reservas constantes das alíneas a), c) e d) do artigo 2.º e do remanescente previsto no artigo 3.º, um número de acções superior ao correspondente a 15% do capital social do Banco, sob pena de nulidade da aquisição na parte que exceder o referido limite.
+Art. 7.º Nenhuma entidade, singular ou colectiva, poderá adquirir, ao abrigo das reservas constantes das alíneas a), c) e d) do artigo 2.º e do remanescente previsto no artigo 3.º, um número de acções superior ao correspondente a 15% do capital social do Banco, sob pena de nulidade da aquisição na parte que exceder o referido limite.
 
-###### Art. 8.º É aplicável à alienação regulada pelo presente diploma, com as necessárias adaptações, o disposto nos artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 165/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1991-616782), de 7 de Maio, com excepção do limite referido na alínea a) do n.º 1 do artigo 7.º, que passará a ser de 10%.
+Art. 8.º É aplicável à alienação regulada pelo presente diploma, com as necessárias adaptações, o disposto nos artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 165/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1991-616782), de 7 de Maio, com excepção do limite referido na alínea a) do n.º 1 do artigo 7.º, que passará a ser de 10%.
 
-###### Art. 9.º - 1 - As acções adquiridas ao abrigo da alínea b) do artigo 2.º que, em relação a cada um dos respectivos titulares, correspondam a uma percentagem igual ou superior a 0,5% do capital social não poderão ser oneradas, nem objecto de negócio jurídico que transmita a sua titularidade, ainda que com eficácia futura, antes de decorridos cinco anos sobre a data da aquisição, sob pena de nulidade do referido negócio.
+Art. 9.º - 1 - As acções adquiridas ao abrigo da alínea b) do artigo 2.º que, em relação a cada um dos respectivos titulares, correspondam a uma percentagem igual ou superior a 0,5% do capital social não poderão ser oneradas, nem objecto de negócio jurídico que transmita a sua titularidade, ainda que com eficácia futura, antes de decorridos cinco anos sobre a data da aquisição, sob pena de nulidade do referido negócio.
 
 2 - A nulidade cominada no número anterior e as previstas no artigo 6.º do [Decreto-Lei n.º 165/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1991-616782), de 7 de Maio, podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado.
 
 3 - Os direitos de aquisição constantes das alíneas b), c) e d) do artigo 2.º são intransmissíveis.
 
-###### Art. 10.º As aquisições por entidades estrangeiras serão limitadas globalmente, por forma a ser respeitado o limite imposto no artigo 8.º
+Art. 10.º As aquisições por entidades estrangeiras serão limitadas globalmente, por forma a ser respeitado o limite imposto no artigo 8.º
 
-###### Art. 11.º - 1 - No caso de não ser alienada a totalidade das acções referidas no artigo 1.º, o Governo poderá:
+Art. 11.º - 1 - No caso de não ser alienada a totalidade das acções referidas no artigo 1.º, o Governo poderá:
 
 a) Desde que aquelas acções não excedam a percentagem de 2,5% do capital social, oferecer as acções sobrantes, para aquisição, aos accionistas, depositantes e residentes detentores de títulos de participação que estejam em condições de beneficiar das reservas a que se referem as alíneas b), c) e d) do artigo 2.º, proporcionalmente à procura não satisfeita nessas operações;
 
@@ -149,20 +167,20 @@ b) Se aquelas acções excederem a percentagem de 2,5% do mesmo capital social, 
 
 2 - No caso de o Governo decidir reduzir o número das acções a alienar nesta fase, consoante se prevê na alínea b) do número anterior, as acções sobrantes, serão alienadas em fase subsequente de reprivatização do Banco.
 
-###### Art. 12.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 12.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 13.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, que pode subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo, a montagem e colocação das acções, bem como determinar as demais condições necessárias à realização das operações.
+Art. 13.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, que pode subdelegar no Secretário de Estado das Finanças, os poderes bastantes para contratar, por ajuste directo, a montagem e colocação das acções, bem como determinar as demais condições necessárias à realização das operações.
 
-###### Art. 14.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1991. - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 27 de Novembro de 1991.**
+Promulgado em 27 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Novembro de 1991.**
+Referendado em 28 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

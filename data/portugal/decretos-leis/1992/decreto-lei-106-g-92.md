@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1992, 1º Suplemento, Série I-A de 1992-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2648-(39) a 2648-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126a01/00390045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-g/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-g-1992-410288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a00de54aefd8a6a2c4ceffc76745343fd6324efb12a062406e4709444e3c89f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcaa50b7b2af7b42ff69a091df7f9f55e25eb23a6f623986e1e6f9c6e7c99967
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Arquivo Distrital
 - Arquivo Histórico do Ministério das Finanças
 - Arquivo Nacional da Torre do Tombo
 - Arquivos Nacionais-torre do Tombo
-- Pessoal Dirigente
 - Extinção de Serviços
-- Secretaria de Estado da Cultura
 - Instituto Português de Arquivos
 - Integração de Serviços
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:518266:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Extintos os Arquivos Nacionais-Torre do Tombo pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: amended_by
+  target: pt:dre:518266:por
+  label: "Totalmente revogado pelo Dec Lei.60/97.1997.03.20.MC,DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-1997-518266
+  date: '1997-03-20'
+- type: cites
+  target: pt:dre:178113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571459:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423391:por
+  label: "Rectificado pela DECL-RECT.138/92.31.08.1992.SG-PCM, DR.IS-A [200]Supl de 31.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/138-1992-423391
+  date: '1992-08-31'
 article_structure:
   article_count: 26
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:38Z'
   warnings: []
   errors: []
 ---
@@ -486,7 +514,9 @@ d) Elaborar e manter actualizado o inventário geral dos bens dos AN/TT e arquiv
 
 e) Assegurar o expediente necessário ao funcionamento da Secção.
 
-###### Artigo 15.º — Divisão de Comunicação
+###### Artigo 15.º
+
+##### Divisão de Comunicação
 
 1 - A Divisão de Comunicação compreende o Núcleo de Leitura Pública e o Núcleo de Biblioteca dos AN/TT.
 
@@ -614,15 +644,15 @@ A participação nas sessões do conselho consultivo confere ao membro, desde qu
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -664,4 +694,4 @@ MAPA II
 
 Quadro do pessoal dirigente dos Arquivos Nacionais/Torre do Tombo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/126a01/00390045.pdf))](https://files.diariodarepublica.pt/1s/1992/06/126a01/00390045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/126a01/00390045.pdf)

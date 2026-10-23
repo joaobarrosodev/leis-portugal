@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3992-(3) a 3992-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/188a01/00030006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/1992/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1992-684395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc16dbb7e744fdd9d083189fd82dd50ce0a33588b69ca6d64bc02e9432f937f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7413c2c81f8270dd61c2d60bbf54f50ca12044d880f660952a3ca7b787b42ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,12 @@ relationships:
   target: pt:dre:532862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241409:por
+  label: "Alterado o art. 8º do Dec Lei 388/86, na redacção dada pelo presente diploma, pelo DEC LEI.285/98.1998.09.17.MECO,\
+    \ DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1998-241409
+  date: '1998-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/179/1992/08/17/p/dre
   label: null
@@ -80,16 +86,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/428/1991/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/428/1991/10/31/p/dre
+- type: cites
+  target: pt:dre:220915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684396:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532862:por
+  label: "Revogado o Dec Lei 388/86 de 18-Nov, com a redacção do presente diploma pelo DEC LEI.264/2000.2000.10.18.MECO DR.IS-A\
+    \ [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2000-532862
+  date: '2000-10-18'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:20Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +142,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Instituto do Comércio Externo de Portugal, cuja orgânica consta do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, alterado pelo [Decreto-Lei n.º 428/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1991-321918), de 31 de Outubro, passa a designar-se ICEP - Investimentos, Comércio e Turismo de Portugal, adiante abreviadamente designado por ICEP.
+Artigo 1.º - 1 - O Instituto do Comércio Externo de Portugal, cuja orgânica consta do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, alterado pelo [Decreto-Lei n.º 428/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1991-321918), de 31 de Outubro, passa a designar-se ICEP - Investimentos, Comércio e Turismo de Portugal, adiante abreviadamente designado por ICEP.
 
 2 - As referências feitas ao Instituto do Comércio Externo de Portugal em diplomas, contratos ou quaisquer outros actos passam a considerar-se feitas ao ICEP e seus serviços.
 
-###### Art. 2.º Os artigos 1.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 13.º, 19.º, 25.º e 33.º do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1.º, 4.º, 5.º, 6.º, 7.º, 8.º, 11.º, 13.º, 19.º, 25.º e 33.º do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Natureza
 
@@ -314,16 +342,16 @@ h) O produto da comercialização do material promocional, designadamente impres
 
 5 - O pessoal contratado no estrangeiro fica sujeito à legislação local e a sua remuneração deve ser estabelecida, na medida do possível, de acordo com os usos aí vigentes.
 
-###### Art. 3.º Os encargos derivados da execução do presente diploma relativamente ao ano económico de 1992, quando não caibam no actual orçamento do ICEP, serão suportados pelas verbas do Gabinete do Ministro do Comércio e Turismo.
+Art. 3.º Os encargos derivados da execução do presente diploma relativamente ao ano económico de 1992, quando não caibam no actual orçamento do ICEP, serão suportados pelas verbas do Gabinete do Ministro do Comércio e Turismo.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Fernando José Barbosa Faria de Oliveira.
 
-**Promulgado em 7 de Agosto de 1992.**
+Promulgado em 7 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Agosto de 1992.**
+Referendado em 11 de Agosto de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19026-1962-519214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05d56d15b37bc976348c38c3efff5153ad1f77a60466b01b27a35ec8502759a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f08a88f09930ba9719ed35ca641d6212cd0bbac5224f4084cf5183ac0d295ecd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:29Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +99,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1679.º «Outros encargos»:
+Artigo 1679.º «Outros encargos»:
 
 13) «Quota-parte da província para fazer face aos encargos resultantes de conferências internacionais, organismos dela derivados e outras despesas correlativas» ... 250000$00
 
-###### Artigo 1683.º «Deslocações de pessoal»:
+Artigo 1683.º «Deslocações de pessoal»:
 
 2) «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
@@ -109,7 +121,7 @@ tomando como contrapartida igual quantia a sair do excesso de cobrança sobre a 
 
 ### CAPÍTULO 1.º — Impostos directos gerais
 
-###### Artigo 1.º «Contribuição comercial e industrial»:
+Artigo 1.º «Contribuição comercial e industrial»:
 
 a) «Industrial (por meio de licenças)» ... 3500000$00
 

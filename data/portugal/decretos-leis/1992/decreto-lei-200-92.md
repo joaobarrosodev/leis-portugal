@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/1992/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1992-233114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 634a83de95279e49a2f9a96f32390af4cc8283786b6bf1e5ce0dd01e97f24b01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 278fe6b4174297d9f35c21bd9e40085089bcbccf55cba2bfe82cbc01aa50ab75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Base das Lajes
-- Transmissão da Propriedade
 - Isenção Fiscal
 - Registo Predial
-- Açores
+- Transmissão da Propriedade
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:52Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +99,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Até à conclusão de todo o processo de transmissão da propriedade dos terrenos para o Estado, o registo dos prédios incorporados actualmente na Base Aérea n.º 4, sitos na freguesia das Lajes, município da Praia da Vitória, e ainda daqueles que se encontram funcionalmente dependentes da mesma base militar na situação de arrendados ao Estado, poderá ser efectuado a favor dos actuais proprietários mediante:
+Artigo 1.º - 1 - Até à conclusão de todo o processo de transmissão da propriedade dos terrenos para o Estado, o registo dos prédios incorporados actualmente na Base Aérea n.º 4, sitos na freguesia das Lajes, município da Praia da Vitória, e ainda daqueles que se encontram funcionalmente dependentes da mesma base militar na situação de arrendados ao Estado, poderá ser efectuado a favor dos actuais proprietários mediante:
 
 a) Declaração escrita e assinada pelo interessado ou seu procurador, com reconhecimento presencial de letra e assinatura, acompanhada de documento emitido pela pessoa a quem o Comando Aéreo dos Açores reconhecer legitimidade para receber rendas;
 
@@ -111,18 +111,18 @@ b) Exibição da caderneta predial actualizada, ou certidão de teor de inscriç
 
 4 - No caso de o prédio não se encontrar inscrito na matriz deverá ser feita prova de ter sido requerida a sua inscrição.
 
-###### Art. 2.º O registo a favor dos actuais proprietários, dos prédios referidos no artigo anterior é efectuado com dispensa do trato sucessivo.
+Art. 2.º O registo a favor dos actuais proprietários, dos prédios referidos no artigo anterior é efectuado com dispensa do trato sucessivo.
 
-###### Art. 3.º São isentos de emolumentos todos os registos e actos notariais lavrados nos termos do presente decreto-lei.
+Art. 3.º São isentos de emolumentos todos os registos e actos notariais lavrados nos termos do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 11 de Setembro de 1992.**
+Promulgado em 11 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES**
+O Presidente da República, MÁRIO SOARES
 
-**Referendado em 15 de Setembro de 1992.**
+Referendado em 15 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

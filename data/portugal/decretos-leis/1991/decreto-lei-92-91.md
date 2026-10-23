@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/1991/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1991-485453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f15499a6c77ab553bec15a3a409aad442480b089f5dba9de4984fcec038cdcf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a85d826ccb586c8e8e76658dd35233b4fc50375e601d4962a6323433a513dcab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Automóvel
 - Contingentação
 - Importação de Veículos
-relationships: []
+- Indústria Automóvel
+relationships:
+- type: cites
+  target: pt:dre:406125:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:08Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +100,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 406/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1987-406125), de 31 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 406/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1987-406125), de 31 de Dezembro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - A importação de veículos automóveis montados (CBU) originários de terceiros países, com excepção dos preferenciais, posições 8702, 8703 e 8704 (Nomenclatura Combinada), com exclusão dos códigos 8703.10, 8704.10, 8704.21.10, 8704.22.10, 8704.23.10, 8704.31.10 e 8704.32.10, fica sujeita a restrições quantitativas.
+Artigo 1.º - 1 - A importação de veículos automóveis montados (CBU) originários de terceiros países, com excepção dos preferenciais, posições 8702, 8703 e 8704 (Nomenclatura Combinada), com exclusão dos códigos 8703.10, 8704.10, 8704.21.10, 8704.22.10, 8704.23.10, 8704.31.10 e 8704.32.10, fica sujeita a restrições quantitativas.
 
 2 - É livre a importação no estado CKD (veículos para montar) dos veículos automóveis das posições 8702, 8703 e 8704, bem como dos automóveis montados (CBU) dos códigos 8703.10, 8704.10, 8704.21.10, 8704.22.10, 8704.23.10, 8704.31.10 e 8704.32.10, ficando, no entanto, sujeita a vigilância estatística.
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Fevereiro de 1991.**
+Promulgado em 6 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Fevereiro de 1991.**
+Referendado em 8 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/251a00/56065608.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/428/1991/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1991-321918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c1b9ac944acafec42088bb669e1e9d820767abede4168e2442996617b297011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef22d668511c8e7991d8c08a46dc2559d4e53d31b16e679e3c37be7a0e0434b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,39 @@ relationships:
   target: pt:dre:532862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684395:por
+  label: "ALTERADOS OS ARTIGOS 1, 4, 5, 6, 7, 8, 11, 13, 19, 25 E 33 (NA REDACÇÃO DADA AO DECRETO LEI 388/86, DE 18 DE NOVEMBRO)\
+    \ PELO DECRETO LEI 180/92, PUBLICADO NO DR.IS-A, 188, SUPL, DE 920817.\0DE 920817.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1992-684395
+- type: amended_by
+  target: pt:dre:684396:por
+  label: Transferidas as atribuições e competências cometidas ao extinto Instituto Português do Turismo, para o Instituto
+    do Comércio Externo de Portugal, criado pelo Dec Lei n.º 115/82, de 14-abr, com as atribuições e competências estabelecidas
+    pelo Dec Lei 388/86, de 18-nov, e alteradas pelo presente diploma, pelo(a) Decreto-Lei n.º 179/92 - Diário da República
+    n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1992-684396
+  date: '1992-08-17'
+- type: cites
+  target: pt:dre:220915:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:532862:por
+  label: "Revogado o Dec Lei 388/86 de 18-Nov, com a redacção do presente diploma pelo DEC LEI.264/2000.2000.10.18.MECO DR.IS-A\
+    \ [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2000-532862
+  date: '2000-10-18'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:24Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +136,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 7.º a 14.º, 23.º, 28.º, 31.º e 33.º do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 7.º a 14.º, 23.º, 28.º, 31.º e 33.º do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Naureza
 
@@ -269,7 +292,7 @@ d) Pela assinatura de procurador legalmente constituído, nos termos e no âmbit
 
 4 - ...
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915) os artigos 14.º-A e 14.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915) os artigos 14.º-A e 14.º-B, com a seguinte redacção:
 
 ###### Artigo 14.º-A — Reuniões
 
@@ -279,16 +302,16 @@ O conselho geral reúne ordinariamente uma vez por trimestre e extraordinariamen
 
 Os membros do conselho geral que não sejam simultaneamente membros do conselho de administração têm direito a uma remuneração e às regalias que forem fixadas em despacho conjunto dos Ministros das Finanças e da tutela.
 
-###### Art. 3.º Sem prejuízo do disposto no artigo 12.º do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), na redacção dada pelo presente diploma, os membros da actual comissão executiva mantêm no conselho de administração agora criado os respectivos estatutos até ao termo dos mandatos em curso.
+Art. 3.º Sem prejuízo do disposto no artigo 12.º do [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), na redacção dada pelo presente diploma, os membros da actual comissão executiva mantêm no conselho de administração agora criado os respectivos estatutos até ao termo dos mandatos em curso.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Outubro de 1991.**
+Promulgado em 16 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

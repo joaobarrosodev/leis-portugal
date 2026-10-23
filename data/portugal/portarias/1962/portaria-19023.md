@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19023-1962-519225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42444682db3cd3e54acff85c51dbb6a1c38212c1ff3d583a78e18c50484a5f76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ada59ea10fd0438e353495d7b402a0c3577dc1b93ac5a4a0ca9fc666a99e3d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:29Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Direcção Provincial dos Serviços de Agricultura e Florestas
 
 Despesas com o pessoal:
 
-###### Artigo 1123.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1123.º «Remunerações certas ao pessoal em exercício»:
 
 1) «Pessoal dos quadros aprovados por lei» ... 250000$00
 
@@ -99,7 +103,7 @@ Direcção Provincial dos Serviços de Veterinária
 
 Despesas com o pessoal:
 
-###### Artigo 1133.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1133.º «Remunerações certas ao pessoal em exercício»:
 
 1) «Pessoal dos quadros aprovados por lei» ... 150000$00
 

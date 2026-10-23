@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/238a00/53865387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/404/1991/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1991-289071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3989e384434d39d7e863f1b166e7a61ddd41d47d85bae421cd4aa01f9daaecf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d85a8c4587a1d212ff2c2ea7ba15e1aa9a504606703c51419f1a4adfafed7409
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Serviço
+- Pessoal Dirigente
 - Secretário Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Aditado um art. 8º pela LEI.118/99.1999.08.11.AR, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:691438:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:58Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +183,12 @@ Aplica-se o regime jurídico do contrato individual de trabalho em tudo o que n�
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Joaquim Fernando Nogueira - Mário Fernando de Campos Pinto - Lino Dias Miguel - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Agosto de 1991.**
+Referendado em 29 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

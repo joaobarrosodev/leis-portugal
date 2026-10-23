@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de475827e0d3b221e17d586b5b855dafbe0ce67e1a9935a046380a8625a17fde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49fbc7850ffc571dec1e7a3b98ee672bac61c03752d2565664462a045800ec3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,66 @@ reuse:
 subjects:
 - Aeroporto
 - ANAM
-- Sociedade Anónima
 - Capital Social
 - Criação de Serviços
 - Estatuto
 - Extinção de Serviços
 - Gabinete para os Aeroportos da Região Autónoma da Madeira
 - Madeira.região Autónoma
+- Sociedade Anónima
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:692200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200002:por
+  label: Alterados o art. 2.º do diploma preambular, assim como o art. 4.º dos Estatutos da ANAM, S.A., constantes do anexo
+    do presente diploma, pelo(a) Decreto-Lei n.º 58/92 - Diário da República n.º 87/1992, Série I-A de 1992-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1992-200002
+  date: '1992-04-13'
+- type: amended_by
+  target: pt:dre:369428:por
+  label: Alterado o art. 1.º e aditado o art. 8.º pelo(a) Decreto-Lei n.º 273/93 - Diário da República n.º 181/1993, Série
+    I-A de 1993-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-1993-369428
+  date: '1993-08-04'
+- type: amended_by
+  target: pt:dre:265553:por
+  label: "Alterado o art. 2º, na redação do Dec Lei 58/92, de 13-Abr, pelo DEC LEI.142/94.1994.05.23.MOPTC, DR.IS-A [119],\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1994-265553
+  date: '1994-05-23'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Aditado um art. 6º-A, pelo art. 47º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a ANAM-Aeroportos e Navegação Aérea da Madeira, S.A.,\
+    \ criada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:228847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:03Z'
   warnings: []
   errors: []
 ---
@@ -114,63 +151,63 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A.
+Artigo 1.º - 1 - É criada a sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A.
 
 2 - A ANAM, S. A., rege-se pela lei geral ou especial que lhe seja aplicável, pelo presente diploma e respectivos estatutos, que constituem o anexo ao presente diploma, do qual faz parte integrante.
 
 3 - É vedada à ANAM, S. A., a contracção de empréstimos.
 
-###### Art. 2.º - 1 - O capital social da ANAM, S. A., e de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 80%, e pela Região Autónoma da Madeira (RAM), em 20%.
+Art. 2.º - 1 - O capital social da ANAM, S. A., e de 50000000$00 e encontra-se integralmente subscrito pelo Estado, em 80%, e pela Região Autónoma da Madeira (RAM), em 20%.
 
 2 - As acções representativas do capital de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro e as da RAM pelo Governo Regional, através da Secretaria Regional das Finanças.
 
 3 - Os direitos do Estado, como accionista da sociedade, são exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações de entre os membros do conselho de administração da ANA - Aeroportos e Navegação Aérea, E. P.
 
-###### Art. 3.º O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração.
+Art. 3.º O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração.
 
-###### Art. 4.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na ANAM, S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.
+Art. 4.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na ANAM, S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 2 - A situação dos trabalhadores da ANAM, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou tempo de requisição.
 
-###### Art. 5.º - 1 - É por esta forma convocada a assembleia geral da ANAM, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor deste diploma, com o objectivo de proceder à eleição dos membros dos órgãos sociais.
+Art. 5.º - 1 - É por esta forma convocada a assembleia geral da ANAM, S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor deste diploma, com o objectivo de proceder à eleição dos membros dos órgãos sociais.
 
 2 - Até à data de posse dos titulares dos órgãos sociais da ANAM, S. A., o exercício das competências fixadas nos estatutos para os conselhos de administração e fiscal é atribuído ao conselho de gerência da ANA, E. P.
 
-###### Art. 6.º - 1 - É extinto o Gabinete dos Aeroportos da Região Autónoma da Madeira (GARAM), criado pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho, cuja designação foi definida pelo [Decreto-Lei n.º 137/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1986-228847), de 12 de Junho.
+Art. 6.º - 1 - É extinto o Gabinete dos Aeroportos da Região Autónoma da Madeira (GARAM), criado pelo [Decreto-Lei n.º 221/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1981-579740), de 17 de Julho, cuja designação foi definida pelo [Decreto-Lei n.º 137/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1986-228847), de 12 de Junho.
 
 2 - É transferida para a ANAM, S. A., a universalidade de direitos e obrigações de que o GARAM seja titular.
 
-###### Art. 7.º O presente decreto-lei entra em vigor simultaneamente com o diploma que outorgar a concessão da exploração dos aeroportos da Região Autónoma da Madeira à ANAM, S. A.
+Art. 7.º O presente decreto-lei entra em vigor simultaneamente com o diploma que outorgar a concessão da exploração dos aeroportos da Região Autónoma da Madeira à ANAM, S. A.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Novembro de 1991.**
+Promulgado em 27 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Novembro de 1991.**
+Referendado em 29 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos
 
 ### CAPÍTULO I — Denominação, objecto, duração e sede
 
-###### Artigo 1.º A sociedade denomina-se ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., adiante abreviadamente designada apenas por sociedade.
+Artigo 1.º A sociedade denomina-se ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., adiante abreviadamente designada apenas por sociedade.
 
-###### Art. 2.º O objecto principal da sociedade consistirá no estudo, planeamento, construção e exploração dos aeroportos da Região Autónoma da Madeira.
+Art. 2.º O objecto principal da sociedade consistirá no estudo, planeamento, construção e exploração dos aeroportos da Região Autónoma da Madeira.
 
-###### Art. 3.º A duração da sociedade é por tempo indeterminado e a sua sede situa-se na Rua do Dr. Pestana Júnior, Campo da Barca, Funchal.
+Art. 3.º A duração da sociedade é por tempo indeterminado e a sua sede situa-se na Rua do Dr. Pestana Júnior, Campo da Barca, Funchal.
 
 ### CAPÍTULO II — Capital social
 
-###### Art. 4.º O capital inicial é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 40000000$00 e pela Região Autónoma da Madeira, no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.
+Art. 4.º O capital inicial é de 50000000$00, integralmente realizado em dinheiro pelo Estado, no montante de 40000000$00 e pela Região Autónoma da Madeira, no montante de 10000000$00, encontrando-se representado por acções nominativas com o valor nominal de 1000000$00 cada uma.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 5.º Os órgãos da sociedade são os seguintes:
+Art. 5.º Os órgãos da sociedade são os seguintes:
 
 a) A assembleia geral;
 
@@ -178,7 +215,7 @@ b) O conselho de administração;
 
 c) O conselho fiscal.
 
-###### Art. 6.º - 1 - A assembleia geral é constituída por todos os accionistas.
+Art. 6.º - 1 - A assembleia geral é constituída por todos os accionistas.
 
 2 - A cada 100 acções corresponde um voto na assembleia geral.
 
@@ -188,7 +225,7 @@ c) O conselho fiscal.
 
 5 - Nenhum accionista se poderá representar por duas ou mais pessoas.
 
-###### Art. 7.º - 1 - Compete à assembleia geral:
+Art. 7.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração e discutir e votar o balanço, as contas e o parecer do conselho fiscal;
 
@@ -204,19 +241,19 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
 
-###### Art. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que é ainda constituída por um vice-presidente e um secretário, eleitos pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que é ainda constituída por um vice-presidente e um secretário, eleitos pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - O mandato dos membros da mesa da assembleia geral é de três anos, renovável.
 
-###### Art. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando a reunião seja requerida por accionistas que representem, pelo menos, 20% do capital.
+Art. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário, ou quando a reunião seja requerida por accionistas que representem, pelo menos, 20% do capital.
 
-###### Art. 10.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais, dos quais dois poderão ser eleitos sem funções executivas.
+Art. 10.º - 1 - O conselho de administração é composto por um presidente e por dois ou quatro vogais, dos quais dois poderão ser eleitos sem funções executivas.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidas pelo próprio conselho de administração até que a primeira assembleia geral sobre elas delibere definitivamente.
 
-###### Art. 11.º - 1 - Ao conselho de administração compete, além da prossecução das atribuições gerais que por lei lhe são conferidas:
+Art. 11.º - 1 - Ao conselho de administração compete, além da prossecução das atribuições gerais que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -230,7 +267,7 @@ e) Constituir mandatários com poderes que julgue convenientes, incluindo os de 
 
 2 - O conselho de administração poderá delegar numa comissão executiva, ou em qualquer dos seus membros, alguns dos seus poderes.
 
-###### Art. 12.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 12.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -242,13 +279,13 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 13.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez por mês e sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de dois administradores.
+Art. 13.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez por mês e sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de dois administradores.
 
 2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal expressamente reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente, ou quem legalmente o substitua, voto de qualidade.
 
-###### Art. 14.º - 1 - A sociedade obriga-se:
+Art. 14.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -260,13 +297,13 @@ b) Pela assinatura dos mandatários constituídos, no âmbito e nos termos do co
 
 4 - O conselho de administração poderá deliberar, dentro dos limites legais, que certos documentos da Sociedade sejam assinados por processos mecânicos ou chancela.
 
-###### Art. 15.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, proposto pelo Ministro das Finanças, composto por um presidente e dois vogais e eleito em assembleia geral.
+Art. 15.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, proposto pelo Ministro das Finanças, composto por um presidente e dois vogais e eleito em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
 3 - O mandato dos membros do conselho fiscal é de três anos, renovável.
 
-###### Art. 16.º Ao conselho fiscal compete, em especial:
+Art. 16.º Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;
 
@@ -278,16 +315,16 @@ d) Examinar as situações periódicas apresentadas pelo conselho de administra�
 
 e) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais.
 
-###### Art. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos estando presente a maioria dos membros em exercício.
+Art. 17.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos estando presente a maioria dos membros em exercício.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 18.º Constituem receitas da sociedade as que resultem da prossecução do seu objecto, designadamente as correspondentes à concessão da exploração dos aeroportos da Região Autónoma da Madeira.
+Art. 18.º Constituem receitas da sociedade as que resultem da prossecução do seu objecto, designadamente as correspondentes à concessão da exploração dos aeroportos da Região Autónoma da Madeira.
 
-###### Art. 19.º A sociedade está sujeita à fiscalização do Tribunal de Contas nas operações que estiverem directa ou indirectamente relacionadas com a construção e ampliação dos aeroportos da Região Autónoma da Madeira.
+Art. 19.º A sociedade está sujeita à fiscalização do Tribunal de Contas nas operações que estiverem directa ou indirectamente relacionadas com a construção e ampliação dos aeroportos da Região Autónoma da Madeira.
 
-###### Art. 20.º É obrigatória a realização de concursos públicos sempre que, em sede de trabalhos de construção civil nos aeroportos da Região Autónoma da Madeira, seja necessário recorrer a serviços externos.
+Art. 20.º É obrigatória a realização de concursos públicos sempre que, em sede de trabalhos de construção civil nos aeroportos da Região Autónoma da Madeira, seja necessário recorrer a serviços externos.
 
-###### Art. 21.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 21.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade rege-se pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.

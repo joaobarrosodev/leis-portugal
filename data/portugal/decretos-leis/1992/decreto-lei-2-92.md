@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 11/1992, 1º Suplemento, Série I-A de 1992-01-14
   number: '11'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 274-(3) a 274-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/011a01/00030005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/1992/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1992-169419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19dc4995be190442ff781d786cf41b6e8343b34c829fc709998ad52f54fedb97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 379fa2ae929097186b17f70f0fed8b55f0212e7227e7f35946a1b0e00a57b26e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Sociedade Anónima
 - Companhia de Seguros Mundial Confiança
 - Conselho de Ministros
 - Delegação de Competências
 - Governo XII
 - Ministro das Finanças
 - Privatização
-relationships: []
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556663:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:45Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +108,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da Companhia de Seguros Mundial Confiança, S. A.
+Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da Companhia de Seguros Mundial Confiança, S. A.
 
 2 - O capital social é de 10000000 de contos e encontra-se realizado pelos valores integrantes do património da sociedade, sendo representado por 10000000 de acções de valor nominal de 1000$00 cada uma.
 
 3 - As acções representativas do capital da sociedade poderão ser escriturais e serão, obrigatoriamente, nominativas ou ao portador em regime de registo.
 
-###### Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes 2500000 acções, correspondentes a 25% do capital a alienar.
+Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes 2500000 acções, correspondentes a 25% do capital a alienar.
 
 2 - Será reservado para aquisição pelo público em geral, em leilão competitivo, um montante de 3500000 acções, correspondentes a 35% do capital a alienar.
 
@@ -116,7 +124,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Para os efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas que se encontram nas condições definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar mediante resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.
 
@@ -126,11 +134,11 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Nos 15 dias subsequentes ao termo do processo de reprivatização, a sociedade publicará, nos termo prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular.
 
-###### Art. 4.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
+Art. 4.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções em condições a fixar na resolução do Conselho de Ministros.
 
-###### Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 3.º não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa durante o período de intransmissibilidade previsto no n.º 1.
 
@@ -140,7 +148,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os contratos-promessa, contratos de opção ou semelhantes pelos quais seja convencionada a alienação futura das acções quando celebrados antes de iniciado ou terminado o período de intransmissibilidade.
 
-###### Art. 6.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como as condições de alienação das acções integrantes do lote a que se refere o n.º 3 do artigo 2.º
+Art. 6.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como as condições de alienação das acções integrantes do lote a que se refere o n.º 3 do artigo 2.º
 
 2 - Exceptuadas as transmissões entre os accionistas que compõem o lote referido no número anterior, as acções adquiridas nos termos do n.º 3 do artigo 2.º são intransmissíveis durante cinco anos.
 
@@ -150,7 +158,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de intransmissibilidade a que as primeiras estão sujeitas.
 
-###### Art. 7.º - 1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 25% do capital da sociedade.
+Art. 7.º - 1 - No processo de reprivatização não podem ser adquiridas pelo conjunto das entidades estrangeiras acções que excedam 25% do capital da sociedade.
 
 2 - Quando celebrados antes da aquisição no processo de reprivatização, são nulos:
 
@@ -160,7 +168,7 @@ b) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a ent
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 8.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio, mas por conta de entidades estrangeiras, e bem assim são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
+Art. 8.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio, mas por conta de entidades estrangeiras, e bem assim são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
 
 2 - São nulos os acordos pelos quais, durante o período de intransmissibilidade referido no n.º 2 do artigo 6.º, entidades portuguesas adquiram acções da sociedade reprivatizada em nome próprio, mas por conta de entidades estrangeiras.
 
@@ -168,7 +176,7 @@ c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a
 
 4 - No caso do n.º 1, as acções adquiridas são consideradas, para todos os efeitos, pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 9.º - 1 - A aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada observam o seguinte:
+Art. 9.º - 1 - A aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada observam o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito de voto representativas de mais de 25% do capital social com direito a voto;
 
@@ -178,7 +186,7 @@ c) Nas sociedades ordinárias ou gestoras de participações sociais, titulares 
 
 2 - Para efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e as provas que considerar necessárias.
 
-###### Art. 10.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 10.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As pessoas singulares de nacionalidade estrangeira;
 
@@ -192,28 +200,28 @@ d) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva declarará, por escrito, se se encontra ou não em relação prevista no número anterior com outra entidade também concorrente.
 
-###### Art. 11.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 11.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 12.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 12.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 13.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e colocação das acções e garantia da sua colocação e determinar as demais condições que se afigurem convenientes, incluindo o ajuste directo da operação.
+Art. 13.º Para a realização das operações de reprivatização previstas e reguladas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e colocação das acções e garantia da sua colocação e determinar as demais condições que se afigurem convenientes, incluindo o ajuste directo da operação.
 
-###### Art. 14.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Art. 14.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
 
-###### Art. 15.º - 1 - Nos 30 dias subsequentes à alienação das acções será convocada a assembleia geral de accionistas, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 15.º - 1 - Nos 30 dias subsequentes à alienação das acções será convocada a assembleia geral de accionistas, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias subsequentes à conclusão da reprivatização prevista no presente diploma, a sociedade deverá proceder às necessárias adaptações estatutárias.
 
-###### Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1991. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 7 de Janeiro de 1992.**
+Promulgado em 7 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Janeiro de 1992.**
+Referendado em 10 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

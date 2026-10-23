@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/1992/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1992-283921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 747d2f39e2f73460c01188034ed40f010d0d0c761055cc290b19f7942a9676c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b616c29ed188bf1661ba257ea4f29641df3b40d772bbfae58ed3f79572a9e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - CEE
-- Seguro
 - Livre Prestação de Serviços
+- Seguro
 - Seguro de Responsabilidade Civil Automóvel
 relationships:
 - type: cites
@@ -85,15 +85,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1990/618/oj
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:05Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +112,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 34.º e 46.º do Decreto-Lei n.º 352/91, de 20 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 34.º e 46.º do Decreto-Lei n.º 352/91, de 20 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -170,7 +170,7 @@ h) [Anterior alínea g)].
 
 2 - Os contratos de seguro obrigatório dos riscos classificados no ramo de responsabilidade civil de veículos terrestres motor, cuja celebração seja recusada por duas seguradoras, encontram-se sujeitos à legislação nacional prevista para o seguro obrigatório de responsabilidade civil automóvel.
 
-###### Art. 2.º É aditado ao capítulo II do Decreto-Lei n.º 352/91, de 20 de Setembro, o artigo 21.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao capítulo II do Decreto-Lei n.º 352/91, de 20 de Setembro, o artigo 21.º-A, com a seguinte redacção:
 
 ###### Artigo 21.º-A — Regime especial
 
@@ -180,16 +180,16 @@ h) [Anterior alínea g)].
 
 3 - Ao representante referido nos números anteriores é vedado exercer qualquer actividade de seguro directo por conta da empresa representada.
 
-###### Art. 3.º O presente diploma entra em vigor em 20 de Novembro de 1992.
+Art. 3.º O presente diploma entra em vigor em 20 de Novembro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

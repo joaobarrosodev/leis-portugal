@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19101-1962-516701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1232a43def18e7ef3f434b90ae628bffc4f9dd96a3091d70ab8dfc2511ca627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34ed84418079c167dd60a586ca0dcfb72ba67ffbdf6bccaab36651781c4b9e7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559045:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:04Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +102,19 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Os artigos 11.º, 13.º e 14.º passam a ter a seguinte redacção:
 
-###### Art. 11.º A fiscalização do fabrico de margarina compete aos serviços provinciais de economia, que, quando o julgarem necessário, poderão destacar um funcionário a fim de acompanhar esse fabrico, verificar as matérias-primas usadas e fiscalizar o cumprimento do disposto no artigo 9.º
+Art. 11.º A fiscalização do fabrico de margarina compete aos serviços provinciais de economia, que, quando o julgarem necessário, poderão destacar um funcionário a fim de acompanhar esse fabrico, verificar as matérias-primas usadas e fiscalizar o cumprimento do disposto no artigo 9.º
 
 § único. ...
 
 ...
 
-###### Art. 13.º É aplicável às infracções ao disposto neste diploma e à graduação da responsabilidade dos seus agentes o preceituado no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com as alterações introduzidas pela [Portaria n.º 18381](https://diariodarepublica.pt/dr/detalhe/portaria/18381-1961-559045), de 5 de Abril de 1961, que tornou aquele decreto-lei extensivo ao ultramar.
+Art. 13.º É aplicável às infracções ao disposto neste diploma e à graduação da responsabilidade dos seus agentes o preceituado no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com as alterações introduzidas pela [Portaria n.º 18381](https://diariodarepublica.pt/dr/detalhe/portaria/18381-1961-559045), de 5 de Abril de 1961, que tornou aquele decreto-lei extensivo ao ultramar.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 14.º A competência para proceder à instrução preparatória dos processos referentes a crimes ou contravenções previstos neste diploma pertence aos serviços provinciais de economia, com observância do disposto no referido [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 14.º A competência para proceder à instrução preparatória dos processos referentes a crimes ou contravenções previstos neste diploma pertence aos serviços provinciais de economia, com observância do disposto no referido [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
 2.º Este diploma entra em vigor seis meses após a publicação no Diário do Governo.
 

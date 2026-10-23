@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/385/1991/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1991-288066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 987036a2859ac00db299f1001f16fdadee1c503790173c33d8230b69830d5dbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe3dd6ab2339b80ceded9ba1e30ab2806fd38eba786beb5f711d2a50fa431e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Portugal
 - Fundo Africano de Desenvolvimento
+- Portugal
 - Quotização
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:32Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +95,13 @@ Considerando que, no quadro desta 6.ª reconstituição de recursos, se encontra
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Em representação do Governo, fica o Ministro das Finanças autorizado a dar o seu acordo ao aumento da quota de Portugal no Fundo Africano de Desenvolvimento (FAD) de 41,675 para 58,688 milhões de unidades de conta do Fundo (FUA), através da subscrição de 17,013 milhões de FUA, equivalentes a 2996682689$00.
+Artigo 1.º - 1 - Em representação do Governo, fica o Ministro das Finanças autorizado a dar o seu acordo ao aumento da quota de Portugal no Fundo Africano de Desenvolvimento (FAD) de 41,675 para 58,688 milhões de unidades de conta do Fundo (FUA), através da subscrição de 17,013 milhões de FUA, equivalentes a 2996682689$00.
 
 2 - A subscrição a que se refere o número anterior será feita através de notas promissórias, em três prestações, não podendo a primeira ser inferior a 29% e a segunda a 33% do valor total da subscrição, devendo a terceira ser subscrita até 31 de Janeiro de 1994.
 
-###### Art. 2.º Fica o Ministro das Finanças autorizado a praticar todos os actos necessários à realização do previsto no artigo anterior, nomeadamente emitir os títulos de obrigação, representados por promissórias, nos termos do regime aplicável à 6.ª reconstituição de recursos do FAD.
+Art. 2.º Fica o Ministro das Finanças autorizado a praticar todos os actos necessários à realização do previsto no artigo anterior, nomeadamente emitir os títulos de obrigação, representados por promissórias, nos termos do regime aplicável à 6.ª reconstituição de recursos do FAD.
 
-###### Art. 3.º Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+Art. 3.º Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
 
 a) O número de ordem;
 
@@ -113,18 +113,18 @@ d) Os diplomas que autorizam a emissão;
 
 e) Os direitos, isenções e garantias de que gozam e que são os dos restantes títulos da dívida pública que lhes forem aplicáveis.
 
-###### Art. 4.º As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com a faculdade de delegação, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
+Art. 4.º As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com a faculdade de delegação, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

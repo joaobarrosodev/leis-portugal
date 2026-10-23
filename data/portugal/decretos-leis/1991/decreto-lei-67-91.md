@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/033a00/06110612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/1991/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1991-478255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cdabe8daeac7de222b101774f23b2140459115416d7cb41eecd3a57f1811eb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b52f010c616c029782884ea41f31026423beae2aca16a7b2d36ea562935b95c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Produto Cárneo
 - Circulação de GADO
 - Fraude Comercial
+- GADO
+- Produto Cárneo
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:147215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557468:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogado pelo DEC LEI.245/96.1996.12.20.MADRP DR.IS-A [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:29Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +123,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 6.º, 8.º, 18.º, 21.º e 28.º do [Decreto-Lei n.º 290/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1990-557468), de 20 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 6.º, 8.º, 18.º, 21.º e 28.º do [Decreto-Lei n.º 290/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1990-557468), de 20 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -124,7 +141,7 @@ d) ...
 
 4 - ...
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -156,7 +173,7 @@ j) ...
 
 6 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - ...
 
@@ -168,7 +185,7 @@ j) ...
 
 6 - Quando provenientes das Regiões Autónomas dos Açores e da Madeira, as mercadorias, acompanhadas da documentação legalmente exigível, circulam em território do continente até ao destino a coberto da guia de circulação prevista no presente diploma, sempre com referência ao documento emitido pela Direcção-Geral da Pecuária no acto de desembarque.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 a) Livro de existências;
 
@@ -188,9 +205,9 @@ c) ...
 
 7 - ...
 
-###### Art. 18.º O processamento das contra-ordenações e a aplicação das coimas previstas no artigo 15.º competem à Guarda Fiscal e à Direcção-Geral das Alfândegas, nos termos do regime jurídico aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro, e os das previstas no artigo 16.º, à Direcção-Geral da Pecuária.
+Art. 18.º O processamento das contra-ordenações e a aplicação das coimas previstas no artigo 15.º competem à Guarda Fiscal e à Direcção-Geral das Alfândegas, nos termos do regime jurídico aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro, e os das previstas no artigo 16.º, à Direcção-Geral da Pecuária.
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 2 - A requerimento do interessado, a carne ou produtos cárneos considerados próprios para consumo poderão ser-lhe entregues mediante prestação de caução, por meio de depósito ou de fiança bancária, de montante equivalente ao valor que lhes for atribuído em exame directo de avaliação.
 
@@ -200,18 +217,18 @@ c) ...
 
 5 - A tramitação processual da reapreciação e os respectivos encargos, bem como a definição e composição do órgão competente para a reapreciação, serão objecto de portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 28.º O presente diploma entra em vigor 180 dias após a data da sua publicação.
+Art. 28.º O presente diploma entra em vigor 180 dias após a data da sua publicação.
 
-###### Art. 2.º O presente diploma reporta os seus efeitos a 20 de Setembro de 1990.
+Art. 2.º O presente diploma reporta os seus efeitos a 20 de Setembro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

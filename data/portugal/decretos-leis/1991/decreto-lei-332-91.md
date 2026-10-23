@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/332/1991/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1991-304536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41f7e03014ec8ba2864f37bd198992c7cec039e59d0aa5a1e6da6a07cc870df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a72574a8b9c6cf104a35dfe98bda1cb5336fa978373972badd0c334d5cf54e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,65 @@ subjects:
 - Indemnização
 - Nacionalização
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 236/91, DE 31 DE OUTUBRO, PUBLICADA NO DR.IS-A, 251, 4 SUPL.\0 4 SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/40/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:196761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691433:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:27Z'
   warnings: []
   errors: []
 ---
@@ -111,17 +156,17 @@ N uso da autorização legislativa concedida pela [Lei n.º 40/91](https://diari
 
 ### CAPÍTULO I — Cálculo do valor da indemnização
 
-###### Artigo 1.º O cálculo das indemnizações a atribuir aos titulares de acções ou partes de capital de empresas nacionalizadas será apurado com base no valor do património líquido da respectiva empresa, no valor das cotações a que as respectivas acções hajam sido efectivamente transaccionadas na Bolsa de Valores de Lisboa, bem como no valor da efectiva rendibilidade da empresa.
+Artigo 1.º O cálculo das indemnizações a atribuir aos titulares de acções ou partes de capital de empresas nacionalizadas será apurado com base no valor do património líquido da respectiva empresa, no valor das cotações a que as respectivas acções hajam sido efectivamente transaccionadas na Bolsa de Valores de Lisboa, bem como no valor da efectiva rendibilidade da empresa.
 
-###### Art. 2.º O valor do património líquido de cada empresa será determinado a partir do balanço de gestão, na data da nacionalização, ou, na sua falta, em 31 de Dezembro de 1974, e, em ambos os casos, de acordo com as especificações técnicas aprovadas pelas Resoluções do Conselho de Ministros n.os 243/80, de 11 de Julho, e 40/82, de 10 de Março, e pela resolução do Conselho de Ministros de 23 de Maio de 1985, publicada no Diário da República, 2.ª série, de 22 de Agosto, quanto à avaliação patrimonial de empresas nacionalizadas, em tudo o que não contrarie o disposto no presente diploma.
+Art. 2.º O valor do património líquido de cada empresa será determinado a partir do balanço de gestão, na data da nacionalização, ou, na sua falta, em 31 de Dezembro de 1974, e, em ambos os casos, de acordo com as especificações técnicas aprovadas pelas Resoluções do Conselho de Ministros n.os 243/80, de 11 de Julho, e 40/82, de 10 de Março, e pela resolução do Conselho de Ministros de 23 de Maio de 1985, publicada no Diário da República, 2.ª série, de 22 de Agosto, quanto à avaliação patrimonial de empresas nacionalizadas, em tudo o que não contrarie o disposto no presente diploma.
 
-###### Art. 3.º - 1 - O valor a atribuir às participações financeiras detidas pelas empresas nacionalizadas será o valor médio entre os resultados do balanço da participante e do balanço da participada, reconduzido este último à situação líquida da empresa.
+Art. 3.º - 1 - O valor a atribuir às participações financeiras detidas pelas empresas nacionalizadas será o valor médio entre os resultados do balanço da participante e do balanço da participada, reconduzido este último à situação líquida da empresa.
 
 2 - No caso de não ser possível obter os elementos necessários ao cálculo referido no número anterior, manter-se-á o valor já fixado.
 
-###### Art. 4.º Tratando-se de empresas que, à data da nacionalização, fossem detentoras de concessões, serão consideradas, para efeito de valorização desses activos incorpóreos, as disposições legais ou contratuais respectivas, ao tempo em vigência, que previssem a entrega por parte do Estado de quaisquer compensações pecuniários por denúncia da situação contratual.
+Art. 4.º Tratando-se de empresas que, à data da nacionalização, fossem detentoras de concessões, serão consideradas, para efeito de valorização desses activos incorpóreos, as disposições legais ou contratuais respectivas, ao tempo em vigência, que previssem a entrega por parte do Estado de quaisquer compensações pecuniários por denúncia da situação contratual.
 
-###### Art. 5.º - 1 - O valor de cotação das acções de cada sociedade anónima será o que resultar da média aritmética simples das cotações máximas e mínimas desses títulos ao portador em cada ano civil e para os últimos cinco anos anteriores a 1975.
+Art. 5.º - 1 - O valor de cotação das acções de cada sociedade anónima será o que resultar da média aritmética simples das cotações máximas e mínimas desses títulos ao portador em cada ano civil e para os últimos cinco anos anteriores a 1975.
 
 2 - Quando as acções não hajam sido cotadas para cada um dos cinco anos referidos no número anterior, o valor de cotação não será considerado.
 
@@ -131,7 +176,7 @@ N uso da autorização legislativa concedida pela [Lei n.º 40/91](https://diari
 
 5 - Quanto às empresas que hajam resultado de fusão operada nos últimos cinco anos anteriores a 1975, a falta de valores de cotação das respectivas acções para cada um dos anos anteriores àquele em que se operou a fusão será suprida pela média aritmética ponderada das cotações das empresas envolvidas, usando como pesos as percentagens dos respectivos capitais sociais na data da fusão, no capital total.
 
-###### Art. 6.º - 1 - O valor da efectiva rendibilidade será aferido pela média aritmética simples dos resultados do exercício verificados nos últimos cinco anos anteriores a 1975, acrescidos da correspondente dotação anual para amortizações e monetariamente corrigidos por aplicação dos coeficientes fixados na [Portaria n.º 506/75](https://diariodarepublica.pt/dr/detalhe/portaria/506-1975-314943), de 20 de Agosto, sendo que o mesmo período poderá ser reduzido até três anos no caso de indisponibilidade de elementos.
+Art. 6.º - 1 - O valor da efectiva rendibilidade será aferido pela média aritmética simples dos resultados do exercício verificados nos últimos cinco anos anteriores a 1975, acrescidos da correspondente dotação anual para amortizações e monetariamente corrigidos por aplicação dos coeficientes fixados na [Portaria n.º 506/75](https://diariodarepublica.pt/dr/detalhe/portaria/506-1975-314943), de 20 de Agosto, sendo que o mesmo período poderá ser reduzido até três anos no caso de indisponibilidade de elementos.
 
 2 - A taxa calculatória a aplicar à média encontrada, nos termos do número anterior, para obtenção do valor de rendibilidade, será de 5%.
 
@@ -139,7 +184,7 @@ N uso da autorização legislativa concedida pela [Lei n.º 40/91](https://diari
 
 4 - Caso tenham sido verificadas fusões de empresas, aplicar-se-á, com as necessárias adaptações, o critério contemplado no n.º 5 do artigo 5.º
 
-###### Art. 7.º - 1 - Para o cálculo do valor da indemnização a atribuir por cada acção ou parte de capital adoptar-se-á à fórmula geral:
+Art. 7.º - 1 - Para o cálculo do valor da indemnização a atribuir por cada acção ou parte de capital adoptar-se-á à fórmula geral:
 
 V = (alfa)1 C(índice 1) + (alfa)2 C(índice 2) + (alfa)3 C(índice 3)
 
@@ -159,7 +204,7 @@ C(índice 3) = valor de rendibilidade determinado nos termos do artigo 6.º;
 
 ### CAPÍTULO II — Fixação do valor definitivo
 
-###### Art. 8.º - 1 - Os valores de indemnização que se encontrem fixados à data de publicação do presente diploma serão desde logo alterados pela Direcção-Geral da Junta do Crédito Público (DGJCP), à luz dos critérios enunciados no capítulo I, independentemente de qualquer outra formalidade, mas sem prejuízo de solicitação aos titulares do direito à indemnização de qualquer elemento tido por necessário.
+Art. 8.º - 1 - Os valores de indemnização que se encontrem fixados à data de publicação do presente diploma serão desde logo alterados pela Direcção-Geral da Junta do Crédito Público (DGJCP), à luz dos critérios enunciados no capítulo I, independentemente de qualquer outra formalidade, mas sem prejuízo de solicitação aos titulares do direito à indemnização de qualquer elemento tido por necessário.
 
 2 - O Ministro das Finanças fixará, por despacho, o novo valor de indemnização resultante do estipulado no n.º 1, o qual substituirá o anteriormente atribuído.
 
@@ -167,7 +212,7 @@ C(índice 3) = valor de rendibilidade determinado nos termos do artigo 6.º;
 
 ### CAPÍTULO III — Comissões mistas
 
-###### Art. 9.º - 1 - Com vista à reapreciação da aplicação casuística dos critérios legais estipulados no capítulo I, ou junção superveniente de elementos atinentes ao processo calculatório, os titulares do direito a indemnização poderão requerer, dentro do prazo de 60 dias a contar da data de publicação do despacho mencionado no n.º 2 do artigo 8.º, a revisão do cálculo desse mesmo valor e a constituição de uma comissão mista para a correspondente apreciação.
+Art. 9.º - 1 - Com vista à reapreciação da aplicação casuística dos critérios legais estipulados no capítulo I, ou junção superveniente de elementos atinentes ao processo calculatório, os titulares do direito a indemnização poderão requerer, dentro do prazo de 60 dias a contar da data de publicação do despacho mencionado no n.º 2 do artigo 8.º, a revisão do cálculo desse mesmo valor e a constituição de uma comissão mista para a correspondente apreciação.
 
 2 - As comissões mistas, uma só por cada empresa nacionalizada, serão constituídas por três peritos, a saber:
 
@@ -197,19 +242,19 @@ d) No caso de sociedades por qotas, o anúncio será dispensado se os interessad
 
 8 - Com base no parecer elaborado pelas comissões mistas constituídas nos termos dos números anteriores, o Ministro das Finanças emitirá despacho definitivo quanto à fixação do valor da indemnização.
 
-###### Art. 10.º - 1 - Os emolumentos devidos ao perito designado pelos requerentes, bem como os devidos ao perito presidente, serão satisfeitos pelos requerentes.
+Art. 10.º - 1 - Os emolumentos devidos ao perito designado pelos requerentes, bem como os devidos ao perito presidente, serão satisfeitos pelos requerentes.
 
 2 - Para garantia do pagamento dos emolumentos devidos ao perito presidente, os interessados deverão prestar caução no prazo de 15 dias a contar da data de entrega do requerimento referido no n.º 1 do artigo 9.º, sob pena de se suspender o processo de constituição da comissão.
 
 3 - A caução referida no número anterior será prestada por depósito na Caixa Geral de Depósitos a favor do director-geral da Junta do Crédito Público, por garantia bancária ou seguro-caução, pelo montante de 500000$00, a qual apenas será utilizada pela DGJCP na falta de pagamento no prazo de 30 dias após entrega do parecer da comissão mista.
 
-###### Art. 11.º - 1 - São extintas à data da entrada em vigor deste decreto-lei as comissões arbitrais constituídas ao abrigo do regime legal revogado pelo presente diploma.
+Art. 11.º - 1 - São extintas à data da entrada em vigor deste decreto-lei as comissões arbitrais constituídas ao abrigo do regime legal revogado pelo presente diploma.
 
 2 - Os árbitros das comissões ora extintas serão empossados enquanto membros das correspondentes, e agora instituídas, comissões mistas, salvo oposição expressa dos titulares do direito a indemnização que indiquem novo representante no prazo de 15 dias a contar da data de publicação do presente diploma.
 
 ### CAPÍTULO IV — Disposições revogatórias
 
-###### Art. 12.º - 1 - São revogados pelo presente decreto-lei:
+Art. 12.º - 1 - São revogados pelo presente decreto-lei:
 
 a) Os artigos 1.º a 7.º do [Decreto-Lei n.º 528/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1976-431430), de 7 de Julho;
 
@@ -229,15 +274,15 @@ g) A [Portaria n.º 497/86](https://diariodarepublica.pt/dr/detalhe/portaria/497
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Joaquim Fernando Nogueira - José Oliveira Costa.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Agosto de 1991.**
+Referendado em 27 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

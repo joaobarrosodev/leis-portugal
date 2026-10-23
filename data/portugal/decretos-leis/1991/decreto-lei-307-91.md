@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/188a00/42094212.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/307/1991/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1991-674437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c2189171f6d9ab1b88fe0011731405d76b4370bb30661c4f544a874553d4b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d55bdd5d519a2d9b30141c4bd6c43231863540607955faba1cb6e80069643bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Militar
-- Sistema Retributivo
 - Forças Armadas
+- Militar
 - Política Salarial
 - Remuneração
 - Reserva
-- Militar
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:434415:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515599:por
+  label: "Alterada a estrutura indiciária a que se refere o n.º 1 do artigo 9.º, pelo DEC LEI.98/92.28.05.1992.MDN, DR.IS-A\
+    \ [123] de 28.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1992-515599
+  date: '1992-05-28'
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434415:por
+  label: "Revogado pelo DEC LEI.328/99.1999.08.18.MDN, DR.IS-A [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1999-434415
+  date: '1999-08-18'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:10:57Z'
   warnings: []
   errors: []
 ---
@@ -226,16 +253,16 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1991, sem prejuízo do d
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Escala indiciária dos militares do quadro permanente das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/188a00/42094212.pdf))](https://files.diariodarepublica.pt/1s/1991/08/188a00/42094212.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/188a00/42094212.pdf)

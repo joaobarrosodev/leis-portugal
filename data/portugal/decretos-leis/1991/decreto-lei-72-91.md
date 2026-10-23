@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/033a00/06180635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1991-478253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aff8df6718a9dd1c1c7ee06b6b170ff4de89e38ff4f163dcc76d6dfee2e71d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6548eed456a646ea782ca0a774b5ba2e8e63e72623411449ee10cd297e109e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,85 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Farmacêutica
 - CEE
+- Comércio
 - Comparticipação do Estado
 - Direcção Geral de Assuntos Farmacêuticos
+- Indústria Farmacêutica
 - Medicamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481731:por
+  label: "Alterados os arts. 20.º e 21.º, pelo DEC LEI.249/2003.11.10.2003.MS, DR.IS-A [236] de 11.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2003-481731
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 2 E 20 PELO DEC LEI 249/93 DE 09-JUL DR.IS-A [159]T
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-09'
+- type: amended_by
+  target: pt:dre:380317:por
+  label: "Alterados os arts. 2.º e 20.º, pelo DEC LEI.249/93.09.07.1993.MS, DR.IS-A [159] de 09.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1993-380317
+  date: '1993-07-09'
+- type: amended_by
+  target: pt:dre:668482:por
+  label: "Alterados os arts. 3º, 4º, 5º, 8º a 11º, 13º a 15º, 41º, 46º, 54º a 56º, 59º a 62º, 64º, 92º e 94º, aditados os\
+    \ arts. 4º-A, 59º-A e 59º-B e revogados os arts. 18º, 42º a 45º, 47º a 53º e 63º, pelo DEC LEI.272/95.1995.10.23.MS, DR.IS-A\
+    \ [245], revogado também o anexo do presente diploma, o qual é substitído pelos anexos A e B do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1995-668482
+  date: '1995-10-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADAS AS INFORMACOES CONSTANTES DO ANEXO II A PORTARIA 161/96 DE 16-MAI, AO RESUMO DAS CARACTERISTICAS DO MEDICAMENTO\
+    \ REFERIDO NA AL A) DO NUM 2 DO ART 5 DO PRESENTE DIPLOMA (COM A REDACCAO DADA PELO DEC LEI 272/95 DE 23-OUT), PELA PORT\
+    \ 161/96 DE 16-MAI DR.IS-B [114]D\0B [114]D"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:468778:por
+  label: "Aditadas informações ao resumo das características do medicamento referido na alínea a) do n.º 2 do artigo 5.º,\
+    \ na redacção do Decreto-Lei n.º 272/95, de 23 de Outubro, pela PORT.161/96.16.05.1996.MS, DR.IS-B [114] de 16.05.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-1996-468778
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:241415:por
+  label: "Alterados os arts. 2º, 20º, 21º, 22º e 23º, na redacção dada pelo Dec Lei 249/93 de 09-Jul, pelo DEC LEI.291/98.1998.09.17.MS,\
+    \ DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/291-1998-241415
+  date: '1998-09-17'
+- type: amended_by
+  target: pt:dre:560266:por
+  label: "Alterados os artºs. 2º, 19º, 20º, 21º e 23º, na redacção do Dec Lei 291/98 de 17-Set, pelo DEC LEI.242/2000.2000.09.26.MS,\
+    \ DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2000-560266
+  date: '2000-09-26'
+- type: amended_by
+  target: pt:dre:375404:por
+  label: "Alterado, por apreciação Parlamentar,o art. 20º, na redacção dos Dec-Leis 249/93, de 09-Jul, 291/98, de 17-Set e\
+    \ 242/2000, de 26-Set pela LEI.84/2001.2001.08.03.AR, DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/84-2001-375404
+  date: '2001-08-03'
+- type: amended_by
+  target: pt:dre:223427:por
+  label: "Alterados o art. 2º (com a redacção conferida pelos Dec Lei 249/93 de 09-Jul, 291/98 de 17-Set e 242/2000 de 26-Set)\
+    \ e art. 60º, (com a redacção dada pelo 272/95 de 23-Out) pelo DEC LEI.90/2004.20.04.2004.MS, DR.IS-A [93] de 20.04.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2004-223427
+  date: '2004-04-20'
+- type: amended_by
+  target: pt:dre:223178:por
+  label: "Alterados os arts. 5.º e 8.º (na redacção do Dec Lei 272/95, de 23-Out), o art. 7.º, aditado o art. 5.º-A e aprovado\
+    \ o anexo C pelo DEC LEI.97/2004.23.04.2004.MS, DR.IS-A [96] de 23.04.2004 e nos termos do art. 4.º do mesmo determinadas\
+    \ as remissões e referências legais neste diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2004-223178
+  date: '2004-04-23'
 - type: cites
   target: celex:31965L0065
   label: null
@@ -118,16 +186,70 @@ relationships:
   target: celex:31989L0381
   label: null
   source: http://data.europa.eu/eli/dir/1989/381/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADOS OS ART 79 A 87 PELO DEC LEI 118/92 DE 25-JUN DR.IS-A [144]V
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-25'
+- type: repealed_by
+  target: pt:dre:302737:por
+  label: "Revogados os artigos 79.º a 87.º pelo DEC LEI.118/92.25.06.1992.MS, DR.IS-A [144] de 25.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1992-302737
+  date: '1992-06-25'
+- type: repealed_by
+  target: pt:dre:264965:por
+  label: "Revogada a al. g) do nº 1 do art. 14º e os arts. 66º a 68º, pelo DEC LEI.101/94.1994.04.19.MS, DR.IS-A [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1994-264965
+  date: '1994-04-19'
+- type: repealed_by
+  target: pt:dre:264967:por
+  label: "Revogados os arts. 69º a 78º, pelo DEC LEI.100/94.1994.04.19.MS, DR.IS-A [91]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1994-264967
+  date: '1994-04-19'
+- type: repealed_by
+  target: pt:dre:223070:por
+  label: "Revogado o nº 2 do art. 61º e os arts. 88º a 90º pelo DEC LEI.209/94.1994.08.06.MS, DR.IS-A [181]\01]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1994-223070
+  date: '1994-08-06'
+- type: repealed_by
+  target: pt:dre:336155:por
+  label: "Revogada a al. c) do nº 1 do art. 21º, na redacção do Dec Lei 291/98, de 17-Set, pela LEI.14/2000.2000.08.08.AR\
+    \ DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2000-336155
+  date: '2000-08-08'
+- type: repealed_by
+  target: pt:dre:560266:por
+  label: "Revogado o art. 72º pelo DEC LEI.242/2000.2000.09.26.MS, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2000-560266
+  date: '2000-09-26'
+- type: repealed_by
+  target: pt:dre:220956:por
+  label: "Revogado o art. 14º pelo DEC LEI.85/2004.15.04.2004.MS, DR.IS-A [89] de 15.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2004-220956
+  date: '2004-04-15'
+- type: repealed_by
+  target: pt:dre:223251:por
+  label: "Revogadas as als. c) e d) do art. 2.º do presente diploma, alterado nos Dec Lei 291/98, de 17-Set, Dec Lei 242/2000,\
+    \ de 26-Set, Dec Lei 90/2004, de 20-Abr e Dec Lei 249/93, de 09-Set, pelo DEC LEI.95/2004.22.04.2004.MS, DR.IS-A [95]\
+    \ de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2004-223251
+  date: '2004-04-22'
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado o presente diploma, na redacção dos Dec Lei 272/95, de 23-Out, 249/2003, de 11-Out, 90/2004, de 20-Abr,\
+    \ 95/2004, de 22-Abr, pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
   article_count: 102
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:38Z'
   warnings: []
   errors: []
 ---
@@ -1338,15 +1460,15 @@ Este diploma produz efeitos a partir de 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 1990. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - Alfredo César Torres.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Lista dos medicamentos de alta tecnologia/biotecnologia
 

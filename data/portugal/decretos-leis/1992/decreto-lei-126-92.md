@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/1992/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1992-288072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2500f1c5b9a4c603d0fba7ffa9d9842ee7813c13d655876b87862f79ac69d125
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cce94f14098295f9008e7e0f7ebf79881dcdf5744f6f9b850619424b0dfeaba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,17 +72,25 @@ subjects:
 - Pessoa Singular
 - Setor Privado
 - Setor Público
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:09Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +105,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 425/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1982-376194), de 20 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto-Lei n.º 425/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1982-376194), de 20 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - Poderão igualmente ser accionistas o Estado e quaisquer outras entidades públicas, incluindo as empresas públicas ou as sociedades de capitais públicos, umas e outras sem distinção de ramos de actividade, e, bem assim, sem prejuízo do estabelecido na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, pessoas singulares ou colectivas do sector privado.
 
 Visto e aprovado em Conselho de Ministros de 7 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 10 de Junho de 1992.**
+Promulgado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1992.**
+Referendado em 15 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

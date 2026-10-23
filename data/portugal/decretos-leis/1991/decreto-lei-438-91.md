@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/258a00/57465758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/438/1991/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1991-331060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5562e4be35768a6a862199d95e1c4e1dc2ea77ad538a98f2d4a40a45c3dd212c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61a2221179b8e2f52031642761892929dfa8c4aa2273ab4bc54bbbf478d3e954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,54 @@ relationships:
   target: pt:dre:569885:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:357515:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade do n.º 2 do art. 8.º do Código das Expropriações,\
+    \ pelo AC.331/99.1999.06.02.TCS DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/331-1999-357515
+  date: '1999-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24/1991/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1991/07/16/p/dre
+- type: cites
+  target: pt:dre:333079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663906:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:176766:por
+  label: "Rectificado o art. 2.º do diploma preambular, assim como o nº 3 do art. 5º, o n.º 4 do art. 13.º, os n.ºs 1 dos\
+    \ arts. 36.º, 55.º e 60.º e o n.º 5 do art. 80º do Código das Expropriações, pela DECL-RECT.264/91.31.12.1991.PCM, DR.IS-A\
+    \ [301]4ºSupl de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/264-1991-176766
+  date: '1991-12-31'
+- type: repealed_by
+  target: pt:dre:569885:por
+  label: Revogado pela LEI.168/99.1999.09.18.AR,DR.IS-A [219]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/168-1999-569885
+  date: '1999-09-18'
 article_structure:
   article_count: 89
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:43Z'
   warnings: []
   errors: []
 ---
@@ -141,13 +175,13 @@ O Código das Expropriações entra em vigor 90 dias após a data da publicaçã
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Arlindo Marques da Cunha - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 24 de Outubro de 1991.**
+Promulgado em 24 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1991.**
+Referendado em 28 de Outubro de 1991.
 
 Primeiro-Ministro, Aníbal António Cavaco Silva.
 

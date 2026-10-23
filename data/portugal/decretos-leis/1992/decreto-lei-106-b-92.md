@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1992, 1º Suplemento, Série I-A de 1992-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2648-(3) a 2648-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126a01/00030011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-b-1992-410283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8132ede48db3edaf593af2789203bc9babdd537a7585473fd59f42b8c2a43d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7ebc678a278676247865778d39c74b2724befe7b2acb3c3f295d538d27529a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,106 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Comissão de Classificação de Espectáculos
 - Conselho Nacional do Direito de Autor
 - Criação de Serviços
 - Direcção Geral da Acção Cultural
 - Direcção Geral dos Espectáculos e das Artes
 - Direcção Geral dos Espectáculos e do Direito de Autor
-- Secretaria de Estado da Cultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:636413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:626594:por
+  label: "Alterados os arts. 2º e 16º, com as alterações que lhe foram introduzidas pelo Dec Lei 6/94 de 12-Jan, e revogado\
+    \ o art. 26º, pelo DEC LEI.315/95.1995.11.28.PCM, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1995-626594
+  date: '1995-11-28'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Extinta a Direcção-Geral de Espectáculos criada pelo presente diploma, alterada pelo Dec Lei 6/94 de 12-Jan, pelo\
+    \ DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: amended_by
+  target: pt:dre:456863:por
+  label: "Alterado o art. 28.º pelo DEC LEI.58/96.1996.05.22.MC DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1996-456863
+  date: '1996-05-22'
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Extinto, sendo objecto de fusão o Conselho Nacional do Direito de Autor, criado pelo presente diploma, cujas atribuições\
+    \ nos termos da alínea e) do nº. 3 do artigo 26.º são integrados no Conselho Nacional de Cultura pelo DEC LEI.215/2006.27.10.2006.MC,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520449:por
+  label: "Determinado que o Conselho Nacional de Cultura, suceda nas competências do Conselho Nacional de Direito de Autor,\
+    \ cuja orgânica foi aprovada pelo presente diploma, pelo DR.35/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-2007-520449
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:636413:por
+  label: "Determinada a sucessão da IGAC nas atribuições da Comissão de Classificação de Espectáculos, constantes da orgânica\
+    \ aprovada no presente diploma, cujos arts. 5º a 8º são revogados a partir de 01.08.2007 e nos termos do art. 4º do Dec\
+    \ Lei 215/2006 de 27-Out, pelo DR.81/2007.30.07.2007.MC, DR.IS [145] de 30.07.2007, sem prejuízo do disposto no nº 2 do\
+    \ art. 16º deste último diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-2007-636413
+  date: '2007-07-30'
+- type: cites
+  target: pt:dre:471967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:531396:por
+  label: "Revogadas as als. h) e i) do art. 2º, os arts. 19º a 22º e da redacção ao art. 3º, pelo DEC LEI.6/94.1994.01.12.PCM,\
+    \ DR.IS-A [9], e alterada a denominação da Direcção Geral dos Espectáculos e das Artes, que passa a designar-se Direcção\
+    \ Geral dos Espectáculos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1994-531396
+  date: '1994-01-12'
+- type: repealed_by
+  target: pt:dre:517585:por
+  label: "Revogada a al b) do art 2º; a al c) do num 1 do art 3º; os art 9º, 10º e 11º; as al f) e i) do num 1 do art 13º\
+    \ pelo DEC LEI.57/97.1997.03.18.MC, DR.IS-A [65]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1997-517585
+  date: '1997-03-18'
+- type: repealed_by
+  target: pt:dre:457029:por
+  label: "Revogadas as disposições do presente diploma, pelo DEC LEI.80/97.1997.04.08.MC, DR.IS-A [82], desde que não excepcionadas\
+    \ no seu art 46º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1997-457029
+  date: '1997-04-08'
 article_structure:
   article_count: 33
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:29Z'
   warnings: []
   errors: []
 ---
@@ -393,7 +467,9 @@ i) Prestar o apoio técnico, logístico e administrativo ao Conselho Nacional do
 
 2 - O GIAT é dirigido por um chefe de divisão.
 
-###### Artigo 14.º — Divisão de Contencioso
+###### Artigo 14.º
+
+##### Divisão de Contencioso
 
 À Divisão de Contencioso compete:
 
@@ -419,7 +495,9 @@ c) A Repartição de Registo e Controlo.
 
 3 - O DEDA é dirigido por um director de serviços.
 
-###### Artigo 16.º — Divisão de Recintos e Espectáculos
+###### Artigo 16.º
+
+##### Divisão de Recintos e Espectáculos
 
 À Divisão de Recintos e Espectáculos (DRE) compete, em especial:
 
@@ -499,7 +577,9 @@ d) Divisão de Divulgação e Gestão de Espaços.
 
 2 - O DAT é dirigido por um director de serviços.
 
-###### Artigo 20.º — Divisão de Programas e Sistemas de Incentivo
+###### Artigo 20.º
+
+##### Divisão de Programas e Sistemas de Incentivo
 
 À Divisão de Programas e Sistemas de Incentivo (DPSI) compete, em especial:
 
@@ -513,7 +593,9 @@ d) Promover a realização dos estudos necessários à elaboração e reformula�
 
 e) Propor, sempre que necessário, a revisão dos critérios, programas e sistemas de incentivo, adequando-os à evolução dos recursos e necessidades aos níveis nacional e regional.
 
-###### Artigo 21.º — Divisão de Estímulo aos Novos Talentos
+###### Artigo 21.º
+
+##### Divisão de Estímulo aos Novos Talentos
 
 À Divisão de Estímulo aos Novos Talentos (DET) compete, em especial:
 
@@ -527,7 +609,9 @@ d) Estudar e propor a adopção de uma política de detecção de jovens talento
 
 e) Celebrar protocolos com instituições formadoras ou associações profissionais, tendo em vista a concepção de programas de formação especializada adequados às necessidades e a concretizar ao nível das regiões.
 
-###### Artigo 22.º — Divisão de Avaliação
+###### Artigo 22.º
+
+##### Divisão de Avaliação
 
 À Divisão de Avaliação (DA) compete, em especial:
 
@@ -539,7 +623,9 @@ c) Prestar apoio técnico às DR no domínio do acompanhamento e controlo da exe
 
 d) Conceber um sistema adequado de registo actualizado de informação estatística relativa à actividade artística, nomeadamente a quantificação de artistas, grupos e associações, bem como das manifestações culturais realizadas, por tipo, por ano e por região, e respectivos níveis de audiência.
 
-###### Artigo 23.º — Divisão de Divulgação e Gestão de Espaços
+###### Artigo 23.º
+
+##### Divisão de Divulgação e Gestão de Espaços
 
 À Divisão de Divulgação e Gestão de Espaços (DGE) compete, em especial:
 
@@ -555,7 +641,9 @@ e) Apoiar técnica e ou financeiramente a organização e realização de progra
 
 f) Promover a organização ou prestar apoio técnico e ou financeiro à realização de programas de intercâmbio artístico que assegurem, designadamente, a projecção da língua e da cultura portuguesas no mundo.
 
-###### Artigo 24.º — Divisão de inspecção
+###### Artigo 24.º
+
+##### Divisão de inspecção
 
 À Divisão de Inspecção compete, em especial:
 
@@ -685,16 +773,16 @@ Até à entrada em vigor do diploma previsto no n.º 2 do artigo 29.º do presen
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro do pessoal dirigente da Direcção-Geral dos Espectáculo e das Artes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/126a01/00030011.pdf))](https://files.diariodarepublica.pt/1s/1992/06/126a01/00030011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/126a01/00030011.pdf)

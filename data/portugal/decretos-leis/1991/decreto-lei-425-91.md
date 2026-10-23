@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/250a00/55815587.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/425/1991/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1991-322288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59256c9a2cf830b5c9a9053cf3ccc305daa4a31f67a939e5535c1c5010e8231b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff846dcd930719e23e72c1adfc9fe943de207d91aa57ad0403aa5f6fb3488a6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Radiactividade
-- Segurança Nuclear
 - Gabinete de Protecção e Segurança Nuclear
 - Ministério do Ambiente e Recursos Naturais
 - Orgânica
 - Quadro de Pessoal
+- Radiactividade
+- Reestruturação de Serviços
+- Segurança Nuclear
 - Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233078:por
+  label: "Alterado o quadro de pessoal pelo DN.182/92.30.09.1992.MF, DR.IS-B [226] de 30.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/182-1992-233078
+  date: '1992-09-30'
+- type: amended_by
+  target: pt:dre:670290:por
+  label: "Alterado o quadro de pessoal pelo DN.315/93.11.10.1993.MF, DR.IS-B [238] de 11.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/315-1993-670290
+  date: '1993-10-11'
+- type: amended_by
+  target: pt:dre:670303:por
+  label: "Alterado o quadro de pessoal pelo DN.314/93.11.10.1993.MF, DR.IS-B [238] de 11.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/314-1993-670303
+  date: '1993-10-11'
+- type: cites
+  target: pt:dre:183014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:23Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +148,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Gabinete de Protecção e Segurança Nuclear, adiante designado por GPSN, é o organismo do Ministério do Ambiente e Recursos Naturais responsável em matéria de segurança e protecção nuclear e encarregado da avaliação, do controlo, da fiscalização e da inspecção no domínio da utilização da energia nuclear para fins pacíficos, bem como da vigilância do estado do ambiente na sua componente radioactiva.
+Artigo 1.º O Gabinete de Protecção e Segurança Nuclear, adiante designado por GPSN, é o organismo do Ministério do Ambiente e Recursos Naturais responsável em matéria de segurança e protecção nuclear e encarregado da avaliação, do controlo, da fiscalização e da inspecção no domínio da utilização da energia nuclear para fins pacíficos, bem como da vigilância do estado do ambiente na sua componente radioactiva.
 
-###### Art. 2.º São atribuições do GPSN:
+Art. 2.º São atribuições do GPSN:
 
 a) Avaliar e fiscalizar o impacte radioecológico das instalações nucleares e radioactivas, incluindo a gestão de resíduos radioactivos e a extracção e tratamento de minérios radioactivos;
 
@@ -126,7 +162,7 @@ d) Colaborar com as autoridades de protecção civil nacionais e internacionais 
 
 e) Promover a elaboração da legislação e regulamentação necessárias à prossecução dos seus fins.
 
-###### Art. 3.º - 1 - Para o desempenho das suas atribuições incumbe, nomeadamente, ao GPSN:
+Art. 3.º - 1 - Para o desempenho das suas atribuições incumbe, nomeadamente, ao GPSN:
 
 a) Promover a elaboração e propor projectos de regulamentos, normas nacionais e especificações técnicas na área das suas atribuições;
 
@@ -158,7 +194,7 @@ m) Participar, colaborar, dinamizar ou coordenar acções de estudo e desenvolvi
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º - 1 - O GPSN é dirigido por um director, equiparado a director-geral, e coadjuvado no exercício das suas funções por um subdirector, equiparado a subdirector-geral.
+Art. 4.º - 1 - O GPSN é dirigido por um director, equiparado a director-geral, e coadjuvado no exercício das suas funções por um subdirector, equiparado a subdirector-geral.
 
 2 - Ao director compete orientar e coordenar a actividade do GPSN, praticando todos os actos necessários ao exercício da sua competência, própria ou delegada, e em especial:
 
@@ -178,11 +214,11 @@ e) Assegurar a representação do GPSN no exterior.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 5.º - 1 - Para desempenho das suas atribuições, o GPSN dispõe de serviços operativos e de serviços de apoio.
+Art. 5.º - 1 - Para desempenho das suas atribuições, o GPSN dispõe de serviços operativos e de serviços de apoio.
 
 2 - Para efeitos do número anterior, o GPSN pode ainda, nos termos da lei, contratar com entidades públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 6.º - 1 - Os serviços operativos do GPSN são os seguintes:
+Art. 6.º - 1 - Os serviços operativos do GPSN são os seguintes:
 
 a) Direcção de Servios de Estudos e Regulamentos;
 
@@ -200,7 +236,7 @@ a) Divisão de Licenciamento e Inspecção;
 
 b) Divisão de Controlo Ambiental e Emergências.
 
-###### Art. 7.º - 1 - Os serviços de apoio, integrados por unidades de natureza consultiva ou instrumental, são os seguintes:
+Art. 7.º - 1 - Os serviços de apoio, integrados por unidades de natureza consultiva ou instrumental, são os seguintes:
 
 a) Núcleo de Planeamento e Gestão Orçamental;
 
@@ -210,7 +246,7 @@ c) Repartição Administrativa.
 
 2 - Os Núcleos de Planeamento e Gestão Orçamental e de Apoio Técnico serão orientados por técnicos superiores ou técnicos, especificamente nomeados para esse efeito pelo director, e funcionarão na sua directa dependência.
 
-###### Art. 8.º À Divisão de Estudos Técnicos incumbe em especial:
+Art. 8.º À Divisão de Estudos Técnicos incumbe em especial:
 
 a) Acompanhar os programas nacionais e internacionais de investigação e desenvolvimento (I&D) nos domínios das atribuições do GPSN e propor eventuais acções a nível nacional ou em colaboração com outros países;
 
@@ -234,7 +270,7 @@ j) Assegurar o intercâmbio com entidades nacionais ou estrangeiras congéneres;
 
 l) Prestar apoio à representação do GPSN em organismos nacionais e internacionais e à sua participação em comissões.
 
-###### Art. 9.º À Divisão de Regulamentos e Estudos Normativos incumbe em especial:
+Art. 9.º À Divisão de Regulamentos e Estudos Normativos incumbe em especial:
 
 a) Propor a legislação e regulamentação nacional no domínio de atribuições do GPSN;
 
@@ -252,7 +288,7 @@ g) Fazer o acompanhamento das convenções e acordos internacionais e propor as 
 
 h) Assegurar as relações internacionais inerentes ao exercício das suas actividades.
 
-###### Art. 10.º À Divisão de Licenciamento e Inspecção incumbe em especial:
+Art. 10.º À Divisão de Licenciamento e Inspecção incumbe em especial:
 
 a) Proceder ao registo (cadastro) das instalações e ou actividades efectiva ou potencialmente produtoras de efluentes radioactivos ou resíduos radioactivos;
 
@@ -272,7 +308,7 @@ h) Proceder à análise dos riscos actuais ou potenciais associados com as insta
 
 i) Proceder ao acompanhamento e fiscalização das instalações ou actividades sujeitas a um regime de salvaguardas e protecção física, no âmbito do Tratado de não Proliferação Nuclear.
 
-###### Art. 11.º À Divisão de Controlo Ambiental e Emergências incumbe em especial:
+Art. 11.º À Divisão de Controlo Ambiental e Emergências incumbe em especial:
 
 a) O levantamento do estado do ambiente (no domínio radioactivo), elaboração do correspondente relatório anual, avaliação de tendências e proposta de medidas de política;
 
@@ -286,11 +322,11 @@ e) A intervenção e coordenação técnica do pessoal do GPSN e sua articulaç�
 
 f) A articulação com organizações internacionais, designadamente a Agência Internacional de Energia Atómica, no âmbito das convenções internacionais sobre emergências.
 
-###### Art. 12.º Ao Núcleo de Planeamento e Gestão Orçamental incumbe preparar os planos e relatórios de actividade e proceder à preparação, acompanhamento e controlo do orçamento.
+Art. 12.º Ao Núcleo de Planeamento e Gestão Orçamental incumbe preparar os planos e relatórios de actividade e proceder à preparação, acompanhamento e controlo do orçamento.
 
-###### Art. 13.º Ao Núcleo de Apoio Técnico incumbe prestar o apoio técnico necessário, designadamente nas áreas de informática, documentação e arquivo técnico, reprografia e desenho, divulgação e informação pública.
+Art. 13.º Ao Núcleo de Apoio Técnico incumbe prestar o apoio técnico necessário, designadamente nas áreas de informática, documentação e arquivo técnico, reprografia e desenho, divulgação e informação pública.
 
-###### Art. 14.º - 1 - A Repartição Administrativa integrará a Secção de Pessoal e Expediente e a Secção de Contabilidade e Património.
+Art. 14.º - 1 - A Repartição Administrativa integrará a Secção de Pessoal e Expediente e a Secção de Contabilidade e Património.
 
 2 - À Secção de Pessoal e Expediente incumbe:
 
@@ -328,13 +364,13 @@ g) Apoiar a preparação dos orçamentos e a correspondente gestão financeira.
 
 ### CAPÍTULO III — Funcionamento
 
-###### Art. 15.º - 1 - O desempenho das atribuições do GPSN será executado com base num programa anual de actividade, o qual será objecto de relatório de execução a submeter a apreciação ministerial.
+Art. 15.º - 1 - O desempenho das atribuições do GPSN será executado com base num programa anual de actividade, o qual será objecto de relatório de execução a submeter a apreciação ministerial.
 
 2 - O programa de actividades do GPSN deverá ser preparado e executado em estreita colaboração com os outros serviços do Ministério, para o que se procederá à divulgação e à promoção da discussão de programas de trabalho, estudos, relatórios e propostas de regulamentos por ele elaborados e relativos ao exercício das suas atribuições.
 
 3 - A acção dos serviços e demais unidades orgânicas do Gabinete será conjunta na elaboração do programa de actividades e na realização de projectos comuns.
 
-###### Art. 16.º - 1 - Os planos de formação a incluir nos planos anuais de actividade poderão contemplar estudos de pós-graduação ou estágios de especialização a pessoas não vinculadas ao GPSN.
+Art. 16.º - 1 - Os planos de formação a incluir nos planos anuais de actividade poderão contemplar estudos de pós-graduação ou estágios de especialização a pessoas não vinculadas ao GPSN.
 
 2 - Uma parte do orçamento do GPSN destinado a actividades de I&D poderá ser canalizado para subsídios a projectos de iniciativa exterior ao GPSN.
 
@@ -342,7 +378,7 @@ g) Apoiar a preparação dos orçamentos e a correspondente gestão financeira.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 17.º - 1 - O quadro de pessoal do GPSN é o que figura anexo ao presente diploma, que dele faz parte integrante.
+Art. 17.º - 1 - O quadro de pessoal do GPSN é o que figura anexo ao presente diploma, que dele faz parte integrante.
 
 2 - Ao recrutamento e selecção do pessoal do GPSN é aplicado o disposto na lei geral.
 
@@ -360,19 +396,19 @@ b) Sem prejuízo das habilitações legais, para carreira e categoria que integr
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 15 de Outubro de 1991.**
+Promulgado em 15 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/250a00/55815587.pdf))](https://files.diariodarepublica.pt/1s/1991/10/250a00/55815587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/250a00/55815587.pdf)
 
 Técnico profissional, nível 4 - Técnico-adjunto (secretariado, tradução, documentação e informação)
 

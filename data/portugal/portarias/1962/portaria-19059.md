@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19059-1962-517979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0af6f6e64746406192459635954a239427d861f8017fa5b6d9c1e27e14b97f43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82311acd2314c8ec0fcf2a7b1caf147c4e2d4b045559dd3bcd00eca034144056
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Instituto do Algodão
+- Instituto do Café
+- Instituto dos Cereais
+- Moçambique.Colónia Portuguesa
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:503789:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517412:por
+  label: "Alterados os quadros dos Institutos do Algodão, dos Cereais e do Café de Angola e de Moçambique, constantes do mapa\
+    \ B anexo, pelo DEC.46068.07.12.1964.MU, DG.IS [286-Supl] de 07.12.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46068-1964-517412
+  date: '1964-12-07'
+- type: amended_by
+  target: pt:dre:478632:por
+  label: "Alterados os quadros de pessoal do Instituto dos Cereais de Angola, constantes dos mapas A e B anexos pelo DEC.47301.02.11.1966.MU,\
+    \ DG.IS [254] de 02.11.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47301-1966-478632
+  date: '1966-11-02'
+- type: amended_by
+  target: pt:dre:503789:por
+  label: "Alterado o quadro de pessoal do Instituto de Café de Angola pelo DEC.47574.03.03.1967.MU, DG.IS [53] de 03.03.1967\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47574-1967-503789
+  date: '1967-03-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:14Z'
   warnings: []
   errors: []
 ---
@@ -112,12 +136,12 @@ MAPA A
 
 Pessoal directivo e administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/04900/02030204.pdf))](https://files.diariodarepublica.pt/1s/1962/03/04900/02030204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/04900/02030204.pdf)
 
 MAPA B
 
 Pessoal técnico e de investigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/03/04900/02030204.pdf))](https://files.diariodarepublica.pt/1s/1962/03/04900/02030204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/04900/02030204.pdf)
 
 Ministério do Ultramar, 5 de Março de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

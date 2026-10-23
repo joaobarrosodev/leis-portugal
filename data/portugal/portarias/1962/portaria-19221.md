@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19221-1962-164248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d6b7092080b50a041b383429f40bb95a4063fb29368dc06816dd1821523f4b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b663954aa96f428a5921e8b0a82b76cfa4f42c6261bb25804e22cdc36d37239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:41Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +110,9 @@ I) Dos serviços
 
 A) Dos serviços centrais
 
-###### Artigo 1.º Os serviços centrais da Direcção-Geral dos Hospitais são os serviços técnicos de assistência hospitalar e de administração hospitalar, o centro de informação e divulgação e a secretaria.
+Artigo 1.º Os serviços centrais da Direcção-Geral dos Hospitais são os serviços técnicos de assistência hospitalar e de administração hospitalar, o centro de informação e divulgação e a secretaria.
 
-###### Art. 2.º Os serviços técnicos de assistência hospitalar compreendem:
+Art. 2.º Os serviços técnicos de assistência hospitalar compreendem:
 
 1.º O serviço de medicina hospitalar;
 
@@ -108,7 +124,7 @@ A) Dos serviços centrais
 
 § único. O Instituto Nacional de Sangue funcionará, na imediata dependência do director-geral, como anexo dos serviços de assistência hospitalar.
 
-###### Art. 3.º Os serviços técnicos de administração hospitalar compreendem:
+Art. 3.º Os serviços técnicos de administração hospitalar compreendem:
 
 1.º O serviço de organização hospitalar;
 
@@ -116,7 +132,7 @@ A) Dos serviços centrais
 
 § único. Junto do serviço de gestão hospitalar funcionará uma comissão de normalização, constituída pelos presidentes dos conselhos executivos das comissões inter-hospitalares, por técnicos hospitalares escolhidos pela sua competência e, quando necessário, pelos representantes das Direcções-Gerais de Saúde, da Assistência e da Contabilidade Pública, neste último caso após autorização do Ministro das Finanças.
 
-###### Art. 4.º O centro de informação e divulgação terá sectores de:
+Art. 4.º O centro de informação e divulgação terá sectores de:
 
 1.º Documentação;
 
@@ -128,7 +144,7 @@ A) Dos serviços centrais
 
 5.º Relações públicas.
 
-###### Art. 5.º A secretaria abrange os seguintes sectores:
+Art. 5.º A secretaria abrange os seguintes sectores:
 
 1.º Expediente geral, arquivo e depósito;
 
@@ -142,27 +158,27 @@ A) Dos serviços centrais
 
 B) Dos serviços de zona e dos serviços regionais
 
-###### Art. 6.º Em cada zona hospitalar haverá um director e uma comissão inter-hospitalar, com secretaria comum.
+Art. 6.º Em cada zona hospitalar haverá um director e uma comissão inter-hospitalar, com secretaria comum.
 
 § único. A organização das comissões inter-hospitalares é a que consta da [Portaria n.º 18752](https://diariodarepublica.pt/dr/detalhe/portaria/18752-1961-180019), de 29 de Setembro de 1961, substituindo-se na do Porto a representação do Hospital Geral de Santo António pela da Santa Casa da Misericórdia do Porto.
 
-###### Art. 7.º A Direcção-Geral terá um delegado em cada uma das regiões em que se dividam as zonas hospitalares do País.
+Art. 7.º A Direcção-Geral terá um delegado em cada uma das regiões em que se dividam as zonas hospitalares do País.
 
 II) Das atribuições e competência
 
 A) Dos serviços centrais em geral
 
-###### Art. 8.º Aos serviços centrais compete o estudo, planeamento, orientação, coordenação e fiscalização, em nível nacional, das actividades hospitalares sujeitas à jurisdição da Direcção-Geral.
+Art. 8.º Aos serviços centrais compete o estudo, planeamento, orientação, coordenação e fiscalização, em nível nacional, das actividades hospitalares sujeitas à jurisdição da Direcção-Geral.
 
 B) Dos serviços de assistência hospitalar
 
-###### Art. 9.º Ao serviço de medicina hospitalar pertencerão em especial as funções relativas:
+Art. 9.º Ao serviço de medicina hospitalar pertencerão em especial as funções relativas:
 
 1.º À actividade dos serviços clínicos hospitalares de medicina curativa e recuperadora, bem como à participação daqueles serviços nas actividades respeitantes à medicina preventiva, ao ensino e à investigação científica;
 
 2.º Às carreiras médicas hospitalares.
 
-###### Art. 10.º Para desempenho das funções referidas no n.º 1.º do artigo anterior, compete ao serviço de medicina hospitalar:
+Art. 10.º Para desempenho das funções referidas no n.º 1.º do artigo anterior, compete ao serviço de medicina hospitalar:
 
 a) Orientar a organização e funcionamento dos serviços de internamento e de consulta, bem como dos serviços domiciliários dos estabelecimentos hospitalares, incluindo os destinados a doentes incuráveis ou de evolução lenta;
 
@@ -176,7 +192,7 @@ e) Assegurar a ligação da Direcção-Geral com os serviços de medicina que de
 
 f) Organizar os processos de autorização para abertura de hospitais, casas de saúde e postos de consulta ou intervir nos que forem organizados por outros serviços, de harmonia com as respectivas competências.
 
-###### Art. 11.º Pelo que respeita ao n.º 2.º do artigo 9.º, ao serviço de medicina hospitalar compete ainda:
+Art. 11.º Pelo que respeita ao n.º 2.º do artigo 9.º, ao serviço de medicina hospitalar compete ainda:
 
 a) Investigar as necessidades dos serviços hospitalares em pessoal clínico e auxiliar;
 
@@ -192,7 +208,7 @@ f) Organizar os concursos referidos na alínea anterior que devam ser abertos pe
 
 g) Estudar as condições de trabalho do pessoal clínico e auxiliar, com excepção do que preste serviço em consultórios médicos particulares ou esteja sujeito a regime especial.
 
-###### Art. 12.º Ao serviço de farmácia hospitalar compete, em especial:
+Art. 12.º Ao serviço de farmácia hospitalar compete, em especial:
 
 a) Orientar a instalação e funcionamento das farmácias hospitalares, fiscalizá-las e promover o seu melhor aproveitamento;
 
@@ -206,7 +222,7 @@ e) Promover a produção, importação ou aquisição no mercado interno, a veri
 
 f) Representar a Direcção-Geral nas comissões nacionais e internacionais de trabalho farmacêutico.
 
-###### Art. 13.º É da competência do serviço de enfermagem hospitalar:
+Art. 13.º É da competência do serviço de enfermagem hospitalar:
 
 a) Fazer o cadastro e estudo dos serviços existentes, em matéria de enfermagem;
 
@@ -224,7 +240,7 @@ g) Manter as escolas de enfermagem informadas sobre as necessidades dos serviço
 
 h) Orientar os enfermeiros dos grupos de assistência das comissões inter-hospitalares.
 
-###### Art. 14.º A competência do serviço social hospitalar inclui:
+Art. 14.º A competência do serviço social hospitalar inclui:
 
 a) Orientar e coordenar a acção dos serviços sociais privativos dos estabelecimentos hospitalares, quer se destinem aos doentes e ao público, quer ao próprio pessoal;
 
@@ -240,7 +256,7 @@ f) Orientar as assistentes sociais em funções nas comissões inter-hospitalare
 
 C) Dos serviços de administração hospitalar
 
-###### Art. 15.º Pertence ao serviço de organização hospitalar proceder ao estudo e planificação do sistema hospitalar em base nacional e promover a execução das medidas atinentes a esse fim, para o que lhe compete especialmente:
+Art. 15.º Pertence ao serviço de organização hospitalar proceder ao estudo e planificação do sistema hospitalar em base nacional e promover a execução das medidas atinentes a esse fim, para o que lhe compete especialmente:
 
 a) Organizar os inquéritos e estudos indispensáveis à avaliação das necessidades do País em armamento hospitalar;
 
@@ -260,7 +276,7 @@ h) Colaborar com a Comissão de Construções Hospitalares na preparação dos p
 
 i) Suscitar e fornecer os estudos que sejam necessários sobre organização hospitalar.
 
-###### Art. 16.º Compete ao serviço de gestão hospitalar orientar do ponto de vista administrativo o funcionamento interno dos estabelecimentos hospitalares, e em especial:
+Art. 16.º Compete ao serviço de gestão hospitalar orientar do ponto de vista administrativo o funcionamento interno dos estabelecimentos hospitalares, e em especial:
 
 a) Estabelecer os padrões de organização interna e de funcionamento dos hospitais, tais como organigramas, regulamentos, quadros de pessoal e tabelas de preços;
 
@@ -278,7 +294,7 @@ g) Estabelecer critérios de avaliação do rendimento económico dos estabeleci
 
 D) Do centro de informação e divulgação
 
-###### Art. 17.º Ao centro de informação e divulgação incumbe:
+Art. 17.º Ao centro de informação e divulgação incumbe:
 
 a) A preparação e classificação de índices, extractos, microfilmes e outras formas de organização de conhecimentos relativos às matérias de interesse para a Direcção-Geral ou para os estabelecimentos hospitalares;
 
@@ -292,11 +308,11 @@ e) Orientar os contactos dos serviços hospitalares com os doentes, com as respe
 
 E) Da secretaria
 
-###### Art. 18.º À secretaria compete o expediente relativo à administração da própria Direcção-Geral, nos termos da respectiva legislação.
+Art. 18.º À secretaria compete o expediente relativo à administração da própria Direcção-Geral, nos termos da respectiva legislação.
 
 F) Dos serviços de zona e regionais
 
-###### Art. 19.º Aos serviços de zona e regionais pertence:
+Art. 19.º Aos serviços de zona e regionais pertence:
 
 a) A execução dos planos nacionais, na parte que lhes disser respeito;
 
@@ -304,7 +320,7 @@ b) A fiscalização dos programas regionais que hajam sido superiormente aprovad
 
 c) A orientação e coordenação, em primeiro grau, dos estabelecimentos hospitalares situados nas respectivas áreas de jurisdição.
 
-###### Art. 20.º Compete em especial ao director das zonas hospitalares:
+Art. 20.º Compete em especial ao director das zonas hospitalares:
 
 a) Representar a Direcção-Geral dos Hospitais e estabelecer a ligação desta com os estabelecimentos hospitalares da zona respectiva e com os restantes serviços do Ministério da Saúde e Assistência e outras entidades oficiais ou particulares aí existentes;
 
@@ -312,16 +328,16 @@ b) Instruir e orientar os delegados regionais;
 
 c) Inspeccionar os estabelecimentos hospitalares e resolver os problemas que lhes respeitem ou propor a sua resolução, quando esta exceda a sua competência.
 
-###### Art. 21.º Em matéria de competência e funcionamento, as comissões inter-hospitalares continuam a reger-se pelas disposições da [Portaria n.º 18752](https://diariodarepublica.pt/dr/detalhe/portaria/18752-1961-180019), de 29 de Setembro de 1961.
+Art. 21.º Em matéria de competência e funcionamento, as comissões inter-hospitalares continuam a reger-se pelas disposições da [Portaria n.º 18752](https://diariodarepublica.pt/dr/detalhe/portaria/18752-1961-180019), de 29 de Setembro de 1961.
 
 § único. Passam a competir à Direcção-Geral dos Hospitais as funções conferidas à Comissão Inter-Hospitalar de Lisboa pela [Portaria n.º 18523](https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919), de 12 de Junho de 1961.
 
-###### Art. 22.º Aos delegados regionais incumbe, de acordo com a orientação dos directores de zona hospitalar, representar a Direcção-Geral dos Hospitais, promover a colaboração técnica e administrativa entre os estabelecimentos hospitalares da região e vigiar o funcionamento do serviço de distribuição de doentes.
+Art. 22.º Aos delegados regionais incumbe, de acordo com a orientação dos directores de zona hospitalar, representar a Direcção-Geral dos Hospitais, promover a colaboração técnica e administrativa entre os estabelecimentos hospitalares da região e vigiar o funcionamento do serviço de distribuição de doentes.
 
-###### Art. 23.º Os lugares previstos na presente organização interna da Direcção-Geral dos Hospitais serão ocupados, mediante distribuição aprovada pelo Ministro da Saúde e Assistência, pelo pessoal do quadro da mesma Direcção-Geral, bem como pelo pessoal requisitado ou destacado pertencente aos estabelecimentos hospitalares ou aos demais serviços.
+Art. 23.º Os lugares previstos na presente organização interna da Direcção-Geral dos Hospitais serão ocupados, mediante distribuição aprovada pelo Ministro da Saúde e Assistência, pelo pessoal do quadro da mesma Direcção-Geral, bem como pelo pessoal requisitado ou destacado pertencente aos estabelecimentos hospitalares ou aos demais serviços.
 
 § único. Exceptuam-se os lugares de delegado regional, para que poderão ser designados, sob proposta da Direcção-Geral dos Hospitais e nos termos da legislação aplicáveis, indivíduos que desempenham outras funções oficiais ou particulares.
 
-###### Art. 24.º Na distribuição do pessoal pelos diferentes lugares procurará assegurar-se a rotação, em termos convenientes, do pessoal pelas funções da sua especialidade exercidas na Direcção-Geral e nos estabelecimentos e demais serviços dependentes, oficiais ou particulares, sem prejuízo do estatuto que lhes for aplicável em atenção ao seu lugar de origem.
+Art. 24.º Na distribuição do pessoal pelos diferentes lugares procurará assegurar-se a rotação, em termos convenientes, do pessoal pelas funções da sua especialidade exercidas na Direcção-Geral e nos estabelecimentos e demais serviços dependentes, oficiais ou particulares, sem prejuízo do estatuto que lhes for aplicável em atenção ao seu lugar de origem.
 
 Ministério da Saúde e Assistência, 5 de Junho de 1962. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

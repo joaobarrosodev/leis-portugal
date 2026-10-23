@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/349/1991/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1991-301654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2015702298d0245ad18d1646f8a119a6002d310d2a283d7f154ebb00a329dd35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3627a87d5ee0f611f00a1ea7f29f4079e2446adda4d6f916d96ae87a06f0fd7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,45 @@ relationships:
   target: pt:dre:546975:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546975:por
+  label: "Mantido em vigor pela LEI.86/95.1995.09.01.AR, DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/86-1995-546975
+  date: '1995-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/41/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:294675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691437:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:47Z'
   warnings: []
   errors: []
 ---
@@ -168,12 +193,12 @@ Os direitos de propriedade concedidos nos termos do presente diploma são impenh
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa - José Manuel Cardoso Borges Soeiro - Luís António Damásio Capoulas.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

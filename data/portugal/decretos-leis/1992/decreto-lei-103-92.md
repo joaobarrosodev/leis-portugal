@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/125a00/26252630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/1992/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1992-517185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9611ebe2ffcf75ec11504ab4a9e295057a3f09ceb8c365962f8d014270595b38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bd7ec0edf9207cfb128c7c8df802f50d169e2f08aeb8fa010521dc278b5b2b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:279776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 4.º, 6.º, 9.º, 10.º e 16.º pelo DEC LEI.139/95.14.06.1995.MIE, DR.IS-A [136] de 14.06.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -90,16 +96,28 @@ relationships:
   target: celex:31990L0488
   label: null
   source: http://data.europa.eu/eli/dir/1990/488/oj
+- type: corrected_by
+  target: pt:dre:423398:por
+  label: "Rectificado o n.º 2 do artigo 3.º, as alíneas c) e d) do n.º 1 do artigo 4.º, o artigo 7.º, o n.º 3 do artigo 9.º\
+    \ e o n.º 1 do artigo 10.º, pela DECL-RECT.132/92.31.08.1992.PCM, DR.IS-A [200]Supl de 31.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/132-1992-423398
+  date: '1992-08-31'
+- type: repealed_by
+  target: pt:dre:279776:por
+  label: "Revogado em 16.03.2011, na redacção do Dec Lei 139/95, de 14-Jun, pelo DEC LEI.26/2011.14.02.2011.MEID, DR.IS [31]\
+    \ de 14.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2011-279776
+  date: '2011-02-14'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:24Z'
   warnings: []
   errors: []
 ---
@@ -380,12 +398,12 @@ c) Informará a Comissão e os estados membros de quaisquer outras medidas tomad
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Maio de 1992.**
+Referendado em 17 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19020-1962-519222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2ca702d48542dc448e28dfa21d48e30742f40d51bfe888d9e7680c77304f3f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ee376082727b0ab5215e4c853a2c754cdf27405664f268aa04d2438b28abb29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518633:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:24Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +102,20 @@ Aeródromo-base n.º 4 (ver nota a)
 
 A) Oficiais e oficiais milicianos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf))](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
 
 (nota a) Este mapa inclui o pessoal necessário para guarnecer quatro aeródromos de manobra simultâneamente.
 
 B) Sargentos, sargentos milicianos, praças readmitidas e praças não readmitidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf))](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
 
 C) Pessoal equiparado a militar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf))](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
 
 D) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf))](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/03100/01250126.pdf)
 
 Presidência do Conselho e Ministério do Ultramar, 12 de Fevereiro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira. - O Secretário de Estado da Aeronáutica, Kaulza Oliveira de Arriaga.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/1991/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1991-693786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ae180bc07ffedecaec0abb1da5a15f7e1b68c4e08204fe77f1bc44ca99fdc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6caa91f5d30863bb114cd25b1672535dce73e539010d98838465119efa402680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,41 @@ relationships:
   target: pt:dre:180468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497870:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642573:por
+  label: "Revogados os art 3º, 6º, 7º e 11º pelo DEC LEI.78-A/97.1997.04.07.MF, DR.IS-A [81]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-a-1997-642573
+  date: '1997-04-07'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:33Z'
   warnings: []
   errors: []
 ---
@@ -109,15 +134,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Electricidade de Portugal (EDP), E. P., criada pelo [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho, é transformada, a partir da entrada em vigor do presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a firma EDP - Electricidade de Portugal, S. A., adiante designada abreviadamente por EDP.
+Artigo 1.º - 1 - A empresa pública Electricidade de Portugal (EDP), E. P., criada pelo [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho, é transformada, a partir da entrada em vigor do presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a firma EDP - Electricidade de Portugal, S. A., adiante designada abreviadamente por EDP.
 
 2 - A EDP rege-se pelo presente diploma, pelos seus estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 2.º - 1 - A EDP sucede automática e globalmente à Electricidade de Portugal (EDP), E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A EDP sucede automática e globalmente à Electricidade de Portugal (EDP), E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, mediante simples comunicação subscrita por dois membros do conselho de administração da EDP.
 
-###### Art. 3.º - 1 - As acções da EDP pertencem ao Estado e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
+Art. 3.º - 1 - As acções da EDP pertencem ao Estado e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
 
 2 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
@@ -125,21 +150,21 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os direitos do Estado, como accionista da EDP, são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do n.º 2.
 
-###### Art. 4.º - 1 - O capital social inicial da EDP é de 250000000000$00, correspondendo ao valor do capital estatutário da Electricidade de Portugal (EDP), E. P., e encontra-se realizado pelos valores que integram o património da sociedade.
+Art. 4.º - 1 - O capital social inicial da EDP é de 250000000000$00, correspondendo ao valor do capital estatutário da Electricidade de Portugal (EDP), E. P., e encontra-se realizado pelos valores que integram o património da sociedade.
 
 2 - O valor do capital social poderá ser alterado em conformidade com a avaliação prevista no artigo 8.º, sendo, em tal caso, substituído pelo valor que daquela avaliação resultar, sem outra formalidade, para além do registo da alteração.
 
-###### Art. 5.º - 1 - São aprovados os estatutos da EDP - Electricidade de Portugal, S. A., que constituem o anexo I a este diploma.
+Art. 5.º - 1 - São aprovados os estatutos da EDP - Electricidade de Portugal, S. A., que constituem o anexo I a este diploma.
 
 2 - As eventuais alterações aos estatutos produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e subsequente registo e publicação.
 
 3 - A alteração efectuada pelo artigo 1.º, bem como os estatutos da EDP agora aprovados, produzem efeitos relativamente a terceiros, independentemente de registo, o qual, no entanto, deve ser requerido nos 90 dias seguintes à data da entrada em vigor deste diploma.
 
-###### Art. 6.º - 1 - A EDP tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 6.º - 1 - A EDP tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
 2 - Como órgão consultivo da administração, a EDP tem um conselho de impacte ambiental, a quem compete a formulação de pareceres e recomendações sobre o impacte ambiental dos projectos a promover pela sociedade.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -147,7 +172,7 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará, trimestralmente, aos Ministros das Finanças e da Indústria e Energia, um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 8.º - 1 - A EDP procederá, por meio de cisões simples, à formação de novas sociedades anónimas, sendo o capital social destas exclusivamente por si subscrito ou realizado.
+Art. 8.º - 1 - A EDP procederá, por meio de cisões simples, à formação de novas sociedades anónimas, sendo o capital social destas exclusivamente por si subscrito ou realizado.
 
 2 - Para efeitos do disposto no número anterior, o conselho de administração promoverá a avaliação do património da EDP, a qual deverá estar concluída no prazo de 120 dias após a data da entrada em vigor do presente diploma, salvo prorrogação que o Ministro das Finanças considere justificada.
 
@@ -157,7 +182,7 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 5 - Todas as avaliações previstas neste artigo estão sujeitas à aprovação do Ministro das Finanças.
 
-###### Art. 9.º - 1 - Nos 90 dias seguintes à aprovação da avaliação do património da EDP, o conselho de administração desta submeterá aos Ministros das Finanças e da Indústria e Energia o plano geral das cisões a efectuar, com menção e justificação dos seguintes pontos para cada uma das sociedades cuja constituição seja prevista:
+Art. 9.º - 1 - Nos 90 dias seguintes à aprovação da avaliação do património da EDP, o conselho de administração desta submeterá aos Ministros das Finanças e da Indústria e Energia o plano geral das cisões a efectuar, com menção e justificação dos seguintes pontos para cada uma das sociedades cuja constituição seja prevista:
 
 a) Definição da sua actividade;
 
@@ -173,15 +198,15 @@ e) Contratos de trabalho a transmitir.
 
 3 - As sociedades resultantes das cisões não respondem por dívidas da EDP, para além daquelas que no acto da cisão lhes sejam atribuídas.
 
-###### Art. 10.º - 1 - Cada uma das sociedades resultantes da cisão terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado do património da EDP.
+Art. 10.º - 1 - Cada uma das sociedades resultantes da cisão terá o capital correspondente ao valor do activo, líquido do passivo, que para ela é destacado do património da EDP.
 
 2 - A cobertura do capital das novas sociedades pela parte do património destacado será certificada por uma sociedade de revisores oficiais de contas.
 
-###### Art. 11.º A eventual alienação das acções representativas do capital social das empresas cinditárias da EDP obedece ao disposto na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+Art. 11.º A eventual alienação das acções representativas do capital social das empresas cinditárias da EDP obedece ao disposto na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 12.º Não é aplicável ao Estado, relativamente à EDP, nem a esta, relativamente às sociedades constituídas ao abrigo do n.º 1 do artigo 8.º, o disposto nos artigos 501.º e 504.º do Código das Sociedades Comerciais.
+Art. 12.º Não é aplicável ao Estado, relativamente à EDP, nem a esta, relativamente às sociedades constituídas ao abrigo do n.º 1 do artigo 8.º, o disposto nos artigos 501.º e 504.º do Código das Sociedades Comerciais.
 
-###### Art. 13.º - 1 - Os trabalhadores e pensionistas da Electricidade de Portugal (EDP), E. P., mantêm todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma.
+Art. 13.º - 1 - Os trabalhadores e pensionistas da Electricidade de Portugal (EDP), E. P., mantêm todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, dos institutos públicos, das empresas de capital exclusiva ou maioritariamente público e das autarquias locais podem ser autorizados a exercer funções, em regime de requisição, na EDP e nas sociedades constituídas ao abrigo do disposto no n.º 1 do artigo 8.º, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, refoma e outras regalias.
 
@@ -189,43 +214,43 @@ e) Contratos de trabalho a transmitir.
 
 4 - É extensiva à EDP e às sociedades referidas no n.º 2 o regime legal em vigor sobre requisição de trabalhadores de empresas privadas, para exercício de funções de administração e direcção em empresas públicas.
 
-###### Art. 14.º - 1 - Sem prejuízo dos direitos assegurados aos trabalhadores pela lei geral, compete ao conselho de administração da EDP determinar quais os trabalhadores que passam a prestar serviço em sociedades constituídas ao abrigo do disposto no n.º 1 do artigo 8.º
+Art. 14.º - 1 - Sem prejuízo dos direitos assegurados aos trabalhadores pela lei geral, compete ao conselho de administração da EDP determinar quais os trabalhadores que passam a prestar serviço em sociedades constituídas ao abrigo do disposto no n.º 1 do artigo 8.º
 
 2 - Os direitos e regalias dos trabalhadores, decorrentes da lei, instrumentos de regulamentação colectiva ou contratos individuais de trabalho, não são prejudicados pela transferência para as novas sociedades, contando-se, para todos os efeitos, o tempo de serviço prestado na EDP, quer antes, quer depois da sua transformação em sociedade anónima.
 
-###### Art. 15.º São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros membros designados para os órgãos de administração e de fiscalização, tanto da EDP como de cada uma das sociedades constituídas ao abrigo do disposto no n.º 1 do artigo 8.º
+Art. 15.º São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros membros designados para os órgãos de administração e de fiscalização, tanto da EDP como de cada uma das sociedades constituídas ao abrigo do disposto no n.º 1 do artigo 8.º
 
-###### Art. 16.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Electricidade de Portugal (EDP), E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 16.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a Electricidade de Portugal (EDP), E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 17.º - 1 - É por esta forma convocada a assembleia geral da EDP, a qual deve reunir na sede da sociedade no 30.º dia posterior à data de publicação do presente diploma, ou no primeiro dia útil posterior, pelas 15 horas, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 17.º - 1 - É por esta forma convocada a assembleia geral da EDP, a qual deve reunir na sede da sociedade no 30.º dia posterior à data de publicação do presente diploma, ou no primeiro dia útil posterior, pelas 15 horas, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização da Electricidade de Portugal (EDP), E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da EDP, com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1991.**
+Referendado em 18 de Dezembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — ESTATUTOS DA EDP - ELECTRICIDADE DE PORTUGAL, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação de EDP - Electricidade de Portugal, S. A.
+Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação de EDP - Electricidade de Portugal, S. A.
 
 2 - A sociedade tem duração ilimitada e rege-se pelo Decreto-Lei n.º 7/91, de 8 de Janeiro, pelos presentes estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais decorrentes do objecto da sociedade.
 
-###### Art. 2.º - 1 - A sede social é em Lisboa, na Avenida de José Malhoa, lote A-13, e pode ser mudada, dentro do município ou para município limítrofe, por simples deliberação do conselho de administração.
+Art. 2.º - 1 - A sede social é em Lisboa, na Avenida de José Malhoa, lote A-13, e pode ser mudada, dentro do município ou para município limítrofe, por simples deliberação do conselho de administração.
 
 2 - O conselho de administração pode criar e encerrar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer outras formas de representação, bem como, ouvido o conselho fiscal, deslocar a sede da empresa dentro do território nacional continental.
 
-###### Art. 3.º - 1 - A EDP tem por objecto a produção, a aquisição, o transporte, a distribuição e a venda de energia eléctrica em Portugal, em conformidade com as licenças, concessões ou autorizações de que for titular, e, bem assim, o exercício de outras actividades relacionadas com aquelas.
+Art. 3.º - 1 - A EDP tem por objecto a produção, a aquisição, o transporte, a distribuição e a venda de energia eléctrica em Portugal, em conformidade com as licenças, concessões ou autorizações de que for titular, e, bem assim, o exercício de outras actividades relacionadas com aquelas.
 
 2 - Para o exercício do objecto definido no número anterior, a EDP pode:
 
@@ -239,21 +264,21 @@ d) Criar novas sociedades de acordo com o estabelecido nas regras do Código das
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 250000000000$00 e encontra-se integralmente realizado.
+Art. 4.º - 1 - O capital social é de 250000000000$00 e encontra-se integralmente realizado.
 
 2 - O capital é representado por acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções serão sempre nominativas.
+Art. 5.º - 1 - As acções serão sempre nominativas.
 
 2 - As acções serão emitidas como acções escriturais.
 
 3 - As acções podem ser tituladas, a pedido e à custa dos interessados, podendo, nessa hipótese, haver títulos de 1, 10 ou múltiplos de 10 acções até ao limite de 100000.
 
-###### Art. 6.º As acções só podem ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
+Art. 6.º As acções só podem ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º São órgãos da sociedade:
+Art. 7.º São órgãos da sociedade:
 
 a) A assembleia geral;
 
@@ -263,7 +288,7 @@ c) O conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência.
+Art. 8.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência.
 
 2 - Compete especialmente à assembleia geral:
 
@@ -279,13 +304,13 @@ e) Autorizar, com prévio parecer do conselho fiscal, a aquisição e alienaçã
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 9.º A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário, eleitos pela assembleia geral de entre os accionistas ou outras pessoas por períodos de três anos.
+Art. 9.º A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário, eleitos pela assembleia geral de entre os accionistas ou outras pessoas por períodos de três anos.
 
-###### Art. 10.º - 1 - As assembleias gerais são convocadas por cartas registadas, dirigidas a todos os accionistas.
+Art. 10.º - 1 - As assembleias gerais são convocadas por cartas registadas, dirigidas a todos os accionistas.
 
 2 - Relativamente ao Estado, serão dirigidas cartas registadas ao seu representante, ao Ministro das Finanças e ao Ministro da Indústria e Energia.
 
-###### Art. 11.º - 1 - A cada 1000 acções corresponde 1 voto.
+Art. 11.º - 1 - A cada 1000 acções corresponde 1 voto.
 
 2 - Para que a assembleia geral possa reunir e deliberar, em primeira convocação, é indispensável a presença ou representação de accionistas que detenham, pelo menos, 51% do capital, devendo um deles ser o Estado.
 
@@ -293,7 +318,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por sete administradores, eleitos pela assembleia geral.
+Art. 12.º - 1 - O conselho de administração é composto por sete administradores, eleitos pela assembleia geral.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
@@ -303,7 +328,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 5 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidas por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-###### Art. 13.º Ao conselho de administração compete:
+Art. 13.º Ao conselho de administração compete:
 
 a) Aprovar os objectivos e as políticas de gestão da empresa;
 
@@ -323,13 +348,13 @@ h) Constituir mandatários com os poderes que julgue convenientes, incluindo os 
 
 i) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
 
-###### Art. 14.º Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+Art. 14.º Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
 
-###### Art. 15.º - 1 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por algum dos seus membros ou comissões especiais constituídas por algum ou alguns dos seus membros, os poderes que lhe são conferidos, definindo em acta os limites ou condições de tal delegação.
+Art. 15.º - 1 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por algum dos seus membros ou comissões especiais constituídas por algum ou alguns dos seus membros, os poderes que lhe são conferidos, definindo em acta os limites ou condições de tal delegação.
 
 2 - A aquisição e alienação de participações sociais, embora autorizadas pela assembleia geral, não se incluem nos poderes delegáveis.
 
-###### Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho de administração;
 
@@ -339,7 +364,7 @@ c) Zelar pela correcta execução das deliberações do conselho.
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vice-presidente.
 
-###### Art. 17.º A sociedade obriga-se:
+Art. 17.º A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -349,7 +374,7 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 2 - O conselho de administração pode deliberar que certos documentos da sociedade sejam assinados por processos mecânicos ou por chancela.
 
-###### Art. 18.º - 1 - O conselho de administração deve reunir semanalmente e, ainda, sempre que convocado pelo presidente a solicitação de dois administradores ou do conselho fiscal.
+Art. 18.º - 1 - O conselho de administração deve reunir semanalmente e, ainda, sempre que convocado pelo presidente a solicitação de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros.
 
@@ -357,9 +382,9 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 4 - Os membros do conselho de administração que não possam estar presentes à reunião poderão, em casos de deliberações consideradas urgentes pelo presidente, expressar o seu voto por carta a este dirigida.
 
-###### Art. 19.º As remunerações dos administradores são fixadas pela assembleia geral e devem sempre ser certas.
+Art. 19.º As remunerações dos administradores são fixadas pela assembleia geral e devem sempre ser certas.
 
-###### Art. 20.º - 1 - O conselho de impacte ambiental, órgão consultivo do conselho de administração, é constituído por cinco personalidades de reconhecida competência na área da defesa do ambiente.
+Art. 20.º - 1 - O conselho de impacte ambiental, órgão consultivo do conselho de administração, é constituído por cinco personalidades de reconhecida competência na área da defesa do ambiente.
 
 2 - Os membros do conselho de impacte ambiental são eleitos pela assembleia geral sob proposta do conselho de administração.
 
@@ -367,11 +392,11 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 21.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
+Art. 21.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
 
 2 - Os membros efectivos e os suplentes serão eleitos, por períodos de três anos, pela assembleia geral, a qual designará o presidente.
 
-###### Art. 22.º - 1 - O conselho fiscal tem a competência, os poderes e os deveres estabelecidos na lei e nestes estatutos.
+Art. 22.º - 1 - O conselho fiscal tem a competência, os poderes e os deveres estabelecidos na lei e nestes estatutos.
 
 2 - Ao conselho fiscal compete especialmente:
 
@@ -387,13 +412,13 @@ i) A aquisição, alienação ou operação de bens imóveis realizadas por qual
 
 ii) A adjudicação de obras e a aquisição de bens e serviços, umas e outros quando de montante superior a 1% do capital social.
 
-###### Art. 23.º O conselho fiscal deve reunir, pelo menos, uma vez em cada mês.
+Art. 23.º O conselho fiscal deve reunir, pelo menos, uma vez em cada mês.
 
-###### Art. 24.º As remunerações de membros do conselho fiscal são fixadas pela assembleia geral e devem ser certas.
+Art. 24.º As remunerações de membros do conselho fiscal são fixadas pela assembleia geral e devem ser certas.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 25.º Os lucros de exercício, apurados em conformidade com a lei, serão aplicados:
+Art. 25.º Os lucros de exercício, apurados em conformidade com a lei, serão aplicados:
 
 a) Na cobertura dos prejuízos dos anos anteriores;
 
@@ -405,27 +430,27 @@ d) O restante, conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 26.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 26.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.
 
 ### CAPÍTULO VI — Disposição final
 
-###### Art. 27.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 27.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 ## ANEXO II — PROJECTO DOS ESTATUTOS DAS SOCIEDADES ANÓNIMAS A CRIAR POR CISÃO DA EDP
 
 ### CAPÍTULO I — Firma, duração, sede e objecto
 
-###### Artigo 1.º Por cisão da EDP - Electricidade de Portugal, S. A., determinada pelo artigo 8.º do Decreto-Lei n.º 7/91, de 8 de Janeiro, e deliberada no dia ... conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma de ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
+Artigo 1.º Por cisão da EDP - Electricidade de Portugal, S. A., determinada pelo artigo 8.º do Decreto-Lei n.º 7/91, de 8 de Janeiro, e deliberada no dia ... conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma de ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em ...
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em ...
 
 2 - Por deliberação do conselho de administração, a sociedade poderá criar e manter em qualquer ponto do território nacional ou fora dele agências, delegações ou qualquer outra forma de representação, bem como, ouvido o conselho fiscal, deslocar a sua sede dentro do município de ... ou para município limítrofe.
 
-###### Art. 3.º - 1 - O objecto social consiste ...
+Art. 3.º - 1 - O objecto social consiste ...
 
 2 - A sociedade pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais, industriais e financeiras relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
 
@@ -433,29 +458,29 @@ d) O restante, conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de ...
+Art. 4.º - 1 - O capital social é de ...
 
 2 - O capital é dividido em ... acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções representativas do capital inicial da sociedade serão nominativas.
+Art. 5.º - 1 - As acções representativas do capital inicial da sociedade serão nominativas.
 
 2 - As acções serão emitidas como acções escriturais.
 
 3 - As acções podem ser tituladas a pedido e à custa dos interessados, podendo, nessa hipótese, haver títulos de 1 até 10000 acções.
 
-###### Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
+Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-###### Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
+Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
 
 2 - Compete especialmente à assembleia geral:
 
@@ -471,27 +496,27 @@ e) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, pa
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 10.º - 1 - As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais.
+Art. 10.º - 1 - As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais.
 
 2 - Relativamente a accionistas titulares de acções nominativas, é sempre indispensável a convocação por carta registada.
 
-###### Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar, em primeira convocação, é indispensável a presença ou representação de accionistas que detenham, pelo menos, 51% do capital.
+Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar, em primeira convocação, é indispensável a presença ou representação de accionistas que detenham, pelo menos, 51% do capital.
 
 2 - Tanto em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da sociedade, aquisição ou alienação de acções próprias ou de participações noutras sociedades ou em agrupamentos complementares de empresas devem ser aprovadas por 51% dos votos correspondentes ao capital social, sem qualquer dedução no caso de existirem impedimentos de voto.
 
-###### Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á 1 voto por cada 100 acções e só os accionistas titulares do direito de voto poderão participar na assembleia.
+Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á 1 voto por cada 100 acções e só os accionistas titulares do direito de voto poderão participar na assembleia.
 
-###### Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
+Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
 
 2 - A mesa é eleita trienalmente pela própria assembleia, sendo as suas faltas supridas nos termos da lei comercial.
 
 3 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem, pelo menos, 5% do capital social.
+Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem, pelo menos, 5% do capital social.
 
 #### SECÇÃO II — Administração
 
-###### Art. 15.º - 1 - O conselho de administração é composto por três ou cinco administradores, eleitos pela assembleia geral.
+Art. 15.º - 1 - O conselho de administração é composto por três ou cinco administradores, eleitos pela assembleia geral.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
@@ -499,7 +524,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - Não estando fixado expressamente pela assembleia geral o número de administradores, entender-se-á que tal número é o dos administradores efectivamente eleitos.
 
-###### Art. 16.º Ao conselho de administração compete especialmente:
+Art. 16.º Ao conselho de administração compete especialmente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -513,11 +538,11 @@ e) Estabelecer a organização técnico-administrativa da sociedade e as normas 
 
 f) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer.
 
-###### Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou ainda, se os administradores forem cinco, numa comissão executiva constituída por três administradores.
+Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou ainda, se os administradores forem cinco, numa comissão executiva constituída por três administradores.
 
 2 - A aquisição e alienação de participações sociais, embora autorizadas pela assembleia geral, não se incluem nos poderes delegáveis.
 
-###### Art. 18.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 18.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -529,7 +554,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -541,21 +566,21 @@ c) Pela assinatura dos mandatários constituídos, nos termos dos correspondente
 
 3 - Os títulos, provisórios ou definitivos, representativos das acções da sociedade devem ter a assinatura de dois administradores, podendo uma delas ser substituída por reprodução mecânica ou chancela.
 
-###### Art. 20.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez em cada quinzena.
+Art. 20.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez em cada quinzena.
 
 2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros.
 
 3 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 21.º As remunerações dos administradores, que podem ser diferenciados, são fixadas pela assembleia geral.
+Art. 21.º As remunerações dos administradores, que podem ser diferenciados, são fixadas pela assembleia geral.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 22.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
+Art. 22.º - 1 - O conselho fiscal é composto por três membros efectivos e dois suplentes.
 
 2 - Os membros efectivos e os suplentes serão eleitos, por períodos de três anos renováveis, pela assembleia geral, que designará o presidente e fixará as remunerações.
 
-###### Art. 23.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei e nestes estatutos.
+Art. 23.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei e nestes estatutos.
 
 2 - Ao conselho fiscal compete especialmente:
 
@@ -577,11 +602,11 @@ h) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 24.º O conselho fiscal deve reunir, pelo menos, uma vez em cada mês.
+Art. 24.º O conselho fiscal deve reunir, pelo menos, uma vez em cada mês.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 25.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
+Art. 25.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
 
 a) À constituição e, eventualmente, à reintegração da reserva legal;
 
@@ -591,8 +616,8 @@ c) A dividendo a distribuir pelos accionistas.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 26.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 26.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

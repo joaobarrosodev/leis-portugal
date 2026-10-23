@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/387/1991/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1991-288061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba917cb3c42243d820fd7d28161ffd14a37b14ccc48d838e1b8de49e6d87facd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f3d8b5f91cf043ed183f61b851877ac9714b5ab48ba87676b296f962540a36d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Ultramarina
 - Arquivo
 - Arquivo Nacional da Torre do Tombo
-- Ministério do Ultramar
-- Documentação Administrativa
-- Administração Ultramarina
 - Direcção Geral da Administração Pública
-relationships: []
+- Documentação Administrativa
+- Ministério do Ultramar
+relationships:
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:37Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +109,7 @@ Considerando, por último, que incumbe ao Arquivo Nacional da Torre do Tombo o t
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São incorporados no Arquivo Nacional da Torre do Tombo (ANTT) os processos individuais respeitantes aos funcionários e agentes da ex-administração ultramarina e do extinto Ministério do Ultramar que não tenham sido integrados no quadro de efectivos interdepartamentais criado pelo n.º 1 do artigo 9.º do [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, nem nos quadros de pessoal de serviços e organismos públicos e que:
+Artigo 1.º - 1 - São incorporados no Arquivo Nacional da Torre do Tombo (ANTT) os processos individuais respeitantes aos funcionários e agentes da ex-administração ultramarina e do extinto Ministério do Ultramar que não tenham sido integrados no quadro de efectivos interdepartamentais criado pelo n.º 1 do artigo 9.º do [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, nem nos quadros de pessoal de serviços e organismos públicos e que:
 
 a) Não tenham tido qualquer movimento há 10 ou mais anos;
 
@@ -113,24 +117,24 @@ b) Venham a perfazer o mesmo período de 10 anos sem terem sido objecto de qualq
 
 2 - Para os efeitos do disposto no número anterior, o prazo de 10 anos conta-se a partir da data do último documento arquivado no respectivo processo.
 
-###### Art. 2.º - 1 - A Direcção-Geral da Administração Pública (DGAP) tomará as medidas necessárias para assegurar a higienização, organização, arquivamento e ordenação da transferência dos processos referidos no artigo anterior.
+Art. 2.º - 1 - A Direcção-Geral da Administração Pública (DGAP) tomará as medidas necessárias para assegurar a higienização, organização, arquivamento e ordenação da transferência dos processos referidos no artigo anterior.
 
 2 - As despesas inerentes à execução do disposto no número anterior serão suportadas pela DGAP.
 
-###### Art. 3.º A consulta pelos interessados dos processos incorporados no ANTT só é permitida mediante requerimento destes, dirigido ao membro do Governo de que dependa o ANTT, sob parecer favorável do respectivo director.
+Art. 3.º A consulta pelos interessados dos processos incorporados no ANTT só é permitida mediante requerimento destes, dirigido ao membro do Governo de que dependa o ANTT, sob parecer favorável do respectivo director.
 
-###### Art. 4.º - 1 - A consulta pública dos processos transferidos ao abrigo do disposto neste diploma só poderá realizar-se após o óbito do ex-funcionário ou agente a que disser respeito, sem prejuízo de, durante a vida deste, a consulta poder ser por ele expressamente consentida.
+Art. 4.º - 1 - A consulta pública dos processos transferidos ao abrigo do disposto neste diploma só poderá realizar-se após o óbito do ex-funcionário ou agente a que disser respeito, sem prejuízo de, durante a vida deste, a consulta poder ser por ele expressamente consentida.
 
 2 - Não será permitida a consulta pública de documentos que contenham dados pessoais que possam afectar a segurança das pessoas, a sua honra ou a intimidade da sua vida privada e familiar e a sua própria imagem, salvo se houver consentimento expresso dos titulares dos interesses legítimos a salvaguardar ou desde que decorridos 50 anos sobre a data da morte da pessoa a que respeitem os dados ou 75 anos sobre a data do documento, em caso de dúvida ou desconhecimento da data da morte.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

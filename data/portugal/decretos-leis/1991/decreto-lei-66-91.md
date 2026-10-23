@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/033a00/06090610.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/1991/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1991-478256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb189f8cfe3ec3d37d6894a4aea5f4ee139be4a708a8e38ed4c92b59d19c42f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d80569316759f78472dc4952d17f835c0b7f371d88141b0b0484fe8d09ddfe63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,32 @@ reuse:
 subjects:
 - Direcção Geral dos Serviços Prisionais
 - Estabelecimento Prisional
-- Quadro de Pessoal
 - Pessoal de Vigilância
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:621938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:28Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +114,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 13.º, 18.º e 19.º do [Decreto-Lei n.º 399-D/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-d-1984-621938), de 28 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 13.º, 18.º e 19.º do [Decreto-Lei n.º 399-D/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-d-1984-621938), de 28 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 12.º — Carreira
 
@@ -181,20 +190,20 @@ h) À categoria de guarda provisório da Polícia de Segurança Pública corresp
 
 3 - ...
 
-###### Art. 2.º Os encargos a que se refere o presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, enquanto não for inscrita verba no Orçamento do Estado para esse efeito.
+Art. 2.º Os encargos a que se refere o presente diploma serão suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, enquanto não for inscrita verba no Orçamento do Estado para esse efeito.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Pessoal comum dos serviços e dos serviços externos da Direcção-Geral dos Serviços Prisionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/033a00/06090610.pdf))](https://files.diariodarepublica.pt/1s/1991/02/033a00/06090610.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/033a00/06090610.pdf)

@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19033-1962-519006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 177f19e211aa23d46f67dc037b69a5c9b998cf6ee6fe92bd7fdc0e52f1dcf9e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dc4ab0ef15a3e9c025c0e5d3f6216b1b2aaad796dff3c0c5efe9570bef118b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Junta Autónoma dos Portos
+- Junta Autónoma dos Portos do Sotavento do Algarve
+- Preço
+- Regulamento
+- Taxa
+- TAXA de Utilização
+relationships:
+- type: cites
+  target: pt:dre:236151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:39Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +103,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Sotavento do Algarve, aprovadas pela [Portaria n.º 15498](https://diariodarepublica.pt/dr/detalhe/portaria/15498-1955-236151), de 10 de Agosto de 1955, com as alterações introduzidas pela [Portaria n.º 16408](https://diariodarepublica.pt/dr/detalhe/portaria/16408-1957-254195), de 11 de Setembro de 1957, e mais a seguinte, que altera a redacção do artigo 49.º:
 
-###### Art. 49.º Pela utilização da ponte de embarque no posto fronteiriço de Vila Real de Santo António cobrar-se-á a taxa à saída do País, por veículo, de:
+Art. 49.º Pela utilização da ponte de embarque no posto fronteiriço de Vila Real de Santo António cobrar-se-á a taxa à saída do País, por veículo, de:
 
 Automóveis. ... 5$00
 

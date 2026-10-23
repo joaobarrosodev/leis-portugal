@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/006a00/01010101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/1991/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1991-693785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe96a625a01c2d4d17b748d4d46f1f64b5ff85746ba9240c2ab6e7ded0db2f5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0285044fa3e05e5481917b63549a99421f294977572786d65a464e38f9450845
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
+- Comércio
 - Comércio por Grosso
 - Direcção Geral do Comércio Interno
+- Estabelecimento Comercial
 - Fiscalização
 - Licenciamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:584256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584256:por
+  label: "Revogado pelo DEC LEI.258/92.20.11.1992.MCT, DR.IS-A [269] de 20.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1992-584256
+  date: '1992-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:04Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +118,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O disposto no [Decreto-Lei n.º 190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779), de 6 de Junho, é aplicável, com as necessárias adaptações, às grandes superfícies de comércio grossista.
+Artigo 1.º O disposto no [Decreto-Lei n.º 190/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1989-609779), de 6 de Junho, é aplicável, com as necessárias adaptações, às grandes superfícies de comércio grossista.
 
-###### Art. 2.º Para efeitos do disposto no artigo anterior, entende-se por:
+Art. 2.º Para efeitos do disposto no artigo anterior, entende-se por:
 
 a) Grandes superfícies comerciais - as infra-estruturas de comércio grossista com uma superfície comercial útil superior a 3000 m2;
 
@@ -115,18 +128,18 @@ b) Estabelecimento de comércio por grosso - o estabelecimento ou instalação e
 
 c) Superfície comercial útil - a superfície destinada à venda e acessível aos compradores.
 
-###### Art. 3.º A inscrição no cadastro das unidades grossistas já em funcionamento é efectuada no prazo máximo de 90 dias a contar da publicação da portaria do Ministro do Comércio e Turismo que aprove o modelo de impresso para as grandes superfícies de comércio grossista.
+Art. 3.º A inscrição no cadastro das unidades grossistas já em funcionamento é efectuada no prazo máximo de 90 dias a contar da publicação da portaria do Ministro do Comércio e Turismo que aprove o modelo de impresso para as grandes superfícies de comércio grossista.
 
-###### Art. 4.º Este diploma entra em vigor no dia imediato ao da sua publicação, não se aplicando aos casos em que se já encontre concedida a aprovação ou licenciamento municipal.
+Art. 4.º Este diploma entra em vigor no dia imediato ao da sua publicação, não se aplicando aos casos em que se já encontre concedida a aprovação ou licenciamento municipal.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - José António Leite de Araújo.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1990.**
+Referendado em 16 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

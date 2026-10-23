@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/1992/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1992-150313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c30569fbf264da6c26299508b9289b7bbc6de74a5256369dd8b89e3d5b8a8d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03bd1c13559cf728f30b3eb319896e6170ba906ee620458c6569ce700cb986b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aguardente
+- Certificado de Qualidade
 - Comissão de Viticultura da Região dos Vinhos Verdes
 - Denominação de Origem
 - Estatuto
 - Etiquetagem
-- Certificado de Qualidade
 - Região Demarcada dos Vinhos Verdes
 - Vinho Verde
 relationships:
@@ -78,20 +78,61 @@ relationships:
   target: pt:dre:343091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:357513:por
+  label: "Substituido o anexo ao presente diploma, pelo DEC LEI.263/99.1999.07.14.MADRP DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1999-357513
+  date: '1999-07-14'
+- type: amended_by
+  target: pt:dre:284950:por
+  label: "Alterados os arts. 11º e 18º dos Estatutos da Região Demarcada dos Vinhos Verdes, aprovados pelo presente diploma,\
+    \ na redacção do Dec Lei 263/99 de 14-Jul e do Dec Lei 449/99 de 04-Nov, que os republicou em anexo, pelo DEC LEI.93/2006.25.05.2006.MADRP,\
+    \ DR.IS-A [101] de 25.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2006-284950
+  date: '2006-05-25'
 - type: cites
   target: celex:31987R0822
   label: null
   source: http://data.europa.eu/eli/reg/1987/822/oj
+- type: corrected_by
+  target: pt:dre:229504:por
+  label: "Rectificado pela DECL-RECT.45/92.27.04.1992.SG-PCM, DR.IS-A [100]Supl de 30.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/45-1992-229504
+  date: '1992-04-27'
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogados os arts. 3.º, 4.º e 6.º, pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogados os art 3º, 4º e 6º pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado, na redacção do Dec Lei 137/95 de 14-Jun e rectificado pela Decl-Rect 45/92 de 30-Abr, pelo Dec Lei 212/2004\
+    \ de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação da legislação prevista nos arts\
+    \ 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:343091:por
+  label: Revogado, nos termos da al. m) do art. 23.º e do n.º 2 do art. 24.º do Dec Lei 212/2004 de 23-ago, o presente diploma,
+    na redação do Dec Lei 93/2006 de 25-mai, pelo(a) Portaria n.º 668/2010 - Diário da República n.º 155/2010, Série I de
+    2010-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-2010-343091
+  date: '2010-08-11'
 article_structure:
-  article_count: 26
+  article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:19Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +151,15 @@ Assim:
 
 No desencolvimento do regime jurídico previsto na Lei n.º 8/85, de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Região Demarcada dos Vinhos Verdes, anexo a este diploma e dele fazendo parte integrante, compreendendo a regulamentação das denominações de origem controladas «vinho verde», «aguardente vínica da Região dos Vinhos Verdes» e «bagaceira da Região dos Vinhos Verdes».
+Artigo 1.º É aprovado o Estatuto da Região Demarcada dos Vinhos Verdes, anexo a este diploma e dele fazendo parte integrante, compreendendo a regulamentação das denominações de origem controladas «vinho verde», «aguardente vínica da Região dos Vinhos Verdes» e «bagaceira da Região dos Vinhos Verdes».
 
-###### Art. 2.º Compete à Comissão de Viticultura da Região dos Vinhos Verdes (CVRVV) a garantia da genuinidade e qualidade dos vinhos e aguardentes produzidos na região que tenham direito à denominação de origem «vinhos verdes».
+Art. 2.º Compete à Comissão de Viticultura da Região dos Vinhos Verdes (CVRVV) a garantia da genuinidade e qualidade dos vinhos e aguardentes produzidos na região que tenham direito à denominação de origem «vinhos verdes».
 
-###### Art. 3.º Das receitas legalmente afectas à CVRVV relativamente à produção de vinhos e aguardentes com direito à denominação de origem «vinhos verdes» será deduzida uma percentagem, a fixar por portaria do Ministro da tutela, que constituirá receita do Instituto da Vinha e do Vinho (IVV).
+Art. 3.º Das receitas legalmente afectas à CVRVV relativamente à produção de vinhos e aguardentes com direito à denominação de origem «vinhos verdes» será deduzida uma percentagem, a fixar por portaria do Ministro da tutela, que constituirá receita do Instituto da Vinha e do Vinho (IVV).
 
-###### Art. 4.º Mediante protocolo a celebrar entre o IVV e a CVRVV, será fixada a percentagem da taxa de comercialização que reverte para o IVV relativamente aos vinhos de mesa e aguardentes sem direito a denominação de origem «vinhos verdes» produzidos no interior da Região Demarcada e em relação aos quais a CVRVV preste serviços que incumbam àquele Instituto.
+Art. 4.º Mediante protocolo a celebrar entre o IVV e a CVRVV, será fixada a percentagem da taxa de comercialização que reverte para o IVV relativamente aos vinhos de mesa e aguardentes sem direito a denominação de origem «vinhos verdes» produzidos no interior da Região Demarcada e em relação aos quais a CVRVV preste serviços que incumbam àquele Instituto.
 
-###### Art. 5.º A CVRVV funciona sob tutela do Ministro da Agricultura, a quem cabe, designadamente:
+Art. 5.º A CVRVV funciona sob tutela do Ministro da Agricultura, a quem cabe, designadamente:
 
 a) Dirigir à Comissão instruções no âmbito da política vinícola;
 
@@ -126,9 +167,9 @@ b) Solicitar quaisquer informações ou ordenar inspecções e inquéritos ao se
 
 c) Apreciar o orçamento e contas de exercício.
 
-###### Art. 6.º Os vinhos de mesa produzidos no interior da Região Demarcada dos Vinhos Verdes ficam sujeitos às taxas previstas nos Decretos-Leis n.os 26317, de 30 de Janeiro de 1936, e 40037, de 18 de Janeiro de 1955, que constituem receitas do IVV.
+Art. 6.º Os vinhos de mesa produzidos no interior da Região Demarcada dos Vinhos Verdes ficam sujeitos às taxas previstas nos Decretos-Leis n.os 26317, de 30 de Janeiro de 1936, e 40037, de 18 de Janeiro de 1955, que constituem receitas do IVV.
 
-###### Art. 7.º São revogados:
+Art. 7.º São revogados:
 
 a) O Decreto n.º 16684, de 11 de Abril de 1929, o Decreto n.º 26363, de 19 de Fevereiro de 1936, o Decreto-Lei n.º 275/73, de 30 de Maio, a Portaria n.º 802/83, de 29 de Julho, o Decreto-Lei n.º 418/83, de 25 de Novembro, e o Decreto-Lei n.º 303/85, de 29 de Junho;
 
@@ -138,15 +179,15 @@ c) A parte que se refere à Região Demarcada dos Vinhos Verdes da Portaria n.º
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 1991. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 7 de Janeiro de 1992.**
+Promulgado em 7 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Janeiro de 1992.**
+Referendado em 10 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da Região Demarcada dos Vinhos Verdes
 
@@ -368,7 +409,7 @@ Cabe à CVRVV proceder à colheita de amostras em armazéns ou instalações de 
 
 ## ANEXO I — Região Demarcada dos Vinhos Verdes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf))](https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf)
 
 ## ANEXO II — Castas recomendadas e autorizadas para a Região Demarcada dos Vinhos Verdes
 
@@ -384,4 +425,4 @@ Cabe à CVRVV proceder à colheita de amostras em armazéns ou instalações de 
 
 2.2 - Tintas - Amaral, Alicante-Bouschet, Docal, Doce, Espadeiro-Mole, Labrusco, Mourisco, Pical, Poeirinha, Sousão, Grand-Noir-de-la-Calmette, Tinta-Amarela, Touriga, Verdeal e Verdelho.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf))](https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/028a00/06980703.pdf)

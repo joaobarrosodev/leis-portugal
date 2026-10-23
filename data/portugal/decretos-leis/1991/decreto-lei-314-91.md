@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/1991/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1991-674431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07b69e66ec40c34f8dfb2571293d3b2d00fc7376e480a303d10e2eb4ec86f7af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bd720fc05bd68b3133953c527bb698e8e0527156185ab7777ecee87e4b168b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Estoril
 - Prédio Urbano
 - Transferência Patrimonial
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:609982:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:02Z'
   warnings: []
   errors: []
 ---
@@ -107,24 +111,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É desafectado do domínio privado do Estado o terreno, com a área de 6383,16 m2, situado na Avenida Clotilde, na freguesia do Estoril, Município de Cascais, identificado na planta anexa ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É desafectado do domínio privado do Estado o terreno, com a área de 6383,16 m2, situado na Avenida Clotilde, na freguesia do Estoril, Município de Cascais, identificado na planta anexa ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º O terreno desafectado nos termos do artigo anterior destina-se à implementação do Centro de Congressos do Estoril, a construir pela sociedade denominada ESTORILCENTER - Centro Internacional de Congressos do Estoril, S. A., no património da qual é integrado, com dispensa de hasta pública, pelo respectivo valor matricial.
+Art. 2.º O terreno desafectado nos termos do artigo anterior destina-se à implementação do Centro de Congressos do Estoril, a construir pela sociedade denominada ESTORILCENTER - Centro Internacional de Congressos do Estoril, S. A., no património da qual é integrado, com dispensa de hasta pública, pelo respectivo valor matricial.
 
-###### Art. 3.º O terreno identificado no artigo 1.º reverterá para o Estado se lhe for dada utilização diferente da fixada no artigo anterior.
+Art. 3.º O terreno identificado no artigo 1.º reverterá para o Estado se lhe for dada utilização diferente da fixada no artigo anterior.
 
-###### Art. 4.º O presente diploma é título bastante para se proceder aos registos de desafectação e da transmissão dele resultantes.
+Art. 4.º O presente diploma é título bastante para se proceder aos registos de desafectação e da transmissão dele resultantes.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Bizarro Beleza - Fernando Manuel Faria de Oliveira.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/188a00/42244225.pdf))](https://files.diariodarepublica.pt/1s/1991/08/188a00/42244225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/188a00/42244225.pdf)

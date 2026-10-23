@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/1992/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1992-233118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82a16b4e7da6adc0a357437865107c100d04d6e2400351402ad0079b90b9bb29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faafe91f49684c47a74b59fde997824c08d7cd8b2357834baf84756f66a84765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA de Jurisdição
 - Direcção Geral de Portos
 - Direcção Geral dos Recursos Naturais
-- Protecção do Litoral
-- ÁREA de Jurisdição
-- Proteção do Ambiente
 - Domínio Público Hídrico
+- Proteção do Ambiente
+- Protecção do Litoral
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:553431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553431:por
+  label: "Alterados os arts. 3º, 4º, 5º, 13º e 36º do Dec Lei 468/71 de 01-Nov, com as alterações introduzidas pelo presente\
+    \ diploma, pela LEI.16/2003.2003.06.04.AR DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2003-553431
+  date: '2003-06-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:361327:por
+  label: "Rectificadas as assinaturas pela DECL-RECT.150/92.30.09.1992.PCM, DR.IS-A [226]4ºSupl de 30.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/150-1992-361327
+  date: '1992-09-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:53Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +166,12 @@ Os processos em curso na DGP à data da entrada em vigor do presente diploma tra
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Maria Teresa Pinto Basto Gouveia - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 11 de Setembro de 1992.**
+Promulgado em 11 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1992.**
+Referendado em 15 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

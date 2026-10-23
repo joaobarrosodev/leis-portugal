@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/1992/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1992-150512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ddae685148c4b4a82ed31fb265dcd33111f08c78757459a114ca0a60314bd50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61846443560dce737ef5b17d68755bbd99baae1a529b86c577b8b7061caa969f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA NON Aedificandi
+- Auto-estrada
 - Auto-estrada da Costa do Estoril
 - Auto-estrada do Norte
-- Auto-estrada Lisboa-malveira
 - Auto-estrada do SUL
 - Auto-estrada Famalicão-guimarães
+- Auto-estrada Lisboa-malveira
 - Auto-estrada Marateca-montemor-o-novo
 - Auto-estrada Porto-amarante
 - Auto-estrada Porto-valença
 - Brisa
 - Contrato de Concessão
 - CREL
-- Auto-estrada
-- ÁREA NON Aedificandi
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:222460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535656:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:59Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +128,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aditado ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, o artigo 2.º-A, com a seguinte redacção:
+Artigo único. É aditado ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, o artigo 2.º-A, com a seguinte redacção:
 
-###### Art. 2.º-A - 1 - Em relação aos lanços de auto-estradas constantes da base I anexa ao presente diploma, são fixadas as seguintes zonas de servidão non aedificandi:
+Art. 2.º-A - 1 - Em relação aos lanços de auto-estradas constantes da base I anexa ao presente diploma, são fixadas as seguintes zonas de servidão non aedificandi:
 
 a) Desde a aprovação do estudo prévio até à aprovação da planta parcelar do projecto de execução, 200 m para cada lado do eixo da estrada e, centrado em cada nó de ligação, um círculo com 1300 m de diâmetro;
 
@@ -130,12 +146,12 @@ ii) Instalações de carácter industrial, nomeadamente fábricas, garagens, arm
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Janeiro de 1992.**
+Promulgado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/1992/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1992-300387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dce586595f73fc223b7f67b731c0d621f7da799a3d5f6319dffdbfec67968ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ebd111cd3c1fd04ea770ea0a3921621a2df01ce4da44d829d6189985e6aad21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:413776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378362:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:20Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +108,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A atribuição da pensão por serviços excepcionais e relevantes prestados ao País pressupõe que o beneficiário revele exemplar conduta moral e cívica e pode ter lugar quando se verifique:
+Art. 3.º - 1 - A atribuição da pensão por serviços excepcionais e relevantes prestados ao País pressupõe que o beneficiário revele exemplar conduta moral e cívica e pode ter lugar quando se verifique:
 
 a) A prática, por cidadão português, militar ou civil, de feitos em teatro de guerra, de actos de abenegação e coragem cívica ou de altos e assinalados serviços à humanidade ou à Pátria;
 
@@ -110,16 +118,16 @@ b) A prática, por qualquer funcionário ou agente do Estado, de acto humanitár
 
 2 - Para efeitos do disposto no número anterior, entende-se por exemplar conduta moral e cívica a observância, de modo constante e permanente, do respeito pelos direitos e liberdades individuais e colectivos, bem como pelo prestígio e dignidade do País.
 
-###### Art. 2.º As remissões feitas na lei para os n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, consideram-se realizadas, respectivamente, para as alíneas a) e b) do n.º 1 do mesmo artigo do citado decreto-lei, com a redacção dada pelo artigo 1.º do presente diploma.
+Art. 2.º As remissões feitas na lei para os n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, consideram-se realizadas, respectivamente, para as alíneas a) e b) do n.º 1 do mesmo artigo do citado decreto-lei, com a redacção dada pelo artigo 1.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1992. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo.
 
-**Promulgado em 26 de Junho de 1992.**
+Promulgado em 26 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1992.**
+Referendado em 29 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

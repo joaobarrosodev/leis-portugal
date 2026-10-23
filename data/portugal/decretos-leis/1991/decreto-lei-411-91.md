@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/239a00/54015405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/411/1991/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1991-288977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f4dfa3da792e62fcfc59087f2680784ccf5e9194bbbbe2fa7ffbb4ec3d897c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57fc0178e0aee0faa080d985a47a3a2fefae2be446bf5c2284be406477e4b92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,100 @@ relationships:
   target: pt:dre:990416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621520:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do artigo 25.º, pelo AC.678/95.05.01.1996.TCS,\
+    \ DR.IS-A [4] de 05.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/1-1996-621520
+  date: '1996-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/25/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:194389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693845:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551814:por
+  label: "Revogado o artigo 9.º pelo DEC LEI.400/93.03.12.1993.MESS, DR.IS-A [282] de 03.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/400-1993-551814
+  date: '1993-12-03'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), na redacção do Dec Lei 400/93, de 03-Dez, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do presente diploma que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:08Z'
   warnings: []
   errors: []
 ---
@@ -345,12 +425,12 @@ O presente diploma entra em vigor 120 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - António José de Castro Bagão Félix.
 
-**Promulgado em 3 de Outubro de 1991.**
+Promulgado em 3 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Outubro de 1991.**
+Referendado em 8 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

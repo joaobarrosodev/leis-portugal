@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/1992/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b065028b72b9b64d98ea8b21cde8d6dbcae4c969be1b5e5ea9d7e75d6cc7df23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d789b7f2b7b0863054869f4aec74c282755279de2b0bc725010a882170806c1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Segurança Pública
-- Normas de Segurança
 - Equipamento sob Pressão
+- Normas de Segurança
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:254667:por
@@ -80,16 +80,28 @@ relationships:
   target: celex:31976L0767
   label: null
   source: http://data.europa.eu/eli/dir/1976/767/oj
+- type: repealed_by
+  target: pt:dre:309372:por
+  label: "Revogadas, a partir de 29 de Novembro de 1999, as disposições relativas a equipamentos de pressão e os conjuntos\
+    \ contidas no presente diploma pelo DEC LEI.211/99.1999.06.14.MECO,DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1999-309372
+  date: '1999-06-14'
+- type: repealed_by
+  target: pt:dre:254667:por
+  label: "Revogado, no que se refere aos equipamentos sob pressão transportáveis abrangidos pelo âmbito do presente diploma\
+    \ pelo DEC LEI.41/2002.2002.02.28.MES, DR.IS-A [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2002-254667
+  date: '2002-02-28'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:15Z'
   warnings: []
   errors: []
 ---
@@ -200,12 +212,12 @@ d) 10% para o serviço que aplicou a coima.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Miro Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 17 de Junho de 1992.**
+Promulgado em 17 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Junho de 1992.**
+Referendado em 19 de Junho de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

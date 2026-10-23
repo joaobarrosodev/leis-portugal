@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/285a00/65266528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/452/1991/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1991-392019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29feadc564e762f2bc2f391d219cfaf79c48a86a0d9ff06ff61ace29cdf2f48b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f6e817be46d4c2e4fc421534de6e9d67efbf514970576d7caed079a3e513eaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,30 @@ relationships:
   target: pt:dre:580779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544673:por
+  label: "Alterado o art. 8º pela LEI.19/99.1999.04.15.AR, DR.IS-A [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-1999-544673
+  date: '1999-04-15'
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580779:por
+  label: "Revogado pelo DEC LEI.209/2000.2000.09.02.MF, DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2000-580779
+  date: '2000-09-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:59Z'
   warnings: []
   errors: []
 ---
@@ -110,81 +124,81 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a sociedade anónima de capitais exclusivamente públicos PARTEST - Participações do Estado (SGPS), S. A., abreviadamente designada por PARTEST (SGPS), S. A.
+Artigo 1.º - 1 - É criada a sociedade anónima de capitais exclusivamente públicos PARTEST - Participações do Estado (SGPS), S. A., abreviadamente designada por PARTEST (SGPS), S. A.
 
 2 - A PARTEST (SGPS), S. A., é uma sociedade constituída por destaque de parte do património da IPE - Investimentos e Participações Empresariais, S. A., e rege-se pela lei geral ou especial que lhe seja aplicável, pelo presente diploma e respectivos estatutos, que constituem o anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - As participações destacadas da IPE - Investimentos e Participações Empresariais, S. A., para a PARTEST (SGPS), S. A., por cisão, são as identificadas no anexo II ao presente diploma, do qual faz parte integrante.
+Art. 2.º - 1 - As participações destacadas da IPE - Investimentos e Participações Empresariais, S. A., para a PARTEST (SGPS), S. A., por cisão, são as identificadas no anexo II ao presente diploma, do qual faz parte integrante.
 
 2 - A PARTEST (SGPS), S. A., responde solidariamente com a IPE - Investimentos e Participações Empresariais, S. A., pelos débitos de que esta seja responsável à data da entrada em vigor do presente diploma.
 
-###### Art. 3.º - 1 - O capital social da PARTEST (SGPS), S. A., é de 20000000000$00 e encontra-se integralmente realizado pelos valores integrantes do património da sociedade.
+Art. 3.º - 1 - O capital social da PARTEST (SGPS), S. A., é de 20000000000$00 e encontra-se integralmente realizado pelos valores integrantes do património da sociedade.
 
 2 - As acções representativas do capital de que o Estado seja titular serão detidas pela Direcção-Geral do Tesouro.
 
 3 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da PARTEST (SGPS), S. A.
+Art. 4.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da PARTEST (SGPS), S. A.
 
 2 - A transmissão operada pelo destaque das participações da IPE - Investimentos e Participações Empresariais, S. A., está isenta dos emolumentos e de outros encargos legais que se mostrem devidos pela prática daquele acto.
 
-###### Art. 5.º - 1 - Os trabalhadores da IPE - Investimentos e Participações Empresariais, S. A., que sejam transferidos, por efeito da cisão operada pelo presente diploma, para a PARTEST (SGPS), S. A., mantêm perante esta todos os direitos e obrigações de que eram titulares face à IPE - Investimentos e Participações Empresariais, S. A.
+Art. 5.º - 1 - Os trabalhadores da IPE - Investimentos e Participações Empresariais, S. A., que sejam transferidos, por efeito da cisão operada pelo presente diploma, para a PARTEST (SGPS), S. A., mantêm perante esta todos os direitos e obrigações de que eram titulares face à IPE - Investimentos e Participações Empresariais, S. A.
 
 2 - O processo de transferência previsto no número anterior operar-se-á nos termos a acordar entre as administrações das duas empresas.
 
-###### Art. 6.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na PARTEST (SGPS), S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.
+Art. 6.º - 1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na PARTEST (SGPS), S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
 2 - A situação dos trabalhadores da PARTEST (SGPS), S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como dos que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou tempo de requisição.
 
-###### Art. 7.º - 1 - É por esta forma convocada a assembleia geral da PARTEST (SGPS), S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor deste diploma, com o objectivo de proceder à eleição dos membros dos órgãos sociais.
+Art. 7.º - 1 - É por esta forma convocada a assembleia geral da PARTEST (SGPS), S. A., a qual deve reunir na sede da sociedade até ao 30.º dia posterior à data da entrada em vigor deste diploma, com o objectivo de proceder à eleição dos membros dos órgãos sociais.
 
 2 - Até à data de posse dos titulares dos órgãos sociais da PARTEST (SGPS), S. A., o exercício das competências fixadas nos estatutos para os conselhos de administração e fiscal é atribuído, respectivamente, à Direcção-Geral do Tesouro e à pessoa, ou pessoas, que, por despacho, o Ministro das Finanças designar.
 
-###### Art. 8.º A alienação das participações nacionalizadas de que a PARTEST (SGPS), S. A., seja titular será regulada nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei específico, quando o Estado o entenda conveniente e oportuno.
+Art. 8.º A alienação das participações nacionalizadas de que a PARTEST (SGPS), S. A., seja titular será regulada nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei específico, quando o Estado o entenda conveniente e oportuno.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 19 de Setembro de 1991.**
+Promulgado em 19 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estatutos
 
 ### CAPÍTULO I — Denominação, sede e objecto social
 
-###### Artigo 1.º Por cisão da IPE - Investimentos e Participações Empresariais, S. A., determinada pelo artigo 1.º do Decreto-Lei n.º /91, de de , é constituída a sociedade anónima PARTEST - Participações do Estado (SGPS), S. A., que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável.
+Artigo 1.º Por cisão da IPE - Investimentos e Participações Empresariais, S. A., determinada pelo artigo 1.º do Decreto-Lei n.º /91, de de , é constituída a sociedade anónima PARTEST - Participações do Estado (SGPS), S. A., que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável.
 
-###### Art. 2.º A sociedade tem a sede na Rua da Alfândega, 2, 1.º, 1100 Lisboa.
+Art. 2.º A sociedade tem a sede na Rua da Alfândega, 2, 1.º, 1100 Lisboa.
 
-###### Art. 3.º - 1 - A sociedade tem por único objecto a gestão de participações sociais detidas pelo Estado, como forma indirecta de exercício de actividades económicas.
+Art. 3.º - 1 - A sociedade tem por único objecto a gestão de participações sociais detidas pelo Estado, como forma indirecta de exercício de actividades económicas.
 
 2 - A sociedade pode participar em agrupamentos complementares de empresas, em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária ou subsequentemente, acções de sociedades consideradas de interesse público.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 4.º O capital da sociedade é de 20000000000$00, encontra-se integralmente realizado e é representado por 20000000 de acções do valor nominal de 1000$00 cada uma.
+Art. 4.º O capital da sociedade é de 20000000000$00, encontra-se integralmente realizado e é representado por 20000000 de acções do valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções são obrigatoriamente nominativas e representadas por títulos de 1, 10, 50, 100, 1000 e 10000 acções.
+Art. 5.º - 1 - As acções são obrigatoriamente nominativas e representadas por títulos de 1, 10, 50, 100, 1000 e 10000 acções.
 
 2 - Os títulos são assinados por dois administradores, podendo ambas as assinaturas ser de chancela.
 
 3 - As acções podem revestir forma escritural, sendo as acções tituladas ou escriturais reciprocamente convertíveis a pedido do accionista.
 
-###### Art. 6.º - 1 - A transmissão a terceiros das acções da sociedade só produz os seus efeitos em relação a esta se tiver sido obtido o seu consentimento.
+Art. 6.º - 1 - A transmissão a terceiros das acções da sociedade só produz os seus efeitos em relação a esta se tiver sido obtido o seu consentimento.
 
 2 - O consentimento é pedido por escrito ao presidente da mesa da assembleia geral ou, na falta deste, ao conselho fiscal, devendo estes órgãos dar imediato conhecimento do pedido a todos os membros do conselho de administração.
 
-###### Art. 7.º A sociedade poderá emitir qualquer tipo de obrigações, nos termos da lei e nas condições estabelecidas pela assembleia geral ou pelo conselho de administração.
+Art. 7.º A sociedade poderá emitir qualquer tipo de obrigações, nos termos da lei e nas condições estabelecidas pela assembleia geral ou pelo conselho de administração.
 
 ### CAPÍTULO III — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é composta pelos accionistas com direito de voto.
+Art. 8.º - 1 - A assembleia geral é composta pelos accionistas com direito de voto.
 
 2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de menor número de acções agrupar-se com outros, desprovidos do direito de voto por idêntica razão, por forma a completarem ou ultrapassarem aquele número, sendo representados obrigatoriamente por um dos agrupados.
 
@@ -194,23 +208,23 @@ Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Joaquim Fern
 
 5 - Nenhum accionista se pode representar por mais de uma pessoa na mesma sessão da assembleia geral.
 
-###### Art. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano, e sempre que os conselhos de administração ou fiscal o julguem necessário.
+Art. 9.º A assembleia geral reunirá, pelo menos, uma vez por ano, e sempre que os conselhos de administração ou fiscal o julguem necessário.
 
-###### Art. 10.º A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, eleitos pela assembleia.
+Art. 10.º A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, eleitos pela assembleia.
 
-###### Art. 11.º A convocação dos accionistas para a assembleia geral poderá ser feita através de publicação, nos termos da lei, ou por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.
+Art. 11.º A convocação dos accionistas para a assembleia geral poderá ser feita através de publicação, nos termos da lei, ou por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.
 
-###### Art. 12.º - 1 - A assembleia geral só poderá funcionar em primeira convocação desde que se achem presentes ou devidamente representados accionistas detentores de, no mínimo, 51% do capital social.
+Art. 12.º - 1 - A assembleia geral só poderá funcionar em primeira convocação desde que se achem presentes ou devidamente representados accionistas detentores de, no mínimo, 51% do capital social.
 
 2 - A assembleia geral para eleição dos membros dos órgãos sociais e para decisão das matérias a que se referem as alíneas d) e e) do artigo 14.º não poderá deliberar sem que estejam presentes ou representados accionistas cujas acções representem, pelo menos, 51% do capital social.
 
 ### CAPÍTULO IV — Administração e fiscalização
 
-###### Art. 13.º - 1 - A sociedade é gerida por um conselho de administração composto por três membros, eleitos em assembleia geral, que designará de entre estes o que exercerá as funções de presidente.
+Art. 13.º - 1 - A sociedade é gerida por um conselho de administração composto por três membros, eleitos em assembleia geral, que designará de entre estes o que exercerá as funções de presidente.
 
 2 - O conselho de administração poderá, dentro dos limites legais, conferir competências suas a um administrador-delegado, por si designado, fixando-lhe as atribuições e regulamentando a respectiva delegação.
 
-###### Art. 14.º Compete ao conselho de administração, sem prejuízo das demais competências que lhe conferem a lei e estes estatutos:
+Art. 14.º Compete ao conselho de administração, sem prejuízo das demais competências que lhe conferem a lei e estes estatutos:
 
 a) Gerir, com os mais amplos poderes, todos os negócios sociais e efectuar todas as operações relativas ao objecto social;
 
@@ -224,13 +238,13 @@ e) Propor à assembleia geral a contracção de empréstimos no mercado financei
 
 f) Nomear representantes, temporários ou permanentes, em sociedades de participações ou outras instituições ou organismos públicos ou privados.
 
-###### Art. 15.º - 1 - O conselho de administração reunirá ordinariamente uma vez por trimestre e todas as vezes que o presidente ou o administrador-delegado, se o houver, o convoquem, por forma suficiente e com a antecedência necessária, atendendo ao fim a que se destina.
+Art. 15.º - 1 - O conselho de administração reunirá ordinariamente uma vez por trimestre e todas as vezes que o presidente ou o administrador-delegado, se o houver, o convoquem, por forma suficiente e com a antecedência necessária, atendendo ao fim a que se destina.
 
 2 - Qualquer administrador pode fazer-se representar nas reuniões do conselho por outro administrador, mediante carta dirigida ao presidente.
 
 3 - As deliberações serão tomadas por maioria simples dos administradores presentes ou representados, tendo o presidente, em caso de empate, voto de qualidade.
 
-###### Art. 16.º - 1 - Todos os actos e documentos que obriguem a sociedade vinculá-la-ão perante terceiros, quando praticados ou assinados por:
+Art. 16.º - 1 - Todos os actos e documentos que obriguem a sociedade vinculá-la-ão perante terceiros, quando praticados ou assinados por:
 
 a) Dois administradores;
 
@@ -238,25 +252,25 @@ b) Um mandatário ou procurador no cumprimento do respectivo mandato.
 
 2 - Os actos e documentos de mero expediente poderão ser praticados ou assinados por um administrador.
 
-###### Art. 17.º A fiscalização da sociedade será exercida por um conselho fiscal composto de três membros efectivos e um suplente, eleitos em assembleia geral.
+Art. 17.º A fiscalização da sociedade será exercida por um conselho fiscal composto de três membros efectivos e um suplente, eleitos em assembleia geral.
 
-###### Art. 18.º As atribuições do conselho fiscal são as que lhe são especificadas na lei e as que lhe ficam consignadas nestes estatutos.
+Art. 18.º As atribuições do conselho fiscal são as que lhe são especificadas na lei e as que lhe ficam consignadas nestes estatutos.
 
-###### Art. 19.º - 1 - O conselho fiscal reunirá ordinariamente uma vez por trimestre, em dia designado pelo presidente, e extraordinariamente sempre que algum dos seus membros o julgue conveniente e ainda a pedido do conselho de administração para emitir pareceres sobre assuntos que este lhe submeta.
+Art. 19.º - 1 - O conselho fiscal reunirá ordinariamente uma vez por trimestre, em dia designado pelo presidente, e extraordinariamente sempre que algum dos seus membros o julgue conveniente e ainda a pedido do conselho de administração para emitir pareceres sobre assuntos que este lhe submeta.
 
 2 - As deliberações são tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 20.º Os membros dos órgãos sociais são dispensados de caução e serão remunerados ou não, conforme for deliberado em assembleia geral.
+Art. 20.º Os membros dos órgãos sociais são dispensados de caução e serão remunerados ou não, conforme for deliberado em assembleia geral.
 
-###### Art. 21.º - 1 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.
+Art. 21.º - 1 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los.
 
 ### CAPÍTULO VI — Aplicação dos resultados
 
-###### Art. 22.º Os resultados positivos de cada exercício, devidamente aprovados, terão a seguinte aplicação:
+Art. 22.º Os resultados positivos de cada exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) Cobertura dos prejuízos de exercícios anteriores;
 
@@ -268,12 +282,12 @@ d) O remanescente conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 23.º A alienação de participações sociais detidas pela sociedade que hajam sido objecto de nacionalização directa obedecem aos princípios previstos pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+Art. 23.º A alienação de participações sociais detidas pela sociedade que hajam sido objecto de nacionalização directa obedecem aos princípios previstos pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 24.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 24.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
 ## ANEXO II — Valor contabilístico das participações financeiras a destacar do activo da IPE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/285a00/65266528.pdf))](https://files.diariodarepublica.pt/1s/1991/12/285a00/65266528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/285a00/65266528.pdf)

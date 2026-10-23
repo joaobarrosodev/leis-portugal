@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/1991/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1991-495311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6cb03ad55f99dd75ce7297a8fa6cdd7e9db19f86ed918d18c22b170d0a1cb67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 718697cf2c44214a44da29c3a3f8e9e9391734957d189f9fde2a3e5b97c921dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Contra-ordenação
 - Marina
+- Multa
 - Regulamento de Exploração da Marina de Vilamoura
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:37Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +113,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Constitui contra-ordenação, punível com coima de 5000$00 a 200000$00, a violação das regras a estabelecer no Regulamento de Exploração da marina de Vilamoura, que será aprovado por decreto regulamentar, relativas a:
+Artigo 1.º - 1 - Constitui contra-ordenação, punível com coima de 5000$00 a 200000$00, a violação das regras a estabelecer no Regulamento de Exploração da marina de Vilamoura, que será aprovado por decreto regulamentar, relativas a:
 
 a) Entrada, permanência e saída da marina de embarcações de recreio e turismo;
 
@@ -109,13 +121,13 @@ b) Utilização do anteporto e porto interior da marina por embarcações de pes
 
 2 - No caso de o infractor ser uma pessoa colectiva, o montante das coimas previstas no número anterior eleva-se a 3000000$00.
 
-###### Art. 2.º - 1 - Às contra-ordenações referidas no artigo anterior é aplicável o [Decreto-Lei n.º 19/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1984-660279), de 14 de Janeiro, e, subsidiariamente, o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+Art. 2.º - 1 - Às contra-ordenações referidas no artigo anterior é aplicável o [Decreto-Lei n.º 19/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1984-660279), de 14 de Janeiro, e, subsidiariamente, o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
 2 - A negligência é sempre punível.
 
 3 - A tentativa é sempre punível, sendo os limites mínimo e máximo previstos no correspondente tipo legal de contra-ordenação reduzidos a metade.
 
-###### Art. 3.º - 1 - Compete à autoridade marítima, bem como à concessionária da marina, fiscalizar o cumprimento do Regulamento a que se refere o n.º 1 do artigo 1.º do presente diploma.
+Art. 3.º - 1 - Compete à autoridade marítima, bem como à concessionária da marina, fiscalizar o cumprimento do Regulamento a que se refere o n.º 1 do artigo 1.º do presente diploma.
 
 2 - A fiscalização exercida pela concessionária da marina é assegurada pelo seu director e pelo pessoal em que aquele delegue esta função e que se apresente devidamente uniformizado e identificado.
 
@@ -123,20 +135,20 @@ b) Utilização do anteporto e porto interior da marina por embarcações de pes
 
 4 - A participação deve identificar os arguidos, os proprietários e armadores da embarcação e as testemunhas que presenciaram os factos e circunstâncias em que o ilícito se verificou e indicar todos os meios de prova disponíveis.
 
-###### Art. 4.º Compete à autoridade marítima com jurisdição na área em que se situa a marina a instrução dos processos contra-ordenacionais referidos no presente diploma, bem como tomar as medidas cautelares adequadas e aplicar as coimas e sanções acessórias.
+Art. 4.º Compete à autoridade marítima com jurisdição na área em que se situa a marina a instrução dos processos contra-ordenacionais referidos no presente diploma, bem como tomar as medidas cautelares adequadas e aplicar as coimas e sanções acessórias.
 
-###### Art. 5.º O montante das coimas aplicadas por contra-ordenações previstas no presente diploma reverte integralmente para o Estado.
+Art. 5.º O montante das coimas aplicadas por contra-ordenações previstas no presente diploma reverte integralmente para o Estado.
 
-###### Art. 6.º São revogados o n.º 2 do artigo 10.º do [Decreto-Lei n.º 215/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1970-142171), de 15 de Maio, e o n.º 2 da base XVII do contrato de concessão, que constitui anexo ao referido diploma legal.
+Art. 6.º São revogados o n.º 2 do artigo 10.º do [Decreto-Lei n.º 215/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1970-142171), de 15 de Maio, e o n.º 2 da base XVII do contrato de concessão, que constitui anexo ao referido diploma legal.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 21 de Dezembro de 1990.**
+Promulgado em 21 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Dezembro de 1990.**
+Referendado em 26 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

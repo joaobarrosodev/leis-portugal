@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/1991/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1991-509661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fde465725986bf0cd9cc85c0667afd429d4f4b4f51d584dee33dde7c52cee18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b494fafb789a0131ef0f9ab594255e005e294ebe01a30b0ed5f3f648e637bb39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
+- Abate de Animais
 - Animal de Exploração
-- Produção Animal
-- Crime
 - Carne
-- Multa
+- Comércio
 - Contra-ordenação
 - Controlo Sanitário
-- Saúde Pública
+- Crime
 - Fiscalização
-- Abate de Animais
+- Multa
+- Produção Animal
+- Produto Alimentar
+- Produto Químico
 - Proteção do Consumidor
 - Sanção
-- Comércio
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:390250:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324148:por
+  label: "Alterados os artigos 2.º, 3.º, 5.º, 7.º, 9.º, os títulos do capítulo II e III, pelo DEC LEI.290/93.24.08.1993.MA,\
+    \ DR.IS-A [198] de 24.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1993-324148
+  date: '1993-08-24'
 - type: cites
   target: celex:31981L0602
   label: null
@@ -135,16 +141,33 @@ relationships:
   target: eli:http://data.europa.eu/eli/d
   label: null
   source: http://data.europa.eu/eli/d
+- type: repealed_by
+  target: pt:dre:334370:por
+  label: "Revogados os caps. I,III,IV, com excepção do nº 3 do art. 7º, e V, os arts. 16º, 17º, 20º e 21º do cap. VI e o anexo\
+    \ pelo DEC LEI.148/99.1999.05.04.MADRP,DR.IS-A [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1999-334370
+  date: '1999-05-04'
+- type: repealed_by
+  target: pt:dre:330845:por
+  label: "Revogados os caps. I, II, III e os arts. 16º, 17º e 19º do cap. VI pelo DEC LEI.150/99.1999.05.07.MADRP,DR.IS-A\
+    \ [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1999-330845
+  date: '1999-05-07'
+- type: repealed_by
+  target: pt:dre:390250:por
+  label: "Revogado o art. 18º pelo DEC LEI.232/99.1999.06.24.MADRP,DR.IS-A [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1999-390250
+  date: '1999-06-24'
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:24Z'
   warnings: []
   errors: []
 ---
@@ -393,15 +416,15 @@ O presente diploma entra em vigor a 1 de Fevereiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Grupos de resíduos
 

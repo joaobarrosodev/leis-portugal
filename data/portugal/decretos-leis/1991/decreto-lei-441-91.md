@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/262a00/58265833.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/441/1991/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1991-316728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47de54912c09bb384742b6d02bff603db277d308fe2b41c34bae20b90ff3c92b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd1e514a2ae20ca43ddcabd5c3644b27cabac427040b8471007c46c3a17a9642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Higiene do Trabalho
-- Segurança no Trabalho
 - Prevenção de Riscos Profissionais
 - Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
 - Saúde no Trabalho
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:2448796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534602:por
+  label: "Alterados os arts. 8.º, 9.º, 12.º, 13.º, 15.º e 21.º e aditado um art. 9.º-A pelo DEC LEI.133/99.1999.04.21.MTS\
+    \ DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1999-534602
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Aditado um art. 24.º-A, pela LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
 - type: cites
   target: celex:31989L0391
   label: null
   source: http://data.europa.eu/eli/dir/1989/391/oj
+- type: repealed_by
+  target: pt:dre:490009:por
+  label: Revogado, a partir de 01.10.2009, [a revogação deste diploma, no que se refere ao sector público e aos trabalhadores
+    que exercem funções públicas nos serviços da administração directa, indirecta, regional e local, bem como nos órgãos e
+    serviços referidos no n.º 3 do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro, produz efeitos a partir da data de
+    entrada em vigor do diploma que regula a mesma matéria], pela LEI.102/2009.10.09.2009.AR, DR.IS [176] de 10.09.2009 -
+    ver notas
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/102-2009-490009
+  date: '2009-09-10'
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:48Z'
   warnings: []
   errors: []
 ---
@@ -505,12 +525,12 @@ O presente diploma entra em vigor no dia 1 de Julho de 1992.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Alfredo César Torres - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 29 de Outubro de 1991.**
+Promulgado em 29 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1991.**
+Referendado em 5 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

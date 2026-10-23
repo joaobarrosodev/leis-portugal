@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/203/1992/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1992-233309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13876449cd5df4149ce6e9c035944b986c88476edd9151240406d4eba7bbd8ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36704f7e742e1edd5fc03b39a3753bbd56015c8d49f7d3931d904f3812ab1656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,29 @@ subjects:
 - Forças Armadas
 - Militar
 - Sargento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:325511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:54Z'
   warnings: []
   errors: []
 ---
@@ -97,24 +109,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 194/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1982-392403), de 21 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º do [Decreto-Lei n.º 194/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1982-392403), de 21 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 4.º Os modelos das cartas-patentes são aprovados por portaria do Ministro da Defesa Nacional.
+Art. 4.º Os modelos das cartas-patentes são aprovados por portaria do Ministro da Defesa Nacional.
 
-###### Art. 2.º O artigo 3.º do [Decreto-Lei n.º 102/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1985-325511), de 10 de Abril, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 102/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1985-325511), de 10 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 3.º Os modelos dos diplomas de encarte são aprovados por portaria do Ministro da Defesa Nacional.
+Art. 3.º Os modelos dos diplomas de encarte são aprovados por portaria do Ministro da Defesa Nacional.
 
-###### Art. 3.º Nas cartas-patentes e nos diplomas de encarte concedidos depois da entrada em vigor do [Decreto-Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1987-663491), de 15 de Janeiro, e antes da entrada em vigor da portaria a que se referem os artigos 1.º e 2.º do presente diploma, a aplicação das novas estampilhas fiscais é efectuada numa folha adicional, com a designação «Estampilhas fiscais e registo das patentes», a qual é autenticada pelas entidades que procedem, respectivamente, aos averbamentos a que aludem o n.º 4 do artigo 2.º do [Decreto-Lei n.º 194/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1982-392403), de 21 de Maio, e o n.º 4 do artigo 4.º do [Decreto-Lei n.º 102/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1985-325511), de 10 de Abril.
+Art. 3.º Nas cartas-patentes e nos diplomas de encarte concedidos depois da entrada em vigor do [Decreto-Lei n.º 30/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1987-663491), de 15 de Janeiro, e antes da entrada em vigor da portaria a que se referem os artigos 1.º e 2.º do presente diploma, a aplicação das novas estampilhas fiscais é efectuada numa folha adicional, com a designação «Estampilhas fiscais e registo das patentes», a qual é autenticada pelas entidades que procedem, respectivamente, aos averbamentos a que aludem o n.º 4 do artigo 2.º do [Decreto-Lei n.º 194/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1982-392403), de 21 de Maio, e o n.º 4 do artigo 4.º do [Decreto-Lei n.º 102/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1985-325511), de 10 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

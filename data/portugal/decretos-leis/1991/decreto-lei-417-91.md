@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/417/1991/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1991-342174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ee665bb92affc2eba54f1f2f7524efbdbc94d25660efbd1d85e0c9dfd211c9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5681bd627d6021353d755dfb507c0c2a5f6dc55db8939ac7bea8c05a83f82383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
 - Bolsa de Valores
 - Código do Mercado de Valores Mobiliários
 - Corretor
@@ -79,21 +78,42 @@ subjects:
 - Sociedade Financeira de Corretagem
 - Sociedade Gestora de Patrimónios
 - Sociedade Parabancária
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644329:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:13Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +134,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 11.º, 12.º, 13.º, 14.º, 19.º, 25.º, 26.º, 29.º e 30.º do [Decreto-Lei n.º 229-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-c-1988-644323), de 4 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 11.º, 12.º, 13.º, 14.º, 19.º, 25.º, 26.º, 29.º e 30.º do [Decreto-Lei n.º 229-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-c-1988-644323), de 4 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — Constituição e funcionamento
 
@@ -220,7 +240,7 @@ As sociedades gestoras e os fundos ficam sujeitos à supervisão do Banco de Por
 
 2 - Deve ser enviada ao Banco de Portugal e à CMVM uma cópia do contrato, bem como de todas as alterações posteriormente efectuadas ao mesmo.
 
-###### Art. 2.º Os artigos 2.º, 3.º, 4.º e 10.º do [Decreto-Lei n.º 229-E/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-e-1988-644325), de 4 de Julho, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 3.º, 4.º e 10.º do [Decreto-Lei n.º 229-E/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-e-1988-644325), de 4 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Capital social
 
@@ -260,7 +280,7 @@ f) Currículos académicos e profissionais das pessoas singulares propostas para
 
 As sociedades gestoras ficam sujeitas à supervisão do Banco de Portugal e da CMVM, no âmbito das respectivas competências.
 
-###### Art. 3.º Os artigos 2.º, 3.º, 7.º, 11.º, 12.º, 14.º e 16.º do [Decreto-Lei n.º 229-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329), de 4 de Julho, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 2.º, 3.º, 7.º, 11.º, 12.º, 14.º e 16.º do [Decreto-Lei n.º 229-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329), de 4 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Objecto das sociedades corretoras
 
@@ -330,20 +350,20 @@ Por portaria do Ministro das Finanças, ouvidos o Banco de Portugal e a CMVM, se
 
 2 - ...
 
-###### Art. 4.º Até 31 de Dezembro de 1992, as sociedades gestoras de patrimónios já constituídas à data da entrada em vigor do presente diploma deverão proceder ao aumento do seu capital social até ao montante definido no n.º 1 do artigo 2.º do [Decreto-Lei n.º 229-E/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-e-1988-644325), de 4 de Julho, alterado nos termos do presente diploma.
+Art. 4.º Até 31 de Dezembro de 1992, as sociedades gestoras de patrimónios já constituídas à data da entrada em vigor do presente diploma deverão proceder ao aumento do seu capital social até ao montante definido no n.º 1 do artigo 2.º do [Decreto-Lei n.º 229-E/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-e-1988-644325), de 4 de Julho, alterado nos termos do presente diploma.
 
-###### Art. 5.º É revogado o artigo 6.º do [Decreto-Lei n.º 229-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329), de 4 de Julho.
+Art. 5.º É revogado o artigo 6.º do [Decreto-Lei n.º 229-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329), de 4 de Julho.
 
-###### Art. 6.º O presente diploma reporta os seus efeitos à data da entrada em vigor do Código do Mercado de Valores Mobiliários, prevista no n.º 1 do artigo 2.º do [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, mantendo-se, porém, a vigência do artigo 25.º do [Decreto-Lei n.º 229-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329), de 4 de Julho, nos termos do n.º 1 do artigo 6.º daquele diploma.
+Art. 6.º O presente diploma reporta os seus efeitos à data da entrada em vigor do Código do Mercado de Valores Mobiliários, prevista no n.º 1 do artigo 2.º do [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, mantendo-se, porém, a vigência do artigo 25.º do [Decreto-Lei n.º 229-I/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329), de 4 de Julho, nos termos do n.º 1 do artigo 6.º daquele diploma.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa.
 
-**Promulgado em 16 de Outubro de 1991.**
+Promulgado em 16 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

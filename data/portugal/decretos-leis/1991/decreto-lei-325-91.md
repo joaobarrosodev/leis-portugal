@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/325/1991/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1991-302773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5a6afc61f4f8d7973a5a1d36840dac256c54ad88251faf4cd7b4080c901a886
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e865e7032f7969d012659846af8e29c475c05509d2902249f06fbb7898b5b465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Chefe do Estado Maior da Armada
-- Marinha
 - Gabinete de Ligação da Marinha
+- Marinha
 - Navy International Logistics Control Office
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:17Z'
   warnings: []
   errors: []
 ---
@@ -97,28 +101,28 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado, na directa dependência do Chefe do Estado-Maior da Armada, o Gabinete de Ligação da Marinha (GLMN) junto da Navy International Logistics Control Office (NAVILCO).
+Artigo 1.º - 1 - É criado, na directa dependência do Chefe do Estado-Maior da Armada, o Gabinete de Ligação da Marinha (GLMN) junto da Navy International Logistics Control Office (NAVILCO).
 
 2 - Este Gabinete fica instalado nos Estados Unidos da América e destina-se ao acompanhamento directo do processo de aquisição e das operações de recepção e expedição de material, bem como à consulta de dados técnicos e participação de quaisquer anomalias detectadas.
 
 3 - Integram o GLMN, com carácter permanente, um oficial superior e um sargento, nomeados, mediante proposta do Chefe do Estado-Maior da Armada, por despacho do Ministro da Defesa Nacional, o qual definirá a duração da comissão.
 
-###### Art. 2.º - 1 - Além das remunerações correspondentes ao respectivo posto e escalão, o pessoal do GLMN referido no n.º 3 do artigo anterior tem direito às remunerações adicionais e a outras regalias que estiverem estabelecidas para o pessoal abrangido pelo [Decreto-Lei n.º 56/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1981-389378), de 31 de Março.
+Art. 2.º - 1 - Além das remunerações correspondentes ao respectivo posto e escalão, o pessoal do GLMN referido no n.º 3 do artigo anterior tem direito às remunerações adicionais e a outras regalias que estiverem estabelecidas para o pessoal abrangido pelo [Decreto-Lei n.º 56/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1981-389378), de 31 de Março.
 
 2 - As regras de equiparação necessárias para a fixação dos abonos são fixadas por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
 
-###### Art. 3.º Os encargos financeiros com o GLMN são integralmente suportados pelas verbas inscritas no orçamento do Ministério da Defesa Nacional - Marinha.
+Art. 3.º Os encargos financeiros com o GLMN são integralmente suportados pelas verbas inscritas no orçamento do Ministério da Defesa Nacional - Marinha.
 
-###### Art. 4.º O GLMN é apoiado administrativa e financeiramente pelo conselho administrativo da Administração Central da Marinha.
+Art. 4.º O GLMN é apoiado administrativa e financeiramente pelo conselho administrativo da Administração Central da Marinha.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Oliveira Costa.
 
-**Promulgado em 12 de Agosto de 1991.**
+Promulgado em 12 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Agosto de 1991.**
+Referendado em 21 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

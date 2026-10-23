@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 33/1991, 1º Suplemento, Série I-A de 1991-02-08
   number: '33'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 636-(2) a 636-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/033a01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72-a/1991/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-1991-272009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 801436be26b5a6f9250c26b4c068dc87d3b3bd35944eda7eafd33e86892b03fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bfd8bf3068367e85ded0f65242cba86eff2288f11ea4c18fcc810e6b41d681b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,138 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alienação de BENS
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Guarda Fiscal
-- Ministério da Educação
-- Política de Cooperação
+- Conservação de Estradas
 - Direcção Geral da Contabilidade Pública
 - Dotação Orçamental
 - Duodécimo
-- Registos e Notariado
-- Conservação de Estradas
-- Rede de Estradas
-- Serviço Nacional de Saúde
 - Execução do Orçamento
 - FEDER
 - Fiscalização
+- Força Paramilitar
 - Fundo Permanente
 - Fundos Autónomos
-- Tribunal de Contas
-- Laboratório Nacional de Engenharia Civil
 - GNR
+- Guarda Fiscal
+- Laboratório Nacional de Engenharia Civil
+- Ministério da Educação
 - Orçamento Geral do Estado
 - Organismo Autónomo
+- Política de Cooperação
 - Ponte
 - Pré-aposentação
+- PSP
 - Quadro de Pessoal
-- Força Paramilitar
+- Rede de Estradas
+- Registos e Notariado
+- Serviço Nacional de Saúde
 - Subsídio
-relationships: []
+- Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:147594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:39Z'
   warnings: []
   errors: []
 ---
@@ -345,12 +437,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 6 de Fevereiro de 1991.**
+Promulgado em 6 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Fevereiro de 1991.**
+Referendado em 6 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

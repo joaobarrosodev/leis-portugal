@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19040-1962-517780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adbb6302c789268fd49906ff6b0c4953c918253f1253325b251d55b9d125dd40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51a5d411f19a04de9e40a81fc0297500b9b7d451ad8e57abe8311ea4ad38659e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592766:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:49Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +98,27 @@ REGULAMENTO DA CAIXA ECONÓMICA DA POLÍCIA DE SEGURANÇA PÚBLICA
 
 ### CAPÍTULO I — Natureza e fins
 
-###### Artigo 1.º A caixa económica cuja organização está prevista no artigo 3.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, tem a denominação de Caixa Económica da Polícia de Segurança Pública e o seu funcionamento é regido pelo presente regulamento, que foi elaborado por força do artigo 11.º do referido diploma.
+Artigo 1.º A caixa económica cuja organização está prevista no artigo 3.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049), de 31 de Dezembro de 1959, tem a denominação de Caixa Económica da Polícia de Segurança Pública e o seu funcionamento é regido pelo presente regulamento, que foi elaborado por força do artigo 11.º do referido diploma.
 
-###### Art. 2.º A Caixa Económica funciona na Direcção dos Serviços Sociais da Polícia de Segurança Pública, integrada no respectivo Secretariado, mas a sua actividade poderá vir a ser exercida também, se for considerado conveniente, nas delegações da Direcção dos mesmos serviços que forem constituídas.
+Art. 2.º A Caixa Económica funciona na Direcção dos Serviços Sociais da Polícia de Segurança Pública, integrada no respectivo Secretariado, mas a sua actividade poderá vir a ser exercida também, se for considerado conveniente, nas delegações da Direcção dos mesmos serviços que forem constituídas.
 
-###### Art. 3.º A Caixa Económica funcionará em instalação apropriada, em ligação com o conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública, que se encarregará de todas as operações de tesouraria que digam respeito à primeira.
+Art. 3.º A Caixa Económica funcionará em instalação apropriada, em ligação com o conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública, que se encarregará de todas as operações de tesouraria que digam respeito à primeira.
 
 Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho administrativo, de maneira a permitir, a todo o momento, o necessário contrôle das operações e o conhecimento da sua situação financeira.
 
-###### Art. 4.º O fim da Caixa Económica é o de efectuar, com baixos juros, operações de recepção de depósitos e concessão de empréstimos.
+Art. 4.º O fim da Caixa Económica é o de efectuar, com baixos juros, operações de recepção de depósitos e concessão de empréstimos.
 
 ### CAPÍTULO II — Operações
 
 #### SECÇÃO I — Depósitos
 
-###### Art. 5.º A Caixa Económica recebe depósitos à ordem.
+Art. 5.º A Caixa Económica recebe depósitos à ordem.
 
 § único. O director dos Serviços Sociais da Polícia de Segurança Pública pode, sob proposta do secretário-geral, autorizar a Caixa Económica a receber também depósitos a prazo ou depósitos com aviso prévio.
 
-###### Art. 6.º Os limites dos depósitos, bem como as taxas de juros, são fixados pelo Ministro do Interior, mediante proposta do director dos Serviços Sociais.
+Art. 6.º Os limites dos depósitos, bem como as taxas de juros, são fixados pelo Ministro do Interior, mediante proposta do director dos Serviços Sociais.
 
-###### Art. 7.º Podem constituir depósitos na Caixa Económica:
+Art. 7.º Podem constituir depósitos na Caixa Económica:
 
 1.º Os beneficiários dos Serviços Sociais da Polícia de Segurança Pública e pessoas de família a cargo dos mesmos;
 
@@ -118,7 +126,7 @@ Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho
 
 3.º Instituições privativas dos comandos distritais da Polícia de Segurança Pública.
 
-###### Art. 8.º O levantamento dos depósitos pelos herdeiros ou legatários dos depositantes falecidos far-se-á da forma seguinte:
+Art. 8.º O levantamento dos depósitos pelos herdeiros ou legatários dos depositantes falecidos far-se-á da forma seguinte:
 
 1.º O saldo da conta de depósito pode ser entregue aos interessados, mediante requerimento dirigido ao director dos Serviços Sociais da Polícia de Segurança Pública, acompanhado de certidão de narrativa completa do óbito do depositante e de documento comprovativo de se haver procedido a habilitação judicial ou a inventário;
 
@@ -138,7 +146,7 @@ Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho
 
 #### SECÇÃO II — Empréstimos
 
-###### Art. 9.º A Caixa Económica pode conceder empréstimos, dentro das seguintes modalidades, limites e condições, aos beneficiários dos Serviços Sociais da Polícia de Segurança Pública indicados nas alíneas a) e b) do artigo 12.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049).
+Art. 9.º A Caixa Económica pode conceder empréstimos, dentro das seguintes modalidades, limites e condições, aos beneficiários dos Serviços Sociais da Polícia de Segurança Pública indicados nas alíneas a) e b) do artigo 12.º do [Decreto-Lei n.º 42794](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42794-1959-437049).
 
 1.º O quantitativo dos empréstimos fica dependente das disponibilidades da Caixa Económica no momento do pedido, mas, normalmente, não deverá exceder a importância do vencimento mensal líquido do peticionário;
 
@@ -148,9 +156,9 @@ Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho
 
 4.º Os juros são calculados sobre a importância efectivamente emprestada e adicionados à mesma, para efeito de fixação das importâncias das prestações mensais e dos seus prazos de vencimento.
 
-###### Art. 10.º Em circunstâncias muito excepcionais pode o director dos Serviços Sociais autorizar empréstimos de quantias superiores ao limite estabelecido no n.º 1 do artigo 9.º, mas, nesse caso, se o entender conveniente, tem a faculdade de exigir do mutuário garantias especiais, tais como letra, aval bancário ou caução, representada por títulos de crédito.
+Art. 10.º Em circunstâncias muito excepcionais pode o director dos Serviços Sociais autorizar empréstimos de quantias superiores ao limite estabelecido no n.º 1 do artigo 9.º, mas, nesse caso, se o entender conveniente, tem a faculdade de exigir do mutuário garantias especiais, tais como letra, aval bancário ou caução, representada por títulos de crédito.
 
-###### Art. 11.º São condições de preferência para a concessão de empréstimos as seguintes:
+Art. 11.º São condições de preferência para a concessão de empréstimos as seguintes:
 
 1.º A urgência e necessidade justificada do pedido;
 
@@ -162,19 +170,19 @@ Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho
 
 5.º Quaisquer outras considerações de ordem moral atendíveis não compreendidas nos números anteriores.
 
-###### Art. 12.º A concessão de empréstimos nos termos dos artigos 9.º e 10.º é da competência do director dos Serviços Sociais da Polícia de Segurança Pública, que a pode delegar, total ou parcialmente, no secretário-geral dos referidos Serviços.
+Art. 12.º A concessão de empréstimos nos termos dos artigos 9.º e 10.º é da competência do director dos Serviços Sociais da Polícia de Segurança Pública, que a pode delegar, total ou parcialmente, no secretário-geral dos referidos Serviços.
 
-###### Art. 13.º As petições de empréstimos têm de ser formuladas por escrito pelos interessados em impressos do modelo anexo ao presente regulamento, e delas devem constar sempre, e tão detalhadas quanto possível, as razões justificativas do pedido. Na falta do referido impresso, a petição será apresentada em papel comum, preenchido com todas as indicações e requisitos que são exigidos no impresso citado.
+Art. 13.º As petições de empréstimos têm de ser formuladas por escrito pelos interessados em impressos do modelo anexo ao presente regulamento, e delas devem constar sempre, e tão detalhadas quanto possível, as razões justificativas do pedido. Na falta do referido impresso, a petição será apresentada em papel comum, preenchido com todas as indicações e requisitos que são exigidos no impresso citado.
 
-###### Art. 14.º Sobre as petições dos interessados, informadas prèviamente pelos conselhos administrativos na parte respeitante a vencimentos e a descontos, devem os comandos distritais de que dependam os peticionários prestar uma informação precisa acerca da justiça do pedido e das circunstâncias especiais atendíveis que possam esclarecer a decisão do director dos Serviços Sociais.
+Art. 14.º Sobre as petições dos interessados, informadas prèviamente pelos conselhos administrativos na parte respeitante a vencimentos e a descontos, devem os comandos distritais de que dependam os peticionários prestar uma informação precisa acerca da justiça do pedido e das circunstâncias especiais atendíveis que possam esclarecer a decisão do director dos Serviços Sociais.
 
 Estas informações devem ser consideradas rigorosamente confidenciais.
 
 No caso de os peticionários estarem a prestar serviço em regime de contrato, deve a informação do conselho administrativo ser explícita quanto à data em que os respectivos contratos terminam.
 
-###### Art. 15.º As petições, uma vez completamente informadas, serão enviadas ao secretário-geral dos Serviços Sociais da Polícia de Segurança Pública, para organização do processo e sua decisão.
+Art. 15.º As petições, uma vez completamente informadas, serão enviadas ao secretário-geral dos Serviços Sociais da Polícia de Segurança Pública, para organização do processo e sua decisão.
 
-###### Art. 16.º Concedido o empréstimo, o conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública tratará imediatamente de pôr à disposição dos interessados a quantia pedida, por intermédio dos conselhos administrativos que lhes pagam os vencimentos no momento da decisão. A estes conselhos administrativos serão remetidos os elementos que os habilitem a iniciar e a continuar os descontos nos vencimentos dos mutuários, até à integral liquidação dos empréstimos.
+Art. 16.º Concedido o empréstimo, o conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública tratará imediatamente de pôr à disposição dos interessados a quantia pedida, por intermédio dos conselhos administrativos que lhes pagam os vencimentos no momento da decisão. A estes conselhos administrativos serão remetidos os elementos que os habilitem a iniciar e a continuar os descontos nos vencimentos dos mutuários, até à integral liquidação dos empréstimos.
 
 1.º Quando o mutuário passar a receber os seus vencimentos por outro conselho administrativo, serão os elementos referentes ao empréstimo remetidos a este último pelo conselho administrativo até aí encarregado desse serviço, a fim de que não se verifique qualquer interrupção no pagamento das prestações, isto independentemente de informação - que é obrigatória - na guia de transferência de vencimentos, acerca da situação de pagamento do empréstimo.
 
@@ -184,7 +192,7 @@ No caso de os peticionários estarem a prestar serviço em regime de contrato, d
 
 4.º Nos casos de demissão voluntária ou coerciva, os conselhos administrativos deverão providenciar no sentido de a dívida dos empréstimos ser liquidada na sua totalidade. Na impossibilidade, o facto será comunicado, com urgência, ao director dos Serviços Sociais.
 
-###### Art. 17.º A amortização de qualquer empréstimo será, em regra, iniciada no mês seguinte ao da concessão, por meio de descontos nos vencimentos do mutuário.
+Art. 17.º A amortização de qualquer empréstimo será, em regra, iniciada no mês seguinte ao da concessão, por meio de descontos nos vencimentos do mutuário.
 
 1.º A entrega das importâncias descontadas respeitantes às prestações vencidas em cada mês será efectuada, obrigatòriamente, pelos conselhos administrativos responsáveis, ao conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública até ao dia 10 do mês imediato àquele a que dizem respeito, mediante relações donde constem as categorias dos mutuários, os nomes completos destes, a importância das prestações e a sua ordem numérica dentro do plano de amortização autorizado, bem como o número de ordem do empréstimo para completa identificação.
 
@@ -200,17 +208,17 @@ Se, porém, se comprovar que o atraso é da responsabilidade do mutuário, pagar
 
 ### CAPÍTULO III — Fundo de maneio da Caixa Económica
 
-###### Art. 18.º Na fase inicial da organização da Caixa Económica, e enquanto o volume de depósitos efectuados na mesma Caixa não permitir, com a necessária amplitude, a concessão de empréstimos nos termos dos artigos 9.º e 10.º, será transferida dos fundos à disposição dos Serviços Sociais da Polícia de Segurança Pública, ou de outros criados para este efeito, a favor da Caixa Económica, a quantia que for julgada necessária. Com essas importâncias se constituirá um fundo de maneio, que será contabilizado no conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública, sob a designação de «Fundo da Caixa Económica».
+Art. 18.º Na fase inicial da organização da Caixa Económica, e enquanto o volume de depósitos efectuados na mesma Caixa não permitir, com a necessária amplitude, a concessão de empréstimos nos termos dos artigos 9.º e 10.º, será transferida dos fundos à disposição dos Serviços Sociais da Polícia de Segurança Pública, ou de outros criados para este efeito, a favor da Caixa Económica, a quantia que for julgada necessária. Com essas importâncias se constituirá um fundo de maneio, que será contabilizado no conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública, sob a designação de «Fundo da Caixa Económica».
 
-###### Art. 19.º O Fundo da Caixa Económica pode ser reforçado, por uma ou mais vezes, pelos processos estabelecidos no artigo anterior, sempre que seja reconhecida a necessidade desse reforço para manter em actividade a Caixa Económica e houver disponibilidades para o efeito.
+Art. 19.º O Fundo da Caixa Económica pode ser reforçado, por uma ou mais vezes, pelos processos estabelecidos no artigo anterior, sempre que seja reconhecida a necessidade desse reforço para manter em actividade a Caixa Económica e houver disponibilidades para o efeito.
 
-###### Art. 20.º A atribuição das quantias para constituir o Fundo da Caixa Económica, bem como as dos reforços previstos no artigo anterior, é da competência exclusiva do Ministro do Interior, mediante proposta escrita do director dos Serviços Sociais da Polícia de Segurança Pública.
+Art. 20.º A atribuição das quantias para constituir o Fundo da Caixa Económica, bem como as dos reforços previstos no artigo anterior, é da competência exclusiva do Ministro do Interior, mediante proposta escrita do director dos Serviços Sociais da Polícia de Segurança Pública.
 
-###### Art. 21.º Quando as disponibilidades da Caixa Económica resultantes dos depósitos ali efectuados permitam a esta uma vida de certo desafogo financeiro, proceder-se-á, mediante autorização do Ministro do Interior, ao reembolso parcial ou total do fundo de maneio, a favor dos fundos à disposição dos Serviços Sociais da Polícia de Segurança Pública donde proveio, para outra aplicação, contabilizando-se cada reembolso por forma inversa à indicada na última parte do artigo 18.º
+Art. 21.º Quando as disponibilidades da Caixa Económica resultantes dos depósitos ali efectuados permitam a esta uma vida de certo desafogo financeiro, proceder-se-á, mediante autorização do Ministro do Interior, ao reembolso parcial ou total do fundo de maneio, a favor dos fundos à disposição dos Serviços Sociais da Polícia de Segurança Pública donde proveio, para outra aplicação, contabilizando-se cada reembolso por forma inversa à indicada na última parte do artigo 18.º
 
 ### CAPÍTULO IV — Fundos e haveres que garantem o pagamento dos depósitos
 
-###### Art. 22.º Os valores pertencentes à Caixa Económica serão constituídos ou representados por:
+Art. 22.º Os valores pertencentes à Caixa Económica serão constituídos ou representados por:
 
 a) Empréstimos efectuados aos mutuários nos termos dos artigos 9.º e 10.º do capítulo II;
 
@@ -224,23 +232,23 @@ e) Fundo de reserva, constituído nos termos do artigo 24.º;
 
 f) Imóveis.
 
-###### Art. 23.º Os valores indicados no artigo 22.º constituem a garantia do pagamento dos depósitos efectuados na Caixa Económica.
+Art. 23.º Os valores indicados no artigo 22.º constituem a garantia do pagamento dos depósitos efectuados na Caixa Económica.
 
 ### CAPÍTULO V — Resultados de gerência
 
-###### Art. 24.º Os lucros da Caixa Económica constituirão inicialmente um fundo de reserva, destinado a ocorrer a qualquer eventualidade justificada e a cobrir os prejuízos ou riscos de qualquer natureza que se verifiquem nas operações efectuadas pela Caixa Económica. Ulteriormente, o director dos Serviços Sociais, se os lucros o justificarem, proporá ao Ministro do Interior a repartição que julgar mais adequada.
+Art. 24.º Os lucros da Caixa Económica constituirão inicialmente um fundo de reserva, destinado a ocorrer a qualquer eventualidade justificada e a cobrir os prejuízos ou riscos de qualquer natureza que se verifiquem nas operações efectuadas pela Caixa Económica. Ulteriormente, o director dos Serviços Sociais, se os lucros o justificarem, proporá ao Ministro do Interior a repartição que julgar mais adequada.
 
-###### Art. 25.º Além das operações de depósitos e de empréstimos, pode a Caixa Económica efectuar outras prestações de serviços que sejam autorizadas pelo director dos Serviços Sociais da Polícia de Segurança Pública, exceptuada a guarda de valores que envolva responsabilidade de segurança precária.
+Art. 25.º Além das operações de depósitos e de empréstimos, pode a Caixa Económica efectuar outras prestações de serviços que sejam autorizadas pelo director dos Serviços Sociais da Polícia de Segurança Pública, exceptuada a guarda de valores que envolva responsabilidade de segurança precária.
 
-###### Art. 26.º Para o funcionamento interno dos serviços da Caixa Económica serão publicadas instruções especiais, aprovadas pelo director dos Serviços Sociais, mediante proposta do secretário-geral.
+Art. 26.º Para o funcionamento interno dos serviços da Caixa Económica serão publicadas instruções especiais, aprovadas pelo director dos Serviços Sociais, mediante proposta do secretário-geral.
 
-###### Art. 27.º Os casos não previstos neste regulamento ou a interpretação de dúvidas que se suscitem na sua aplicação serão regulados por despacho do Ministro do Interior, mediante informação do director dos Serviços Sociais da Polícia de Segurança Pública.
+Art. 27.º Os casos não previstos neste regulamento ou a interpretação de dúvidas que se suscitem na sua aplicação serão regulados por despacho do Ministro do Interior, mediante informação do director dos Serviços Sociais da Polícia de Segurança Pública.
 
 ### CAPÍTULO VI — Do pessoal
 
-###### Art. 28.º A Caixa Económica será gerida por um oficial do Exército em serviço nos Serviços Sociais da Polícia de Segurança Pública, a nomear pelo director dos Serviços Sociais por proposta do secretário-geral, o qual será assistido pelo pessoal auxiliar que vier a ser posto à sua disposição.
+Art. 28.º A Caixa Económica será gerida por um oficial do Exército em serviço nos Serviços Sociais da Polícia de Segurança Pública, a nomear pelo director dos Serviços Sociais por proposta do secretário-geral, o qual será assistido pelo pessoal auxiliar que vier a ser posto à sua disposição.
 
-###### Art. 29.º São atribuições do gerente, entre outras, as seguintes:
+Art. 29.º São atribuições do gerente, entre outras, as seguintes:
 
 1.º Dirigir, segundo a orientação do conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública, a escrita da Caixa, mantendo-a e fazendo-a manter permanentemente em dia;
 
@@ -258,4 +266,4 @@ Ministério do Interior, 22 de Fevereiro de 1962. - O Ministro do Interior, Alfr
 
 Modelo referido no artigo 13.º do Regulamento da Caixa Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/04000/01590162.pdf))](https://files.diariodarepublica.pt/1s/1962/02/04000/01590162.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/04000/01590162.pdf)

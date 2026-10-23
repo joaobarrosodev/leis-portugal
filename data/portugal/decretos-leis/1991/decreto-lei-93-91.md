@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/047a00/09340938.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/1991/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1991-484415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd29a6ccfb5e28c59cc47b17f0267fba9d8ed0c5c9d5dd66d902d3cd166e5e2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44b452553a9f88f1959728e8d2d4c4f316ec879dd8bb8b72c2180c2af4765c7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assistência Religiosa
 - Forças Armadas
 - Orgânica
 - Quadro de Pessoal
-- Assistência Religiosa
 - Serviço de Assistência Religiosa das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:490421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515444:por
+  label: "Alterados os artºs 2º, 4º, 5º 6º, 7º, 9º, 10º, 11º, 15º, 16º, 21º, 22º, 23º e 24 pelo DEC LEI.54/97.1997.03.06.MDN\
+    \ DR.IS-A [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1997-515444
+  date: '1997-03-06'
+- type: cites
+  target: pt:dre:313608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490421:por
+  label: "Revogado, a partir de 28.09.2009, pelo DEC LEI.251/2009.23.09.2009.MDN, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2009-490421
+  date: '2009-09-23'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:09Z'
   warnings: []
   errors: []
 ---
@@ -421,18 +468,18 @@ g) [Portaria n.º 22812](https://diariodarepublica.pt/dr/detalhe/portaria/22812-
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 6 de Fevereiro de 1991.**
+Promulgado em 6 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Fevereiro de 1991.**
+Referendado em 8 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o artigo 24.º
+Anexo a que se refere o artigo 24.º
 
 Quadro de efectivos de capelães militares titulares das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/047a00/09340938.pdf))](https://files.diariodarepublica.pt/1s/1991/02/047a00/09340938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/047a00/09340938.pdf)

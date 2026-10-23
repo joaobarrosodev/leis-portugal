@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/09/219a00/44884489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 549621f546d9d7400738f75b1573b9f27d966999e7d2ab2ef087ede826116855
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd47b3c85288791f5d6edf8eb781860322be907b77ca8f1fba0ee1f3a4a53bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,62 @@ reuse:
 subjects:
 - Casa Degradada
 - Comparticipação do Estado
-- Obras de Conservação e Restauro
-- Renovação Urbana
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Conservação e Restauro
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Obras de Conservação e Restauro
 - Programa Recria
 - Regime Jurídico
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:516973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406889:por
+  label: "Alterados os arts. 4º, 7º e 8º e aditado o art. 9º-A pelo DEC LEI.104/96.1996.07.31.MEPAT, DR.IS-A [176]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1996-406889
+  date: '1996-07-31'
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449954:por
+  label: "Rectificado pela DECL-RECT.208/92.23.12.1992.PCM, DR.IS-A [301]8ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/208-1992-449954
+  date: '1992-12-23'
+- type: repealed_by
+  target: pt:dre:516974:por
+  label: "Revogado pelo DEC LEI.329-C/2000.22.12.2000.MES, DR.IS-A [294]Supl de 22.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-c-2000-516974
+  date: '2000-12-22'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:40Z'
   warnings: []
   errors: []
 ---
@@ -214,12 +249,12 @@ São revogados os Decretos-Leis n.os [4/88](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 25 de Agosto de 1992.**
+Promulgado em 25 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Agosto de 1992.**
+Referendado em 25 de Agosto de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

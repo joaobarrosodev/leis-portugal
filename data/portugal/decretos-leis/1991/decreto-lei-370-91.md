@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/370/1991/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1991-287976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92162bdeaa9810b66a97f92ba3a1c9c32626b175faeb2f42eb40070e3aa84001
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84aa0112a8b83a0873afdb55b91fa5cd9f5b459a398e37aaef60ea77ff8ee658
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
 - Remuneração
+- Remuneração Acessória
 - Serviço de Informações de Segurança
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:835809051:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:835809051:por
+  label: Revogado, a partir de 1 de janeiro de 2024, pelo(a) Decreto-Lei n.º 133/2023 - Diário da República n.º 249/2023,
+    Série I de 2023-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2023-835809051
+  date: '2023-12-28'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:17Z'
   warnings: []
   errors: []
 ---
@@ -155,15 +169,15 @@ O presente diploma produz efeitos desde 1 de Outubro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira.
 
-**Promulgado em 19 de Setembro de 1991.**
+Promulgado em 19 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -189,7 +203,7 @@ MAPA II
 
 Pessoal Técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf))](https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf)
 
 MAPA III
 
@@ -211,4 +225,4 @@ Servente e auxiliar de limpeza ... Escalas do regime geral.
 
 Tabela de integração a que se refere o artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf))](https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/230a00/51965199.pdf)

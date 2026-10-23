@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1992, 1º Suplemento, Série I-A de 1992-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2648-(21) a 2648-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126a01/00210028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-e/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-e-1992-410286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3e4b36db7640ef01b6866cac2ed8f86aff6c08b05891f718b2e5b83bbf1a41a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96b9a9bd34cff916d48c778bd5380c7764a8134f320f284ff6a896cf263e6649
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Secretaria de Estado da Cultura
-- Instituto da Biblioteca Nacional e do Livro
 - Biblioteca Nacional
+- Instituto da Biblioteca Nacional e do Livro
 - Instituto Português do Livro e da Leitura
 - Integração de Serviços
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:469378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 128/92 DR.IS-A [200]SUPL 31/AGO/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-31'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Extinto o Instituto da Biblioteca Nacional e do Livro pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: cites
+  target: pt:dre:365710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662933:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423392:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/128-1992-423392
+  date: '1995-11-17'
+- type: repealed_by
+  target: pt:dre:469378:por
+  label: "Revogado pelo DEC LEI.89/97.1997.04.19.MC, DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1997-469378
+  date: '1997-04-19'
+- type: repealed_by
+  target: pt:dre:469380:por
+  label: "Revogado pelo DEC LEI.90/97.1997.04.19.MC DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1997-469380
+  date: '1997-04-19'
 article_structure:
   article_count: 35
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:34Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +298,9 @@ b) A Divisão de Serviços de Reservados;
 
 c) A Divisão de Serviços Especiais.
 
-###### Artigo 10.º — Divisão de Serviços Biblioteconómicos Gerais
+###### Artigo 10.º
+
+##### Divisão de Serviços Biblioteconómicos Gerais
 
 À Divisão de Serviços Bilioteconómicos Gerais, que compreende as áreas de aquisições, catalogação, classificação e indexação, leitura geral, referência e empréstimo, compete:
 
@@ -275,7 +318,9 @@ f) Garantir o serviço de referência geral;
 
 g) Coordenar o serviço de empréstimo, nomeadamente o serviço português de empréstimo entre bibliotecas, segundo a legislação em vigor e os acordos estabelecidos.
 
-###### Artigo 11.º — Divisão de Serviços de Reservados
+###### Artigo 11.º
+
+##### Divisão de Serviços de Reservados
 
 À Divisão de Serviços de Reservados, que compreende as áreas de manuscritos, impressos e arquivo histórico, compete assegurar os serviços que permitam a consulta dos seus fundos por parte dos utilizadores e, em especial:
 
@@ -289,7 +334,9 @@ d) O funcionamento da sala de leitura e respectivo depósito;
 
 e) O acolhimento, tratamento e conservação da documentação com mais de 40 anos, resultante das actividades do IBL como serviço público.
 
-###### Artigo 12.º — Divisão de Serviços Especiais
+###### Artigo 12.º
+
+##### Divisão de Serviços Especiais
 
 À Divisão de Serviços Especiais, que compreende as áreas de peródicos, cartografia, iconografia, numismática e medalhística, música, deficientes visuais, microformas e áudio-visuais, compete, em especial:
 
@@ -313,7 +360,9 @@ a) A Divisão de Cooperação;
 
 b) A Divisão de Normalização.
 
-###### Artigo 14.º — Divisão de Cooperação
+###### Artigo 14.º
+
+##### Divisão de Cooperação
 
 À Divisão de Cooperação, que compreende as áreas de serviço de informação PORBASE, conversão retrospectiva e formação, compete:
 
@@ -325,7 +374,9 @@ c) Assegurar as acções de formação internas e externas no âmbito da PORBASE
 
 d) Dar apoio técnico especializado às bibliotecas cooperantes.
 
-###### Artigo 15.º — Divisão de Normalização
+###### Artigo 15.º
+
+##### Divisão de Normalização
 
 À Divisão de Normalização, que compreende as áreas de normalização bibliográfica e de produtos informáticos, compete:
 
@@ -345,7 +396,9 @@ a) A Divisão de Apoio a Criação e Edição;
 
 b) A Divisão de Difusão do Autor e do Livro.
 
-###### Artigo 17.º — Divisão de Apoio à Criação e Edição
+###### Artigo 17.º
+
+##### Divisão de Apoio à Criação e Edição
 
 À Divisão de Apoio à Criação e Edição compete:
 
@@ -363,7 +416,9 @@ f) Apoiar medidas que contribuam para o estabelecimento das bases de uma políti
 
 g) Colaborar na definição e programação de medidas de apoio às empresas do sector, designadamente através de incentivos fiscais e financeiros.
 
-###### Artigo 18.º — Divisão de Difusão do Autor e do Livro
+###### Artigo 18.º
+
+##### Divisão de Difusão do Autor e do Livro
 
 À Divisão de Difusão do Autor e do Livro compete:
 
@@ -385,7 +440,9 @@ a) A Divisão de Planeamento e da Leitura Pública;
 
 b) A Divisão de Desenvolvimento e Cooperação.
 
-###### Artigo 20.º — Divisão de Planeamento e da Leitura Pública
+###### Artigo 20.º
+
+##### Divisão de Planeamento e da Leitura Pública
 
 À Divisão de Planeamento e da Leitura Pública compete:
 
@@ -403,7 +460,9 @@ f) Planear e adoptar soluções para a automatização da rede nacional de bibli
 
 g) Constituir e gerir o catálogo colectivo de leitura pública.
 
-###### Artigo 21.º — Divisão de Desenvolvimento e Cooperação
+###### Artigo 21.º
+
+##### Divisão de Desenvolvimento e Cooperação
 
 À Divisão de Desenvolvimento e Cooperação compete:
 
@@ -479,7 +538,9 @@ a) A Secção de Contabilidade e Tesouraria, a qual incumbem, em especial, as co
 
 b) A Secção do Património e Aprovisionamento, a qual incumbem, em especial, as competências das alíneas d) a f) do número anterior.
 
-###### Artigo 25.º — Divisão de Serviços Técnicos de Apoio
+###### Artigo 25.º
+
+##### Divisão de Serviços Técnicos de Apoio
 
 À Divisão de Serviços Técnicos de Apoio, que inclui as áreas de laboratórios, oficinas, manutenção e obras, equipamentos e reprografia, compete:
 
@@ -493,7 +554,9 @@ d) Realizar trabalhos de reprodução necessários aos serviços ou aos utentes;
 
 e) Assegurar a funcionalidade dos meios de protecção e segurança das instalações e bens patrimoniais.
 
-###### Artigo 26.º — Divisão de Informática
+###### Artigo 26.º
+
+##### Divisão de Informática
 
 À Divisão de Informática compete o estudo e desenvolvimento de aplicações de informática destinadas a dar resposta às solicitações internas e externas nas áreas técnicas e de gestão, nomeadamente:
 
@@ -509,7 +572,9 @@ e) Apoiar a manutenção, a gestão e a exploração dos ficheiros em suporte in
 
 f) Executar outros trabalhos que lhe sejam cometidos no domínio da informática.
 
-###### Artigo 27.º — Divisão de Investigação
+###### Artigo 27.º
+
+##### Divisão de Investigação
 
 À Divisão de Investigação, que compreende as áreas de investigação bibliográfica, de história do livro e das bibliotecas, do arquivo de literatura portuguesa contemporânea e das actividades editoriais e publicações, compete:
 
@@ -523,7 +588,9 @@ d) Organizar e gerir o arquivo de literatura portuguesa contemporânea;
 
 e) Coordenar e gerir as actividades necessárias à publicação da revista da Biblioteca Nacional.
 
-###### Artigo 28.º — Divisão de Actividades Culturais
+###### Artigo 28.º
+
+##### Divisão de Actividades Culturais
 
 À Divisão de Actividades Culturais compete:
 
@@ -533,7 +600,9 @@ b) Coordenar o cicuito de produção comercialização das publicações do IBL;
 
 c) Assegurar o serviço de relações com o público.
 
-###### Artigo 29.º — Divisão de Preservação e Conservação
+###### Artigo 29.º
+
+##### Divisão de Preservação e Conservação
 
 A Divisão de Preservação e Conservação compreende as áreas de encadernação, laboratório fotográfico e de restauro, competindo-lhe:
 
@@ -615,15 +684,15 @@ A distribuição do pessoal pelos serviços do IBL será feita por despacho do p
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -643,4 +712,4 @@ MAPA II
 
 Quadro do pessoal dirigente do Instituto da Biblioteca Nacional e do Livro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/126a01/00210028.pdf))](https://files.diariodarepublica.pt/1s/1992/06/126a01/00210028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/126a01/00210028.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/1991/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1991-498334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bd9e5bee891b9abe536e96dded167d7262e21ae99828a68a3565d9e1222462b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15c34ec07a6d83df8b8c59f983cd18a0d893a68fa68aec5568877bac1b6854a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,29 +70,94 @@ subjects:
 - Departamento para os Assuntos do Fundo Social Europeu
 - Diretor Geral
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
 - FSE
+- Integração de Trabalhadores
 - Ministério do Emprego e da Segurança Social
 - Orgânica
 - Pessoal de Inspecção
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:481161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 28 PELO DEC LEI 313/91 DE 17-AGO DR.IS-A [188]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-17'
+- type: amended_by
+  target: pt:dre:333122:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na parte respeitante às carreiras de pessoal de informática,\
+    \ pela PORT.1058/91.18.10.1991.MF, DR.IS-B [240] de 18.10.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1058-1991-333122
+  date: '1991-10-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO PARA A QUALIFICAÇÃO E O EMPREGO ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A\
+    \ [266]SUPL \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:1324320:por
+  label: "Criado um lugar de inspector assessor no quadro de pessoal, pela PORT.182/96IIS.1996.09.10.PCM, DR.IIS [232] de\
+    \ 07/Out/1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-1996-1324320
+  date: '1996-09-10'
+- type: amended_by
+  target: pt:dre:815585:por
+  label: "Alterado o quadro de pessoal pela PORT.128/97IIS.1997.03.25.PCM DR.IIS [84] de 10/Abr/1997E\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1997-815585
+  date: '1997-03-25'
+- type: amended_by
+  target: pt:dre:3268532:por
+  label: "Alterado o quadro de pessoal pela PORT.1060/98(2ªSÉRIE).1998.09.25.PCM DR.IIS [241] DE 19/OUT/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1060-1998-3268532
+  date: '1998-09-25'
+- type: amended_by
+  target: pt:dre:3225644:por
+  label: "Alterado o quadro de pessoal constante do anexo ao presente diploma, pela PORT.336/99(2ªSÉRIE).1999.02.25.PCM, DR.IIS\
+    \ [69] de 23/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/336-1999-3225644
+  date: '1999-02-25'
+- type: amended_by
+  target: pt:dre:1551316:por
+  label: "Alterado o quadro de pessoal pela PORT.1849/2002(2ªSÉRIE).2002.11.29.MF e MSST, DR.IIS [292] de 18/Dez/2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1849-2002-1551316
+  date: '2002-12-18'
+- type: cites
+  target: pt:dre:355517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481161:por
+  label: "Revogado pelo DEC LEI.2/2003.2003.01.06.MSST, DR.IS-A [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2003-481161
+  date: '2003-01-06'
 article_structure:
   article_count: 31
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:17Z'
   warnings: []
   errors: []
 ---
@@ -329,7 +394,9 @@ b) Secção de Contabilidade, Aprovisionamento e Património, a qual exerce as c
 
 3 - A DSA integra ainda uma Secção de Expediente Geral e Arquivo, que exercerá as competências previstas na alínea f) do n.º 1.
 
-###### Artigo 13.º — Divisão de Contabilidade do Fundo Social Europeu
+###### Artigo 13.º
+
+##### Divisão de Contabilidade do Fundo Social Europeu
 
 À Divisão de Contabilidade do Fundo Social Europeu compete:
 
@@ -339,7 +406,9 @@ b) Promover o reembolso das comparticipações indevidamente pagas;
 
 c) Promover a devolução à CCE das comparticipações não utilizadas ou indevidamente pagas.
 
-###### Artigo 14.º — Divisão de Estatística
+###### Artigo 14.º
+
+##### Divisão de Estatística
 
 À Divisão de Estatística compete:
 
@@ -549,25 +618,25 @@ c) As correspondências de categoria fazem-se em função do índice remunerató
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - António José de Castro Bagão Félix.
 
-**Promulgado em 11 de Dezembro de 1990.**
+Promulgado em 11 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1990.**
+Referendado em 18 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — MAPA N.º 1
 
 Quadro de pessoal a que se refere o artigo 17.º do Decreto-Lei n.º 37/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf))](https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf)
 
 MAPA N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf))](https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/015a00/02800287.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

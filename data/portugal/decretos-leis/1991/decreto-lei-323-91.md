@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/198a00/45074507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/1991/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1991-404105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c09038558a11f227c3b025e3ffdb6e038b76c4227bb2420ad0f88973bde9941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 837aeddef1d1b51cfeba059a13ddea0efcc8c853ad7d817c6bf75cfb2fc1c3aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Zona Tributária Privilegiada
-- ILHA de Santa Maria
 - Açores
+- ILHA de Santa Maria
 - Sucursais Financeiras Exteriores
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:508873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610414:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508873:por
+  label: "Revogado, sem prejuízo das autorizações concedidas ao seu abrigo, pelo DEC LEI.10/94.1994.01.13.MF, DR.IS-A [10]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-1994-508873
+  date: '1994-01-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:17Z'
   warnings: []
   errors: []
 ---
@@ -105,26 +135,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São permitidos a constituição e o funcionamento na Região Autónoma dos Açores de sucursais financeiras exteriores de instituições nacionais ou estrangeiras.
+Artigo 1.º - 1 - São permitidos a constituição e o funcionamento na Região Autónoma dos Açores de sucursais financeiras exteriores de instituições nacionais ou estrangeiras.
 
 2 - As sucursais financeiras exteriores que venham a instalar-se na Região Autónoma dos Açores farão parte da actividade desenvolvida no âmbito institucional da Zona Franca de Santa Maria.
 
-###### Art. 2.º É aplicável às sucursais a que se refere o artigo anterior o regime de [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), de 26 de Junho, na redacção que lhe foi dada pelos Decretos-Leis n.os [197/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1988-374259), de 31 de Maio, [35/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1989-610414), de 1 de Fevereiro, e [234/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1990-575758), de 17 de Julho.
+Art. 2.º É aplicável às sucursais a que se refere o artigo anterior o regime de [Decreto-Lei n.º 163/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1986-228467), de 26 de Junho, na redacção que lhe foi dada pelos Decretos-Leis n.os [197/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1988-374259), de 31 de Maio, [35/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1989-610414), de 1 de Fevereiro, e [234/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1990-575758), de 17 de Julho.
 
-###### Art. 3.º É tornado extensivo à Região Autónoma dos Açores o regime do [Decreto-Lei n.º 352-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-a-1988-219955), de 3 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 264/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), de 31 de Agosto.
+Art. 3.º É tornado extensivo à Região Autónoma dos Açores o regime do [Decreto-Lei n.º 352-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-a-1988-219955), de 3 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 264/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1990-556796), de 31 de Agosto.
 
-###### Art. 4.º - 1 - Para os efeitos dos artigos anteriores, sem prejuízo de outras adaptações que se mostrem necessárias, as referências feitas na legislação nele citada a Região Autónoma da Madeira, Governo Regional da Madeira, Zona Franca da Madeira e concessionária da Zona Franca da Madeira deverão, respectivamente, considerar-se reportadas à Região Autónoma dos Açores, ao Governo Regional dos Açores, à Zona Franca de Santa Maria e à entidade gestora da Zona Franca de Santa Maria.
+Art. 4.º - 1 - Para os efeitos dos artigos anteriores, sem prejuízo de outras adaptações que se mostrem necessárias, as referências feitas na legislação nele citada a Região Autónoma da Madeira, Governo Regional da Madeira, Zona Franca da Madeira e concessionária da Zona Franca da Madeira deverão, respectivamente, considerar-se reportadas à Região Autónoma dos Açores, ao Governo Regional dos Açores, à Zona Franca de Santa Maria e à entidade gestora da Zona Franca de Santa Maria.
 
 2 - Para os efeitos da aplicação do artigo 3.º, o foro declarado supletivamente competente, nos termos do artigo 33.º do [Decreto-Lei n.º 352-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-a-1988-219955), de 3 de Outubro, é o foro da comarca de Vila do Porto.
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - José Oliveira Costa - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 4 de Agosto de 1991.**
+Promulgado em 4 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Agosto de 1991.**
+Referendado em 8 de Agosto de 1991.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

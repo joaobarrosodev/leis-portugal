@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/041a00/07980805.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/1991/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1991-487696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a03c7a2356e9282e420353be4ff4cbadb8a847117e59be28fa1a1818f368b65a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f9b7f0599c64821b48b8846f69d82dbd30ac58fb99557894d1c49f4516540bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
+- Caixa de Previdência
 - Criação de Serviços
 - Estatuto
 - Extinção de Serviços
 - Instituto de Apoio Sócio-Educativo
 - Instituto dos Assuntos Sociais da Educação
-- Caixa de Previdência
+- Ministério da Educação
 - Obra Social do Ministério da Educação
 relationships:
 - type: amended_by
   target: pt:dre:665342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:185154:por
+  label: "Rectificado, o sumário publicado em Diário da República, e o n.º 4 do artigo 4.º pela DECL-RECT.69/91.30.04.1991.PCM,\
+    \ DR.IS-A [99]Supl de 30.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/69-1991-185154
+  date: '1991-04-30'
+- type: repealed_by
+  target: pt:dre:665342:por
+  label: "Revogado pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993, e exinto o instituto criado no presente\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
 article_structure:
   article_count: 47
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:54Z'
   warnings: []
   errors: []
 ---
@@ -157,15 +201,15 @@ Este diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos do Instituto dos Assuntos Sociais da Educação
 
@@ -387,7 +431,9 @@ b) Divisão de Saúde Escolar;
 
 c) Divisão de Acção Social.
 
-###### Artigo 14.º — Divisão de Alimentação e Nutrição
+###### Artigo 14.º
+
+##### Divisão de Alimentação e Nutrição
 
 Compete à Divisão de Alimentação e Nutrição:
 
@@ -401,7 +447,9 @@ d) Elaborar as normas técnico-pedagógicas do programa de leite escolar e as no
 
 e) Colaborar na formação especializada do pessoal afecto às áreas específicas da nutrição e alimentação e na elaboração de publicações e informações destinadas à promoção da defesa da qualidade dos produtos e da educação alimentar.
 
-###### Artigo 15.º — Divisão de Saúde Escolar
+###### Artigo 15.º
+
+##### Divisão de Saúde Escolar
 
 Compete à Divisão de Saúde Escolar:
 
@@ -421,7 +469,9 @@ g) Colaborar com universidades e outras instituições na promoção de acções
 
 h) Promover e colaborar na adopção de medidas de prevenção susceptíveis de evitar ou diminuir a gravidade dos riscos e acidentes nas escolas.
 
-###### Artigo 16.º — Divisão de Acção Social
+###### Artigo 16.º
+
+##### Divisão de Acção Social
 
 Compete à Divisão de Acção Social:
 
@@ -449,11 +499,15 @@ b) Divisão de Intervenção Social;
 
 c) Divisão de Tempos Livres.
 
-###### Artigo 18.º — Divisão de Apoio à Infância
+###### Artigo 18.º
+
+##### Divisão de Apoio à Infância
 
 Compete à Divisão de Apoio à infância promover e apoiar a frequência de centros infantis e assegurar o funcionamento de infantários e jardins-de-infância destinados a filhos de beneficiários.
 
-###### Artigo 19.º — Divisão de Intervenção Social
+###### Artigo 19.º
+
+##### Divisão de Intervenção Social
 
 Compete à Divisão de Intervenção Social:
 
@@ -465,7 +519,9 @@ c) Assegurar o apoio da área da saúde, tendo em vista a resolução dos proble
 
 d) Assegurar uma acção de serviço social que auxilie os beneficiários na resolução de situações pessoais.
 
-###### Artigo 20.º — Divisão de Tempos Livres
+###### Artigo 20.º
+
+##### Divisão de Tempos Livres
 
 Compete à Divisão de Tempos Livres:
 
@@ -491,7 +547,9 @@ b) Repartição de Administração Geral;
 
 c) Repartição de Administração Financeira.
 
-###### Artigo 22.º — Divisão de Planeamento
+###### Artigo 22.º
+
+##### Divisão de Planeamento
 
 Compete à Divisão de Planeamento:
 
@@ -623,7 +681,9 @@ b) Divisão de Coordenação e Gestão.
 
 5 - As secções do extinto Instituto do Presidente Sidónio Pais são coordenadas por um chefe de divisão, nos termos de regulamento a aprovar por portaria do Ministro da Educação, ouvida a Associação de Antigos Alunos do Professorado Primário.
 
-###### Artigo 26.º — Divisão Técnica
+###### Artigo 26.º
+
+##### Divisão Técnica
 
 À Divisão Técnica compete:
 
@@ -641,7 +701,9 @@ f) Dinamizar, coordenar e apoiar no âmbito pedagógico as equipas directivas da
 
 g) Colaborar com as direcções regionais de educação no apuramento das necessidades relativas à rede nacional de residências.
 
-###### Artigo 27.º — Divisão de Coordenação e Gestão
+###### Artigo 27.º
+
+##### Divisão de Coordenação e Gestão
 
 À Divisão de Coordenação e Gestão compete:
 

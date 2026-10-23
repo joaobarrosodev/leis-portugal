@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/217a00/49684975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/352/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1991-301633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91d3d826469005f7b473eaaf51a50af2b4df1b278614cf0ba30998895f17edb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b47152f8c54ae9201e8ef39e3c70d4af5a338c3820c8c462b372b03c283dbd44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - CEE
-- Seguro
 - Livre Prestação de Serviços
+- Seguro
 - Seguro contra Danos
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:264701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:283921:por
+  label: "Alterados os arts. 3º, 4º, 34º, 46º e aditado o cap. II ao art. 21º-A, pelo DEC LEI.169/92.1992.08.08.MF, DR.IS-A\
+    \ [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1992-283921
+  date: '1992-08-08'
 - type: cites
   target: celex:31973L0239
   label: null
@@ -90,16 +96,26 @@ relationships:
   target: celex:31988L0357
   label: null
   source: http://data.europa.eu/eli/dir/1988/357/oj
+- type: corrected_by
+  target: pt:dre:198331:por
+  label: "Rectificado pela DECL-RECT.232/91.1991.10.17.SG-PCM, DR.IS-A [251]4ºSupl de #1/Out/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/232-1991-198331
+  date: '1991-10-17'
+- type: repealed_by
+  target: pt:dre:264701:por
+  label: "Revogado pelo DEC LEI.102/94.1994.04.20.MF, DR.IS-A [92], sem prejuízo do disposto no nº 2 do art. 197ºm\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1994-264701
+  date: '1994-04-20'
 article_structure:
   article_count: 51
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:52Z'
   warnings: []
   errors: []
 ---
@@ -526,12 +542,12 @@ O presente diploma entra em vigor no 1.º dia do 2.º mês posterior à sua publ
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

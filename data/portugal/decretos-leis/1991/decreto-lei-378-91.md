@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/232a00/52285230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/378/1991/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1991-288235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 021bbdc1cfbf76c6e91860ae1fc88ec83e23bf174e6ae0bd17609a3ea586f358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 673c65023a47166a22c901ec47467a98a7ff17444edf5787ee07945897143a93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,84 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Estatuto dos Funcionários de Justiça
-- Sistema Retributivo
-- Pessoal de Justiça
+- Função Pública
 - Oficial de Justiça
 - Orgânica
+- Organização Judiciária
+- Pessoal de Justiça
 - Política Salarial
 - Promoção Profissional
 - Remuneração
-- Organização Judiciária
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:428653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DADA NOVA REDACCAO AOS ARTIGOS 3, 39, 43, 71, 74, 85, 86, 181 E 182-A DO DECRETO LEI 376/87, DE 11 DE DEZEMBRO,\
+    \ NA REDACCAO CONSTANTE DO PRESENTE DIPLOMA, PELO DECRETO LEI 364/93, DE 22 DE OUTUBRO.E\0RO.E\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-22'
+- type: amended_by
+  target: pt:dre:304095:por
+  label: "Alterado o art. 3º do Dec Lei 376/87 de 11-Dez, na redação do Dec Lei 167/89, de 23-maio, Dec Lei 378/91, de 09-out,\
+    \ e 3Dec Lei 64/93, de 22-outDEC LEI.167/94.1994.06.15.MJ, DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1994-304095
+  date: '1994-06-15'
+- type: amended_by
+  target: pt:dre:241228:por
+  label: "Alterada a redacção dada pelo presente diploma aos arts. 3º e 85º do Dec Lei 376/87 de 11-Dez, pela LEI.44/96.1996.09.03.AR,\
+    \ DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1996-241228
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:367398:por
+  label: "Alterados os arts. 40º, 43º, 44º, 46º, 55º, 61º, 67º, 68º e 71º, bem como a epígrafe da seccão IV do cap. IV do\
+    \ Dec Lei 376/87 de 11-Dez, na redacção do presente diploma, pelo DEC LEI.150/97.1997.06.16.MJ DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1997-367398
+  date: '1997-06-16'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:428653:por
+  label: "Revogado pelo DEC LEI.343/99.1999.08.26.MJ,DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1999-428653
+  date: '1999-08-26'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:23Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +168,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 39.º, 43.º, 44.º, 71.º, 72.º, 74.º, 80.º, 85.º, 86.º, 181.º, 182.º e 182.º-A do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 39.º, 43.º, 44.º, 71.º, 72.º, 74.º, 80.º, 85.º, 86.º, 181.º, 182.º e 182.º-A do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -277,9 +330,9 @@ A = tempo de serviço na categoria.
 
 3 - Os funcionários de justiça que à data da aposentação tenham, pelo menos, 60 anos de idade e não contem 36 anos de serviço têm direito à contagem, para efeitos de aposentação, do número de anos e meses necessários para alcançar o máximo da pensão de aposentação, até ao limite de cinco, desde que procedam ao pagamento das quotas respectivas para a Caixa Geral de Aposentações.
 
-###### Art. 2.º Aos oficiais de justiça que, no exercício das suas funções, tenham de desempenhar o seu trabalho em especiais condições de risco é atribuído o suplemento referido na alínea b) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, de acordo com o que vier a ser fixado no diploma a que se refere o artigo 12.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+Art. 2.º Aos oficiais de justiça que, no exercício das suas funções, tenham de desempenhar o seu trabalho em especiais condições de risco é atribuído o suplemento referido na alínea b) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, de acordo com o que vier a ser fixado no diploma a que se refere o artigo 12.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 3.º - 1 - Ficam descongelados os dois escalões seguintes ao escalão de integração que resultou para cada oficial de justiça da aplicação do [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, com efeitos a 1 de Julho de 1990.
+Art. 3.º - 1 - Ficam descongelados os dois escalões seguintes ao escalão de integração que resultou para cada oficial de justiça da aplicação do [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, com efeitos a 1 de Julho de 1990.
 
 2 - A progressão nos escalões descongelados nos termos do número anterior faz-se de acordo com as seguintes regras:
 
@@ -305,18 +358,18 @@ c) Se o oficial de justiça tiver progredido dois escalões com efeitos a 1 de J
 
 8 - A subida de escalões a que houver direito por aplicação das normas previstas nos números anteriores não poderá exceder, em caso algum, o número de escalões descongelados por força das mesmas, com efeitos às datas nelas previstas.
 
-###### Art. 4.º A alteração introduzida no n.º 4 do artigo 85.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, aplica-se às férias cujo direito se vença a partir de 1 de Janeiro de 1991.
+Art. 4.º A alteração introduzida no n.º 4 do artigo 85.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, aplica-se às férias cujo direito se vença a partir de 1 de Janeiro de 1991.
 
-###### Art. 5.º Os encargos decorrentes da aplicação do presente diploma são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça.
+Art. 5.º Os encargos decorrentes da aplicação do presente diploma são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silvo - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Outubro de 1991.**
+Referendado em 1 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

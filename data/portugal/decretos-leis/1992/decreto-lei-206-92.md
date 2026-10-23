@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/1992/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1992-233308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e03a3a6a638e3bf3db86e25dc5fb9160dd680de6cfdf867935d50646285abd36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7132f7730823dd0f200dc6341bc5003b74b66814a39c7ae2779c6f204eab6be5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - CEE
-- Direcção Geral da Pecuária
 - Comissão CE
+- Direcção Geral da Pecuária
 - Legislação Veterinária
 relationships:
 - type: cites
@@ -80,15 +80,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1989/608/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:18:00Z'
   warnings: []
   errors: []
 ---
@@ -107,20 +107,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [89/608/CEE](https://data.europa.eu/eli/dir/1989/608/oj?locale=pt) do Conselho, de 21 de Novembro, relativa à assistência mútua entre as autoridades administrativas do Estados membros e à colaboração entre estas e a Comissão das Comunidades Europeias, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [89/608/CEE](https://data.europa.eu/eli/dir/1989/608/oj?locale=pt) do Conselho, de 21 de Novembro, relativa à assistência mútua entre as autoridades administrativas do Estados membros e à colaboração entre estas e a Comissão das Comunidades Europeias, tendo em vista assegurar a boa aplicação das legislações veterinária e zootécnica.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 3.º Compete à Direcção-Geral da Pecuária, na qualidade de autoridade sanitária e zootécnica nacional, o controlo e a aplicação da disciplina instituída pelo presente diploma e pela portaria referida no artigo anterior.
+Art. 3.º Compete à Direcção-Geral da Pecuária, na qualidade de autoridade sanitária e zootécnica nacional, o controlo e a aplicação da disciplina instituída pelo presente diploma e pela portaria referida no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1992. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

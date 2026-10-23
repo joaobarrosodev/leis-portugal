@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/205a00/47434747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/333/1991/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1991-304533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3080ac01035f5142d9a2388c4349bfd411674827b6618f80385f555743a2edfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07ec0317913e35d46a1df74a6ba46d75b1bbd83feb77211efc1c8e12ebcb7323
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:539238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291639:por
+  label: "Alteradas as bases XIII, XIV, XXIII e XXXVIII anexas, respeitante á concessão da rede de distribuição regional de\
+    \ Lisboa, pelo DEC LEI.183/94.1994.07.01.MIE, DR.IS-A [150], sem prejuízo de o nº 6 da base XIII se manter em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-1994-291639
+  date: '1994-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/1991/01/16/p/dre
   label: null
@@ -82,16 +88,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/33/1991/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/1991/01/16/p/dre
+- type: cites
+  target: pt:dre:495569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557627:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539238:por
+  label: "Revogado pelo DEC LEI.140/2006.26.07.2006.MEI, DR.IS [143] de 26.07.2006, sem prejuízo do disposto no nº 1 do art.\
+    \ 71º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2006-539238
+  date: '2006-07-26'
 article_structure:
   article_count: 4
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:27Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +164,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 A base XXIX integrada no anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro, que dele faz parte integrante, passa a ter a seguinte redacção:
 
-###### Base XXIX — [...]
+Base XXIX
+
+[...]
 
 1 - ...
 
@@ -146,17 +176,17 @@ A base XXIX integrada no anexo I ao [Decreto-Lei n.º 33/91](https://diariodarep
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Agosto de 1991.**
+Referendado em 27 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo ao Decreto-Lei n.º 333/91, de 6 de Setembro
+Anexo ao Decreto-Lei n.º 333/91, de 6 de Setembro
 
 Alterações, para efeitos de concessão da Rede de Distribuição Regional de Gás Natural de Lisboa, às bases de exploração, em regime de serviço público, de redes de distribuição regional de gás natural, que constituem o anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro.
 
@@ -164,7 +194,9 @@ Alterações, para efeitos de concessão da Rede de Distribuição Regional de G
 
 #### SECÇÃO I — Objecto, âmbito, regime e prazo
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 1 - A concessão tem por objecto a exploração, em regime de serviço público, da Rede de Distribuição Regional de Gás Natural de Lisboa, a construção das respectivas infra-estruturas e a conversão e expansão progressiva, para gás natural (GN), da actual rede de distribuição de gás de cidade, nos termos das presentes bases e demais legislação aplicável.
 
@@ -172,7 +204,9 @@ Alterações, para efeitos de concessão da Rede de Distribuição Regional de G
 
 3 - A atribuição da concessão determina a obrigação para a concessionária da construção das infra-estruturas necessárias à exploração, nos termos das presentes bases e demais legislação aplicável.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - O exercício da concessão compreende o fornecimento de GN ou dos seus gases de substituição (SNG) aos consumidores domésticos, comerciais e industriais da área geográfica definida no anexo n.º 5 ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro, conforme o estipulado nos respectivos contratos de fornecimento, exceptuados os grandes consumidores directos definidos no n.º 4 da base II aprovada pelo Decreto-lei n.º 285/90, de 18 de Setembro.
 
@@ -182,11 +216,15 @@ Alterações, para efeitos de concessão da Rede de Distribuição Regional de G
 
 4 - A concessionária poderá exercer actividades complementares das que constituem o objecto da concessão, mediante autorização do Ministro da Indústria e Energia.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 ...
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - O termo da concessão atribuída segundo o disposto no n.º 1 do artigo 4.º do Decreto-lei n.º 33/91, de 16 de Janeiro, verificar-se-á logo que se encontrem decorridos 35 anos sobre a data da celebração do respectivo contrato, aí se incluindo o tempo despendido com a construção das infra-estruturas.
 
@@ -198,7 +236,9 @@ Alterações, para efeitos de concessão da Rede de Distribuição Regional de G
 
 #### SECÇÃO II — Infra-estruturas
 
-###### Base V — Caracterização das infra-estruturas
+Base V
+
+Caracterização das infra-estruturas
 
 As infra-estruturas relativas à exploração compreendem:
 
@@ -208,31 +248,43 @@ b) As instalações para eventual armazenagem de GN ou SNG;
 
 c) As instalações afectas ao abastecimento de gás de cidade enquanto necessárias ao abastecimento dos consumidores e até que este passe a ser feito por instalações de GN ou SNG.
 
-###### Base VI — Dimensionamento das infra-estruturas
+Base VI
+
+Dimensionamento das infra-estruturas
 
 ...
 
 #### SECÇÃO III — Disposições genéricas
 
-###### Base VII — Realização dos projectos
+Base VII
+
+Realização dos projectos
 
 ...
 
-###### Base VIII — Financiamento do empreendimento
+Base VIII
+
+Financiamento do empreendimento
 
 A concessionária adoptará e executará, tanto na construção, reconversão e expansão das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do contrato de concessão.
 
-###### Base IX — Prestação de dados
+Base IX
+
+Prestação de dados
 
 ...
 
-###### Base X — Características do gás
+Base X
+
+Características do gás
 
 1 - A concessionária deverá enviar à rede o gás recebido da transportadora, conforme a base X aprovada pelo [Decreto-Lei n.º 285/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1990-557627), de 18 de Setembro.
 
 2 - Relativamente à rede de gás de cidade, a concessionária fica dispensada do cumprimento da obrigação referida no número anterior enquanto se mantiver o fornecimento de gás de cidade nos termos previstos no n.º 3 da base II.
 
-###### Base XI — Títulos
+Base XI
+
+Títulos
 
 1 - ...
 
@@ -240,11 +292,15 @@ A concessionária adoptará e executará, tanto na construção, reconversão e 
 
 3 - As instalações desafectadas da concessão nas condições referidas na alínea c) da base V são da propriedade e de livre disposição da GDP - Gás de Portugal, S. A.
 
-###### Base XII — Fiscalização
+Base XII
+
+Fiscalização
 
 ...
 
-###### Base XIII — Regime de preços
+Base XIII
+
+Regime de preços
 
 1 - Os preços de venda do GN ou SNG a praticar pela concessionária ficam submetidos ao regime especial estabelecido nos números seguintes.
 
@@ -258,7 +314,9 @@ A concessionária adoptará e executará, tanto na construção, reconversão e 
 
 6 - Os preços de venda do gás de cidade ou dos seus gases substitutos a praticar pela concessionária ficam submetidos ao regime legal que lhes seja aplicável.
 
-###### Base XIV — Revisão de preços
+Base XIV
+
+Revisão de preços
 
 1 - Sem prejuízo do disposto no n.º 3 seguinte, os preços serão revistos de acordo com um mecanismo que contemplará:
 
@@ -278,11 +336,15 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 3 - A revisão dos preços de venda do gás de cidade ou dos seus gases substitutos obedecerá ao estabelecido no regime legal aplicável.
 
-###### Base XV — Suspensão de fornecimentos
+Base XV
+
+Suspensão de fornecimentos
 
 ...
 
-###### Base XVI — Responsabilidade civil
+Base XVI
+
+Responsabilidade civil
 
 1 - Para o disposto no artigo 509.º do Código Civil entende-se que as instalações integradas na concessão são utilizadas no exclusivo interesse da concessionária.
 
@@ -290,35 +352,49 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 #### SECÇÃO IV — Direitos da concessionária
 
-###### Base XVII — Utilização do domínio público
+Base XVII
+
+Utilização do domínio público
 
 ...
 
-###### Base XVIII — Servidões e expropriações
+Base XVIII
+
+Servidões e expropriações
 
 ...
 
-###### Base XIX — Gestão das instalações
+Base XIX
+
+Gestão das instalações
 
 1 - ...
 
 2 - ...
 
-###### Base XX — Incumprimento pelo concedente
+Base XX
+
+Incumprimento pelo concedente
 
 ...
 
-###### Base XXI — Participação da concessionária no capital de outras concessionárias
+Base XXI
+
+Participação da concessionária no capital de outras concessionárias
 
 ...
 
 #### SECÇÃO V — Obrigações da concessionária
 
-###### Base XXII — Caução
+Base XXII
+
+Caução
 
 ...
 
-###### Base XXIII — Manutenção das infra-estruturas
+Base XXIII
+
+Manutenção das infra-estruturas
 
 1 - ...
 
@@ -328,23 +404,31 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 4 - Mediante prévia autorização do Ministro da Indústria e Energia, poderá o fundo previsto no n.º 2 ser investido em novas aquisições ou ter outra aplicação reputada útil para o objecto da concessão.
 
-###### Base XXIV — Informações sobre quantidades e preços
+Base XXIV
+
+Informações sobre quantidades e preços
 
 1 - A concessionária deverá enviar trimestralmente ao director-geral de Energia os elementos estatísticos referentes a quantidades e preços do gás que tiver adquirido ou produzido no trimestre anterior.
 
 2 - Até ao fim dos meses de Junho e Dezembro de cada ano civil, a concessionária deverá enviar ao mesmo órgão uma previsão das quantidades e preços do gás que irá adquirir ou produzir no semestre seguinte.
 
-###### Base XXV — Direitos privativos de propriedade industrial
+Base XXV
+
+Direitos privativos de propriedade industrial
 
 ...
 
-###### Base XXVI — Centros de investigação e de formação
+Base XXVI
+
+Centros de investigação e de formação
 
 ...
 
 #### SECÇÃO VI — Sanções
 
-###### Base XXVII — Multas contratuais
+Base XXVII
+
+Multas contratuais
 
 1 - ...
 
@@ -358,7 +442,9 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 6 - ...
 
-###### Base XXVIII — Sequestro
+Base XXVIII
+
+Sequestro
 
 1 - ...
 
@@ -370,7 +456,9 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 #### SECÇÃO VII — Modificação e extinção da concessão
 
-###### Base XXIX — Transmissão da concessão
+Base XXIX
+
+Transmissão da concessão
 
 1 - ...
 
@@ -378,7 +466,9 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 3 - ...
 
-###### Base XXX — Rescisão do contrato
+Base XXX
+
+Rescisão do contrato
 
 1 - ...
 
@@ -390,13 +480,17 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 5 - ...
 
-###### Base XXXI — Termo do prazo de concessão
+Base XXXI
+
+Termo do prazo de concessão
 
 1 - ...
 
 2 - ...
 
-###### Base XXXII — Resgate da concessão
+Base XXXII
+
+Resgate da concessão
 
 1 - ...
 
@@ -412,27 +506,37 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 ### CAPÍTULO II — Construção das infra-estruturas, conversão e expansão para GN da actual rede de distribuição de gás de cidade
 
-###### Base XXXIII — Responsabilidade pela construção
+Base XXXIII
+
+Responsabilidade pela construção
 
 1 - ...
 
 2 - ...
 
-###### Base XXXIV — Aprovação dos projectos
+Base XXXIV
+
+Aprovação dos projectos
 
 1 - ...
 
 2 - ...
 
-###### Base XXXV — Integração das infra-estruturas na concessão
+Base XXXV
+
+Integração das infra-estruturas na concessão
 
 ...
 
-###### Base XXXVI — Implantação das infra-estruturas
+Base XXXVI
+
+Implantação das infra-estruturas
 
 ...
 
-###### Base XXXVII — Regras a observar na construção
+Base XXXVII
+
+Regras a observar na construção
 
 1 - ...
 
@@ -440,17 +544,23 @@ II) A variação do preço de aquisição do gás pela concessionária.
 
 3 - ...
 
-###### Base XXXVIII — Fundos comunitários
+Base XXXVIII
+
+Fundos comunitários
 
 O Governo disponibilizará à concessionária fundos FEDER, enquadradados no Programa PROTEDE, concedidos pela Comunidade Económica Europeia, para a cobertura parcial, até Dezembro de 1993, do montante dos investimentos necessários à construção das infra-estruturas referidas na base V.
 
-###### Base XXXIX — Caução
+Base XXXIX
+
+Caução
 
 1 - ...
 
 2 - ...
 
-###### Base XL — Sanções referentes à construção das infra-estruturas
+Base XL
+
+Sanções referentes à construção das infra-estruturas
 
 1 - ...
 
@@ -460,6 +570,8 @@ O Governo disponibilizará à concessionária fundos FEDER, enquadradados no Pro
 
 ### CAPÍTULO III — Contencioso
 
-###### Base XLI — Arbitragem
+Base XLI
+
+Arbitragem
 
 ...

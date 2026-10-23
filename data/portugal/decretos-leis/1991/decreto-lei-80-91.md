@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/041a00/07790780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/1991/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1991-487703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fdb07751e6d0b6ac7e11476f1cae7e251b49259dfd1b8df7ac69a0980d69493
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef2de4c760b388a20e1003e26d9c6f1de8f4457d769e12ceaa7622364833f87a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,33 @@ relationships:
   target: pt:dre:278888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:161314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278888:por
+  label: "Revogado em 09.03.2011 pela LEI.5/2011.02.03.2011.AR, DR.IS [43] de 02.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2011-278888
+  date: '2011-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:53Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +121,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada, na Ordem do Mérito Agrícola e Industrial, a classe do mérito comercial, por desdobramento da actual classe do mérito industrial.
+Artigo 1.º É criada, na Ordem do Mérito Agrícola e Industrial, a classe do mérito comercial, por desdobramento da actual classe do mérito industrial.
 
-###### Art. 2.º Os artigos 2.º, 11.º e 21.º da Lei Orgânica das Ordens Honoríficas Portuguesas, aprovada pelo [Decreto-Lei n.º 414-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798), de 15 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 11.º e 21.º da Lei Orgânica das Ordens Honoríficas Portuguesas, aprovada pelo [Decreto-Lei n.º 414-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798), de 15 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 I) ...
 
@@ -122,7 +139,7 @@ b) ...
 
 c) Do Mérito Agrícola, Comercial e Industrial.
 
-###### Art. 11.º - 1 - A Ordem do Mérito Agrícola, Comercial e Industrial tem por fim distinguir aqueles que hajam prestado serviços relevantes no fomento ou na valorização, por qualquer forma:
+Art. 11.º - 1 - A Ordem do Mérito Agrícola, Comercial e Industrial tem por fim distinguir aqueles que hajam prestado serviços relevantes no fomento ou na valorização, por qualquer forma:
 
 a) ...
 
@@ -140,30 +157,30 @@ b) Do mérito comercial;
 
 c) Do mérito industrial.
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 2 - A proposta de concessão da Ordem de Sant'Iago da Espada e da Ordem da Instrução Pública é reservada ao Ministro da Educação e ao Ministro que tiver a seu cargo a área da cultura; a da Ordem do Mérito Agrícola, Comercial e Industrial, aos Ministros das pastas por onde corram os assuntos económicos, de obras públicas ou de comunicações.
 
 3 - ...
 
-###### Art. 3.º O quadro a que se refere o n.º 1 do artigo 16.º da Lei Orgânica das Ordens Honoríficas Portuguesas, na redacção que lhe foi dada pelo [Decreto-Lei n.º 85/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1988-287163), de 10 de Março, é substituído pelo quadro anexo ao presente diploma, que integra a classe do mérito comercial.
+Art. 3.º O quadro a que se refere o n.º 1 do artigo 16.º da Lei Orgânica das Ordens Honoríficas Portuguesas, na redacção que lhe foi dada pelo [Decreto-Lei n.º 85/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1988-287163), de 10 de Março, é substituído pelo quadro anexo ao presente diploma, que integra a classe do mérito comercial.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
+Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o artigo 3.º
+Anexo a que se refere o artigo 3.º
 
 Quadro das ordens honoríficas portuguesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/041a00/07790780.pdf))](https://files.diariodarepublica.pt/1s/1991/02/041a00/07790780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/041a00/07790780.pdf)

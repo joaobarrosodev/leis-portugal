@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/262a00/58225826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/440/1991/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41ae1e6fe20c7b5683ae6f36df81adb1a1fbe06fd278db40150a608b939e11ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de0060157e3c8131248dbbf28ac6dab14b84c335d6ff9a1ddd31ebd070aad35e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,50 @@ relationships:
   target: pt:dre:502399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346486:por
+  label: "Suspenso por um prazo até quatro anos, o art. 7º, pelo DLR.12/93/M.1993.06.29.ALR-RAM, DR.IS-A [171] de 23/Jul/1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1993-346486
+  date: '1993-06-29'
+- type: amended_by
+  target: pt:dre:222074:por
+  label: "Alterado o art. 11º pelo DEC LEI.392/98.1998.12.04.MTS DR.IS-A [280]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/392-1998-222074
+  date: '1998-12-04'
+- type: amended_by
+  target: pt:dre:345122:por
+  label: "Alterado o art. 13.º pela LEI.114/99.1999.08.03.AR, DR.IS-A [179] de 03.08.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-1999-345122
+  date: '1999-08-03'
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502399:por
+  label: "Revogado, sem prejuízo do previsto no nº 2 do art. 21.º do Código do Trabalho, pela LEI.35/2004.29.07.2004.AR, DR.IS-A\
+    \ [177] de 29.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2004-502399
+  date: '2004-07-29'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:48Z'
   warnings: []
   errors: []
 ---
@@ -287,12 +321,12 @@ O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 29 de Outubro de 1991.**
+Promulgado em 29 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1991.**
+Referendado em 5 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

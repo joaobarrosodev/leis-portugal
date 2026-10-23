@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/202/1992/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1992-233120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e9fc525b5fef89fa49a9bd73b72a15157ac01f23adb675aee6cee992ba14a2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 665dc8d0bee16daece23a4ddacf90f3997d6587a3782ee6754fab8a17e1decec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embarcação de Recreio
-- Regulamento Provisório das Embarcações de Recreio
 - Navegação de Recreio
+- Regulamento Provisório das Embarcações de Recreio
 relationships:
 - type: amended_by
   target: pt:dre:469195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469195:por
+  label: "Mantido em vigor até 30-Nov de 1996 o Regulamento provisório das embarcações de recreio, aprovado pelo Dec Lei 439/75\
+    \ de 16-Ago DG.IS [188], pelo DEC LEI.38/96.1996.05.06.MEPAT DR.IS-A [105], com a redacção que lhe foi dada pelo Dec 97/79\
+    \ de 05-Set DR.IS [205], pelo Dec Lei 167/88 de 14-Mai DR.IS [112] e pelo presente diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1996-469195
+  date: '1996-05-06'
+- type: cites
+  target: pt:dre:314625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382645:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:361325:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 151/92, PUBLICADA NO DR.IS-A, 226 4 SUPL, DE 920930.\0930.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/151-1992-361325
+- type: repealed_by
+  target: pt:dre:631866:por
+  label: "Revogado o Dec Lei 439/75 de 16-Ago, na redacção constante do presente diploma, pelo DEC LEI.329/95.1995.12.09.MM,\
+    \ DR.IS-A [283]\083]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1995-631866
+  date: '1995-12-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:54Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +126,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 15.º, 16.º e 36.º do Regulamento aprovado pelo [Decreto-Lei n.º 439/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625), de 16 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 97/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1979-382645), de 5 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 15.º, 16.º e 36.º do Regulamento aprovado pelo [Decreto-Lei n.º 439/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625), de 16 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 97/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1979-382645), de 5 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 15.º Qualquer pessoa, singular ou colectiva, pode ser titular do direito de propriedade de embarcações de recreio.
+Art. 15.º Qualquer pessoa, singular ou colectiva, pode ser titular do direito de propriedade de embarcações de recreio.
 
 § único. As transmissões de embarcações de recreio estão sujeitas ao mesmo regime das transmissões dos veículos automóveis.
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 1) ...
 
@@ -137,7 +162,7 @@ a) ...
 
 b) ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) Principiante - embarcações locais de comprimento até 7 m, com potência instalada não superior a 7,5 kW, em navegação diurna, até à distância de 1 milha da borda de água em zonas vigiadas;
 
@@ -155,12 +180,12 @@ e) Patrão de alto mar - embarcações do alto, de comprimento até 24 m, em nav
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - José Manuel Cardoso Borges Soeiro - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 11 de Setembro de 1992.**
+Promulgado em 11 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1992.**
+Referendado em 15 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

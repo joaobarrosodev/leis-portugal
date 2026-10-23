@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/042a00/08270835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fff7b1f179254aba77b3c64d7d9a67e81c2c1cf93757f9a10d7290f52d20e33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd82ab979a7f74754ecdbbc66872153650bda9a5b6d5ba1d33fc602815725ec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Auditoria Jurídica
+- Caixa de Previdência
 - Caixa Nacional de Seguros de Doenças Profissionais
-- Instituto do Emprego e Formação Profissional
+- CASA PIA de Lisboa
 - Centro Nacional de Pensões
-- Pessoal Dirigente
 - Departamento de Estatística
 - Departamento de Estudos e Planeamento
 - Departamento de Relações Internacionais e Convenções de Segurança Social
@@ -84,35 +84,107 @@ subjects:
 - Direcção Geral dos Regimes de Segurança Social
 - Extinção de Serviços
 - Fundo de Estabilização Financeira da Segurança Social
+- Inatel
 - Inspecção Geral da Segurança Social
-- Instituto de Gestão Financeira da Segurança Social
-- CASA PIA de Lisboa
-- Integração de Trabalhadores
-- Auditoria Jurídica
 - Inspecção Geral do Trabalho
+- Instituto de Gestão Financeira da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Integração de Trabalhadores
 - Ministério do Emprego e da Segurança Social
-- Caixa de Previdência
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Secretariado Nacional de Reabilitação
 - Serviços Sociais
-- Inatel
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:146876:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 32/91 DR.IS [74]SUPL DE 30/MAR/1991R
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-03-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ART 4, 5, 6, 8, 15, 28, 30 E SUBSTITUIDO O MAPA ANEXO REFERIDO NO ART 24 PELO DEC LEI 208/93 DE 16-JUN
+    DR.IS-A [139]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTO O MINISTERIO DO EMPREGO E DA SEGURANCA SOCIAL PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPLA
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618695:por
+  label: "Rectificada a alínea d) do n.º 2 do artigo 10.º pela DECL-RECT.32/91.30.03.1991.PCM, DR.IS-A [74]Supl de 30.03.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-1991-618695
+  date: '1991-03-30'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: 'REVOGADOS OS ART 9, 16, 17, 22 E O NUM 5 DO ART 29, E EXTINTOS OS SEGUINTES SERVICOS: AUDITORIA JURIDICA, DIRECCAO
+    GERAL DAS RELACOES DE TRABALHO, DIRECCAO GERAL DE HIGIENE E SEGURANCA DO TRABALHO E INSPECCAO GERAL DO TRABALHO, PELO
+    DEC LEI 208/93 DE 16-JUN DR.IS-A [139]'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-16'
+- type: repealed_by
+  target: pt:dre:476916:por
+  label: "Revogado pelo DEC LEI.35/96.1996.05.02.MSSS DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1996-476916
+  date: '1996-05-02'
+- type: repealed_by
+  target: pt:dre:401960:por
+  label: "Revogado o presente diploma, com a redacção que lhe foi dada pelo Dec Lei 208/93 de 16-Jun, pelo DEC LEI.147/96.1996.08.28.MQE,\
+    \ DR.IS-A [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1996-401960
+  date: '1996-08-28'
 article_structure:
   article_count: 36
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:54Z'
   warnings: []
   errors: []
 ---
@@ -635,16 +707,16 @@ O património dos serviços extintos, incluindo activos e passivos e, bem assim,
 
 Visto e aprovado em Conselho de Ministros de 8 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 8 de Fevereiro de 1991.**
+Promulgado em 8 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Fevereiro de 1991.**
+Referendado em 13 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/042a00/08270835.pdf))](https://files.diariodarepublica.pt/1s/1991/02/042a00/08270835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/042a00/08270835.pdf)

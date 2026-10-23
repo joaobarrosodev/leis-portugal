@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/144a00/30253027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/1992/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1992-302737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8e163a38e6b196c44263d1383e940b481c1fc0381916c69c29e4ac8fe09fe6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b801df7233ec1bcff2bece0a38e4dd1cec21137e746271ced66617d05156789
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,107 @@ subjects:
 - ADSE
 - Assistência Medicamentosa
 - Comparticipação do Estado
-- Serviço Nacional de Saúde
 - Medicamento
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:227779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:481731:por
+  label: "Alterado o art. 6.º, pelo DEC LEI.249/2003.11.10.2003.MS, DR.IS-A [236] de 11.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2003-481731
+  date: '1992-06-25'
+- type: amended_by
+  target: pt:dre:235927:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 6º, 7º e 9º pelo DEC LEI.305/98.1998.10.07.MS, DR.IS-A [231]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1998-235927
+  date: '1998-10-07'
+- type: amended_by
+  target: pt:dre:580872:por
+  label: "Alterados os arts. 2º, 3º, 4º, 6º e 7º, na redacção do Dec Lei 305/98 de 07-Out, pelo DEC LEI.205/2000.2000.09.01.MS,\
+    \ DR.IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2000-580872
+  date: '2000-09-01'
+- type: amended_by
+  target: pt:dre:441099:por
+  label: "Alterado o art. 6º (na redacção do Dec Lei 305/98 de 07-Out e do Dec Lei 205/2000 de 01-Set) e aditados os arts.\
+    \ 9º-A e 9º-B, pelo DEC LEI.270/2002.2002.12.02.MS, DR.IS-A [278]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-2002-441099
+  date: '2002-12-02'
+- type: amended_by
+  target: pt:dre:218536:por
+  label: "Alterado o art. 9.º (na redacção do Dec Lei 305/98, de 07-Out) e os arts. 9.º-A e 9.º-B (na redacção do Dec Lei\
+    \ 270/2002, de 02-Dez) do presente diploma, pelo DEC LEI.81/2004.10.04.2004.MS, DR.IS-A [85] de 10.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2004-218536
+  date: '2004-04-10'
+- type: amended_by
+  target: pt:dre:223427:por
+  label: "Alterado o art. 2º do presente diploma, com a redacção dos Dec Lei 305/98 de 07-Out e 205/2000 de 01-Set, pelo DEC\
+    \ LEI.90/2004.20.04.2004.MS, DR.IS-A [93] de 20.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2004-223427
+  date: '2004-04-20'
+- type: amended_by
+  target: pt:dre:241811:por
+  label: "Alterados os arts. 2.º e 3.º (com a redacção dos Dec Leis 305/98, de 07-Out, 205/2000, de 01-Set e 90/2004, de 20-Abr),\
+    \ e republicado em anexo na versão actual, pelo DEC LEI.129/2005.11.08.2005.MS, DR.IS-A [154] de 11.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2005-241811
+  date: '2005-08-11'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 2º do presente diploma, na redacção dos Dec Lei 305/98 de 07-Out, 205/2000 de 01-Set, 90/2004 de\
+    \ 20-Abr e 129/2005 de 11-Ago, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:518420:por
+  label: "Alterado o art. 6º (na redacção dos Dec Lei 305/98, de 07-Out, 205/2000, de 01-Set, 270/2002, de 02-Dez e 249/2003,\
+    \ de 11-Out), pelo DEC LEI.65/2007.14.03.2007.MS, DR.IS [52] de 14.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2007-518420
+  date: '2007-03-14'
+- type: amended_by
+  target: pt:dre:494187:por
+  label: "Dada nova redacção ao art. 3º deste diploma, com a redacção que lhe foi sucessivamente introduzida pelos Dec Lei\
+    \ 305/98 de 07-Out, 205/2000 de 01-Set e 129/2005 de 11-Ago, pelo DEC LEI.129/2009.29.05.2009.MS, DR.IS [104] de 29.05.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2009-494187
+  date: '2009-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
+- type: cites
+  target: pt:dre:373609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575745:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227779:por
+  label: "Revogado, a partir de 01.06.2010, pelo DEC LEI.48-A/2010.13.05.2010.MS, DR.IS [93-Supl] de 13.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-a-2010-227779
+  date: '2010-05-13'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:55Z'
   warnings: []
   errors: []
 ---
@@ -215,12 +295,12 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 10 de Junho de 1992.**
+Promulgado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1992.**
+Referendado em 15 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

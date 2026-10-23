@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/1991/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1991-498333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d8fe5c35f378b396ba55c1273694fc4fc7a7b82d97d8b1179cd23984ee283d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41a0fbd8210728906821059b162190d687200a290885282b31f33a5439c1e835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Reforma Aduaneira
 - Regulamento
 - Regulamento das Alfândegas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:52Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +100,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 13.º, 54.º e 691.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Artigo único. Os artigos 13.º, 54.º e 691.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 a) Tratando-se de embarcações de arqueação inferior a 750 tAB e procedentes de portos nacionais, certificado comprovativo de que a embarcação saiu em lastro, designando a sua quantidade e qualidade, ou sem carga de qualquer natureza;
 
@@ -112,9 +116,9 @@ b) Manifesto negativo, nos demais casos.
 
 § 4.º ...
 
-###### Art. 54.º Se a embarcação se destina a portos continentais ou das regiões autónomas, serão os exemplares das declarações ou os documentos que as substituem, depois de feitas as necessárias conferências, numerados e rubricados, juntos a um despacho geral e sobrescritados aos chefes das estâncias aduaneiras do destino, sendo deles portador o capitão ou mestre da embarcação, podendo, em casos devidamente justificados e assim reconhecidos pela Alfândega, utilizar-se a via postal para a sua remessa.
+Art. 54.º Se a embarcação se destina a portos continentais ou das regiões autónomas, serão os exemplares das declarações ou os documentos que as substituem, depois de feitas as necessárias conferências, numerados e rubricados, juntos a um despacho geral e sobrescritados aos chefes das estâncias aduaneiras do destino, sendo deles portador o capitão ou mestre da embarcação, podendo, em casos devidamente justificados e assim reconhecidos pela Alfândega, utilizar-se a via postal para a sua remessa.
 
-###### Art. 691.º ...
+Art. 691.º ...
 
 § 1.º ...
 
@@ -136,12 +140,12 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Janeiro de 1991.**
+Referendado em 7 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

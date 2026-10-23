@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/215a00/49284929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/346/1991/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1991-301416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd38f2bc45a8315df649bf72245ac96f09e45604cf7334f51ad856646d4baec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7131e02f37afaafd3c550f4da74ed1dbab0c44d845bd2d97f59aee5c99cb68b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral dos Serviços Prisionais
 - Carreira Profissional
+- Direcção Geral dos Serviços Prisionais
 - Ministério da Justiça
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574931:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1171382774:por
+  label: Revogado, a partir de 21 de setembro de 2026, com efeitos a 1 de julho de 2025, pelo(a) Decreto-Lei n.º 187/2026
+    - Diário da República n.º 180/2026, Série I de 2026-09-16 nos termos da alínea b) do artigo 27.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2026-1171382774
+  date: '2026-09-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:47Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +119,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada na Direcção-Geral dos Serviços Prisionais, do Ministério da Justiça, a carreira técnica superior de reeducação.
+Artigo 1.º - 1 - É criada na Direcção-Geral dos Serviços Prisionais, do Ministério da Justiça, a carreira técnica superior de reeducação.
 
 2 - A carreira técnica superior de reeducação integra-se no grupo de pessoal técnico superior, para todos os efeitos legais, e tem o conteúdo funcional constante do mapa I anexo ao presente diploma e que dele faz parte integrante.
 
 3 - Os técnicos superiores de reeducação são recrutados nos termos previstos na lei geral para o pessoal técnico superior de entre indivíduos habilitados com licenciatura adequada ou habilitação equiparada.
 
-###### Art. 2.º - 1 - Os técnicos de educação pertencentes aos quadros de pessoal da Direcção-Geral dos Serviços Prisionais e possuidores de habilitação com o grau de licenciatura ou equiparada a este, nos termos da [Portaria n.º 1144/90](https://diariodarepublica.pt/dr/detalhe/portaria/1144-1990-564625), de 20 de Novembro, transitam para a nova carreira, de acordo com as seguintes regras:
+Art. 2.º - 1 - Os técnicos de educação pertencentes aos quadros de pessoal da Direcção-Geral dos Serviços Prisionais e possuidores de habilitação com o grau de licenciatura ou equiparada a este, nos termos da [Portaria n.º 1144/90](https://diariodarepublica.pt/dr/detalhe/portaria/1144-1990-564625), de 20 de Novembro, transitam para a nova carreira, de acordo com as seguintes regras:
 
 a) Os técnicos especialistas principais, técnicos especialistas e técnicos principais são integrados nos escalões 6, 4 e 1 da categoria de técnico superior principal;
 
@@ -129,9 +147,9 @@ d) Na categoria que possuíam na carreira técnica de educação na data em que 
 
 4 - Os técnicos de educação admitidos a concursos de acesso abertos antes da entrada em vigor do presente diploma mas promovidos apenas em data posterior transitam para a nova carreira, observado o disposto nos n.os 1 e 2, e para categoria correspondente desta carreira, de acordo com as regras definidas nos mesmos números, com efeitos à data da promoção.
 
-###### Art. 3.º São extintos, desde já, os lugares de técnico de educação que vagarem por motivo de transição dos respectivos titulares para a carreira de técnico superior de reeducação, extinguindo-se os restantes lugares que se encontrem providos à medida que vagarem.
+Art. 3.º São extintos, desde já, os lugares de técnico de educação que vagarem por motivo de transição dos respectivos titulares para a carreira de técnico superior de reeducação, extinguindo-se os restantes lugares que se encontrem providos à medida que vagarem.
 
-###### Art. 4.º - 1 - São aplicáveis aos técnicos superiores de reeducação, sem prejuízo do disposto no presente diploma, as regras relativas à abertura de concursos de acesso para assessor e à progressão nas categorias de integração previstas no diploma que cria a carreira técnica superior de serviço social.
+Art. 4.º - 1 - São aplicáveis aos técnicos superiores de reeducação, sem prejuízo do disposto no presente diploma, as regras relativas à abertura de concursos de acesso para assessor e à progressão nas categorias de integração previstas no diploma que cria a carreira técnica superior de serviço social.
 
 2 - Os técnicos de educação portadores da habilitação a que se refere o n.º 1 do artigo 2.º que tenham sido providos em lugares da carreira técnica superior ao abrigo do sistema de intercomunicabilidade vertical previsto no artigo 17.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e exerçam funções que se integrem no conteúdo funcional constante do mapa I anexo ao presente diploma transitam para a carreira de técnico superior de reeducação:
 
@@ -139,23 +157,23 @@ a) Na categoria que resultar da aplicação do regime previsto no n.º 1 do arti
 
 b) Em categoria e escalão idênticos aos que possuam na carreira técnica superior, se daí resultar tratamento mais benéfico que o decorrente da aplicação da alínea a).
 
-###### Art. 5.º Os quadros do pessoal técnico superior de reeducação da Direcção-Geral dos Serviços Prisionais são os que constam do mapa II anexo ao presente diploma.
+Art. 5.º Os quadros do pessoal técnico superior de reeducação da Direcção-Geral dos Serviços Prisionais são os que constam do mapa II anexo ao presente diploma.
 
-###### Art. 6.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
-###### Art. 7.º Os encargos decorrentes do presente diploma são suportados pelo Gabinete de Gestão Financeira na parte em que excederem as dotações orçamentais respectivas.
+Art. 7.º Os encargos decorrentes do presente diploma são suportados pelo Gabinete de Gestão Financeira na parte em que excederem as dotações orçamentais respectivas.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -191,4 +209,4 @@ MAPA II
 
 Quadro a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/215a00/49284929.pdf))](https://files.diariodarepublica.pt/1s/1991/09/215a00/49284929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/215a00/49284929.pdf)

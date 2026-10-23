@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/374/1991/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1991-287978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 687cc79b153bf4c52d089c21fc61706299fabb1395ae539646671e9bbf77cacb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e30bed37361c777e641912b426a7b21d6ef6586cad095864abf04536de30ac2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Superior Politécnico
-- Instituto Nacional de Formação Turística
 - Escola Superior de Hotelaria e Turismo do Estoril
+- Instituto Nacional de Formação Turística
 relationships:
 - type: amended_by
   target: pt:dre:1148792658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério da Ciência, Inovação e Ensino Superior da Escola Superior de Hotelaria\
+    \ e Turismo do Estoril (integrada no agora extinto Ministério da Economia), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:1148792658:por
+  label: Integrada a Escola Superior de Hotelaria e Turismo do Estoril, criada pelo Decreto-Lei n.º 374/91, de 8 de outubro,
+    sucedendo à Universidade Nova, pelo presente diploma, pelo(a) Decreto-Lei n.º 146/2026 - Diário da República n.º 137/2026,
+    Série I de 2026-07-17, nos termos do seu artigo 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2026-1148792658
+  date: '2026-07-16'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:22Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +195,12 @@ Os encargos com a instalação e funcionamento da Escola Superior de Hotelaria e
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Alberto José Nunes Correia Ralha - Alfredo César Torres.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

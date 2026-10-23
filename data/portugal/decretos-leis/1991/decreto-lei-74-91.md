@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/1991/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1991-478447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d36a2432115051b15261753d82a29fa7fb35e88915abe4731046486efb8e9377
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da62b7cda85a2c2f50fd059896a9b312df135758674906774f459ed2b5545146
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Educação dos Adultos
-- Política de Educação
 - Ensino Básico
+- Política de Educação
 relationships:
 - type: amended_by
   target: pt:dre:218759:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogado, de acordo com o calendário de produção de efeitos fixado no art. 18.º e no que se refere ao Ensino Secundário,\
+    \ o art. 4.º, o n.º 2 do art. 8.º e o art. 10.º, pelo DEC LEI.74/2004.26.03.2004.ME, DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
 article_structure:
   article_count: 29
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:43Z'
   warnings: []
   errors: []
 ---
@@ -397,12 +415,12 @@ A prossecução do objectivo prioritário de elevar o nível educativo da popula
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 1990. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

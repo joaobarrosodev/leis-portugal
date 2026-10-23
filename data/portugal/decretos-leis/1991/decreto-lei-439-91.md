@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/439/1991/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1991-316730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a38841e01029fac8ea41500ddeddb9c2254dcc1ece41d7afb5b49e58a075dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad3b2a2d0d7fc74bee33d0dc34e03bbc4206a6d5a1a1398cfc12ab307d37faee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Industrial
 - Apoio ao Investimento
+- Desenvolvimento Industrial
 - Modernização Industrial
-- Regulamento
 - Pedip
+- Regulamento
 - Sistema de Incentivos Financeiros Pedip-sinpedip
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:274272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:44Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 33.º do [Decreto-Lei n.º 483-D/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-d-1988-274274), de 28 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 33.º do [Decreto-Lei n.º 483-D/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-d-1988-274274), de 28 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 33.º — [...]
 
@@ -105,12 +117,12 @@ Em situações excepcionais, justificadas por razões de ordem orçamental, e me
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Filipe Alves Monteiro - José Albino da Silva Peneda.
 
-**Promulgado em 29 de Outubro de 1991.**
+Promulgado em 29 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1991.**
+Referendado em 5 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

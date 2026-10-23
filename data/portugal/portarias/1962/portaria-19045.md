@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19045-1962-517775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14e4d93dc3c1a6d28e0532745981bd28316554d61cb629180d46b0f5bac03671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f699886a1749cd75d2702ddff74bf034c4b2c663674972a0d378fa971ddf0d31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Assistência
+- Direcção Geral dos Hospitais
+- Gratificação
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:294365:por
+  label: "Substituído o mapa II anexo ao presente diploma pelo DESP.DD4404.02.06.1965.MF, DG.IS [123] de 02.06.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1965-294365
+  date: '1965-06-02'
+- type: cites
+  target: pt:dre:173122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:54Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +112,7 @@ I
 
 Quadro do pessoal da Direcção-Geral da Assistência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/04100/01670168.pdf))](https://files.diariodarepublica.pt/1s/1962/02/04100/01670168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/04100/01670168.pdf)
 
 Notas
 
@@ -103,7 +124,7 @@ II
 
 Quadro do pessoal da Direcção-Geral dos Hospitais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/04100/01670168.pdf))](https://files.diariodarepublica.pt/1s/1962/02/04100/01670168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/04100/01670168.pdf)
 
 Observação. - Estes quadros substituem o mapa VI anexo ao [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, com as alterações introduzidas pelo [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1992-274440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 863eda7d8c4a4f22f222a4e4959d4bae2a6021e5a3ad1e07e8f5eef8ac00721d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b63dd42ece7f687dcf39c44d6f1d2937a2eec2e3e549ddc808f20908d63f753
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,62 @@ reuse:
 subjects:
 - Enfermagem
 - Ensino Superior Politécnico
+- Equivalência de Diplomas
 - Escola Superior de Enfermagem
 - Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico
 - Pessoal Docente
-- Equivalência de Diplomas
 relationships:
 - type: amended_by
   target: pt:dre:321294:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257601:por
+  label: "Aditado um nº 12 ao art. 8º pela LEI.15/93.1993.06.03.AR, DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-1993-257601
+  date: '1993-06-03'
+- type: amended_by
+  target: pt:dre:512829:por
+  label: "Alterado o art. 6º pelo DEC LEI.88/95.1995.05.05.MS, DR.IS-A [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1995-512829
+  date: '1995-05-05'
+- type: amended_by
+  target: pt:dre:534797:por
+  label: "Prorrogado o prazo, até 31-Jul de 1996, previsto no nº 6 do art. 8.º pelo DEC LEI.25/96.1996.03.20.MS DR.IS-A [68],\
+    \ alterado pela Lei 15/93 de 03-Jun e pelo Dec Lei 88/85 de 05-Mai\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1996-534797
+  date: '1996-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/1991/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/38/1991/01/18/p/dre
+- type: cites
+  target: pt:dre:146916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:340874:por
+  label: "Rectificado pela DECL-RECT.168/92.21.10.1992.SG-PCM, DR.IS-A [252]2ºSupl de 31.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/168-1992-340874
+  date: '1992-10-21'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:00Z'
   warnings: []
   errors: []
 ---
@@ -270,12 +303,12 @@ No tocante à matéria com incidência remuneratória, o presente diploma produz
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

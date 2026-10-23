@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/232a00/52265227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/376/1991/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1991-288233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 717a0414ae412d24e9967751a705296cf53a06e8109beceec5a99b0a61e60e28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e751c3d237a7fdb524df6aafd2d9e558f9c3a6f9217fae8079440349064923e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto sobre Produtos Petrolíferos
-- Produto Petrolífero
 - Combustível
 - Contribuições e Impostos
+- Imposto sobre Produtos Petrolíferos
 - Preço
 - Preço de Venda
+- Produto Petrolífero
 - Regime Fiscal
 - Subsídio de Gasóleo
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/516/1991/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/516/1991/06/07/p/dre
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687018:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:22Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +143,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 50/91](https://diariodarepublica.pt/dr/detalhe/lei/50-1991-687018), de 3 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 7.º e 17.º do [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), de 25 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º e 17.º do [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), de 25 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — Taxas
 
@@ -161,18 +183,18 @@ No uso da autorização legislativa concedida pela [Lei n.º 50/91](https://diar
 
 2 - Constituem ainda contra-ordenação, prevista e punida nos termos do artigo 35.º do Regime referido no número anterior, as falsas indicações relativas à área regada e ao tipo e classes de máquinas referidas no n.º 14 do artigo 7.º, bem como a violação dos limites nele fixados.
 
-###### Art. 2.º O gasóleo adquirido por cada utilizador, até ao dia 31 de Dezembro de 1991, em aplicação do sistema referido nos n.os 13 e 14 do artigo 7.º do [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), de 25 de Julho, na redacção que lhe foi dada pelo presente diploma, será integralmente deduzido às quantidades de consumos que resultaram da aplicação a cada utilizador dos n.os 2.º e 3.º da [Portaria n.º 516/91](https://diariodarepublica.pt/dr/detalhe/portaria/516-1991-658241), de 7 de Junho, para efeitos do pagamento do subsídio previsto naquela portaria.
+Art. 2.º O gasóleo adquirido por cada utilizador, até ao dia 31 de Dezembro de 1991, em aplicação do sistema referido nos n.os 13 e 14 do artigo 7.º do [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), de 25 de Julho, na redacção que lhe foi dada pelo presente diploma, será integralmente deduzido às quantidades de consumos que resultaram da aplicação a cada utilizador dos n.os 2.º e 3.º da [Portaria n.º 516/91](https://diariodarepublica.pt/dr/detalhe/portaria/516-1991-658241), de 7 de Junho, para efeitos do pagamento do subsídio previsto naquela portaria.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - Arlindo Marques da Cunha.
 
-**Promulgado em 19 de Setembro de 1991.**
+Promulgado em 19 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

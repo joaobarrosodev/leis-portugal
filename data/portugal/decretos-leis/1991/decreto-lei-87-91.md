@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/045a00/09210921.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/1991/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1991-485451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 587191f36601308490b1d0eb18c5199ef9070c04637cc88be0e08ee01c3ccd87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8edb1caab1af674365d18e24ceb9fea2e93f7b1848a4cd2aeb072bd5cbc0096d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Leite
+- Comércio
 - Etiquetagem
 - Lacticínios
-- Comércio
+- Leite
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443153:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o Dec Lei 205/87, de 16-Mai, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:59Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +119,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 205/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1987-421452), de 16 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 1.º do [Decreto-Lei n.º 205/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1987-421452), de 16 de Maio, passa a ter a seguinte redacção:
 
-###### Artigo 1.º As regras que disciplinam a produção, o fabrico, a composição e a comercialização do leite e dos produtos lácteos serão estabelecidas através de portarias conjuntas dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+Artigo 1.º As regras que disciplinam a produção, o fabrico, a composição e a comercialização do leite e dos produtos lácteos serão estabelecidas através de portarias conjuntas dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-###### Art. 2.º - 1 - São revogados o [Decreto do Governo n.º 83/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/83-1983-443153), de 9 de Dezembro, e o [Decreto-Lei n.º 261/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1986-220111), de 1 de Setembro.
+Art. 2.º - 1 - São revogados o [Decreto do Governo n.º 83/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/83-1983-443153), de 9 de Dezembro, e o [Decreto-Lei n.º 261/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1986-220111), de 1 de Setembro.
 
 2 - As revogações referidas no número anterior produzem efeitos a partir da entrada em vigor das portarias previstas no artigo anterior sobre iogurtes e sobre leites total ou parcialmente desidratados.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1991. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Fevereiro de 1991.**
+Promulgado em 6 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Fevereiro de 1991.**
+Referendado em 8 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/343/1991/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3409cbc26610f4306c291a8fa9e65baf600ebde885b93da8999baef81de9b9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de797d6c10a72de87be1c9e9b0c5c2619050f448cc3546d850018b85cb8c45bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Estatuto
+- Função Pública
 - Montepio dos Servidores do Estado
 - Pensão de Sobrevivência
 relationships:
@@ -75,20 +75,55 @@ relationships:
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123930786:por
+  label: Alterado, a partir de 18.08.2019 e com efeitos a 01.10.2019, o art. 42.º, na redacção do presente diploma do Estatuto
+    das Pensões de Sobrevivência, aprovado pelo Dec Lei 142/73 de 31-mar, pelo(a) Decreto-Lei n.º 108/2019 - Diário da República
+    n.º 154/2019, Série I de 2019-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2019-123930786
+  date: '2019-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/54/1991/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/54/1991/01/19/p/dre
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:42Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +154,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea e) do n.º 4 do artigo 18.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 42.º, 44.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º, 67.º e 68.º do [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 191-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), de 25 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 42.º, 44.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º, 67.º e 68.º do [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 191-B/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), de 25 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — Contribuinte do regime do [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997)
 
@@ -193,7 +228,7 @@ Os herdeiros hábeis referidos no artigo 64.º têm direito a atribuição de um
 
 Os contribuintes que se encontrem na situação de licença ilimitada, licença de longa duração, inactividade ou situação equiparada ficam abrangidos pelo disposto no presente capítulo, sendo-lhes, porém, suspensa a sua inscrição nos termos do artigo 13.º
 
-###### Art. 2.º - 1 - As pensões concedidas ao abrigo do [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, e respectiva legislação complementar, serão recalculadas de acordo com o disposto nos números seguintes.
+Art. 2.º - 1 - As pensões concedidas ao abrigo do [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, e respectiva legislação complementar, serão recalculadas de acordo com o disposto nos números seguintes.
 
 2 - Nos casos em que o contribuinte tenha falecido depois de 1 de Setembro de 1981, na situação de aposentado ou de reformado, e com a respectiva pensão calculada com base nas remunerações postas em vigor depois daquela data, ou na situação de activo, a pensão é igual a metade da pensão de aposentação ou de reforma que o mesmo se encontrasse a perceber à data da sua morte ou a que teria direito se na mesma data fosse aposentado ou reformado.
 
@@ -203,24 +238,24 @@ Os contribuintes que se encontrem na situação de licença ilimitada, licença 
 
 5 - A pensão a que se referem os números anteriores será calculada de acordo com a fórmula estabelecida no n.º 1 do artigo 53.º do Estatuto da Aposentação e com base no tempo de inscrição no Montepio dos Servidores do Estado.
 
-###### Art. 3.º - 1 - As pensões, uma vez calculadas de harmonia com o disposto no artigo anterior, beneficiam das actualizações genericamente estabelecidas para as pensões de sobrevivência desde a data do óbito do contribuinte ou desde 1 de Setembro de 1981, consoante se trate de pensões abrangidas pelo n.º 2 ou pelo n.º 3 do mesmo artigo, sendo o respectivo montante distribuído nos termos estabelecidos no artigo 65.º do Estatuto das Pensões de Sobrevivência.
+Art. 3.º - 1 - As pensões, uma vez calculadas de harmonia com o disposto no artigo anterior, beneficiam das actualizações genericamente estabelecidas para as pensões de sobrevivência desde a data do óbito do contribuinte ou desde 1 de Setembro de 1981, consoante se trate de pensões abrangidas pelo n.º 2 ou pelo n.º 3 do mesmo artigo, sendo o respectivo montante distribuído nos termos estabelecidos no artigo 65.º do Estatuto das Pensões de Sobrevivência.
 
 2 - Nos casos em que o resultado obtido seja de valor inferior ao da pensão que se encontra a ser abonada, a mesma não sofrerá qualquer redução.
 
-###### Art. 4.º Os pensionistas do regime do [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, que usufruam de outra pensão de sobrevivência paga pelo Montepio dos Servidores do Estado, relativamente ao mesmo contribuinte, não beneficiam do disposto nos artigos anteriores, salvo se optarem pela forma de actualização estabelecida nos mesmos artigos, prescindindo da outra pensão.
+Art. 4.º Os pensionistas do regime do [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, que usufruam de outra pensão de sobrevivência paga pelo Montepio dos Servidores do Estado, relativamente ao mesmo contribuinte, não beneficiam do disposto nos artigos anteriores, salvo se optarem pela forma de actualização estabelecida nos mesmos artigos, prescindindo da outra pensão.
 
-###### Art. 5.º São revogados os [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, e respectiva legislação complementar, e o n.º 2 do artigo 9.º do Estatuto das Pensões de Sobrevivência.
+Art. 5.º São revogados os [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, e respectiva legislação complementar, e o n.º 2 do artigo 9.º do Estatuto das Pensões de Sobrevivência.
 
-###### Art. 6.º O presente diploma reporta os seus efeitos a 1 de Setembro de 1991.
+Art. 6.º O presente diploma reporta os seus efeitos a 1 de Setembro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

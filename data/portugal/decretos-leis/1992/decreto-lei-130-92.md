@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/153a00/31983200.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/1992/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1992-288221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96a6861fdb3eb5a7c62c822046d32f04525932addf7ebf2c28cfed4c40aa718b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9829cb689f0ca3c977e1234291006db29b6efc7ff0aab24b968305484286445
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,26 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Indústria Electrotécnica
-- Segurança Pública
 - Normas de Segurança
 - Proteção do Consumidor
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:279778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518657:por
+  label: "Alterados os artigos 1.º, 4.º, 7.º, 10.º, 11.º e aditados os artigos 4.º-A e 4.º-B, pelo DEC LEI.139/95.14.06.1995.MIE,\
+    \ DR.IS-A [136] de 14.06.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterados os arts. 4º-B e 10º, com a redacção dada pelo Dec Lei 139/95 de 14-Jun, pelo DEC LEI.374/98.1998.11.24.MECO\
+    \ DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -84,16 +96,22 @@ relationships:
   target: celex:31990L0396
   label: null
   source: http://data.europa.eu/eli/dir/1990/396/oj
+- type: repealed_by
+  target: pt:dre:279778:por
+  label: "Revogado, a partir de 16.03.2011, o presente diploma, na redacção do Dec Lei 139/95, de 14-Jun e do Dec Lei 374/98,\
+    \ de 24-Nov, pelo DEC LEI.25/2011.14.02.2011.MEID, DR.IS [31] de 14.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2011-279778
+  date: '2011-02-14'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:15Z'
   warnings: []
   errors: []
 ---
@@ -222,12 +240,12 @@ São revogados o Decreto-Lei n.º 74/77, de 28 de Fevereiro, e o Decreto n.º 66
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 17 de Junho de 1992.**
+Promulgado em 17 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Junho de 1992.**
+Referendado em 19 de Junho de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

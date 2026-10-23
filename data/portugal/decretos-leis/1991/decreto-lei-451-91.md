@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
   number: '279'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6372-(2) a 6372-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/279a01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc72ac39742e759d9d38761e1f737bf3f002220590dd5122a5975aea44f76c88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6c3ff9c8c467bde5336c65dccdbd69c3995b0f2af2f08188ee263b4bc420df5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,7 +65,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Comissão Instaladora
 - Comissão Nacional do Termalismo
 - Comissão para o Estudo do Sistema Retributivo da Função Pública
@@ -77,10 +76,11 @@ subjects:
 - Criação de Serviços
 - Definição de Competências
 - Delegação de Competências
+- Direcção Geral da Administração Pública
 - Extinção de Serviços
+- Formação Profissional
 - Governo XII
 - Instituto Nacional das Empresas em Autogestão
-- Direcção Geral da Administração Pública
 - Orgânica
 - Presidência do Conselho de Ministros
 - Transferência de Serviços
@@ -89,16 +89,69 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500417:por
+  label: "Alterados os artigos 2.º, 4.º, 6.º, 8.º, 16.º e 26.º pelo DEC LEI.77/92.06.05.1992.PCM, DR.IS-A [104] de 06.05.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1992-500417
+  date: '1992-05-06'
+- type: amended_by
+  target: pt:dre:260589:por
+  label: "Alterado o artigo 20.º pelo DEC LEI.185/92.25.08.1992.PCM, DR.IS-A [195] de 25.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1992-260589
+  date: '1992-08-25'
+- type: amended_by
+  target: pt:dre:584782:por
+  label: "Alterados os artigos 11.º, 13.º, 16.º (o último artigo na redacção do Decreto-Lei n.º 77/92, de 6 de Maio), 22.º\
+    \ e extintos os cargos de Subsecretário de Estado Adjunto do Secretário de Estado da Cultura e de Secretário de Estado\
+    \ das Pescas, pelo DEC LEI.17/93.23.01.1993.PCM, DR.IS-A [19] de 23.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1993-584782
+  date: '1993-01-23'
+- type: amended_by
+  target: pt:dre:633963:por
+  label: "Alterado o artigo 21.º pelo DEC LEI.299/93.31.08.1993.PCM, DR.IS-A [204] de 31.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1993-633963
+  date: '1993-08-31'
+- type: amended_by
+  target: pt:dre:521447:por
+  label: "Alterados os art.s 4º (na redação do Dec Lei, de 06-maio, 7º, 10º, 14º, 16º (o último na redação do Dec Lei, de\
+    \ 06-maio, e Dec Lei 17/93, de 23-jan), 18º, 19º e 20º (o último na redação do Dec Lei 185/92, de 25-ago), pelo DEC LEI.33/94.1994.02.08.PCM,\
+    \ DR.IS-A [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-1994-521447
+  date: '1994-02-08'
+- type: amended_by
+  target: pt:dre:626218:por
+  label: "Alterados os art.s 10º e 16º (o último na redação do Dec Lei 77/92, de 06-maio, Dec Lei 17/93, de 23-jan, e Dec\
+    \ Lei 33/94, de 08-fev), pelo DEC LEI.258/94.1994.10.22.PCM, DR.IS-A [245]\05]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1994-626218
+  date: '1994-10-22'
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:58Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +172,9 @@ Nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seg
 
 ### CAPÍTULO I — Do Governo
 
-###### Artigo 1.º O Governo é constituído pelo Primeiro-Ministro, pelos ministros, pelos secretários de Estado e pelos subsecretários de Estado.
+Artigo 1.º O Governo é constituído pelo Primeiro-Ministro, pelos ministros, pelos secretários de Estado e pelos subsecretários de Estado.
 
-###### Art. 2.º Integram o Governo os seguintes ministros:
+Art. 2.º Integram o Governo os seguintes ministros:
 
 a) Ministro da Presidência;
 
@@ -157,7 +210,7 @@ q) Ministro do Ambiente e Recursos Naturais;
 
 r) Ministro do Mar.
 
-###### Art. 3.º - 1 - O Primeiro-Ministro possui competência própria e competência delegada, nos termos da lei.
+Art. 3.º - 1 - O Primeiro-Ministro possui competência própria e competência delegada, nos termos da lei.
 
 2 - O Primeiro-Ministro pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a competência relativa aos organismos e serviços dele dependentes.
 
@@ -167,7 +220,7 @@ r) Ministro do Mar.
 
 5 - O Primeiro-Ministro detém poderes de tutela, que pode delegar em qualquer membro do Governo, com faculdade de subdelegação, sobre a Radiodifusão Portuguesa, E. P., e a Radiotelevisão Portuguesa, E. P.
 
-###### Art. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência e do Ministro Adjunto e dos Assuntos Parlamentares e ainda os serviços e organismos nela integrados por diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
+Art. 4.º - 1 - A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro da Presidência e do Ministro Adjunto e dos Assuntos Parlamentares e ainda os serviços e organismos nela integrados por diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
 
 2 - A Presidência do Conselho de Ministros integra os seguintes secretários de Estado e subsecretários de Estado:
 
@@ -193,17 +246,17 @@ j) Subsecretário de Estado Adjunto do Secretário de Estado da Cultura.
 
 3 - O Centro de Estudos e Formação Autárquica, anteriormente integrado no Ministério do Planeamento e da Administração do Território, transita para a Presidência do Conselho de Ministros.
 
-###### Art. 5.º O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.
+Art. 5.º O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.
 
-###### Art. 6.º - 1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Art. 6.º - 1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros, pelo Subsecretário de Estado da Presidência do Conselho de Ministros e pelo Subsecretário de Estado Adjunto do Secretário de Estado da Presidência do Conselho de Ministros.
 
-###### Art. 7.º - 1 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa Nacional e pelo Secretário de Estado do Equipamento e Tecnologias de Defesa.
+Art. 7.º - 1 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa Nacional e pelo Secretário de Estado do Equipamento e Tecnologias de Defesa.
 
 2 - O sistema de autoridade marítima a que se refere o [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro, passa a depender directamente do Ministro da Defesa Nacional, que, sem prejuízo do disposto no n.º 1 do artigo 24.º, pode delegar no Chefe do Estado-Maior da Armada.
 
-###### Art. 8.º - 1 - Ao Ministro Adjunto e dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Art. 8.º - 1 - Ao Ministro Adjunto e dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos, exercendo ainda os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - O Ministro Adjunto e dos Assuntos Parlamentares é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Parlamentares e pelo Secretário de Estado da Juventude.
 
@@ -217,47 +270,47 @@ c) A Comissão Nacional para as Comemorações dos Descobrimentos Portugueses;
 
 d) O Comissariado de Portugal para a Exposição Universal de Sevilha de 1992.
 
-###### Art. 9.º - 1 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.
+Art. 9.º - 1 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.
 
 2 - A Guarda Fiscal depende do Ministro da Administração Interna, para efeitos da sua reestruturação, nos aspectos orgânico, administrativo e disciplinar.
 
 3 - A Direcção-Geral de Viação, anteriormente integrada no Ministério das Obras Públicas, Transportes e Comunicações, fica integrada no Ministério da Administração Interna.
 
-###### Art. 10.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Orçamento, pelo Secretário de Estado das Finanças, pelo Secretário de Estado do Tesouro e pelo Subsecretário de Estado Adjunto do Secretário de Estado Adjunto e do Orçamento.
+Art. 10.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Orçamento, pelo Secretário de Estado das Finanças, pelo Secretário de Estado do Tesouro e pelo Subsecretário de Estado Adjunto do Secretário de Estado Adjunto e do Orçamento.
 
 2 - A Guarda Fiscal depende do Ministro das Finanças, no âmbito da actividade de prevenção, descoberta e repressão das infracções fiscais aduaneiras.
 
-###### Art. 11.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e do Ordenamento do Território, pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional e pelo Secretário de Estado da Ciência e Tecnologia.
+Art. 11.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e do Ordenamento do Território, pelo Secretário de Estado do Planeamento e do Desenvolvimento Regional e pelo Secretário de Estado da Ciência e Tecnologia.
 
 2 - A Academia das Ciências transita da dependência da Presidência do Conselho de Ministros para o Ministério do Planeamento e da Administração do Território.
 
 3 - O Instituto Nacional de Investigação Científica transita para o Ministério do Planeamento e da Administração do Território, que articulará com o Ministério da Educação, de quem aquele Instituto anteriormente dependia, a sua extinção.
 
-###### Art. 12.º O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Justiça e pelo Secretário de Estado da Justiça.
+Art. 12.º O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Justiça e pelo Secretário de Estado da Justiça.
 
-###### Art. 13.º O Ministro dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado da Integração Europeia, pelo Secretário de Estado das Comunidades Portuguesas e pelo Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
+Art. 13.º O Ministro dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado da Integração Europeia, pelo Secretário de Estado das Comunidades Portuguesas e pelo Subsecretário de Estado Adjunto do Ministro dos Negócios Estrangeiros.
 
-###### Art. 14.º O Ministro da Agricultura é coadjuvado no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar e pelo Subsecretário de Estado Adjunto do Ministro da Agricultura.
+Art. 14.º O Ministro da Agricultura é coadjuvado no exercício das suas funções pelo Secretário de Estado da Agricultura, pelo Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar e pelo Subsecretário de Estado Adjunto do Ministro da Agricultura.
 
-###### Art. 15.º O Ministro da Indústria e Energia é coadjuvado no exercício das suas funções pelo Secretário de Estado da Indústria e pelo Secretário de Estado da Energia.
+Art. 15.º O Ministro da Indústria e Energia é coadjuvado no exercício das suas funções pelo Secretário de Estado da Indústria e pelo Secretário de Estado da Energia.
 
-###### Art. 16.º - 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Educação, pelo Secretário de Estado do Sistema Educativo e pelo Secretário de Estado dos Recursos Educativos.
+Art. 16.º - 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Educação, pelo Secretário de Estado do Sistema Educativo e pelo Secretário de Estado dos Recursos Educativos.
 
 2 - A Escola Nacional de Saúde Pública, anteriormente dependente do Ministério da Saúde, transita para o Ministério da Educação.
 
-###### Art. 17.º O Ministro das Obras Públicas, Transportes e Comunicações é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Transportes, pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado da Habitação e pelo Secretário de Estado Adjunto do Ministro das Obras Públicas, Transportes e Comunicações.
+Art. 17.º O Ministro das Obras Públicas, Transportes e Comunicações é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Transportes, pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado da Habitação e pelo Secretário de Estado Adjunto do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 18.º - 1 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.
+Art. 18.º - 1 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Saúde e pelo Secretário de Estado da Saúde.
 
 2 - O Conselho de Prevenção do Tabagismo, anteriormente na dependência conjunta dos Ministros da Saúde e do Ambiente e Recursos Naturais, passa a depender exclusivamente do Ministro da Saúde.
 
-###### Art. 19.º - 1 - O Ministro do Emprego e da Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social, pelo Secretário de Estado da Segurança Social e pelo Secretário de Estado do Emprego e Formação Profissional.
+Art. 19.º - 1 - O Ministro do Emprego e da Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social, pelo Secretário de Estado da Segurança Social e pelo Secretário de Estado do Emprego e Formação Profissional.
 
 2 - A Comissão para a Igualdade e para os Direitos das Mulheres transita da Presidência do Conselho de Ministros para o Ministério do Emprego e da Segurança Social.
 
-###### Art. 20.º O Ministro do Comércio e Turismo é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Comércio Externo, pelo Secretário de Estado do Comércio Interno e pelo Secretário de Estado do Turismo.
+Art. 20.º O Ministro do Comércio e Turismo é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Comércio Externo, pelo Secretário de Estado do Comércio Interno e pelo Secretário de Estado do Turismo.
 
-###### Art. 21.º - 1 - O Ministro do Ambiente e Recursos Naturais é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Ambiente e Recursos Naturais e pelo Secretário de Estado dos Recursos Naturais.
+Art. 21.º - 1 - O Ministro do Ambiente e Recursos Naturais é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Ambiente e Recursos Naturais e pelo Secretário de Estado dos Recursos Naturais.
 
 2 - A Comissão e as competências relativas à Reserva Ecológica Nacional transitam do Ministério do Planeamento e da Administração do Território para o Ministério do Ambiente e Recursos Naturais.
 
@@ -265,9 +318,9 @@ d) O Comissariado de Portugal para a Exposição Universal de Sevilha de 1992.
 
 4 - As competências e o pessoal da Divisão do Domínio Público e Concessões que sejam necessários à prossecução da política de valorização e defesa do litoral transitam do Ministério das Obras Públicas, Transportes e Comunicações para o Ministério do Ambiente e Recursos Naturais.
 
-###### Art. 22.º O Ministro do Mar é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Mar e pelo Secretário de Estado das Pescas.
+Art. 22.º O Ministro do Mar é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Mar e pelo Secretário de Estado das Pescas.
 
-###### Art. 23.º - 1 - É criado o Ministério do Mar.
+Art. 23.º - 1 - É criado o Ministério do Mar.
 
 2 - Transitam para o Ministério do Mar os seguintes serviços e organismos, anteriormente integrados ou dependentes do Ministério das Obras Públicas, Transportes e Comunicações:
 
@@ -315,13 +368,13 @@ g) Direcção de Serviços de Apoio Técnico-Administrativo.
 
 5 - As referências feitas ao Ministro da Agricultura, Pescas e Alimentação ou ao membro do Governo responsável pelas pescas na legislação referente à DOCAPESCA, Portos e Lotas, S. A., Companhias Reunidas de Congelados e Bacalhau, S. A., e Sociedade Nacional dos Armadores de Bacalhau, S. A., entendem-se feitas ao Ministro do Mar.
 
-###### Art. 24.º - 1 - Os secretários de Estado não dispõem de competência própria, exercendo, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro respectivo, com possibilidade de conferir poderes de subdelegação.
+Art. 24.º - 1 - Os secretários de Estado não dispõem de competência própria, exercendo, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro respectivo, com possibilidade de conferir poderes de subdelegação.
 
 2 - Os subsecretários de Estado não dispõem de competência própria, exercendo, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro ou subdelegada pelo secretário de Estado respectivo, com possibilidade de conferir poderes de subdelegação.
 
 ### CAPÍTULO II — Do Conselho de Ministros
 
-###### Art. 25.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.
+Art. 25.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.
 
@@ -329,7 +382,7 @@ g) Direcção de Serviços de Apoio Técnico-Administrativo.
 
 4 - Podem também participar nas reuniões do Conselho de Ministros, igualmente sem direito a voto, os secretários de Estado e os subsecretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
-###### Art. 26.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro Adjunto e dos Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo, o Ministro do Ambiente e Recursos Naturais e o Ministro do Mar.
+Art. 26.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, o Ministro da Presidência, o Ministro Adjunto e dos Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, o Ministro da Indústria e Energia, o Ministro das Obras Públicas, Transportes e Comunicações, o Ministro do Emprego e da Segurança Social, o Ministro do Comércio e Turismo, o Ministro do Ambiente e Recursos Naturais e o Ministro do Mar.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.
 
@@ -345,7 +398,7 @@ c) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos 
 
 d) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do Conselho de Ministros.
 
-###### Art. 27.º - 1 - É criado o Conselho de Ministros para os Assuntos Comunitários, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros, pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e pelo membro do Governo que tenha a seu cargo a integração europeia.
+Art. 27.º - 1 - É criado o Conselho de Ministros para os Assuntos Comunitários, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros, pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e pelo membro do Governo que tenha a seu cargo a integração europeia.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.
 
@@ -365,7 +418,7 @@ e) Discutir todas as matérias que lhe sejam submetidas pelo Primeiro-Ministro.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 28.º - 1 - A estrutura orgânica constante do [Decreto-Lei n.º 329/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1987-598109), de 23 de Setembro, com as respectivas alterações, é substituída pela estabelecida no presente diploma.
+Art. 28.º - 1 - A estrutura orgânica constante do [Decreto-Lei n.º 329/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1987-598109), de 23 de Setembro, com as respectivas alterações, é substituída pela estabelecida no presente diploma.
 
 2 - Todos os serviços que são transferidos ou cujo enquadramento ministerial é alterado mantêm a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela.
 
@@ -373,7 +426,7 @@ e) Discutir todas as matérias que lhe sejam submetidas pelo Primeiro-Ministro.
 
 4 - A Secretaria-Geral e a Auditoria Jurídica existentes no âmbito do Ministério da Agricultura asseguram, transitoriamente, até à entrada em vigor dos diplomas que estabelecerão a estrutura orgânica do Ministério do Mar, o respectivo apoio técnico-administrativo, ficando, durante esse período, na dependência conjunta dos respectivos Ministros.
 
-###### Art. 29.º - 1 - São extintos os seguintes organismos, anteriormente dependentes da Presidência do Conselho de Ministros:
+Art. 29.º - 1 - São extintos os seguintes organismos, anteriormente dependentes da Presidência do Conselho de Ministros:
 
 a) Comissão interministerial para o estudo de criação de uma estrutura nacional de prevenção da criminalidade;
 
@@ -397,13 +450,13 @@ g) Conselho Superior para os Assuntos de Regionalização.
 
 5 - São extintas as atribuições actualmente cometidas à Direcção-Geral da Administração Pública na área da formação e aperfeiçoamento profissional, devendo o departamento previsto na alínea f) do n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, e os respectivos recursos ser transferidos para a Presidência do Conselho de Ministros.
 
-###### Art. 30.º As alterações na estrutura orgânica são acompanhadas pelo consequente movimento do pessoal, sem dependência de qualquer formalidade e sem que daí resulte perda de direitos adquiridos.
+Art. 30.º As alterações na estrutura orgânica são acompanhadas pelo consequente movimento do pessoal, sem dependência de qualquer formalidade e sem que daí resulte perda de direitos adquiridos.
 
-###### Art. 31.º Os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que os substituem, sem dependência de qualquer formalidade.
+Art. 31.º Os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que os substituem, sem dependência de qualquer formalidade.
 
-###### Art. 32.º Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro das Finanças.
+Art. 32.º Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro das Finanças.
 
-###### Art. 33.º - 1 - Até à aprovação do Orçamento do Estado para 1992 mantém-se a expressão orçamental da estrutura governativa anterior, com as adaptações decorrentes do estabelecido nos números seguintes.
+Art. 33.º - 1 - Até à aprovação do Orçamento do Estado para 1992 mantém-se a expressão orçamental da estrutura governativa anterior, com as adaptações decorrentes do estabelecido nos números seguintes.
 
 2 - Os encargos com os gabinetes dos membros do Governo criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos correspondentes gabinetes extintos ou integrados noutros departamentos.
 
@@ -411,16 +464,16 @@ g) Conselho Superior para os Assuntos de Regionalização.
 
 4 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das verbas que lhes estão afectas.
 
-###### Art. 34.º O presente diploma produz efeitos reportados a 31 de Outubro de 1991.
+Art. 34.º O presente diploma produz efeitos reportados a 31 de Outubro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - António Fernando Couto dos Santos - Manuel Dias Loureiro - Jorge Braga de Macedo - José Manuel Nunes Liberato - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Diamantino Freitas Gomes Durão - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 29 de Novembro de 1991.**
+Promulgado em 29 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Dezembro de 1991.**
+Referendado em 3 de Dezembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

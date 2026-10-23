@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/249a00/55545556.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/421/1991/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1991-343891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb0a1795e6dbbce20595777ed42bc203e9d368b8d6e6599812052b5d900f5be6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 459dbfe7d0d0184e36535c9f1e28c4c8127c97699e22ec295c46f3ec744f9209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
 - Carreira Profissional
+- Polícia Judiciária
 - Política Salarial
 - Promoção Profissional
-- Polícia Judiciária
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:18Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +133,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Desde 1 de Julho de 1990 ficam descongelados os dois escalões seguintes ao escalão de integração dos funcionários da Polícia Judiciária, realizada pela entrada em vigor do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro.
+Artigo 1.º - 1 - Desde 1 de Julho de 1990 ficam descongelados os dois escalões seguintes ao escalão de integração dos funcionários da Polícia Judiciária, realizada pela entrada em vigor do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro.
 
 2 - A progressão nos escalões descongelados ao abrigo do número anterior faz-se de acordo com as seguintes regras:
 
@@ -120,11 +149,11 @@ b) Subida de dois escalões quando a antiguidade no nível seja igual ou superio
 
 4 - A progressão a que se refere o número anterior fica condicionada à posse de um número de anos de serviço no actual nível não inferior ao que seria necessário, por acumulação dos módulos de tempo previstos no artigo 83.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, para posicionamento no escalão desbloqueado.
 
-###### Art. 2.º - 1 - Os funcionários que no período de 1 de Outubro a 31 de Dezembro de 1989 adquirissem o direito a uma diuturnidade de acordo com as regras do regime salarial anterior e que, em consequência, viessem a auferir um vencimento superior ao que resultou da sua integração no novo sistema retributivo subirão um escalão reportado à data em que completariam aquela diuturnidade.
+Art. 2.º - 1 - Os funcionários que no período de 1 de Outubro a 31 de Dezembro de 1989 adquirissem o direito a uma diuturnidade de acordo com as regras do regime salarial anterior e que, em consequência, viessem a auferir um vencimento superior ao que resultou da sua integração no novo sistema retributivo subirão um escalão reportado à data em que completariam aquela diuturnidade.
 
 2 - O escalão 0 vigora até 31 de Dezembro de 1990 e é equivalente, no seu período de vigência, para todos os efeitos legais, com excepção dos retributivos, ao escalão 1 das respectivas categorias.
 
-###### Art. 3.º - 1 - As normas de transição de pessoal previstas no n.º 3 do artigo 161.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, aplicam-se aos funcionários titulares em 1 de Outubro de 1989 das categorias funcionais e das diuturnidades em seguida indicadas, de acordo com as regras seguintes:
+Art. 3.º - 1 - As normas de transição de pessoal previstas no n.º 3 do artigo 161.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, aplicam-se aos funcionários titulares em 1 de Outubro de 1989 das categorias funcionais e das diuturnidades em seguida indicadas, de acordo com as regras seguintes:
 
 a) Transitam para especialista auxiliar de polícia, nível 0, escalão 1, os técnicos auxiliares de 2.ª classe com três diuturnidades e para o escalão 2 do mesmo nível os funcionários de igual categoria com quatro e cinco diuturnidades;
 
@@ -138,25 +167,25 @@ c) Transitam para segurança de nível 1, escalão 1, os funcionários que à da
 
 4 - A transição dos desenhadores do quadro de pessoal da Polícia Judiciária para o sistema de carreiras definido pelo [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, realiza-se nos moldes previstos no artigo 161.º e mapas anexos àquele diploma e de acordo com a reclassificação operada pelo artigo 37.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 4.º - 1 - Os especialistas auxiliares que vêm desempenhando, em exclusividade, funções efectivas de operação de sistema antes da publicação do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, transitam para o nível 2, escalão 1, da categoria de especialista-adjunto.
+Art. 4.º - 1 - Os especialistas auxiliares que vêm desempenhando, em exclusividade, funções efectivas de operação de sistema antes da publicação do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, transitam para o nível 2, escalão 1, da categoria de especialista-adjunto.
 
 2 - Os especialistas auxiliares que vêm desempenhando, em exclusividade, funções efectivas de operações de sistema e que têm formação adequada àquelas funções transitam para o nível 1, escalão 1, da categoria de especialista-adjunto.
 
 3 - A categoria de especialista-adjunto é a categoria de ingresso e de progressão dos funcionários que venham a desempenhar na Polícia Judiciária as funções de operação de sistema.
 
-###### Art. 5.º - 1 - Quando o funcionário reúna na mesma data os requisitos de progressão e de promoção, a integração no escalão é considerada previamente à mudança de nível.
+Art. 5.º - 1 - Quando o funcionário reúna na mesma data os requisitos de progressão e de promoção, a integração no escalão é considerada previamente à mudança de nível.
 
 2 - Os funcionários e agentes promovidos após 1 de Outubro de 1989 serão integrados em escalão do novo nível a que corresponda um índice de valor não inferior a 10 pontos relativamente àquele a que teriam direito pela progressão no nível anterior, por força do disposto na lei para a 1.ª e 2.ª fases do processo de descongelamento de escalões, com efeitos reportados à data em que teriam adquirido aquele direito.
 
 3 - Para os efeitos do n.º 4 do artigo 20.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, serão publicitadas as listas dos funcionários que, em 30 de Junho de 1990 e nos meses subsequentes, satisfaçam os requisitos necessários à integração nos escalões descongelados.
 
-###### Art. 6.º - 1 - O director-geral e os directores-gerais-adjuntos são apoiados por funcionários, no máximo de dois, designados por despacho do director-geral, para o exercício da função de secretariado, nos termos do artigo 35.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 6.º - 1 - O director-geral e os directores-gerais-adjuntos são apoiados por funcionários, no máximo de dois, designados por despacho do director-geral, para o exercício da função de secretariado, nos termos do artigo 35.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
 2 - Aos funcionários em exercício de funções de secretariado designados ao abrigo do número anterior é abonado o suplemento fixado nos termos da lei geral.
 
 3 - A nomeação em comissão de serviço como chefia determina a perda do suplemento referido no número anterior.
 
-###### Art. 7.º - 1 - O Ministro da Justiça pode, dentro da contingentação estabelecida em despacho conjunto com o Ministro das Finanças, nomear em comissão de serviço, por três anos, prorrogáveis, oficiais de ligação de entre funcionários de investigação criminal da Polícia Judiciária para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos assumidos no âmbito da cooperação internacional.
+Art. 7.º - 1 - O Ministro da Justiça pode, dentro da contingentação estabelecida em despacho conjunto com o Ministro das Finanças, nomear em comissão de serviço, por três anos, prorrogáveis, oficiais de ligação de entre funcionários de investigação criminal da Polícia Judiciária para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos assumidos no âmbito da cooperação internacional.
 
 2 - A nomeação dos oficiais de ligação entende-se feita por urgente conveniência de serviço, salvo se o contrário for expressamente declarado.
 
@@ -168,26 +197,26 @@ c) Transitam para segurança de nível 1, escalão 1, os funcionários que à da
 
 6 - Os encargos com a assistência médica e medicamentosa dos oficiais de ligação em serviço no estrangeiro, bem como dos familiares beneficiários dos Serviços Sociais do Ministério da Justiça, são comparticipados por estes Serviços, de acordo com os limites a fixar em despacho do Ministro da Justiça.
 
-###### Art. 8.º Aos funcionários requisitados, nomeados em comissão de serviço ou transferidos para desempenhar funções na Polícia Judiciária aplica-se o disposto nos n.os 3 e 4 do artigo 161.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, sendo remunerados ou integrados no nível e escalão a que corresponde idêntica remuneração base ou imediatamente superior, no caso de não haver coincidência, sem prejuízo da opção a que se refere o artigo 98.º daquele diploma.
+Art. 8.º Aos funcionários requisitados, nomeados em comissão de serviço ou transferidos para desempenhar funções na Polícia Judiciária aplica-se o disposto nos n.os 3 e 4 do artigo 161.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, sendo remunerados ou integrados no nível e escalão a que corresponde idêntica remuneração base ou imediatamente superior, no caso de não haver coincidência, sem prejuízo da opção a que se refere o artigo 98.º daquele diploma.
 
-###### Art. 9.º - 1 - Podem, a título excepcional, ser chamados a desempenhar funções na Polícia Judiciária, excluídas as de direcção ou de chefia, em regime eventual, indivíduos aposentados, reformados ou na situação de reserva, sendo-lhes, nesse caso, atribuída uma remuneração a fixar nos termos da lei geral.
+Art. 9.º - 1 - Podem, a título excepcional, ser chamados a desempenhar funções na Polícia Judiciária, excluídas as de direcção ou de chefia, em regime eventual, indivíduos aposentados, reformados ou na situação de reserva, sendo-lhes, nesse caso, atribuída uma remuneração a fixar nos termos da lei geral.
 
 2 - Os indivíduos em exercício de funções nos termos do número anterior têm direito aos suplementos previstos nos artigos 13.º e 99.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro.
 
-###### Art. 10.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos, na medida em que se excederem as disponibilidades das correspondentes dotações inscritas no Orçamento do Estado, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 10.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos, na medida em que se excederem as disponibilidades das correspondentes dotações inscritas no Orçamento do Estado, pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-###### Art. 11.º A legislação ainda não publicada ao abrigo do artigo 181.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, será aprovada no prazo de 120 dias.
+Art. 11.º A legislação ainda não publicada ao abrigo do artigo 181.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, será aprovada no prazo de 120 dias.
 
-###### Art. 12.º O disposto nos n.os 1, 3 e 4 do artigo 3.º e no n.º 2 do artigo 6.º produz efeitos desde a entrada em vigor do novo sistema retributivo da função pública.
+Art. 12.º O disposto nos n.os 1, 3 e 4 do artigo 3.º e no n.º 2 do artigo 6.º produz efeitos desde a entrada em vigor do novo sistema retributivo da função pública.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 15 de Outubro de 1991.**
+Promulgado em 15 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

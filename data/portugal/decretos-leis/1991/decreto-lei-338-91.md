@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/208a00/47844786.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/338/1991/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1991-303777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68a39eb9a95c9f1ed568ade239d6612ef8709e5d3197cc2d39bf9c08ea4ec380
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae35b232adada66b96d15ce83f4ade9e6f2043d0be36413e5393656f0e0811d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - EDP
-- Energia Hidroelétrica
 - Energia
+- Energia Hidroelétrica
 - Produção de Energia Elétrica
 - Rede Nacional de Transporte de Energia Elétrica
 relationships:
@@ -75,16 +75,39 @@ relationships:
   target: pt:dre:307673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:227831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:353945:por
+  label: "Revogado, com a conclusão do processo de cessação antecipada dos CAE, nomeadamente dos centros produtores hidroeléctricos,\
+    \ pelo DEC LEI.240/2004.27.12.2004.MAET, DR.IS-A [301] de 27.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2004-353945
+  date: '2004-12-27'
+- type: repealed_by
+  target: pt:dre:307673:por
+  label: "Revogado pelo DEC LEI.110/2010.14.10.2010.MEID, DR.IS [200] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2010-307673
+  date: '2010-10-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:37Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +136,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As entidades integradas no Sistema Eléctrico de Abastecimento Público (SEP) cujas contas venham a ser consideradas significativamente afectadas pela variabilidade hidroeléctrica apresentarão contas de resultados líquidos corrigidas para a média das condições hidrológicas e balanços que reflictam os saldos resultantes da correcção de hidraulicidade.
+Artigo 1.º - 1 - As entidades integradas no Sistema Eléctrico de Abastecimento Público (SEP) cujas contas venham a ser consideradas significativamente afectadas pela variabilidade hidroeléctrica apresentarão contas de resultados líquidos corrigidas para a média das condições hidrológicas e balanços que reflictam os saldos resultantes da correcção de hidraulicidade.
 
 2 - Os critérios a adoptar para efeitos do disposto no número anterior serão estabelecidos por portaria conjunta dos Ministros das Finanças e da Indústria e Energia, a aprovar apenas aquando da existência de mais de uma entidade integrada no SEP.
 
 3 - A gestão do mecanismo de correcção de hidraulicidade instituído pelo presente diploma competirá à entidade concessionária da Rede Nacional de Transporte de Energia Eléctrica (RNT).
 
-###### Art. 2.º - 1 - O valor anual da correcção de hidraulicidade, constituído por custos ou proveitos, engloba:
+Art. 2.º - 1 - O valor anual da correcção de hidraulicidade, constituído por custos ou proveitos, engloba:
 
 a) O diferencial entre o custo económico de produção de energia eléctrica e o custo económico de referência;
 
@@ -131,7 +154,7 @@ c) Uma parcela, que constituirá um proveito ou encargo, correspondente ao monta
 
 3 - O nível de referência mencionado no número anterior deverá ser suficiente para cobrir, dentro das limitações do referido preço máximo, os custos adicionais correspondentes à ocorrência de situações hidrologicamente desfavoráveis, cuja garantia de cobertura corresponderá à implicitamente contida na da sucessão mais gravosa de regimes secos ocorrida nos últimos 30 anos.
 
-###### Art. 3.º - 1 - Os critérios para o cálculo da correcção de hidraulicidade são os seguintes:
+Art. 3.º - 1 - Os critérios para o cálculo da correcção de hidraulicidade são os seguintes:
 
 a) O custo económico da produção de energia eléctrica num dado ano, compreendendo os custos variáveis de produção e os custos de importação e aquisição de energia eléctrica, é determinado simulando a exploração do sistema electroprodutor para as afluências reais, o nível de enchimento inicial das albufeiras verificado e as taxas consideradas normais de disponibilidade do equipamento;
 
@@ -151,15 +174,15 @@ c) Com a entrada em exploração de novos aproveitamentos hidroeléctricos, o ri
 
 3 - O valor inicial e as revisões do nível de referência do saldo da conta de correcção de hidraulicidade, os reforços do saldo e as respectivas fontes de financiamento específico, a definição do combustível ou fonte marginal de produção, na qual se inclui a importação de energia eléctrica, e o correspondente preço máximo de referência, bem como o valor anual de correcção de hidraulicidade, são aprovados por despacho do Ministro da Indústria e Energia, sob proposta da entidade concessionária da RNT.
 
-###### Art. 4.º - 1 - O diferencial, os encargos financeiros e a parcela constante da alínea c) do n.º 1 do artigo 2.º serão contabilizados, respectivamente, em subcontas das contas 61, 68 e 69 ou 79 do Plano Oficial de Contabilidade - POC.
+Art. 4.º - 1 - O diferencial, os encargos financeiros e a parcela constante da alínea c) do n.º 1 do artigo 2.º serão contabilizados, respectivamente, em subcontas das contas 61, 68 e 69 ou 79 do Plano Oficial de Contabilidade - POC.
 
 2 - O saldo do balanço, reflectindo os saldos acumulados de correcção de hidraulicidade, será registado em subconta da conta 27 do POC.
 
 3 - Os movimentos verificados nas contas referidas nos n.os 1 e 2 deste artigo serão explicitados anualmente no anexo ao balanço e demonstração de resultados.
 
-###### Art. 5.º As disposições deste diploma serão aplicadas aquando da apresentação das contas do exercício relativas ao ano de 1991 e seguintes pelas entidades sujeitas à variabilidade hidroeléctrica, conforme o disposto nos n.os 1 e 2 do artigo 1.º
+Art. 5.º As disposições deste diploma serão aplicadas aquando da apresentação das contas do exercício relativas ao ano de 1991 e seguintes pelas entidades sujeitas à variabilidade hidroeléctrica, conforme o disposto nos n.os 1 e 2 do artigo 1.º
 
-###### Art. 6.º - 1 - Ficam revogadas as disposições do [Decreto-Lei n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1989-609330), de 19 de Janeiro, exceptuada a do n.º 3 do seu artigo 3.º
+Art. 6.º - 1 - Ficam revogadas as disposições do [Decreto-Lei n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1989-609330), de 19 de Janeiro, exceptuada a do n.º 3 do seu artigo 3.º
 
 2 - O saldo negativo da correcção de hidraulicidade, registado no final do ano 2000, na respectiva subconta da conta 27 do POC, será excepcionalmente levado a custos desse exercício.
 
@@ -167,12 +190,12 @@ c) Com a entrada em exploração de novos aproveitamentos hidroeléctricos, o ri
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - Luís Fernando Mira Amaral.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Agosto de 1991.**
+Referendado em 30 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

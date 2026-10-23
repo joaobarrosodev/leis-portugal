@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/045a00/09180919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/1991/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1991-485446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c757c9e006ba60e12c8f2a64301cb5d0f1f7d4ede8b9673bf995a8d3c45b2ff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddb3a5fb41539aad95dd44ee88bd87b154fecea42f8161d4830349e86efaf99c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Guarda Fiscal
-- Sistema Retributivo
 - GNR
+- Guarda Fiscal
 - Progressão na Carreira
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:643283:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:334626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:643283:por
+  label: "Revogado pelo DEC LEI.504/99.1999.11.20.MAI DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/504-1999-643283
+  date: '1999-11-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:58Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +116,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelos Decretos-Leis n.os [184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807) e [59/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626), de 2 de Junho e 14 de Fevereiro, respectivamente, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma estabelece o número de anos de serviço para integração nos escalões desbloqueados ao abrigo da alínea a) do n.º 2 do artigo 26.º do [Decreto-Lei n.º 59/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626), de 14 de Fevereiro.
+Artigo 1.º - 1 - O presente diploma estabelece o número de anos de serviço para integração nos escalões desbloqueados ao abrigo da alínea a) do n.º 2 do artigo 26.º do [Decreto-Lei n.º 59/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626), de 14 de Fevereiro.
 
 2 - Não é contável para efeitos do disposto no número anterior o tempo em que o militar tenha permanecido fora da efectividade do serviço.
 
-###### Art. 2.º - 1 - Desde 1 de Julho de 1990 ficam desbloqueados os dois escalões seguintes ao escalão de integração de cada militar da Guarda Nacional Republicana e da Guarda Fiscal.
+Art. 2.º - 1 - Desde 1 de Julho de 1990 ficam desbloqueados os dois escalões seguintes ao escalão de integração de cada militar da Guarda Nacional Republicana e da Guarda Fiscal.
 
 2 - Sem prejuízo do disposto no artigo seguinte, a progressão nos escalões desbloqueados obedece às seguintes regras:
 
@@ -115,36 +128,36 @@ a) Progride um escalão o pessoal que possua entre cinco e nove anos de permanê
 
 b) Progride dois escalões o pessoal que possua nove ou mais anos de permanência no posto.
 
-###### Art. 3.º - 1 - Os sargentos-ajudantes, primeiros-sargentos, segundos-sargentos e cabos-chefes progridem de acordo com o estabelecido no mapa anexo a este diploma e que dele faz parte integrante, se melhor posicionamento não lhes couber pelas regras definidas no artigo anterior.
+Art. 3.º - 1 - Os sargentos-ajudantes, primeiros-sargentos, segundos-sargentos e cabos-chefes progridem de acordo com o estabelecido no mapa anexo a este diploma e que dele faz parte integrante, se melhor posicionamento não lhes couber pelas regras definidas no artigo anterior.
 
 2 - A progressão para o terceiro escalão e seguintes de cada posto fica ainda condicionada à posse de antiguidade na carreira não inferior ao mínimo resultante da acumulação dos módulos de tempo necessários para o posicionamento no escalão desbloqueado por aplicação das regras definidas no n.º 2 do artigo 17.º do [Decreto-Lei n.º 59/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626), de 14 de Fevereiro, contando-se para o efeito todo o tempo de serviço prestado após o ingresso no quadro.
 
-###### Art. 4.º - 1 - O militar que, no período de 1 de Outubro a 31 de Dezembro de 1989, adquirisse o direito a uma diuturnidade, de acordo com as regras do regime remuneratório anterior, e que, em consequência, viesse a auferir um vencimento superior ao que resultou da sua integração no novo sistema retributivo, avança um escalão, com efeitos reportados à data em que completaria aquela diuturnidade.
+Art. 4.º - 1 - O militar que, no período de 1 de Outubro a 31 de Dezembro de 1989, adquirisse o direito a uma diuturnidade, de acordo com as regras do regime remuneratório anterior, e que, em consequência, viesse a auferir um vencimento superior ao que resultou da sua integração no novo sistema retributivo, avança um escalão, com efeitos reportados à data em que completaria aquela diuturnidade.
 
 2 - Durante o período de tempo a que se reporta o condicionamento de escalões, as situações que ponham em causa o equilíbrio e a equidade internos da estrutura de carreiras e do sistema retributivo definido pelo [Decreto-Lei n.º 59/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626), de 14 de Fevereiro, serão corrigidas de acordo com normas técnicas a definir em diploma próprio.
 
-###### Art. 5.º A progressão nos escalões a que haja direito por aplicação das normas transitórias estabelecidas nos artigos anteriores não pode exceder, em caso algum, o número de escalões desbloqueados pelo presente diploma.
+Art. 5.º A progressão nos escalões a que haja direito por aplicação das normas transitórias estabelecidas nos artigos anteriores não pode exceder, em caso algum, o número de escalões desbloqueados pelo presente diploma.
 
-###### Art. 6.º - 1 - O cálculo de tempo de permanência no posto para efeitos de progressão é referido a anos inteiros, seguidos ou interpolados.
+Art. 6.º - 1 - O cálculo de tempo de permanência no posto para efeitos de progressão é referido a anos inteiros, seguidos ou interpolados.
 
 2 - Compete aos comandos-gerais promover a elaboração e publicação das listas dos militares que, em 30 de Junho de 1990, e nos meses subsequentes, satisfaçam os requisitos necessários à integração nos escalões desbloqueados.
 
 3 - O direito à remuneração pelos novos escalões verifica-se no dia 1 do mês seguinte ao do preenchimento dos requisitos referidos no n.º 2, dependendo o processamento dos abonos da publicação prevista no mesmo número.
 
-###### Art. 7.º Sem prejuízo do disposto no artigo 4.º, o presente diploma produz efeitos desde 1 de Julho de 1990.
+Art. 7.º Sem prejuízo do disposto no artigo 4.º, o presente diploma produz efeitos desde 1 de Julho de 1990.
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira.
 
-**Promulgado em 6 de Fevereiro de 1991.**
+Promulgado em 6 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Fevereiro de 1991.**
+Referendado em 8 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o n.º 1 do artigo 3.º
+Anexo a que se refere o n.º 1 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/045a00/09180919.pdf))](https://files.diariodarepublica.pt/1s/1991/02/045a00/09180919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/045a00/09180919.pdf)

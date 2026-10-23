@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/033a00/07720773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/1992/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1435d86a79bc4a89e86d91d901fc430d6e7f71930d2af71c03c6a7ff6bfd7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a570ab5aaa1c31a6040deb37b896d4073c13d14ff452302a4c138ea5bb9e95cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
 - Alimento para Animais
+- Aproximação das Legislações
 - Comércio
 - Saúde Animal
 relationships:
@@ -83,16 +83,21 @@ relationships:
   target: celex:31987L0234
   label: null
   source: http://data.europa.eu/eli/dir/1987/234/oj
+- type: repealed_by
+  target: pt:dre:321692:por
+  label: "Revogado pelo DEC LEI.181/99.1999.05.22.MADRP DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1999-321692
+  date: '1999-05-22'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:45Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +168,7 @@ c) 60% para os cofres do Estado.
 
 ###### Artigo 6.º — Disposição transitória
 
-**O Ministro da Agricultura poderá, mediante portaria e enquanto não existir legislação específica regulamentando a comercialização de matérias-primas, fixar as designações comuns, descrições e características analíticas das matérias-primas mais utilizadas no fabrico de alimentos compostos para animais, bem como as tolerâncias admitidas para efeitos do controlo oficial.**
+O Ministro da Agricultura poderá, mediante portaria e enquanto não existir legislação específica regulamentando a comercialização de matérias-primas, fixar as designações comuns, descrições e características analíticas das matérias-primas mais utilizadas no fabrico de alimentos compostos para animais, bem como as tolerâncias admitidas para efeitos do controlo oficial.
 
 ###### Artigo 7.º — Competências da Administração Pública decorrentes da integração europeia
 
@@ -181,12 +186,12 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Álvaro dos Santos Amaro - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 21 de Janeiro de 1992.**
+Promulgado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Janeiro de 1992.**
+Referendado em 28 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

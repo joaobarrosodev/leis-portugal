@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/127a00/26662667.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1992/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1992-516773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31fea1c2dd254a546e36eefc3c8cf36ca6a3313ed93cdf38214307e8ad70bd03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba3617db2360c0b07ec0528023723960b26180e7ed88b32f47edfb5fd49b279
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,25 @@ relationships:
   target: celex:31975L0324
   label: null
   source: http://data.europa.eu/eli/dir/1975/324/oj
+- type: corrected_by
+  target: pt:dre:423396:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 137/92, PUBLICADA NO DR.IS-A, 200, SUPL, DE 920831.\0831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/137-1992-423396
+- type: repealed_by
+  target: pt:dre:335447:por
+  label: "Revogado, a partir de 14.06.2010, pelo DEC LEI.61/2010.09.06.2010.MEID, DR.IS [111] de 09.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2010-335447
+  date: '2010-06-09'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:40Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +136,7 @@ As normas técnicas relativas à resistência e estanquidade dos materiais e for
 
 a) O nome e endereço ou marca registada do responsável pela colocação da embalagem aerossol no mercado;
 
-b) O sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/127a00/26662667.pdf))](https://files.diariodarepublica.pt/1s/1992/06/127a00/26662667.pdf), símbolo da conformidade com as disposições a que se refere o artigo 2.º;
+b) O sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/127a00/26662667.pdf), símbolo da conformidade com as disposições a que se refere o artigo 2.º;
 
 c) A identificação do lote de produção respectivo;
 
@@ -177,12 +186,12 @@ Mediante despacho fundamentado do Ministro da Indústria e Energia, do qual deve
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

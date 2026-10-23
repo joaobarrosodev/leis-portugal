@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/238a00/53855386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/403/1991/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1991-289068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d499276b6f73cb3c78901286bec45ed5577cce2159b3ade1712cbc2e32c24a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 946fd1f7c93f6247f2de93f32387a20dcc013955105a6f9057fcfebbcbfc4c4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,20 +79,34 @@ relationships:
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691438:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:58Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +141,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 42/91](https://diariodarepublica.pt/dr/detalhe/lei/42-1991-691438), de 27 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 55.º do regime jurídico da cessação do contrato individual de trabalho e da celebração e caducidade do contrato de trabalho a termo, aprovado pelo [Decreto-Lei n.º 64-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-1989-621302), de 27 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 55.º do regime jurídico da cessação do contrato individual de trabalho e da celebração e caducidade do contrato de trabalho a termo, aprovado pelo [Decreto-Lei n.º 64-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-1989-621302), de 27 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 55.º — [...]
 
@@ -143,18 +157,18 @@ c) 240 dias para pessoal de direcção e quadros superiores.
 
 3 - A duração do período experimental referida no número anterior pode ser reduzida por convenção colectiva de trabalho ou contrato individual de trabalho.
 
-###### Art. 2.º - 1 - A redução do período experimental prevista no n.º 3 do artigo 55.º do regime jurídico referido no número anterior, na redacção que lhe é dada pelo presente diploma, só pode ser estabelecida por convenção colectiva de trabalho ou contrato individual de trabalho celebrados após a sua entrada em vigor.
+Art. 2.º - 1 - A redução do período experimental prevista no n.º 3 do artigo 55.º do regime jurídico referido no número anterior, na redacção que lhe é dada pelo presente diploma, só pode ser estabelecida por convenção colectiva de trabalho ou contrato individual de trabalho celebrados após a sua entrada em vigor.
 
 2 - O presente diploma só se aplica aos contratos de trabalho celebrados após a sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Joaquim Fernando Nogueira - Mário Fernando de Campos Pinto - Lino Dias Miguel - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Agosto de 1991.**
+Promulgado em 22 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Agosto de 1991.**
+Referendado em 29 de Agosto de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/1992/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1992-515600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce30279f688d2db824d2760d5d3901a9205cdf52d3ea6b74f2a92ff3e296f278
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1f74fae5b6febd41fc9894149f464b24a98d4e03ba71bc2087c71d4e64f70dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,30 @@ relationships:
   target: pt:dre:264702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:264702:por
+  label: "Prorrogado o prazo de exercício de funções da comissão liquidatária do centro coordenador do trabalho portuário\
+    \ de Lisboa pelo DEC LEI.104/94.1994.04.20.MM, DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1994-264702
+  date: '1994-04-20'
+- type: cites
+  target: pt:dre:332184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571408:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:19Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +114,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Centro Coordenador do Trabalho Portuário de Lisboa, abreviadamente designado por CCTPL, entra imediatamente em liquidação.
+Artigo 1.º O Centro Coordenador do Trabalho Portuário de Lisboa, abreviadamente designado por CCTPL, entra imediatamente em liquidação.
 
-###### Art. 2.º - 1 - A liquidação do CCTPL é efectuada por uma comissão liquidatária constituída por um presidente e dois vogais, a nomear por despacho do Ministro do Mar.
+Art. 2.º - 1 - A liquidação do CCTPL é efectuada por uma comissão liquidatária constituída por um presidente e dois vogais, a nomear por despacho do Ministro do Mar.
 
 2 - Um dos vogais será nomeado após indicação do Ministro das Finanças.
 
@@ -110,16 +124,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A comissão liquidatária do CCTPL cessa funções com a apresentação da conta final de liquidação, o que deverá ocorrer até 31 de Dezembro de 1992.
 
-###### Art. 3.º Incumbe à comissão liquidatária, para além das funções que legalmente lhe estão cometidas, assegurar transitoriamente a normal colocação da mão-de-obra e formalizar a transferência do equipamento, instalações e documentação para o Organismo de Gestão da Mão de Obra Portuária de Lisboa ou para as entidades que sucedam em atribuições complementares da actividade de gestão da mão-de-obra.
+Art. 3.º Incumbe à comissão liquidatária, para além das funções que legalmente lhe estão cometidas, assegurar transitoriamente a normal colocação da mão-de-obra e formalizar a transferência do equipamento, instalações e documentação para o Organismo de Gestão da Mão de Obra Portuária de Lisboa ou para as entidades que sucedam em atribuições complementares da actividade de gestão da mão-de-obra.
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

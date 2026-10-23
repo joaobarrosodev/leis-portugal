@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/1992/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1992-150511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a21c0ff58e11b0b92c52bd3e810264f0a861e1b4e78466dd1c3c0289f60ba677
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c84ee0a69123c8bbaa842e61fc6eb2099ab466170af468930ca0658b57762c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,13 @@ relationships:
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:652280:por
+  label: "Aditados os n.ºs 3 e 4 ao art. 2.º, os n.ºs 3 e 4 ao art. 9.º, e os n.ºs 1, 2 e 3 ao art. 11.º e substituído o anexo\
+    \ II do Dec Lei 333/87, de 01-Out DR.IS [226] na redacção do Dec Lei 186/93, de 22-Mai, pelo DEC LEI.170/2003.2003.08.01.MS\
+    \ DR.IS-A [176] e anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2003-652280
+  date: '2003-08-01'
 - type: cites
   target: celex:31980L0154
   label: null
@@ -88,16 +95,26 @@ relationships:
   target: celex:31989L0594
   label: null
   source: http://data.europa.eu/eli/dir/1989/594/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O SEGUNDO PARÁGRAFO DA ALÍNEA A) DO ANEXO II E ALTERADO O ARTIGO 3 DO DECRETO LEI 333/87, DE 871001, NA\
+    \ REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DECRETO LEI 186/93 PUBLICADO NO DR.IS-A, 119, DE 930522.\0, DE 930522.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:40Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +135,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Resolução da Assembleia da República n.º 22/85, de 18 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 3.º do Decreto-Lei n.º 333/87, de 1 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do Decreto-Lei n.º 333/87, de 1 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Direitos adquiridos
 
@@ -128,7 +145,7 @@ No desenvolvimento do regime jurídico estabelecido pela Resolução da Assemble
 
 3 - Quando os diplomas, certificados e outros títulos de parteira conferidos por Estados membros das Comunidades Europeias não correspondam às denominações constantes do anexo II ao presente decreto-lei, só poderão ser reconhecidos em Portugal, com os efeitos previstos no artigo 2.º, se forem acompanhados de certificado emitido pelas autoridades ou organismos competentes, atestando que esses diplomas, certificados ou outros títulos de parteira sancionam uma formação conforme às disposições da Directiva n.º [80/155/CEE](https://data.europa.eu/eli/dir/1980/155/oj?locale=pt) e que são equiparados pelo Estado membro que os emitiu àqueles cujas denominações figuram no anexo II ao presente decreto-lei.
 
-###### Art. 2.º Aos anexos I e II do Decreto-Lei n.º 333/87, de 1 de Outubro, são introduzidas as seguintes alterações:
+Art. 2.º Aos anexos I e II do Decreto-Lei n.º 333/87, de 1 de Outubro, são introduzidas as seguintes alterações:
 
 ## ANEXO I — [...]
 
@@ -150,7 +167,7 @@ Nos Países Baixos - ...
 
 No Reino Unido - ...
 
-Na Grécia - [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf))](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf);
+Na Grécia - [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf);
 
 Em Espanha - ...
 
@@ -182,15 +199,15 @@ i) No Reino Unido - um «statement of registration as a midwife» na parte 10 do
 
 j) Na Grécia:
 
-O [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf))](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf), autenticado pelo Ministério da Saúde e da Previdência;
+O [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf), autenticado pelo Ministério da Saúde e da Previdência;
 
-O [([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf))](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf), emitido quer pela Faculdade dos Quadros da Saúde e da Previdência Social, Secção de Obstetrícia, dos centros de ensino superior técnico e profissional, quer pelos estabelecimentos de ensino tecnológico e profissional do Ministério da Educação Nacional e dos Assuntos Religiosos;
+O [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/029a00/07130714.pdf), emitido quer pela Faculdade dos Quadros da Saúde e da Previdência Social, Secção de Obstetrícia, dos centros de ensino superior técnico e profissional, quer pelos estabelecimentos de ensino tecnológico e profissional do Ministério da Educação Nacional e dos Assuntos Religiosos;
 
 k) Em Espanha - o diploma de «matrona» ou «assistente obstétrico (matrona)» ou «enfermería obstétrica-ginecológica», emitido pelo Ministério da Educação e da Ciência;
 
 l) Em Portugal - ...
 
-###### Art. 3.º O artigo 1.º do Decreto-Lei n.º 322/87, de 28 de Agosto, passa a ter a seguinte redacção:
+Art. 3.º O artigo 1.º do Decreto-Lei n.º 322/87, de 28 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º
 
@@ -222,12 +239,12 @@ Iniciação à prestação de cuidados no campo da medicina e da cirurgia. A ini
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1991. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho.
 
-**Promulgado em 21 de Janeiro de 1992.**
+Promulgado em 21 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1992.**
+Referendado em 24 de Janeiro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

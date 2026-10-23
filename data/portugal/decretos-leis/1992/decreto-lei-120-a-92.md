@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 148/1992, 3º Suplemento, Série I-A de 1992-06-30
   number: '148'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3092-(10) a 3092-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/148a03/00100011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120-a/1992/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-1992-626432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6d0fe4bba5056be07325d6d275d6b3365581035aa833089b5641ab8da61157b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d0b232b82c14583df409a6166478016b901378e823b39cc57a54897180a446
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Ensino Secundário
 - Pessoal Docente
-- Ensino Básico
 - Promoção Profissional
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:509608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:00Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +180,12 @@ Os efeitos do acesso ao 8.º escalão da carreira docente a que se refere o ECD 
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1992. - Joaquim Fernando Nogueira - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 26 de Junho de 1992.**
+Promulgado em 26 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1992.**
+Referendado em 29 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19211-1962-164264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4283e00344769dddf0ce63c1a4b9844366ed176cc3b057fa410be600e98a8981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb7aca15ec035e6e79c83b7406c917f3aa08ead459dfd10b4bedbcee05857b03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:30Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +99,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Interior, nos termos 
 
 1.º O § 2.º do artigo 63.º e o § 1.º do artigo 64.º da [Portaria n.º 18836](https://diariodarepublica.pt/dr/detalhe/portaria/18836-1961-185340), de 24 de Novembro de 1961, passam a ter as seguintes redacções:
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 ...
 
 § 2.º O conselho administrativo e constituído pelo presidente, oficial do Comando-Geral ou dos Serviços Sociais, por um secretário, comissário ou chefe, e por um tesoureiro, graduado.
 
-###### Art. 64.º ...
+Art. 64.º ...
 
 § 1.º O pessoal auxiliar do Cofre destina-se à execução dos serviços de escrituração, expediente e outros.
 

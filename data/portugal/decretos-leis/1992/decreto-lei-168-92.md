@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/1992/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1992-283926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8e29f9c9c979a83707e8355500aef9f57f52927a6ec11ff2f87391f3805540b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd1b9be36c4786d8300c20cbb9db33d1f415f2de15a40c1b5bceb9d733bfc6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Propriedade do Estado
-- Política de Defesa
-- Hasta Pública
 - Forças Armadas
+- Hasta Pública
+- Política de Defesa
+- Propriedade do Estado
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 194/92, DA PCM, DE 921127, PUBLICADA NO DR.IS-A, 277, 2SUPL, DE 921130.\0\
+    \ 921130.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/419/1991/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/419/1991/10/29/p/dre
+- type: cites
+  target: pt:dre:228175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:04Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +126,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É autorizada a alienação em regime de basta pública, ou em regime de cessão a título definitivo e oneroso a pessoas colectivas de direito público ou a instituições particulares de interesse público, dos imóveis seguintes:
+Artigo 1.º É autorizada a alienação em regime de basta pública, ou em regime de cessão a título definitivo e oneroso a pessoas colectivas de direito público ou a instituições particulares de interesse público, dos imóveis seguintes:
 
 a) Parcela de terreno, com a área aproximada de 15670 m2, a destacar do PM 7/Vila Nova de Gaia, designado «Quartel da Serra do Pilar e Campo de Manobras», sita na freguesia de Santa Marinha, do município de Vila Nova de Gaia; confronta a norte com Manuel Guimarães Pestana e prédio do Estado, a sul com o PM 7/Vila Nova de Gaia e outro, a leste com linha férrea e PM 7/Vila Nova de Gaia e a oeste com a Rua de Rodrigues de Freitas;
 
@@ -157,26 +178,26 @@ x) PM 3/Funchal, designado «Forte de São Tiago», com a área aproximada de 57
 
 y) Guia», PM 40/Horta, designado «Posição do Monte da Guia», com a área aproximada de 22442 m2, situado na freguesia das Angústias, concelho da Horta, ilha do Faial, Açores, composto por três prédios distintos: o primeiro, designado «Posição de Artilharia», com a área aproximada de 21650 m2, inscrito a favor do Estado na matriz predial urbana da freguesia das Angústias, concelho da Horta, sob o artigo 829 e inscrito parcialmente a favor do Estado sob o n.º 12198, a fl. 87 v.º do livro G-14 da Conservatória do Registo Predial da Horta, confronta a norte com Maria Amélia Brás e João Rosa Serpa (herdeiros), a sul com Morgado José do Canto (herdeiros), a leste com Morgado José do Canto (herdeiros) e outros e a oeste com Morgado José do Canto (herdeiros) e Maria Amélia Brás; o segundo, designado «Edifício do Antigo Refeitório da Posição de Artilharia», com a área aproximada de 160 m2, a destacar do artigo 189 da matriz predial urbana da freguesia das Angústias, do concelho da Horta, confronta a norte com estrada, a sul com Ricardo Castro Neves, a leste com Ricardo Castro Neves e a oeste com Ricardo Castro Neves; o terceiro, designado «Ermida de Nossa Senhora da Guia», com a área aproximada de 632 m2, inscrito na matriz predial urbana da freguesia das Angústias sob o artigo 807, está descrito sob o n.º 20769, a fl. 198 do livro B-55, e inscrito a favor do Estado sob o n.º 13864, a fl. 187 v.º do livro G-16; confronta a norte com Ricardo Castro Neves, a sul com Ricardo Castro Neves, a leste com estrada e a oeste com Ricardo Castro Neves.
 
-###### Art. 2.º - 1 - São desafectados do domínio público e passam ao domínio privado do Estado os prédios identificados no artigo anterior que estejam integrados naquele domínio, os quais, enquanto não forem alienados, ficam afectos ao Ministério da Defesa Nacional.
+Art. 2.º - 1 - São desafectados do domínio público e passam ao domínio privado do Estado os prédios identificados no artigo anterior que estejam integrados naquele domínio, os quais, enquanto não forem alienados, ficam afectos ao Ministério da Defesa Nacional.
 
 2 - O presente diploma constitui documento bastante para o registo, a favor do Estado, na conservatória do registo predial respectiva, dos imóveis identificados no artigo anterior.
 
-###### Art. 3.º À alienação dos prédios mencionados nos artigos anteriores é aplicável o regime dos artigos 5.º, 6.º, 7.º e 10.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro.
+Art. 3.º À alienação dos prédios mencionados nos artigos anteriores é aplicável o regime dos artigos 5.º, 6.º, 7.º e 10.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro.
 
-###### Art. 4.º Na sequência da desafectação do domínio público militar de um conjunto de bens imóveis que estavam afectos ao extinto Comando Territorial Independente de Macau, nos termos do [Decreto n.º 892/76](https://diariodarepublica.pt/dr/detalhe/decreto/892-1976-416460), de 30 de Dezembro, é desafectado do domínio público militar e integrado no domínio privado do território de Macau o Quartel de Ká-Hó, também designado por Posto de Ká-Hó, sito em Coloane, Macau.
+Art. 4.º Na sequência da desafectação do domínio público militar de um conjunto de bens imóveis que estavam afectos ao extinto Comando Territorial Independente de Macau, nos termos do [Decreto n.º 892/76](https://diariodarepublica.pt/dr/detalhe/decreto/892-1976-416460), de 30 de Dezembro, é desafectado do domínio público militar e integrado no domínio privado do território de Macau o Quartel de Ká-Hó, também designado por Posto de Ká-Hó, sito em Coloane, Macau.
 
-###### Art. 5.º São revogados os Decretos n.os [59/70](https://diariodarepublica.pt/dr/detalhe/decreto/59-1970-228175), de 23 de Fevereiro, 41624, de 16 de Maio de 1958, [277/75](https://diariodarepublica.pt/dr/detalhe/decreto/277-1975-335908), de 5 de Junho, e 377/74, de 21 de Agosto, relativos às servidões militares, respectivamente, do PM 1/Santarém, Instalações Navais da Azinheira, e PMs 6 e 17/Évora, com efeitos reportados à data da alienação dos mesmos prédios.
+Art. 5.º São revogados os Decretos n.os [59/70](https://diariodarepublica.pt/dr/detalhe/decreto/59-1970-228175), de 23 de Fevereiro, 41624, de 16 de Maio de 1958, [277/75](https://diariodarepublica.pt/dr/detalhe/decreto/277-1975-335908), de 5 de Junho, e 377/74, de 21 de Agosto, relativos às servidões militares, respectivamente, do PM 1/Santarém, Instalações Navais da Azinheira, e PMs 6 e 17/Évora, com efeitos reportados à data da alienação dos mesmos prédios.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Para publicação no Boletim Oficial de Macau.

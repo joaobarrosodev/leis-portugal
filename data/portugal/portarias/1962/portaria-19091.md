@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19091-1962-516690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ebe3da8e9f8986cc733caf2adb9fbd938f016fd985b3351a7a7b2143794e581
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf63b560460798010546f99098a76d5239eeb5383391e1e095cd2264313eebc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:520198:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:54Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +111,7 @@ Curso de serviço social
 
 1.º ano
 
-# Parte teórica
+## Parte teórica
 
 I - Serviço social (cadeira):
 
@@ -145,7 +149,7 @@ VI - Teologia católica (curso).
 
 VII - Filosofia social (curso).
 
-# Parte prática
+## Parte prática
 
 I - Trabalhos práticos de:
 
@@ -159,7 +163,7 @@ III - Reuniões de coordenação e síntese.
 
 2.º ano
 
-# Parte teórica
+## Parte teórica
 
 I - Serviço social (cadeira):
 
@@ -181,13 +185,13 @@ VII - Teologia católica (curso).
 
 VIII - Psicopatologia (curso).
 
-# Parte prática
+## Parte prática
 
 I - Continuação do programa do 1.º ano, com exclusão das permanências, e estágio prolongado para o exercício do serviço social.
 
 3.º ano
 
-# Parte teórica
+## Parte teórica
 
 I - Serviço social. Continuação das matérias dadas nos anos anteriores, excepto a da alínea d) do 1.º ano (cadeira).
 
@@ -205,7 +209,7 @@ VII - Sociologia (curso).
 
 VIII - Higiene mental (curso).
 
-# Parte prática
+## Parte prática
 
 I - Trabalhos práticos de investigação em serviço social.
 
@@ -215,13 +219,13 @@ III - Reuniões de coordenação e síntese.
 
 4.º ano
 
-# Parte teórica
+## Parte teórica
 
 I - Seminário sobre os grandes problemas da cultura contemporânea.
 
 II - Seminário sobre actualização em serviço social.
 
-# Parte prática
+## Parte prática
 
 I - Estágio de sete meses para exercício profissional.
 
@@ -395,7 +399,7 @@ Curso de educadores de infância
 
 1.º ano
 
-# Parte geral
+## Parte geral
 
 I - Religião.
 
@@ -411,7 +415,7 @@ VI - Psicologia geral.
 
 VII - Formação ultramarina.
 
-# Parte especial
+## Parte especial
 
 I - Formação cristã da criança.
 
@@ -437,7 +441,7 @@ b) Uma semana completa e seguida em cada período escolar.
 
 2.º ano
 
-# Parte geral
+## Parte geral
 
 I - Religião.
 
@@ -445,7 +449,7 @@ II - Formação normal e cultural do educador.
 
 III - Filosofia do educador.
 
-# Parte especial
+## Parte especial
 
 I - Continuação das disciplinas indicadas nos n.os I, II, III, VI, VII e VIII do 1.º ano.
 
@@ -471,7 +475,7 @@ Curso de monitores de família
 
 1.º ano
 
-# Parte teórica
+## Parte teórica
 
 I - Formação familiar.
 
@@ -487,7 +491,7 @@ VI - Higiene pré-natal e individual.
 
 VII - Economia doméstica.
 
-# Parte prática
+## Parte prática
 
 I - Tecnologia de habitação.
 
@@ -505,7 +509,7 @@ VII - Horticultura, jardinagem, avicultura, prática e aperfeiçoamento pecuári
 
 2.º ano
 
-# Parte teórica
+## Parte teórica
 
 I - Formação social.
 
@@ -521,7 +525,7 @@ VI - Organização de tempos livres.
 
 VII - Economia e governo doméstico.
 
-# Parte prática
+## Parte prática
 
 I - Culinária.
 
@@ -533,7 +537,7 @@ Curso de monitores de infância
 
 1.º ano
 
-# Parte geral
+## Parte geral
 
 I - Religião.
 
@@ -555,7 +559,7 @@ b) Naturais;
 
 c) Físico-químicas.
 
-# Parte especial
+## Parte especial
 
 I - Formação moral e cultural.
 
@@ -591,7 +595,7 @@ Um dia por semana em lares, movimentos infantis e hospitais.
 
 2.º ano
 
-# Parte geral
+## Parte geral
 
 I - Religião.
 
@@ -599,7 +603,7 @@ II - Formação moral e cultural.
 
 III - Princípios de psicologia geral.
 
-# Parte especial
+## Parte especial
 
 I - Formação cristã.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/249a00/55515554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/420/1991/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1991-343890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89f90fa59c6a6d44dd7f8c3635459ddf78297ce98110f86696a7fd5953b2497a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c55bb2c1e6cccb28b18b1a1f9c3e3d704b672993c00cd2e548bff6ec02455b5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Pessoal Dirigente
-- Profissão Diplomática
-- Sistema Retributivo
 - Carreira Profissional
-- Pessoal Operário
+- Função Pública
 - Pessoal Administrativo
 - Pessoal de Inspecção
+- Pessoal Dirigente
+- Pessoal Operário
 - Pessoal Técnico Profissional
 - Política Salarial
+- Profissão Diplomática
 - Reestruturação de Carreiras
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:176767:por
+  label: "Rectificados o art. 3º (na parte em que altera os arts. 18º, 21º e 33º do Dec Lei 353-A/89, de 16-Out) e o art.\
+    \ 21º pela DECL-RECT.263/91.31.12.1991.SG-PCM, DR.IS-A [301-4ºSupl] de 31.12.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/263-1991-176767
+  date: '1991-12-31'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:17Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +169,7 @@ g) Categorias de revisor de transportes colectivos, fotógrafo, auxiliar de enfe
 
 Do MAPA I ao MAPA VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/249a00/55515554.pdf))](https://files.diariodarepublica.pt/1s/1991/10/249a00/55515554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/249a00/55515554.pdf)
 
 2 - São acrescentadas ao anexo n.º 3 do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808) as categorias de chefe de polícia florestal, subchefe de polícia florestal e técnico de educação, com o desenvolvimento indiciário constante do mapa VIII anexo ao presente diploma.
 
@@ -145,7 +177,7 @@ Do MAPA I ao MAPA VIII
 
 1 - Os artigos 18.º, 21.º e 33.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808) passam a ter a seguinte redacção:
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - ...
 
@@ -153,7 +185,7 @@ Do MAPA I ao MAPA VIII
 
 4 - As regras estabelecidas nos n.os 2 e 3 são também aplicáveis às situações de mobilidade, mediante concurso entre carreiras inseridas nos grupos de pessoal operário e auxiliar e, bem assim, entre carreiras para cujo provimento esteja estabelecido legalmente o mesmo nível de habilitações.
 
-###### Art. 21.º - 1 - ...
+Art. 21.º - 1 - ...
 
 2 - ...
 
@@ -167,7 +199,7 @@ Do MAPA I ao MAPA VIII
 
 7 - Os ajudantes das carreiras de operário qualificado e operário semiqualificado são remunerados, respectivamente, pelos índices 120 e 115.
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 2 - ...
 
@@ -201,12 +233,12 @@ O disposto no artigo 2.º produz efeitos a partir do dia 1 do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 16 de Outubro de 1991.**
+Promulgado em 16 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

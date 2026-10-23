@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/1992/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1992-275246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ed90f2b30b2c107657218c22c1d20bc93440d78d5f6cb4ddcf84cbb81093dc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42a9f8e044694c6ecc010f81c30e8c6d199d7742e83ab38e0813007f1c5d0dd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Caixa Geral de Depósitos
 - Caixa Geral de Aposentações
+- Caixa Geral de Depósitos
 - Fundo de Pensões do Pessoal da Caixa Geral de Depósitos
 - Montepio dos Servidores do Estado
 - Pensão de Aposentação
 - Quotização
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:55Z'
   warnings: []
   errors: []
 ---
@@ -107,28 +115,28 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Sem prejuízo do disposto no n.º 2 do artigo 39.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, a Caixa Geral de Depósitos, abreviadamente designada por CGD, passará a arrecadar, a fim de serem afectadas ao Fundo de Pensões do Pessoal da CGD, e após o início do funcionamento deste, as quotas descontadas, para efeitos de aposentação, sobre as remunerações de todo o seu pessoal, incluindo o que presta serviço nas instituições anexas, designadamente a Caixa Geral de Aposentações, abreviadamente designada por CGA, e o Montepio dos Servidores do Estado, abreviadamente designado por MSE.
+Artigo 1.º Sem prejuízo do disposto no n.º 2 do artigo 39.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, a Caixa Geral de Depósitos, abreviadamente designada por CGD, passará a arrecadar, a fim de serem afectadas ao Fundo de Pensões do Pessoal da CGD, e após o início do funcionamento deste, as quotas descontadas, para efeitos de aposentação, sobre as remunerações de todo o seu pessoal, incluindo o que presta serviço nas instituições anexas, designadamente a Caixa Geral de Aposentações, abreviadamente designada por CGA, e o Montepio dos Servidores do Estado, abreviadamente designado por MSE.
 
-###### Art. 2.º As instituições anexas assegurarão, relativamente ao pessoal da CGD que lhes está adstrito, o pagamento das contribuições complementares que, com base nos estudos actuariais, se mostrem necessários ao equilíbrio financeiro do Fundo de Pensões do Pessoal da CGD, em matéria de aposentação.
+Art. 2.º As instituições anexas assegurarão, relativamente ao pessoal da CGD que lhes está adstrito, o pagamento das contribuições complementares que, com base nos estudos actuariais, se mostrem necessários ao equilíbrio financeiro do Fundo de Pensões do Pessoal da CGD, em matéria de aposentação.
 
-###### Art. 3.º - 1 - A partir da data estabelecida para início do funcionamento do Fundo de Pensões a que se refere o artigo anterior, a CGD, através desse Fundo, passará a entregar à CGA, nos termos do n.º 5 do artigo 63.º do Estatuto da Aposentação, as importâncias correspondentes aos encargos com a aposentação de todo o pessoal.
+Art. 3.º - 1 - A partir da data estabelecida para início do funcionamento do Fundo de Pensões a que se refere o artigo anterior, a CGD, através desse Fundo, passará a entregar à CGA, nos termos do n.º 5 do artigo 63.º do Estatuto da Aposentação, as importâncias correspondentes aos encargos com a aposentação de todo o pessoal.
 
 2 - O disposto no número anterior não se aplica relativamente aos encargos das instituições anexas respeitantes a data anterior à da constituição do Fundo de Pensões do Pessoal da CGD.
 
-###### Art. 4.º Relativamente às pensões de sobrevivência e sem prejuízo do disposto no respectivo Estatuto aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, as quotas para o efeito descontadas sobre as remunerações do pessoal admitido na CGD após o início do funcionamento do Fundo de Pensões do Pessoal da CGD serão entregues àquela instituição a fim de serem afectadas ao referido Fundo.
+Art. 4.º Relativamente às pensões de sobrevivência e sem prejuízo do disposto no respectivo Estatuto aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, as quotas para o efeito descontadas sobre as remunerações do pessoal admitido na CGD após o início do funcionamento do Fundo de Pensões do Pessoal da CGD serão entregues àquela instituição a fim de serem afectadas ao referido Fundo.
 
-###### Art. 5.º As instituições anexas à CGD passam a assegurar, igualmente, a entrega das contribuições necessárias ao equilíbrio financeiro do Fundo a que se refere o artigo anterior, em matéria de pensões de sobrevivência, nos termos do disposto no artigo 2.º
+Art. 5.º As instituições anexas à CGD passam a assegurar, igualmente, a entrega das contribuições necessárias ao equilíbrio financeiro do Fundo a que se refere o artigo anterior, em matéria de pensões de sobrevivência, nos termos do disposto no artigo 2.º
 
-###### Art. 6.º Por óbito do pessoal a que se refere o disposto no artigo 4.º, a CGD entregará ao MSE, através do Fundo de Pensões do Pessoal da CGD, nos termos do artigo 3.º, as importâncias correspondentes aos encargos com as pensões de sobrevivência que forem devidas em função do tempo de serviço prestado à CGD e instituições anexas, a partir da data da constituição do referido Fundo.
+Art. 6.º Por óbito do pessoal a que se refere o disposto no artigo 4.º, a CGD entregará ao MSE, através do Fundo de Pensões do Pessoal da CGD, nos termos do artigo 3.º, as importâncias correspondentes aos encargos com as pensões de sobrevivência que forem devidas em função do tempo de serviço prestado à CGD e instituições anexas, a partir da data da constituição do referido Fundo.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 9 de Julho de 1992.**
+Promulgado em 9 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Julho de 1992.**
+Referendado em 13 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

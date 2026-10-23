@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/1992/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1992-516772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a067a10ed0f9cc8738a24102a34e004e086c56beb73bdc8d9deba3d43684e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a77c5293f284b96ec2668ce04e0c96cf3d0877f5216b883a2e9fe5929efe319
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,77 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
+- Beja
 - Braga
-- Pescador
+- Caixa de Previdência
 - Centro Regional de Segurança Social
+- Coimbra
 - Extinção de Serviços
 - Faro
-- Lisboa
 - Integração de Contribuintes
 - Integração de Serviços
 - Leiria
-- Caixa de Previdência
-- Setúbal
-- Beja
-- Coimbra
-- Transferência Patrimonial
+- Lisboa
+- Pescador
 - Porto
+- Setúbal
+- Transferência Patrimonial
 - Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:564600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547609:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:45Z'
   warnings: []
   errors: []
 ---
@@ -182,12 +222,12 @@ O presente diploma entra em vigor no primeiro dia do quarto mês seguinte ao da 
 
 Visto e aprovado em Conselho de Ministros de 9 de Abril de 1992. - Joaquim Fernando Nogueira - Jorge Braga de Macedo - José Albino da Silva Peneda - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
 Primeiro-Ministro, Aníbal António Cavaco Silva.

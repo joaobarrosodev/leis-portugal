@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/1991/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1991-468013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5727a3ecaa21315c0975183e158d06d83ecc0230d4efe280238491b8e6ee005d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2c90f2c31d4d9e22abf128ce916c32adb2856c059ca16e00a4140f786311df2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Estatuto
 - Fábrica Escola Irmãos Stephens
 - Privatização
-relationships: []
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:252195:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:14Z'
   warnings: []
   errors: []
 ---
@@ -102,27 +106,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Fábrica-Escola Irmãos Stephens, E. P., criada pelo [Decreto-Lei n.º 194/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1977-252195), de 14 de Maio, é transformada pelo presente diploma em sociedade anónima, com a denominação de Fábrica-Escola Irmãos Stephens, S. A., podendo usar apenas a sigla FEIS.
+Artigo 1.º - 1 - A empresa pública Fábrica-Escola Irmãos Stephens, E. P., criada pelo [Decreto-Lei n.º 194/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1977-252195), de 14 de Maio, é transformada pelo presente diploma em sociedade anónima, com a denominação de Fábrica-Escola Irmãos Stephens, S. A., podendo usar apenas a sigla FEIS.
 
 2 - A Fábrica-Escola Irmãos Stephens, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas reguladoras das sociedades anónimas.
 
-###### Art. 2.º - 1 - A Fábrica-Escola Irmãos Stephens, S. A., sucede automática e globalmente à empresa pública Fábrica-Escola Irmãos Stephens, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A Fábrica-Escola Irmãos Stephens, S. A., sucede automática e globalmente à empresa pública Fábrica-Escola Irmãos Stephens, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Fábrica-Escola Irmãos Stephens, S. A.
 
-###### Art. 3.º O capital social da Fábrica-Escola Irmãos Stephens, S. A., é de 300000000$00 e encontra-se realizado pelo Estado com os valores integrantes do património da empresa.
+Art. 3.º O capital social da Fábrica-Escola Irmãos Stephens, S. A., é de 300000000$00 e encontra-se realizado pelo Estado com os valores integrantes do património da empresa.
 
-###### Art. 4.º - 1 - As acções representativas do capital de que o Estado é titular serão detidas pela Direcção-Geral do Tesouro.
+Art. 4.º - 1 - As acções representativas do capital de que o Estado é titular serão detidas pela Direcção-Geral do Tesouro.
 
 2 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia.
 
-###### Art. 5.º - 1 - São aprovados os estatutos da Fábrica-Escola Irmãos Stephens, S. A., anexos a este diploma.
+Art. 5.º - 1 - São aprovados os estatutos da Fábrica-Escola Irmãos Stephens, S. A., anexos a este diploma.
 
 2 - A transformação efectuada pelo artigo 1.º, bem como os estatutos da Fábrica-Escola Irmãos Stephens, S. A., agora aprovados, produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.
 
 3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 6.º - 1 - O conselho de administração, enquanto o capital social estiver maioritariamente na titularidade do Estado, enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 6.º - 1 - O conselho de administração, enquanto o capital social estiver maioritariamente na titularidade do Estado, enviará aos Ministros das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -130,11 +134,11 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - Nas mesmas circunstâncias do número anterior, o conselho fiscal enviará trimestralmente aos Ministros das Finanças e da Indústria e Energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 7.º - 1 - Os trabalhadores e os pensionistas da Fábrica-Escola Irmãos Stephens, E. P., mantêm perante a Fábrica-Escola Irmãos Stephens, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 7.º - 1 - Os trabalhadores e os pensionistas da Fábrica-Escola Irmãos Stephens, E. P., mantêm perante a Fábrica-Escola Irmãos Stephens, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - A situação dos trabalhadores da Fábrica-Escola Irmãos Stephens, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade em nada será prejudicada por esse facto, regressando aos seus lugares de origem logo que terminem o mandato.
 
-###### Art. 8.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais da sociedade anónima agora constituída, os membros do conselho de gerência e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
+Art. 8.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais da sociedade anónima agora constituída, os membros do conselho de gerência e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
 
 2 - Nos 30 dias seguintes à publicação do presente diploma o conselho de administração convocará a assembleia para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
@@ -142,27 +146,27 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 Visto e aprovado em Conselho de Minstros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 8 de Fevereiro de 1991.**
+Promulgado em 8 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1991.**
+Referendado em 11 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS DA FEIS - FÁBRICA-ESCOLA IRMÃOS STEPHENS, S. A.
 
 ### CAPÍTULO I — Firma, duração, sede e objecto
 
-###### Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação social de Fábrica-Escola Irmãos Stephens, S. A., abreviadamente designada por FEIS.
+Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação social de Fábrica-Escola Irmãos Stephens, S. A., abreviadamente designada por FEIS.
 
-###### Art. 2.º - 1 - A sociedade tem a sede na Praça de Stephens, freguesia e concelho da Marinha Grande.
+Art. 2.º - 1 - A sociedade tem a sede na Praça de Stephens, freguesia e concelho da Marinha Grande.
 
 2 - O conselho de administração pode criar e encerrar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer formas de representação, bem como mudar a sede dentro do Município ou para município limítrofe.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal a produção e comercialização de artigos de vidro e cristalaria.
+Art. 3.º - 1 - A sociedade tem por objecto principal a produção e comercialização de artigos de vidro e cristalaria.
 
 2 - A sociedade pode exercer acessoriamente actividades relacionadas com o seu objecto principal, incluindo a investigação, o ensino e o apoio técnico a outras empresas do mesmo ramo.
 
@@ -170,11 +174,11 @@ ESTATUTOS DA FEIS - FÁBRICA-ESCOLA IRMÃOS STEPHENS, S. A.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 4.º - 1 - O capital da sociedade é de 300000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
+Art. 4.º - 1 - O capital da sociedade é de 300000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
 
 2 - O capital social é representado por 300000 acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções podem revestir forma escritural.
+Art. 5.º - 1 - As acções podem revestir forma escritural.
 
 2 - Poderão ser emitidos títulos de 1, 5, 10, 50, 100, 1000 e 10000 acções.
 
@@ -182,7 +186,7 @@ ESTATUTOS DA FEIS - FÁBRICA-ESCOLA IRMÃOS STEPHENS, S. A.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 6.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O presidente do conselho de administração é designado pela assembleia geral que eleger o mesmo conselho.
 
@@ -192,7 +196,7 @@ ESTATUTOS DA FEIS - FÁBRICA-ESCOLA IRMÃOS STEPHENS, S. A.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 7.º - 1 - A assembleia geral é composta pelos accionistas com direito a voto.
+Art. 7.º - 1 - A assembleia geral é composta pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde 1 voto em assembleia geral.
 
@@ -200,19 +204,19 @@ ESTATUTOS DA FEIS - FÁBRICA-ESCOLA IRMÃOS STEPHENS, S. A.
 
 4 - Não são consideradas para efeito de participação em assembleia geral as transmissões de acções efectuadas durante os oito dias que precedem a reunião de cada assembleia, em primeira convocação.
 
-###### Art. 8.º A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, eleitos de entre accionistas ou outras pessoas cujas faltas serão supridas nos termos da lei.
+Art. 8.º A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, eleitos de entre accionistas ou outras pessoas cujas faltas serão supridas nos termos da lei.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 9.º - 1 - O conselho de administração é composto por três ou cinco administradores, conforme vier a ser decidido em assembleia geral.
+Art. 9.º - 1 - O conselho de administração é composto por três ou cinco administradores, conforme vier a ser decidido em assembleia geral.
 
 2 - O presidente do conselho de administração tem voto de qualidade.
 
-###### Art. 10.º - 1 - O conselho de administração pode delegar poderes, nos termos do artigo 407.º do Código das Sociedades Comerciais.
+Art. 10.º - 1 - O conselho de administração pode delegar poderes, nos termos do artigo 407.º do Código das Sociedades Comerciais.
 
 2 - A aquisição, alienação e oneração de participações sociais, quer quando sejam apenas da competência do conselho quer quando autorizadas pela assembleia geral, não se incluem nos actos delegáveis.
 
-###### Art. 11.º - 1 - A sociedade é representada:
+Art. 11.º - 1 - A sociedade é representada:
 
 a) Por dois administradores;
 
@@ -224,27 +228,27 @@ c) Por procuradores, quanto aos actos ou categorias de actos definidos nas procu
 
 3 - Em assuntos de mero expediente bastará a assinatura de um administrador.
 
-###### Art. 12.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
+Art. 12.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
 2 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 13.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de três anos.
+Art. 13.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de três anos.
 
 2 - A assembleia geral pode estabelecer que a remuneração consista parcialmente numa percentagem que não poderá exceder globalmente 1% dos lucros do exercício, deduzidos da importância da reserva legal.
 
-###### Art. 14.º Os administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
+Art. 14.º Os administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 15.º - 1 - O conselho fiscal é composto por três membros.
+Art. 15.º - 1 - O conselho fiscal é composto por três membros.
 
 2 - Haverá dois suplentes.
 
-###### Art. 16.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada e devem ser certas.
+Art. 16.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada e devem ser certas.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 17.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados sucessivamente para:
+Art. 17.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados sucessivamente para:
 
 a) Cobertura dos prejuízos de exercícios anteriores;
 
@@ -260,6 +264,6 @@ f) Outras finalidades que a assembleia geral deliberar.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 18.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 18.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

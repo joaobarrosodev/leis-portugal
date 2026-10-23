@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 644baa078040098c53f36ca0a7b200af8bc01f2c13a1b8f709af553a5c2556fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d496510f7932f1d6e7671fc31a1fa17e6dc817a7b0deca60a1e39a96d1bc95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,54 @@ relationships:
   target: pt:dre:122403266:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19960514 - DECLARADA A INCONSTITUCIONALIDADE, COM FORÇA OBRIGATÓRIA GERAL, DA NORMA DO ART 26, NUM 4, PELO AC 527/96\
+    \ DE 28-MAR DO TCS (PROC NUM 182/93) DR.IS-A [112] DE 14/MAI/1996, RESSALVADOS OS EFEITOS ENTRETANTO PRODUZIDOS PELA NORMA\
+    \ ORA DECLARADA INCONSTITUCIONAL E, BEM ASSIM, OS QUE ELA VENHA A PRODUZIR ATE A PUBLICAÇÃO DO PRESENTE AC NO DR, COM\
+    \ EXCEPÇÃO DOS CASOS AINDA SUSCEPTÍVEIS DE IMPUGNAÇÃO CONTENCIOSA OU QUE DELA SE ENCONTREM PENDENTES EM TAL DATA /\0M\
+    \ PENDENTES EM TAL DATA /"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:405373:por
+  label: "Derrogado o nº 1 do art. 13º, relativamente à nomeação dos enfermeiros-directores do serviço de enfermagem, pelo\
+    \ DEC LEI.135/96.1996.08.13.MS, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1996-405373
+  date: '1996-08-13'
+- type: amended_by
+  target: pt:dre:286105:por
+  label: "Eliminado o art. 16º e alterados os arts. 4º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 13º, 14º, 15º, 24º, 26º, 29º, 34º, 35º,\
+    \ 37º, 40º, 44º, 48º, 56º e 63º pelo DEC LEI.412/98.1998.12.30.MS DR.IS-A [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-1998-286105
+  date: '1998-12-30'
+- type: amended_by
+  target: pt:dre:667135:por
+  label: "Alterado o art. 19º pelo DEC LEI.411/99.1999.10.15.MS, DR.IS-A [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1999-667135
+  date: '1999-10-15'
+- type: amended_by
+  target: pt:dre:693065:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma da al. b) do art. 12º in fine, do presente\
+    \ diploma, em conjugação com a tabela constante do anexo I do Dec Lei 411/99, de 15-Out, pelo AC.682/2005.06.12.2005.TCS,\
+    \ DR.IS-A [45] de 03.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/682-2005-693065
+  date: '2005-12-06'
+- type: amended_by
+  target: pt:dre:490413:por
+  label: "Extinta a carreira de enfermagem (salvaguardado o disposto no art. 24º do Dec Lei 248/2009) criada neste diploma,\
+    \ que é revogado pelo DEC LEI.248/2009.22.09.2009.MS, DR.IS [184] de 22.09.2009, com excepção do disposto nos arts. 43º\
+    \ a 57º, os quais se mantêm em vigor, com as necessárias adaptações, na medida em que regulem situações não previstas\
+    \ naquele decreto-lei, e na medida em que não sejam contrárias ao regime por ele estabelecido, até ao início da vigência\
+    \ de instrumento de regulamentação colectiva de trabalho. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-2009-490413
+  date: '2009-09-22'
+- type: amended_by
+  target: pt:dre:309024:por
+  label: "Determinada a subsistência, nos termos do art. 106.º da Lei 12-A/2008, de 27-Fev, das categorias de enfermeiro-chefe\
+    \ e de enfermeiro-supervisor da carreira de enfermagem, que mantêm o conteúdo funcional, previstas no presente diploma,\
+    \ pelo DEC LEI.122/2010.11.11.2010.MS, DR.IS [129] de 11.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2010-309024
+  date: '2010-11-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/1991/01/18/p/dre
   label: null
@@ -81,16 +129,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/6/1991/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/6/1991/02/26/p/dre
+- type: cites
+  target: pt:dre:146916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209661:por
+  label: "Revogado o nº 2 do art. 5º e o nº 1 do art. 14º pelo DEC LEI.34/98.1998.02.18.MS, DR.IS-A [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1998-209661
+  date: '1998-02-18'
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revogado o n.º 8 do art. 55.º e art. 62.º, pelo DEC LEI.229/2005.29.12.2005.MFAP, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
 article_structure:
   article_count: 68
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:43Z'
   warnings: []
   errors: []
 ---
@@ -1297,22 +1387,22 @@ e) O [Decreto Regulamentar n.º 6/91](https://diariodarepublica.pt/dr/detalhe/de
 
 Visto e aprovado em Conselho de Ministros de 12 de Setembro de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Jorge Augusto Pires.
 
-**Promulgado em 16 de Outubro de 1991.**
+Promulgado em 16 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/257a00/57235741.pdf))](https://files.diariodarepublica.pt/1s/1991/11/257a00/57235741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/257a00/57235741.pdf)
 
 TABELA II
 
 (a que se refere o n.º 2 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/257a00/57235741.pdf))](https://files.diariodarepublica.pt/1s/1991/11/257a00/57235741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/257a00/57235741.pdf)

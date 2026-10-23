@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/229a00/51645165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/367/1991/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1991-293347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0576dfabc34c219cd772dd3cc542b082cf6487741a1467d1ef424e50bd7031b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8ef553ba1ff139657f940c7aad752d357f94ccff3d177e7af89792d6c77110d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,33 @@ relationships:
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:12Z'
   warnings: []
   errors: []
 ---
@@ -101,34 +118,34 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa do centenário da morte de Antero de Quental, com o valor facial de 100$00.
+Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P., de uma moeda comemorativa do centenário da morte de Antero de Quental, com o valor facial de 100$00.
 
 2 - A moeda referida no número anterior será cunhada em liga de cuproníquel 75/25, com 33 mm de diâmetro, 15 g de peso, com a tolerância, em título e em peso, de mais ou menos 1,5% e bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, uma mão estendida com um resplendor por trás; na parte inferior esquerda, a era «1991» e o escudo das armas nacionais, inclinado à direita; na parte inferior direita, o valor facial «100 Esc.», em duas linhas, e, na orla, a legenda «República Portuguesa. Açores».
+Art. 2.º - 1 - A gravura do anverso apresenta, no centro do campo, uma mão estendida com um resplendor por trás; na parte inferior esquerda, a era «1991» e o escudo das armas nacionais, inclinado à direita; na parte inferior direita, o valor facial «100 Esc.», em duas linhas, e, na orla, a legenda «República Portuguesa. Açores».
 
 2 - A gravura do reverso apresenta, no centro do campo, o busto do poeta a três quartos à direita, tendo do lado esquerdo a sua assinatura, por baixo desta as datas «(1842-1891)», em duas linhas, e, na orla inferior, a legenda «Antero de Quental».
 
-###### Art. 3.º O limite da emissão desta moeda comemorativa é fixado em 104500000$00.
+Art. 3.º O limite da emissão desta moeda comemorativa é fixado em 104500000$00.
 
-###### Art. 4.º - 1 - Dentro do limite estabelecido no artigo anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 30000 espécimes numismáticos de prata, com acabamento brilhante não circulado (BNC) e até 15000 espécimes numismáticos de prata, com acabamento de prova numismática (proof), destinados a comercialização, nos termos do disposto no [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 4.º - 1 - Dentro do limite estabelecido no artigo anterior, a Imprensa Nacional-Casa da Moeda, E. P., é autorizada a cunhar até 30000 espécimes numismáticos de prata, com acabamento brilhante não circulado (BNC) e até 15000 espécimes numismáticos de prata, com acabamento de prova numismática (proof), destinados a comercialização, nos termos do disposto no [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 2 - Os espécimes numismáticos de prata referidos no número anterior serão cunhados em liga de prata 925/1000 com o diâmetro de 33 mm, o peso de 18,5 g e bordo serrilhado, sendo as tolerâncias, no peso e na liga, de mais ou menos de 1%.
 
-###### Art. 5.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado por intermédio e sob requisição do Banco de Portugal.
+Art. 5.º A moeda destinada a distribuição pública pelo respectivo valor facial é posta em circulação pelo Estado por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 6.º À medida que as moedas referidas no presente diploma forem postas em circulação, o diferencial entre o valor facial e os correspondentes custos de produção serão postos pelo Ministério das Finanças à disposição da Região Autónoma dos Açores, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
+Art. 6.º À medida que as moedas referidas no presente diploma forem postas em circulação, o diferencial entre o valor facial e os correspondentes custos de produção serão postos pelo Ministério das Finanças à disposição da Região Autónoma dos Açores, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
 
-###### Art. 7.º A moeda cunhada ao abrigo deste diploma tem curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 5000$00 nesta moeda.
+Art. 7.º A moeda cunhada ao abrigo deste diploma tem curso legal, mas ninguém poderá ser obrigado a receber, em qualquer pagamento, mais de 5000$00 nesta moeda.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 20 de Setembro de 1991.**
+Promulgado em 20 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

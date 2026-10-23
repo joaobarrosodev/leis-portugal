@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/041a00/07780779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/1991/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1991-487699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 918a0ff4525127548df04581dbdda1f1e9c0b1a16b50f76222691233d7591f3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2c7cf83fa6312d2c5ffcde09beaed71c0cbcd5cb0f78e950a6057ae70c933b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Juvenil
+- Contra-ordenação
 - Financiamento
 - Modernização Administrativa
-- Contra-ordenação
 - Registo Nacional das Associações Juvenis
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442305:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:49Z'
   warnings: []
   errors: []
 ---
@@ -102,22 +119,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos da concessão dos apoios previstos na [Portaria n.º 841-A/90](https://diariodarepublica.pt/dr/detalhe/portaria/841-a-1990-336522), de 15 de Setembro, as associações juvenis inscritas no Registo Nacional das Associações Juvenis (RNAJ) que não tenham obrigações contributivas perante as instituições de segurança social ou de previdência estão dispensadas da apresentação da certidão a que se refere o n.º 1 do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 52/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1988-375980), de 19 de Fevereiro.
+Artigo 1.º - 1 - Para efeitos da concessão dos apoios previstos na [Portaria n.º 841-A/90](https://diariodarepublica.pt/dr/detalhe/portaria/841-a-1990-336522), de 15 de Setembro, as associações juvenis inscritas no Registo Nacional das Associações Juvenis (RNAJ) que não tenham obrigações contributivas perante as instituições de segurança social ou de previdência estão dispensadas da apresentação da certidão a que se refere o n.º 1 do artigo 17.º do [Decreto-Lei n.º 103/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1980-442305), de 9 de Maio, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 52/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1988-375980), de 19 de Fevereiro.
 
 2 - Nos casos referidos no número anterior, a certidão será substituída por declaração passada pela própria associação juvenil, a qual é válida pelo prazo de seis meses.
 
-###### Art. 2.º - 1 - A prestação de falsas declarações, nos termos do n.º 2 do artigo anterior, constitui contra-ordenação punível com coima até 50000$00.
+Art. 2.º - 1 - A prestação de falsas declarações, nos termos do n.º 2 do artigo anterior, constitui contra-ordenação punível com coima até 50000$00.
 
 2 - A contra-ordenação referida no número anterior pode ainda, a título de sanção acessória, ser punida com a privação do direito a subsídio outorgado por entidades ou serviços públicos pelo prazo de dois anos.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1990. - Aníbal António Cavaco Silva - José Albino da Silva Peneda - António Fernando Couto dos Santos.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

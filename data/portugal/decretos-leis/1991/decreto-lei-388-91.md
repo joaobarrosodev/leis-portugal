@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/233a00/52655275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/388/1991/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1991-288062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2432936e5ad9471e8e762abc29156da120e154a7eefbe5a13ea1faef83900657
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7455be53c2f84ce8ff52ad92fafca56893cf2c6c1ee4ba37f679f3d04fbede45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Profissional
-- Seguro
 - Instituto de Seguros de Portugal
 - Livre Prestação de Serviços
 - Mediação de Seguros
 - Profissional de Seguros
+- Seguro
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO RECTIFICAÇÃO NUMERO 233/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-A, NUMERO 251,\
+    \ 4 SUPLEMENTO, DE 911031.\011031.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:539398:por
   label: Última alteração registada na importação inicial
@@ -80,16 +85,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/1991/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/1991/08/03/p/dre
+- type: cites
+  target: pt:dre:181048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687020:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539398:por
+  label: "Revogado pelo DEC LEI.144/2006.31.07.2006.MFAP, DR.IS [146] de 31.07.2006, a partir da respectiva entrada em vigor\
+    \ (180 dias após a sua publicação - 27.01.2007)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2006-539398
+  date: '2006-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:37Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +161,7 @@ No uso da autorização legislativa concedida pelo artigo 2.º da [Lei n.º 47/9
 
 #### SECÇÃO I — Do âmbito do diploma
 
-###### Artigo 1.º - 1 - O presente decreto-lei aplica-se à mediação de seguros relativa a:
+Artigo 1.º - 1 - O presente decreto-lei aplica-se à mediação de seguros relativa a:
 
 a) Contratos de seguro directo celebrados nos termos da legislação aplicável cobrindo riscos situados em Portugal;
 
@@ -146,9 +177,9 @@ c) Prémio - engloba os prémios de seguro, as prestações relativas às opera�
 
 d) Comissão - remuneração do mediador no valor resultante da aplicação de uma percentagem sobre os prémios, líquidos de encargos e adicionais, efectivamente pagos.
 
-###### Art. 2.º Para os efeitos do presente diploma, entende-se por mediação de seguros, abreviadamente designada «mediação», a actividade remunerada tendente à realização, através de apreciação dos riscos em causa, e assistência, ou apenas à assistência, dos contratos e operações referidos no n.º 1 do artigo 1.º
+Art. 2.º Para os efeitos do presente diploma, entende-se por mediação de seguros, abreviadamente designada «mediação», a actividade remunerada tendente à realização, através de apreciação dos riscos em causa, e assistência, ou apenas à assistência, dos contratos e operações referidos no n.º 1 do artigo 1.º
 
-###### Art. 3.º - 1 - Apenas podem exercer a mediação, nos termos deste diploma, as entidades devidamente inscritas como mediadores no Instituto de Seguros de Portugal (ISP), designadamente:
+Art. 3.º - 1 - Apenas podem exercer a mediação, nos termos deste diploma, as entidades devidamente inscritas como mediadores no Instituto de Seguros de Portugal (ISP), designadamente:
 
 a) As pessoas, singulares ou colectivas, residentes ou domiciliadas em Portugal;
 
@@ -166,11 +197,11 @@ c) Corretores de seguros.
 
 #### SECÇÃO II — Dos contratos realizados com a intervenção de mediadores
 
-###### Art. 4.º - 1 - O mediador não pode, salvo no caso previsto no número seguinte, dar como celebrado um contrato em nome de uma seguradora, sem a prévia aprovação desta.
+Art. 4.º - 1 - O mediador não pode, salvo no caso previsto no número seguinte, dar como celebrado um contrato em nome de uma seguradora, sem a prévia aprovação desta.
 
 2 - É facultada a celebração de acordos entre um mediador e uma seguradora, no sentido de aquele poder, salvo no que respeita a fundos de pensões, celebrar contratos em nome e por conta desta, desde que a inerente responsabilidade civil profissional seja garantida através de adequado seguro.
 
-###### Art. 5.º - 1 - O tomador de seguro tem o direito de escolher mediador para os seus contratos.
+Art. 5.º - 1 - O tomador de seguro tem o direito de escolher mediador para os seus contratos.
 
 2 - O tomador de seguro pode, na renovação ou data aniversária de um contrato já celebrado, mudar de mediador, relativamente a esse contrato, desde que sejam cumpridos os devidos trâmites estabelecidos ao abrigo do artigo 6.º do Estatuto do ISP, aprovado pelo [Decreto-Lei n.º 302/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1982-397311), de 30 de Julho.
 
@@ -180,13 +211,13 @@ c) Corretores de seguros.
 
 5 - São devidas ao mediador dispensado, nos termos do número anterior, as comissões referentes aos prémios vencidos até à data em que o tomador de seguro tiver efectuado a necessária comunicação.
 
-###### Art. 6.º É facultado a um mediador deixar de exercer a sua actividade relativamente a um contrato da sua carteira, desde que comunique por escrito tal facto, quer ao tomador de seguro quer à seguradora, com uma antecedência mínima de 30 dias em relação à data aniversária ou de renovação do contrato.
+Art. 6.º É facultado a um mediador deixar de exercer a sua actividade relativamente a um contrato da sua carteira, desde que comunique por escrito tal facto, quer ao tomador de seguro quer à seguradora, com uma antecedência mínima de 30 dias em relação à data aniversária ou de renovação do contrato.
 
 ### CAPÍTULO II — Dos mediadores em geral
 
 #### SECÇÃO I — Dos direitos, obrigações e interdições
 
-###### Art. 7.º Constituem direitos do mediador:
+Art. 7.º Constituem direitos do mediador:
 
 a) Receber regularmente todos os elementos e informações necessárias ao cabal desempenho da sua actividade;
 
@@ -198,7 +229,7 @@ d) Receber, da parte de cada seguradora, as comissões, relativas aos contratos 
 
 e) Actuar com liberdade de acção e de acordo com as disposições legais em vigor.
 
-###### Art. 8.º Constituem obrigações do mediador:
+Art. 8.º Constituem obrigações do mediador:
 
 a) Apresentar ao tomador de seguro, através de uma exposição correcta e detalhada do produto, a modalidade de contrato que mais convenha ao seu caso específico;
 
@@ -220,9 +251,9 @@ i) Informar a seguradora sobre todos os factos de que tenha conhecimento e que p
 
 j) Guardar segredo profissional, em relação a terceiros, dos factos de que tome conhecimento por força do exercício da sua actividade.
 
-###### Art. 9.º O mediador é responsável perante o tomador de seguro, os segurados, as pessos seguras, os beneficiários e as seguradoras pelos factos que lhe sejam imputáveis e que se reflictam no contrato em que interveio, determinando alteração nos seus efeitos tal como pretendidos pela vontade expressa dos contratantes, bem como por todas as consequências decorrentes do não cumprimento das alíneas g) e h) do artigo anterior.
+Art. 9.º O mediador é responsável perante o tomador de seguro, os segurados, as pessos seguras, os beneficiários e as seguradoras pelos factos que lhe sejam imputáveis e que se reflictam no contrato em que interveio, determinando alteração nos seus efeitos tal como pretendidos pela vontade expressa dos contratantes, bem como por todas as consequências decorrentes do não cumprimento das alíneas g) e h) do artigo anterior.
 
-###### Art. 10.º - 1 - Encontra-se vedado ao mediador:
+Art. 10.º - 1 - Encontra-se vedado ao mediador:
 
 a) Receber remunerações que contrariem o disposto na secção II do presente capítulo, sem prejuízo do disposto no n.º 3 do artigo 45.º;
 
@@ -256,11 +287,11 @@ c) Empresa ou organização de que as pessoas referidas nas alíneas anteriores 
 
 #### SECÇÃO II — Das remunerações
 
-###### Art. 11.º - 1 - O mediador é, salvo no caso previsto no n.º 2 do artigo 13.º, remunerado através de comissões.
+Art. 11.º - 1 - O mediador é, salvo no caso previsto no n.º 2 do artigo 13.º, remunerado através de comissões.
 
 2 - A comissão pode ser única ou periódica, consoante o tipo de contrato a que diga respeito.
 
-###### Art. 12.º - 1 - As comissões podem revestir as seguintes formas:
+Art. 12.º - 1 - As comissões podem revestir as seguintes formas:
 
 a) Comissões de mediação;
 
@@ -276,7 +307,7 @@ c) Comissões de cobrança.
 
 5 - Para efeitos de atribuição da comissão de mediação e da comissão de corretagem os contratos apenas podem ter um mediador, salvo nos casos de co-seguro, em que a quota-parte do risco assumida para cada uma das co-seguradoras pode ter um mediador próprio.
 
-###### Art. 13.º - 1 - As seguradoras poderão negociar livremente os valores das comissões a atribuir aos agentes provisórios, exclusivos e corretores.
+Art. 13.º - 1 - As seguradoras poderão negociar livremente os valores das comissões a atribuir aos agentes provisórios, exclusivos e corretores.
 
 2 - Relativamente a fundos de pensões, o mediador é remunerado através de um montante fixo, acordado livremente com a entidade gestora de fundos de pensões, com base na qualidade do serviço prestado, e pago de uma só vez.
 
@@ -286,9 +317,9 @@ c) Comissões de cobrança.
 
 #### SECÇÃO III — Das carteiras de seguros
 
-###### Art. 14.º Por carteira de seguros de um mediador entende-se o conjunto de contratos relativamente aos quais o mesmo presta assistência e garante a ligação com as seguradoras.
+Art. 14.º Por carteira de seguros de um mediador entende-se o conjunto de contratos relativamente aos quais o mesmo presta assistência e garante a ligação com as seguradoras.
 
-###### Art. 15.º - 1 - As carteiras de seguros são transmissíveis, devendo a pessoa singular ou colectiva, a favor de quem a transmissão é efectuada, encontrar-se inscrita, como mediador de seguros, salvo o disposto no n.º 3.
+Art. 15.º - 1 - As carteiras de seguros são transmissíveis, devendo a pessoa singular ou colectiva, a favor de quem a transmissão é efectuada, encontrar-se inscrita, como mediador de seguros, salvo o disposto no n.º 3.
 
 2 - O mediador a favor do qual a carteira de seguros é transmitida tem direito às comissões devidas após a data da efectivação da transmissão.
 
@@ -296,7 +327,7 @@ c) Comissões de cobrança.
 
 #### SECÇÃO IV — Do cancelamento da inscrição
 
-###### Art. 16.º - 1 - O cancelamento da inscrição como mediador pode, sem prejuízo do disposto nos artigos 28.º, 33.º e 41.º, resultar de qualquer dos seguintes factos:
+Art. 16.º - 1 - O cancelamento da inscrição como mediador pode, sem prejuízo do disposto nos artigos 28.º, 33.º e 41.º, resultar de qualquer dos seguintes factos:
 
 a) Pedido expresso do mediador dirigido ao ISP, através de carta registada;
 
@@ -320,19 +351,19 @@ b) Quando, tratando-se de angariador de seguros, este mude de entidade patronal 
 
 5 - É interdito ao mediador, cuja inscrição tenha sido cancelada nos termos da alínea e) do n.º 1, voltar a requerer ao ISP a sua inscrição como mediador, antes do decurso do prazo de interdição do exercício da actividade de mediação que tenha sido determinado como sanção acessória nos termos do artigo 50.º
 
-###### Art. 17.º Quando se verificar o cancelamento da inscrição, nos termos do n.º 1 do artigo anterior, o mediador apenas tem direito às comissões relativas aos prémios vencidos até ao final da anuidade em curso à data do cancelamento.
+Art. 17.º Quando se verificar o cancelamento da inscrição, nos termos do n.º 1 do artigo anterior, o mediador apenas tem direito às comissões relativas aos prémios vencidos até ao final da anuidade em curso à data do cancelamento.
 
 ### CAPÍTULO III — Dos agentes de seguros
 
 #### SECÇÃO I — Caracterização
 
-###### Art. 18.º - 1 - Agente de seguros é o mediador que exerce a sua actividade apresentando, propondo e preparando a celebração de contratos, podendo celebrá-los, nos termos do n.º 2 do artigo 4.º, com prestação de assistência a esses mesmos contratos, podendo intervir, a pedido da seguradora, na regularização de sinistros, em nome e por conta, ou unicamente por conta, daquela.
+Art. 18.º - 1 - Agente de seguros é o mediador que exerce a sua actividade apresentando, propondo e preparando a celebração de contratos, podendo celebrá-los, nos termos do n.º 2 do artigo 4.º, com prestação de assistência a esses mesmos contratos, podendo intervir, a pedido da seguradora, na regularização de sinistros, em nome e por conta, ou unicamente por conta, daquela.
 
 2 - O agente de seguros pode exercer a sua actividade junto de uma ou mais seguradoras, bem como colocar contratos em seguradoras através de corretores.
 
 3 - O agente de seguros que exerça a sua actividade junto de uma única seguradora ou corretor e que com essa entidade tenha firmado contrato que o iniba de colocar seguros junto de outra seguradora ou através de outro corretor, tem a designação de agente exclusivo.
 
-###### Art. 19.º - 1 - O agente de seguros pode, consoante a autorização que lhe for concedida pelo ISP, exercer a mediação apenas em relação aos ramos de seguros «Não vida» ou apenas em relação ao ramo «Vida», incluindo operações de capitalização e fundos de pensões, ou em relação aos dois tipos de actividade.
+Art. 19.º - 1 - O agente de seguros pode, consoante a autorização que lhe for concedida pelo ISP, exercer a mediação apenas em relação aos ramos de seguros «Não vida» ou apenas em relação ao ramo «Vida», incluindo operações de capitalização e fundos de pensões, ou em relação aos dois tipos de actividade.
 
 2 - No caso de o agente de seguros ter sido autorizado apenas em relação a uma das actividades, o alargamento da mediação à outra actividade implica novo pedido dirigido ao ISP.
 
@@ -340,13 +371,13 @@ b) Quando, tratando-se de angariador de seguros, este mude de entidade patronal 
 
 ##### SUBSECÇÃO I — Das pessoas singulares
 
-###### Art. 20.º - 1 - A inscrição de pessoas singulares como agentes de seguros deve ser proposta ao ISP pelas seguradoras ou pelos corretores que lhes tenham ministrado a formação básica de mediador.
+Art. 20.º - 1 - A inscrição de pessoas singulares como agentes de seguros deve ser proposta ao ISP pelas seguradoras ou pelos corretores que lhes tenham ministrado a formação básica de mediador.
 
 2 - No momento da apresentação da proposta deve ser indicado se o agente de seguros se destina, de acordo com o disposto no n.º 1 do artigo 19.º, ao exercício da mediação no âmbito dos seguros de vida, ou dos seguros de vida, ou de ambos.
 
 3 - No caso de as seguradoras ou corretores pretenderem atribuir a um candidato a qualificação de agente exclusivo após a sua inscrição definitiva, poderão solicitar, com a proposição da candidatura, a qualificação de agente provisório, durante a sua formação prática, de modo que a mesma possa ser remunerada conforme contrato a depositar junto do ISP.
 
-###### Art. 21.º - 1 - Apenas pode ser proposta ao ISP a inscrição de pessoas singulares que preencham cumulativamente os seguintes requisitos:
+Art. 21.º - 1 - Apenas pode ser proposta ao ISP a inscrição de pessoas singulares que preencham cumulativamente os seguintes requisitos:
 
 a) Serem maiores ou emancipadas;
 
@@ -368,7 +399,7 @@ g) Não terem, nos termos do artigo 22.º, reprovado três vezes nas provas para
 
 4 - O não cumprimento dos requisitos estabelecidos no n.º 1 implica a não aceitação da proposta.
 
-###### Art. 22.º - 1 - O ISP deverá submeter o candidato a mediador a provas no prazo máximo de 60 dias a contar da data da apresentação da respectiva proposta.
+Art. 22.º - 1 - O ISP deverá submeter o candidato a mediador a provas no prazo máximo de 60 dias a contar da data da apresentação da respectiva proposta.
 
 2 - Após a aprovação nas provas prestadas perante o ISP, haverá lugar à inscrição imediata como mediador.
 
@@ -376,7 +407,7 @@ g) Não terem, nos termos do artigo 22.º, reprovado três vezes nas provas para
 
 4 - Em caso de nova reprovação, o candidato apenas poderá ser proposto mais uma vez a provas, após o decurso do prazo de três meses.
 
-###### Art. 23.º - 1 - Podem, com dispensa de todas as formalidades previstas nos artigos anteriores, solicitar ao ISP a sua inscrição como agente de seguros, os nacionais de outros Estados membros das Comunidades Europeias que preencham os seguintes requisitos:
+Art. 23.º - 1 - Podem, com dispensa de todas as formalidades previstas nos artigos anteriores, solicitar ao ISP a sua inscrição como agente de seguros, os nacionais de outros Estados membros das Comunidades Europeias que preencham os seguintes requisitos:
 
 a) Terem residência em Portugal;
 
@@ -400,7 +431,7 @@ iii) Um ano como independentes ou como gerentes de uma sociedade de mediação, 
 
 ##### SUBSECÇÃO II — Das pessoas colectivas
 
-###### Art. 24.º - 1 - Apenas pode ser proposta ao ISP a inscrição, como agentes de seguros, das pessoas colectivas que preencham, cumulativamente, os seguintes requisitos:
+Art. 24.º - 1 - Apenas pode ser proposta ao ISP a inscrição, como agentes de seguros, das pessoas colectivas que preencham, cumulativamente, os seguintes requisitos:
 
 a) Estar constituída sob a égide da lei portuguesa, sob a forma de sociedade por quotas ou anónima, devendo, neste caso, as acções ser nominativas ou ao portador registadas;
 
@@ -430,7 +461,7 @@ b) Trabalhadores de seguradoras no activo ou na situação de pré-reforma.
 
 5 - Verificado o preenchimento de todos os requisitos exigíveis, a pessoa colectiva será imediatamente inscrita como mediador, na categoria de agente.
 
-###### Art. 25.º - 1 - Podem, com dispensa do disposto no artigo anterior, solicitar ao ISP a sua inscrição como mediador os agentes de seguros que, revestindo a natureza de pessoas colectivas, se encontrem sediados num outro Estado membro das Comunidades Europeias, desde que apresentem:
+Art. 25.º - 1 - Podem, com dispensa do disposto no artigo anterior, solicitar ao ISP a sua inscrição como mediador os agentes de seguros que, revestindo a natureza de pessoas colectivas, se encontrem sediados num outro Estado membro das Comunidades Europeias, desde que apresentem:
 
 a) Um certificado emitido pela autoridade competente do país onde se encontra situada a sede da sociedade, comprovando que esta se encontra legalmente constituída e que exerce a sua actividade, no âmbito da mediação de seguros, há pelo menos, quatro anos;
 
@@ -448,7 +479,7 @@ d) Um certificado de idoneidade do representante referido na alínea anterior, c
 
 #### SECÇÃO III — Dos agentes provisórios
 
-###### Art. 26.º - 1 - As seguradoras e os corretores, ao proporem ou ao iniciarem a formação do candidato, podem solicitar a inscrição deste como agente provisório.
+Art. 26.º - 1 - As seguradoras e os corretores, ao proporem ou ao iniciarem a formação do candidato, podem solicitar a inscrição deste como agente provisório.
 
 2 - Essa qualificação permite a atribuição de comissões, conforme contrato próprio a depositar previamente junto do ISP pelo proponente.
 
@@ -462,7 +493,7 @@ d) Um certificado de idoneidade do representante referido na alínea anterior, c
 
 #### SECÇÃO IV — Dos agentes exclusivos
 
-###### Art. 27.º - 1 - As seguradoras e os corretores podem negociar com um agente de seguros, pessoa singular ou colectiva, a atribuição da qualidade de agente exclusivo, prevista nos termos do n.º 3 do artigo 18.º
+Art. 27.º - 1 - As seguradoras e os corretores podem negociar com um agente de seguros, pessoa singular ou colectiva, a atribuição da qualidade de agente exclusivo, prevista nos termos do n.º 3 do artigo 18.º
 
 2 - A seguradora ou o corretor que atribuíram a um agente a qualificação de agente exclusivo deverão remeter ao ISP, para efeitos de registo, até 10 dias após a sua celebração, cópia do contrato de exclusividade.
 
@@ -472,7 +503,7 @@ d) Um certificado de idoneidade do representante referido na alínea anterior, c
 
 #### SECÇÃO V — Do cancelamento da inscrição
 
-###### Art. 28.º - 1 - O cancelamento da inscrição como mediador pode, sem prejuízo do disposto no artigo 16.º, resultar, em relação aos agentes de seguros, da falta de preenchimento de qualquer um dos requisitos previstos:
+Art. 28.º - 1 - O cancelamento da inscrição como mediador pode, sem prejuízo do disposto no artigo 16.º, resultar, em relação aos agentes de seguros, da falta de preenchimento de qualquer um dos requisitos previstos:
 
 a) Para os agentes de seguros pessoas singulares, nas alíneas b) a d) e f) do n.º 1 do artigo 21.º;
 
@@ -498,13 +529,13 @@ c) Falta de idoneidade do seu representante em Portugal.
 
 7 - No caso de cessação do estatuto de agente exclusivo por mútuo acordo entre as partes ou por termo prefixado no próprio contrato, o agente manter-se-á inscrito como simples agente ou, se for o caso, como angariador.
 
-###### Art. 29.º Ao cancelamento referido no artigo anterior é aplicável o disposto no artigo 17.º
+Art. 29.º Ao cancelamento referido no artigo anterior é aplicável o disposto no artigo 17.º
 
 ### CAPÍTULO IV — Dos angariadores de seguros
 
 #### SECÇÃO I — Caracterização
 
-###### Art. 30.º - 1 - O angariador de seguros é o mediador que, sendo trabalhador de seguros, exerce a sua actividade apresentando, propondo e preparando a celebração de contratos e que presta assistência a esses mesmos contratos.
+Art. 30.º - 1 - O angariador de seguros é o mediador que, sendo trabalhador de seguros, exerce a sua actividade apresentando, propondo e preparando a celebração de contratos e que presta assistência a esses mesmos contratos.
 
 2 - O angariador de seguros pode, consoante a autorização que lhe for dada, exercer a mediação apenas em relação aos seguros não vida ou apenas aos seguros de vida, incluindo operações de capitalização e fundos de pensões, ou em relação aos dois tipos de actividade.
 
@@ -512,19 +543,19 @@ c) Falta de idoneidade do seu representante em Portugal.
 
 #### SECÇÃO II — Da inscrição
 
-###### Art. 31.º - A inscrição de um trabalhador de seguros, no activo ou na situação de pré-reforma, como angariador de seguros deve ser proposta ao ISP pela respectiva entidade patronal, seguradora ou corretor, que tenha ministrado a formação básica de mediador.
+Art. 31.º - A inscrição de um trabalhador de seguros, no activo ou na situação de pré-reforma, como angariador de seguros deve ser proposta ao ISP pela respectiva entidade patronal, seguradora ou corretor, que tenha ministrado a formação básica de mediador.
 
 2 - No momento da apresentação da proposta deve ser indicado se o angariador de seguros se destina, de acordo com o disposto no n.º 2 do artigo 30.º, ao exercício da actividade no âmbito dos seguros não vida ou dos seguros de vida, ou de ambos.
 
 3 - Os trabalhadores de seguros já reformados que pretendam inscrever-se como mediadores de seguros podem optar entre a categoria de angariador de seguros ou de agente de seguros, consoante pretendam ou não exercer a sua actividade nos termos do n.º 1 do artigo 35.º
 
-###### Art. 32.º - 1 - Aos candidatos a angariadores de seguros aplica-se o disposto no artigo 22.º, sem prejuízo do previsto no número seguinte.
+Art. 32.º - 1 - Aos candidatos a angariadores de seguros aplica-se o disposto no artigo 22.º, sem prejuízo do previsto no número seguinte.
 
 2 - Encontram-se dispensados da prestação das provas referidas no artigo 22.º os trabalhadores de seguros que preencham os requisitos definidos pelo ISP ao abrigo do disposto no artigo 6.º do seu Estatuto, aprovado pelo [Decreto-Lei n.º 302/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1982-397311), de 30 de Julho, bem como os que tenham frequentado, com aproveitamento, cursos gerais de seguros para o efeito reconhecidos pelo mesmo Instituto.
 
 #### SECÇÃO III — Do cancelamento da inscrição
 
-###### Art. 33.º - 1 - O cancelamento da inscrição como mediador pode, em relação aos angariadores de seguros, resultar, sem prejuízo do disposto no artigo 16.º, do facto de ter deixado de ser trabalhador de seguros e não ter no prazo de 30 dias, solicitado ao ISP a sua inscrição na categoria de agente de seguros.
+Art. 33.º - 1 - O cancelamento da inscrição como mediador pode, em relação aos angariadores de seguros, resultar, sem prejuízo do disposto no artigo 16.º, do facto de ter deixado de ser trabalhador de seguros e não ter no prazo de 30 dias, solicitado ao ISP a sua inscrição na categoria de agente de seguros.
 
 2 - No caso de o mediador vir ainda a informar voluntariamente o ISP da alteração da sua situação profissional após o decurso do prazo referido no número anterior, caberá a este Instituto decidir tendo em conta, nomeadamente, a composição da carteira de seguros do mediador, o benefício económico que o mesmo haja retirado da sua actuação, o impacte sócio-económico do cancelamento, bem como o tempo recorrido.
 
@@ -534,11 +565,11 @@ c) Falta de idoneidade do seu representante em Portugal.
 
 #### SECÇÃO IV — Do exercício da actividade
 
-###### Art. 34.º - 1 - Encontra-se vedada aos angariadores de seguros a mediação em contratos de seguro a que tenham acesso no exercício da sua profissão de trabalhador de seguros.
+Art. 34.º - 1 - Encontra-se vedada aos angariadores de seguros a mediação em contratos de seguro a que tenham acesso no exercício da sua profissão de trabalhador de seguros.
 
 2 - Encontra-se ainda vedada aos angariadores de seguros a mediação relativamente a todos os contratos de seguro dos ramos crédito e caução.
 
-###### Art. 35.º - 1 - O angariador de seguros apenas pode exercer a sua actividade junto da seguradora ou por intermédio do corretor onde exerce a sua profissão de trabalhador de seguros, salvo, relativamente aos trabalhadores das seguradoras, em relação a ramo ou ramos que aquelas não se encontrem autorizadas a explorar.
+Art. 35.º - 1 - O angariador de seguros apenas pode exercer a sua actividade junto da seguradora ou por intermédio do corretor onde exerce a sua profissão de trabalhador de seguros, salvo, relativamente aos trabalhadores das seguradoras, em relação a ramo ou ramos que aquelas não se encontrem autorizadas a explorar.
 
 2 - O disposto no número anterior não se aplica aos angariadores de seguros que não pertençam aos quadros das entidades no mesmo referidas.
 
@@ -550,7 +581,7 @@ c) Falta de idoneidade do seu representante em Portugal.
 
 #### SECÇÃO I — Caracterização
 
-###### Art. 36.º - 1 - Corretor de seguros é o mediador que estabelece a ligação entre os tomadores de seguros e as seguradoras, que escolhe livremente, prepara a celebração dos contratos, presta assistência a esses mesmos contratos e pode exercer funções de consultadoria em matéria de seguros junto dos tomadores, bem como realizar estudos ou emitir pareceres técnicos sobre seguros.
+Art. 36.º - 1 - Corretor de seguros é o mediador que estabelece a ligação entre os tomadores de seguros e as seguradoras, que escolhe livremente, prepara a celebração dos contratos, presta assistência a esses mesmos contratos e pode exercer funções de consultadoria em matéria de seguros junto dos tomadores, bem como realizar estudos ou emitir pareceres técnicos sobre seguros.
 
 2 - O corretor de seguros pode exercer a sua actividade directamente ou por intermédio de agentes de seguros ou de angariadores.
 
@@ -560,7 +591,7 @@ c) Falta de idoneidade do seu representante em Portugal.
 
 #### SECÇÃO II — Da inscrição
 
-###### Art. 37.º - 1 - A inscrição como corretor de seguros depende de autorização do ISP e apenas pode ser considerada em relação aos mediadores que tenham obtido do ISP a qualificação de agentes há pelo menos quatro anos.
+Art. 37.º - 1 - A inscrição como corretor de seguros depende de autorização do ISP e apenas pode ser considerada em relação aos mediadores que tenham obtido do ISP a qualificação de agentes há pelo menos quatro anos.
 
 2 - A inscrição como corretor depende da natureza da carteira de seguros, em termos de segurados e de riscos, com predominância, no caso de exercer a mediação no âmbito dos seguros não vida, da cobertura de riscos industriais, devendo atender-se também, no caso de agente pessoa singular, ao seu currículo profissional.
 
@@ -572,11 +603,11 @@ b) Não lhe ter sido aplicada, nos dois anos transactos à data do pedido, qualq
 
 4 - Sem prejuízo do número anterior, o corretor de seguros pessoa singular pode adoptar a forma de estabelecimento individual de responsabilidade limitada (EIRL).
 
-###### Art. 38.º - 1 - Cumpridos todos os formalismos estabelecidos no artigo anterior, proceder-se-á à inscrição como corretor de seguros, podendo este exercer a sua actividade em relação aos seguros de vida ou aos seguros não vida, ou a ambos, consoante a autorização que havia sido, nos termos do n.º 1 do artigo 19.º, concedida, aquando da inscrição como agente de seguros, ou posteriormente alargada, de harmonia com o n.º 2 do mesmo artigo.
+Art. 38.º - 1 - Cumpridos todos os formalismos estabelecidos no artigo anterior, proceder-se-á à inscrição como corretor de seguros, podendo este exercer a sua actividade em relação aos seguros de vida ou aos seguros não vida, ou a ambos, consoante a autorização que havia sido, nos termos do n.º 1 do artigo 19.º, concedida, aquando da inscrição como agente de seguros, ou posteriormente alargada, de harmonia com o n.º 2 do mesmo artigo.
 
 2 - No caso de um corretor de seguros ter sido autorizado apenas em relação a uma das actividades, o alargamento à outra actividade implica a aprovação, em provas a prestar perante o ISP, ou o cumprimento do disposto na alínea f) do n.º 1 do artigo 24.º, caso se trate de agentes pessoas colectivas.
 
-###### Art. 39.º - 1 - Podem, com dispensa das formalidades previstas no artigo 37.º, solicitar a sua inscrição como corretores os nacionais de outros Estados membros das Comunidades Europeias, aplicando-se-lhes o disposto no artigo 23.º
+Art. 39.º - 1 - Podem, com dispensa das formalidades previstas no artigo 37.º, solicitar a sua inscrição como corretores os nacionais de outros Estados membros das Comunidades Europeias, aplicando-se-lhes o disposto no artigo 23.º
 
 2 - Quando a autorização se refira à mediação apenas em relação a seguros de vida ou a seguros não vida, o alargamento à outra actividade depende de autorização prévia do ISP.
 
@@ -584,7 +615,7 @@ b) Não lhe ter sido aplicada, nos dois anos transactos à data do pedido, qualq
 
 4 - Verificado o preenchimento de todos os requisitos exigíveis e a correcção dos documentos apresentados, a sucursal do corretor de seguros será imediatamente inscrita como mediador na categoria de corretor de seguros.
 
-###### Art. 40.º - 1 - Podem solicitar a sua inscrição como corretores de seguros as pessoas colectivas constituídas sob a égide da lei portuguesa, cujo capital social seja única e exclusivamente detido por corretores de seguros sediados em Portugal ou noutro Estado membro das Comunidades Europeias, desde que preencham os seguintes requisitos:
+Art. 40.º - 1 - Podem solicitar a sua inscrição como corretores de seguros as pessoas colectivas constituídas sob a égide da lei portuguesa, cujo capital social seja única e exclusivamente detido por corretores de seguros sediados em Portugal ou noutro Estado membro das Comunidades Europeias, desde que preencham os seguintes requisitos:
 
 a) Cumprimento do disposto nas alíneas a), b) e d) a f) do n.º 1 do artigo 24.º;
 
@@ -596,11 +627,11 @@ b) Cumprimento do disposto na alínea a) do n.º 3 do artigo 37.º
 
 #### SECÇÃO III — Do cancelamento da inscrição
 
-###### Art. 41.º Ao cancelamento da inscrição como mediador aplica-se, em relação aos corretores de seguros, o disposto nos artigos 28.º e 29.º, com as necessárias adaptações.
+Art. 41.º Ao cancelamento da inscrição como mediador aplica-se, em relação aos corretores de seguros, o disposto nos artigos 28.º e 29.º, com as necessárias adaptações.
 
 #### SECÇÃO IV — Da retirada da categoria de corretor de seguros
 
-###### Art. 42.º O corretor de seguros passará, definitivamente, à categoria de agente de seguros nos seguintes casos:
+Art. 42.º O corretor de seguros passará, definitivamente, à categoria de agente de seguros nos seguintes casos:
 
 a) Quando, sendo pessoa singular, deixar de deter uma carteira de seguros suficientemente diversificada ou de satisfazer o disposto nas alíneas a) e b) do n.º 3 do artigo 37.º;
 
@@ -608,7 +639,7 @@ b) Quando, sendo pessoa colectiva, deixar de satisfazer o disposto no n.º 2 e n
 
 #### SECÇÃO V — Do exercício da actividade
 
-###### Art. 43.º - 1 - Os corretores de seguros podem trabalhar com os seus angariadores de seguros ou com agentes de seguros.
+Art. 43.º - 1 - Os corretores de seguros podem trabalhar com os seus angariadores de seguros ou com agentes de seguros.
 
 2 - Os contratos em que intervenha um angariador de seguros ou um agente de seguros, colocados nas seguradoras por intermédio de um corretor, fazem parte integrante da carteira deste.
 
@@ -616,7 +647,7 @@ b) Quando, sendo pessoa colectiva, deixar de satisfazer o disposto no n.º 2 e n
 
 4 - Os corretores podem, sem prejuízo do disposto nos n.os 1 e 5 do artigo 12.º, recorrer à colaboração remunerada de outros corretores ou de agentes que não tenham a qualificação de exclusivos.
 
-###### Art. 44.º Para além do disposto nos artigos 8.º, 9.º e 10.º, constituem obrigações específicas do corretor de seguros:
+Art. 44.º Para além do disposto nos artigos 8.º, 9.º e 10.º, constituem obrigações específicas do corretor de seguros:
 
 a) Sugerir ao tomador de seguro medidas de prevenção adequadas à diminuição do risco;
 
@@ -642,7 +673,7 @@ l) Enviar ao ISP o balanço e o desenvolvimento da conta de ganhos e perdas, ref
 
 m) Prestar ao ISP todos os esclarecimentos de que este necessite.
 
-###### Art. 45.º - 1 - O direito à comissão de corretagem apenas pode ser exercido em relação aos prémios vencidos a partir da data da inscrição como corretor de seguros.
+Art. 45.º - 1 - O direito à comissão de corretagem apenas pode ser exercido em relação aos prémios vencidos a partir da data da inscrição como corretor de seguros.
 
 2 - Em caso de retirada da categoria de corretor de seguros, nos termos do artigo 42.º, apenas tem direito à comissão de corretagem relativa aos prémios vencidos até à data em que deixou de ser corretor de seguros.
 
@@ -650,7 +681,7 @@ m) Prestar ao ISP todos os esclarecimentos de que este necessite.
 
 ### CAPÍTULO VI — Da livre prestação de serviços
 
-###### Art. 46.º - 1 - A actividade de mediação de seguros pode ser exercida em regime de livre prestação de serviços, por pessoas, singulares ou colectivas, estabelecidas num outro Estado membro das Comunidades Europeias, em relação a contratos de seguro celebrados em Portugal, nos termos do presente diploma.
+Art. 46.º - 1 - A actividade de mediação de seguros pode ser exercida em regime de livre prestação de serviços, por pessoas, singulares ou colectivas, estabelecidas num outro Estado membro das Comunidades Europeias, em relação a contratos de seguro celebrados em Portugal, nos termos do presente diploma.
 
 2 - O exercício da actividade de mediação de seguros em regime de livre prestação de serviços fica subordinado à obtenção de uma autorização, a conceder para o efeito, pelo ISP, entidade que igualmente exercerá a respectiva fiscalização e acção disciplinar.
 
@@ -682,9 +713,9 @@ b) Estatutos ou pacto social.
 
 ### CAPÍTULO VII — Da fiscalização e das sanções
 
-###### Art. 47.º A actividade de mediação fica sujeita à fiscalização do Instituto de Seguros de Portugal.
+Art. 47.º A actividade de mediação fica sujeita à fiscalização do Instituto de Seguros de Portugal.
 
-###### Art. 48.º - 1 - Incorre na coima de 100000$00 a 10000000$00, sem prejuízo de pena mais grave que no caso caiba, o mediador que cometa qualquer das seguintes contra-ordenações:
+Art. 48.º - 1 - Incorre na coima de 100000$00 a 10000000$00, sem prejuízo de pena mais grave que no caso caiba, o mediador que cometa qualquer das seguintes contra-ordenações:
 
 a) Não cumprimento de qualquer das obrigações previstas nas alíneas b), c), f), g), h) ou i) do artigo 8.º;
 
@@ -710,11 +741,11 @@ l) Prática de concorrência desleal, nomeadamente através da difusão de dados
 
 2 - Incorre na coima de 500000$00 a 10000000$00 o corretor que exerça a actividade de mediação através de pessoas que não as referidas no n.º 1 do artigo 43.º
 
-###### Art. 49.º - 1 - O exercício da mediação de seguros por pessoa que não se encontre inscrita no ISP como mediador constitui contra-ordenação, punível com a coima de 100000$00 a 10000000$00, não tendo o infractor direito a quaisquer comissões.
+Art. 49.º - 1 - O exercício da mediação de seguros por pessoa que não se encontre inscrita no ISP como mediador constitui contra-ordenação, punível com a coima de 100000$00 a 10000000$00, não tendo o infractor direito a quaisquer comissões.
 
 2 - Conjuntamente com a coima prevista no número anterior, poderá ser aplicada a sanção acessória de interdição da actividade de mediação durante o prazo máximo de 10 anos.
 
-###### Art. 50.º Poderá ser aplicada a sanção acessória de interdição da actividade de mediação por um período até ao máximo de 10 anos, com cancelamento da respectiva inscrição, nas seguintes contra-ordenações previstas no artigo 48.º:
+Art. 50.º Poderá ser aplicada a sanção acessória de interdição da actividade de mediação por um período até ao máximo de 10 anos, com cancelamento da respectiva inscrição, nas seguintes contra-ordenações previstas no artigo 48.º:
 
 a) Não cumprimento das obrigações previstas na alínea f) do artigo 8.º;
 
@@ -728,25 +759,25 @@ e) Violação do disposto no contrato de exclusividade a que se refere o artigo 
 
 f) Prática de concorrência desleal, nomeadamente através da difusão de dados falsos relativamente a seguradoras ou a outro mediador ou através de fornecimento ao segurado de dados incorrectos, com o intuito de obter um benefício próprio.
 
-###### Art. 51.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
+Art. 51.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
 
 2 - Sem prejuízo dos limites máximos fixados, a coima deverá, sempre que possível, exceder o benefício económico que o infractor retirou da prática da contra-ordenação.
 
-###### Art. 52.º - 1 - As infracções previstas no presente capítulo serão verificadas pelo ISP, competindo-lhe igualmente a instauração dos respectivos processos de contra-ordenação e a aplicação das sanções.
+Art. 52.º - 1 - As infracções previstas no presente capítulo serão verificadas pelo ISP, competindo-lhe igualmente a instauração dos respectivos processos de contra-ordenação e a aplicação das sanções.
 
 2 - Às contra-ordenações previstas no presente capítulo são subsidiariamente aplicáveis em tudo o que não contrarie as disposições dele constantes, as normas de direito substantivo e processual do regime geral do ilícito de mera ordenação social.
 
 ### CAPÍTULO VIII — Disposições complementares
 
-###### Art. 53.º - 1 - As seguradoras podem recusar a colaboração de um mediador, bem como não aceitar determinado seguro proposto por qualquer mediador.
+Art. 53.º - 1 - As seguradoras podem recusar a colaboração de um mediador, bem como não aceitar determinado seguro proposto por qualquer mediador.
 
 2 - Os corretores de seguros podem recusar a colaboração de um agente ou angariador de seguros, bem como não aceitar colocar determinado seguro proposto por qualquer um daqueles.
 
-###### Art. 54.º - 1 - A abertura de delegações ou qualquer outra forma de representação no território nacional é permitida aos mediadores que revistam a natureza de pessoas colectivas.
+Art. 54.º - 1 - A abertura de delegações ou qualquer outra forma de representação no território nacional é permitida aos mediadores que revistam a natureza de pessoas colectivas.
 
 2 - A abertura prevista no número anterior deve ser comunicada ao ISP com antecedência mínima de 10 dias.
 
-###### Art. 55.º Incorre na coima de 100000$00 a 10000000$00, sem prejuízo de pena mais grave que no caso caiba, a seguradora que cometa qualquer das seguintes contra-ordenações:
+Art. 55.º Incorre na coima de 100000$00 a 10000000$00, sem prejuízo de pena mais grave que no caso caiba, a seguradora que cometa qualquer das seguintes contra-ordenações:
 
 a) Pagamento de comissões a pessoas singulares ou coletivas que não se enquadrem nos termos das alíneas a) a c) do n.º 1 e nas alíneas a) a c) do n.º 2 do artigo 3.º;
 
@@ -758,24 +789,24 @@ d) Não cumprimento do disposto nos n.os 2 e 3 do artigo 27.º
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### Art. 56.º Os mediadores inscritos no ISP à data da entrada em vigor do presente decreto-lei podem continuar a exercer a sua actividade quer em relação aos seguros de vida, incluindo operações de capitalização e fundos de pensões, quer em relação aos seguros não vida.
+Art. 56.º Os mediadores inscritos no ISP à data da entrada em vigor do presente decreto-lei podem continuar a exercer a sua actividade quer em relação aos seguros de vida, incluindo operações de capitalização e fundos de pensões, quer em relação aos seguros não vida.
 
-###### Art. 57.º O disposto no presente diploma, nomeadamente no que concerne a processo e requisitos de inscrição, é igualmente aplicável às propostas de inscrição como mediador que se encontrem pendentes no ISP à data da sua entrada em vigor, contando-se, no entanto, para efeitos de prazos, o tempo já decorrido desde a entrada do processo nesse Instituto.
+Art. 57.º O disposto no presente diploma, nomeadamente no que concerne a processo e requisitos de inscrição, é igualmente aplicável às propostas de inscrição como mediador que se encontrem pendentes no ISP à data da sua entrada em vigor, contando-se, no entanto, para efeitos de prazos, o tempo já decorrido desde a entrada do processo nesse Instituto.
 
-###### Art. 58.º Os mediadores pessoas colectivas existentes à data da entrada em vigor do presente diploma dispõem de um prazo de um ano a contar dessa mesma data, para se conformarem ao disposto nas alíneas d) e f) do n.º 1 do artigo 24.º
+Art. 58.º Os mediadores pessoas colectivas existentes à data da entrada em vigor do presente diploma dispõem de um prazo de um ano a contar dessa mesma data, para se conformarem ao disposto nas alíneas d) e f) do n.º 1 do artigo 24.º
 
-###### Art. 59.º São revogados os Decretos-Leis n.os [336/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1985-181048), de 21 de Agosto, [172-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1986-518810), de 30 de Junho, e [386/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1989-549993), de 9 de Novembro.
+Art. 59.º São revogados os Decretos-Leis n.os [336/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1985-181048), de 21 de Agosto, [172-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1986-518810), de 30 de Junho, e [386/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1989-549993), de 9 de Novembro.
 
-###### Art. 60.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1992.
+Art. 60.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1992.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Outubro de 1991.**
+Referendado em 1 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/1992/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1992-292310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebd5d6dc14fb436cc477ae346194de46714320900a75d9d8caa5057408385391
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8950dc226b43703c83184d941f8bb2069401a1f8a2bfcb7789cf1303bbb531b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Turismo
 - Enatur
 - Estatuto
+- Sociedade Anónima
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:213810:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros Ministros, a responsabilidade\
+    \ do Ministro do Turismo, sobre a ENATUR – Empresa Nacional de Turismo, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Cometida a responsabilidade da ENATUR - Empresa Nacional de Turismo, S.A., cujos estatutos constam do presente diploma,\
+    \ ao Ministro do Turismo, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros Ministros, pelo\
+    \ DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
+- type: cites
+  target: pt:dre:228469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574767:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:44Z'
   warnings: []
   errors: []
 ---
@@ -108,29 +134,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública ENATUR - Empresa Nacional de Turismo, E. P., criada pelo [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, alterado pelos Decretos-Leis n.os [157/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1986-228469), de 25 de Junho, e [180/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1990-574767), de 5 de Junho, é transformada em sociedade anónima de capitais maioritariamente públicos, com a denominação de ENATUR - Empresa Nacional de Turismo, S. A., designada abreviadamente por ENATUR, S. A.
+Artigo 1.º - 1 - A empresa pública ENATUR - Empresa Nacional de Turismo, E. P., criada pelo [Decreto-Lei n.º 662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, alterado pelos Decretos-Leis n.os [157/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1986-228469), de 25 de Junho, e [180/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1990-574767), de 5 de Junho, é transformada em sociedade anónima de capitais maioritariamente públicos, com a denominação de ENATUR - Empresa Nacional de Turismo, S. A., designada abreviadamente por ENATUR, S. A.
 
 2 - A ENATUR, S. A., rege-se pelo presente diploma, pelos seus estatutos, pela legislação geral aplicável às sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 2.º - 1 - A ENATUR, S. A., sucede automática e globalmente à ENATUR - Empresa Nacional de Turismo, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A ENATUR, S. A., sucede automática e globalmente à ENATUR - Empresa Nacional de Turismo, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da ENATUR, S. A.
 
-###### Art. 3.º - 1 - O capital social da ENATUR, S. A., é de 1657500000$00 e encontra-se integralmente subscrito e realizado pelos valores integrantes do património da sociedade.
+Art. 3.º - 1 - O capital social da ENATUR, S. A., é de 1657500000$00 e encontra-se integralmente subscrito e realizado pelos valores integrantes do património da sociedade.
 
 2 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, deva pertencer ao sector público.
 
 3 - Os direitos do Estado como accionista da ENATUR, S. A., serão exercidos por um representante nomeado por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do número anterior.
 
-###### Art. 4.º - 1 - São aprovados os estatutos da ENATUR, S. A., anexos ao presente diploma.
+Art. 4.º - 1 - São aprovados os estatutos da ENATUR, S. A., anexos ao presente diploma.
 
 2 - As eventuais alterações dos estatutos produzirão todos os seus efeitos desde que deliberadas nos termos dos mesmos e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
 3 - A alteração da natureza jurídica efectuada pelo artigo 1.º bem como os estatutos agora aprovados produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser requerido nos 90 dias seguintes à entrada em vigor deste diploma.
 
-###### Art. 5.º A ENATUR, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+Art. 5.º A ENATUR, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e do Comércio e Turismo, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e do Comércio e Turismo, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -138,23 +164,23 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministros das Finanças e do Comércio e Turismo um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 7.º Os trabalhadores e pensionistas da ENATUR, E. P., mantêm todos os direitos e obrigações que detiverem à data de entrada em vigor do presente diploma.
+Art. 7.º Os trabalhadores e pensionistas da ENATUR, E. P., mantêm todos os direitos e obrigações que detiverem à data de entrada em vigor do presente diploma.
 
-###### Art. 8.º Fica desde já convocada a assembleia geral da ENATUR, S. A., a qual reunirá na sede da sociedade no 30.º dia posterior à data de publicação do presente diploma ou no 1.º dia útil subsequente àquele, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório, mantendo-se em funções os actuais membros do conselho de administração e da comissão de fiscalização até à data da posse dos novos membros dos órgãos sociais.
+Art. 8.º Fica desde já convocada a assembleia geral da ENATUR, S. A., a qual reunirá na sede da sociedade no 30.º dia posterior à data de publicação do presente diploma ou no 1.º dia útil subsequente àquele, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório, mantendo-se em funções os actuais membros do conselho de administração e da comissão de fiscalização até à data da posse dos novos membros dos órgãos sociais.
 
-###### Art. 9.º São revogados os Decretos-Leis n.os [662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, [157/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1986-228469), de 25 de Junho, e [180/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1990-574767), de 5 de Junho.
+Art. 9.º São revogados os Decretos-Leis n.os [662/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/662-1976-429775), de 4 de Agosto, [157/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1986-228469), de 25 de Junho, e [180/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1990-574767), de 5 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos de ENATUR - Empresa Nacional de Turismo, S. A.
 

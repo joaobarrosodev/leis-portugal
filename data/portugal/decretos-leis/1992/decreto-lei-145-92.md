@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/145/1992/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1992-292303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b433ba43599909d2ba55c4ac81430a591f54e6135d889a5fe62a6de461f18830
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6180e4d48bbd61c58eb95f38bf368b156393074de39f8dca3f4792b4a695b9c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Capital Europeia da Cultura
+- Estatuto
 - Lisboa-capital Europeia da Cultura 94
 - Manifestação Cultural
-- Estatuto
-- Sociedade Lisboa 94
-- Capital Europeia da Cultura
 - Política Cultural
-relationships: []
+- Sociedade Anónima
+- Sociedade Lisboa 94
+relationships:
+- type: amended_by
+  target: pt:dre:628039:por
+  label: "ALTERADO O ARTIGO 3, PELO DECRETO LEI 65/93, PUBLICADO NO DR.IS-A, 58, DE 930310.\0310.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1993-628039
+- type: amended_by
+  target: pt:dre:628039:por
+  label: "Alterado o art. 3º, pelo DEC LEI.65/93.10.03.1993.PCM, DR.IS-A [58] de 10.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1993-628039
+  date: '1993-03-10'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:34Z'
   warnings: []
   errors: []
 ---
@@ -105,41 +114,41 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Entre o Estado e o município de Lisboa é constituída a sociedade anónima Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., adiante designada por Sociedade.
+Artigo 1.º - 1 - Entre o Estado e o município de Lisboa é constituída a sociedade anónima Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., adiante designada por Sociedade.
 
 2 - O Estado e o município de Lisboa terão igual participação no capital da Sociedade, devendo esta paridade manter-se em qualquer circunstância até à sua extinção.
 
-###### Art. 2.º A Sociedade rege-se pelo disposto no presente diploma, pelos estatutos a ele anexos e, no que neles for omisso, pelas normas aplicáveis às sociedades anónimas.
+Art. 2.º A Sociedade rege-se pelo disposto no presente diploma, pelos estatutos a ele anexos e, no que neles for omisso, pelas normas aplicáveis às sociedades anónimas.
 
-###### Art. 3.º - 1 - A Sociedade goza de personalidade jurídica desde a data de entrada em vigor do presente diploma, que constitui título suficiente para a inscrição no registo comercial.
+Art. 3.º - 1 - A Sociedade goza de personalidade jurídica desde a data de entrada em vigor do presente diploma, que constitui título suficiente para a inscrição no registo comercial.
 
 2 - O registo da Sociedade é isento de quaisquer taxas e emolumentos.
 
-###### Art. 4.º O representante do Estado na assembleia geral é designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da cultura.
+Art. 4.º O representante do Estado na assembleia geral é designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da cultura.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 26 de Junho de 1992.**
+Promulgado em 26 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1992.**
+Referendado em 2 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos de Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultural, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A.
 
-###### Art. 2.º A Sociedade tem sede em Lisboa e dura até ao dia 31 de Março de 1995.
+Art. 2.º A Sociedade tem sede em Lisboa e dura até ao dia 31 de Março de 1995.
 
-###### Art. 3.º A Sociedade tem por objecto promover a realizaão do evento denominado «Lisboa - Capital Europeia da Cultura 1994».
+Art. 3.º A Sociedade tem por objecto promover a realizaão do evento denominado «Lisboa - Capital Europeia da Cultura 1994».
 
-###### Art. 4.º - 1 - Para a realização do seu objecto social, incumbe especialmente à Sociedade:
+Art. 4.º - 1 - Para a realização do seu objecto social, incumbe especialmente à Sociedade:
 
 a) Coordenar e organizar o programa das iniciativas que se integrem no evento;
 
@@ -153,7 +162,7 @@ d) Promover a realização das iniciativas que sejam incluídas no programa do e
 
 ### CAPÍTULO II — Capital social e acções
 
-###### Art. 5.º - 1 - O capital social é de 500000000$00, dividido em 500000 acções de 1000$00 cada uma, encontrando-se nesta data realizado em 100000000$00.
+Art. 5.º - 1 - O capital social é de 500000000$00, dividido em 500000 acções de 1000$00 cada uma, encontrando-se nesta data realizado em 100000000$00.
 
 2 - A realização do remanescente deverá ser efectuada em duas prestações, nos termos seguintes:
 
@@ -171,13 +180,13 @@ b) 200000000$00 até 30 de Junho de 1993.
 
 #### SECÇÃO I — A Assembleia geral
 
-###### Art. 6.º - 1 - A assembleia geral é formada pelos accionistas com direito a, pelo menos, um voto.
+Art. 6.º - 1 - A assembleia geral é formada pelos accionistas com direito a, pelo menos, um voto.
 
 2 - A cada 100 acções corresponde um voto.
 
 3 - Nos trabalhos da assembleia devem participar, sem direito a voto, os membros do conselho de administração e do conselho fiscal.
 
-###### Art. 7.º Compete à assembleia geral:
+Art. 7.º Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração;
 
@@ -191,17 +200,17 @@ e) Deliberar sobre as remunerações dos membros dos órgãos sociais;
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 8.º - 1 - A mesa da assembleia geral é constituída por um presidente e por dois secretários.
+Art. 8.º - 1 - A mesa da assembleia geral é constituída por um presidente e por dois secretários.
 
 2 - Os membros da mesa da assembleia geral são eleitos por esta.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 9.º - 1 - O conselho de administração é composto por um presidente e seis ou oito administradores.
+Art. 9.º - 1 - O conselho de administração é composto por um presidente e seis ou oito administradores.
 
 2 - Os membros do conselho de administração são eleitos pela assembleia geral, que designa, de entre os administradores, dois vice-presidentes.
 
-###### Art. 10.º - 1 - Compete ao conselho de administração:
+Art. 10.º - 1 - Compete ao conselho de administração:
 
 a) Aprovar o plano de actividades anual e plurianual;
 
@@ -227,11 +236,11 @@ j) Constituir mandatários com os poderes que julgue convenientes.
 
 3 - A comissão executiva terá os poderes que lhe forem delegados pelo conselho de administração, ficando consignados em acta os limites e condições do exercício de tal delegação.
 
-###### Art. 11.º - 1 - O conselho de administração reúne mensalmente e sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
+Art. 11.º - 1 - O conselho de administração reúne mensalmente e sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
 
 2 - Quando haja sido criada, a comissão executiva reúne-se semanalmente ou sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
 
-###### Art. 12.º - 1 - A sociedade obriga-se:
+Art. 12.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -241,13 +250,13 @@ b) Pela assinatura de um membro do conselho de administração e de um mandatár
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 13.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois ou quatro vogais efectivos, um dos quais será revisor oficial de contas, e dois vogais suplentes.
+Art. 13.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois ou quatro vogais efectivos, um dos quais será revisor oficial de contas, e dois vogais suplentes.
 
 2 - Os membros do conselho fiscal são eleitos em assembleia geral.
 
 #### SECÇÃO IV — Conselho consultivo
 
-###### Art. 14.º - 1 - O conselho consultivo é composto por um representante do membro do Governo responsável pela área da cultura, por um representante do presidente da Câmara Municipal de Lisboa, pelo presidente do conselho de administração, que presidirá e ainda por:
+Art. 14.º - 1 - O conselho consultivo é composto por um representante do membro do Governo responsável pela área da cultura, por um representante do presidente da Câmara Municipal de Lisboa, pelo presidente do conselho de administração, que presidirá e ainda por:
 
 a) Um representante do Ministro do Planeamento e da Administração do Território;
 
@@ -289,7 +298,7 @@ r) Um representante da Administração do Porto de Lisboa.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 15.º - 1 - A Sociedade dissolve-se, sem prejuízo dos demais casos previstos na lei, pelo decurso do prazo por que a constituída, entrando em liquidação a partir do dia 1 de Abril de 1995.
+Art. 15.º - 1 - A Sociedade dissolve-se, sem prejuízo dos demais casos previstos na lei, pelo decurso do prazo por que a constituída, entrando em liquidação a partir do dia 1 de Abril de 1995.
 
 2 - A liquidação deve estar encerrada e a partilha aprovada até ao dia 31 de Dezembro de 1995.
 

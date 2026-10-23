@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/217a00/49784979.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/355/1991/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1991-301634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7386334f6346fb8e34b67808292dc7874f65cca9dc684c3316fefec09c56da09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173923a99154e48dba491500e068c699c8926da2150bf0806054ad263b59de8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567176:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:57Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +117,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 108.º e 110.º da Lei Orgânica do Laboratório Nacional de Engenharia Civil, constante do [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), de 29 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os [346/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1981-567176), de 21 de Dezembro, e [142/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1984-385021), de 8 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 108.º e 110.º da Lei Orgânica do Laboratório Nacional de Engenharia Civil, constante do [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), de 29 de Dezembro, com as alterações introduzidas pelos Decretos-Leis n.os [346/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1981-567176), de 21 de Dezembro, e [142/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1984-385021), de 8 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 108.º — Recrutamento e provimento do pessoal dirigente
 
@@ -134,12 +151,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

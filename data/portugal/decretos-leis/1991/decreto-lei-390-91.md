@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/233a00/52765277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/390/1991/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1991-288059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09c62afb718fbe46108371611eb5bcbddfd88f8ce54342cd7fc21cd98b173e7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7b7698770165bce1ce2b53b627a36ec58afd2aa8888253c6f89038086bfcfa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agente Desportivo
-- Sanção Disciplinar
 - Crime
-- Responsabilidade Criminal
 - Desporto
+- Responsabilidade Criminal
+- Sanção Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:494790:por
@@ -79,16 +79,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1991/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1991/08/03/p/dre
+- type: cites
+  target: pt:dre:687014:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641157:por
+  label: "Revogado, a partir de 15.09.2007, com excepção do art. 5º, pela LEI.50/2007.31.08.2007.AR, DR.IS [168] de 31.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2007-641157
+  date: '2007-08-31'
+- type: repealed_by
+  target: pt:dre:494790:por
+  label: "Revogado o art. 5.º pela LEI.27/2009.19.06.2009.AR, DR.IS [117] de 19.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2009-494790
+  date: '2009-06-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:42Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +132,13 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 49/91](https://diariodarepublica.pt/dr/detalhe/lei/49-1991-687014), de 3 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Para efeitos do presente diploma, considera-se:
+Artigo 1.º Para efeitos do presente diploma, considera-se:
 
 a) Praticante desportivo - aquele que, a título individual ou integrado num conjunto, participa em competição desportiva;
 
 b) Competição desportiva - a actividade desportiva organizada, regulamentada e exercida através das federações desportivas e das associações nelas filiadas.
 
-###### Art. 2.º - 1 - Quem, na qualidade de praticante desportivo, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, que não lhe sejam devidas, como contrapartida de acto ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva será punido com pena de prisão até dois anos.
+Art. 2.º - 1 - Quem, na qualidade de praticante desportivo, por si ou por interposta pessoa, com o seu consentimento ou ratificação, solicitar ou aceitar, para si ou para terceiro, vantagem patrimonial ou não patrimonial, ou a sua promessa, que não lhe sejam devidas, como contrapartida de acto ou omissão destinados a alterar ou falsear o resultado de uma competição desportiva será punido com pena de prisão até dois anos.
 
 2 - Se o facto não for executado ou, tendo-o sido, dele não resultar o efeito pretendido pelo agente, a pena será a de prisão até um ano.
 
@@ -131,25 +146,25 @@ b) Competição desportiva - a actividade desportiva organizada, regulamentada e
 
 4 - A tentativa é punível.
 
-###### Art. 3.º - 1 - Se os factos descritos no artigo anterior forem praticados por árbitro ou equiparado, cuja função consista em apreciar, julgar ou decidir a aplicação das regras técnicas e de disciplina próprias da modalidade desportiva, a pena será a de prisão até quatro anos.
+Art. 3.º - 1 - Se os factos descritos no artigo anterior forem praticados por árbitro ou equiparado, cuja função consista em apreciar, julgar ou decidir a aplicação das regras técnicas e de disciplina próprias da modalidade desportiva, a pena será a de prisão até quatro anos.
 
 2 - Na mesma pena incorre quem praticar os factos descritos no artigo anterior na qualidade de dirigente, treinador, preparador físico, orientador técnico, médico, massagista ou na de agente de qualquer outra actividade de apoio ao praticante desportivo.
 
 3 - É correspondentemente aplicável aos números anteriores o disposto nos n.os 2 e 3 do artigo anterior, mas, no primeiro caso, a pena será a de prisão até dois anos.
 
-###### Art. 4.º - 1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a praticante desportivo vantagem patrimonial ou não patrimonial, que lhe não seja devida, com o fim indicado no artigo 2.º será punido com prisão até três anos.
+Art. 4.º - 1 - Quem, por si ou por interposta pessoa, com o seu consentimento ou ratificação, der ou prometer a praticante desportivo vantagem patrimonial ou não patrimonial, que lhe não seja devida, com o fim indicado no artigo 2.º será punido com prisão até três anos.
 
 2 - Se o facto descrito no número anterior for praticado relativamente a qualquer das pessoas referidas no artigo 3.º, a pena será a de prisão até quatro anos.
 
 3 - A tentativa é punível.
 
-###### Art. 5.º - 1 - Quem, com ou sem o consentimento do praticante desportivo, lhe administrar substâncias ou produtos, ou utilizar outros métodos susceptíveis de alterarem artificialmente o rendimento desportivo do praticante, será punido com prisão até dois anos.
+Art. 5.º - 1 - Quem, com ou sem o consentimento do praticante desportivo, lhe administrar substâncias ou produtos, ou utilizar outros métodos susceptíveis de alterarem artificialmente o rendimento desportivo do praticante, será punido com prisão até dois anos.
 
 2 - Consideram-se substâncias ou produtos susceptíveis de alterarem artificialmente o rendimento desportivo do praticante, nomeadamente, os definidos no âmbito de cada modalidade desportiva e que constem, obrigatoriamente, de listas a publicar por cada federação.
 
 3 - A tentativa é punível.
 
-###### Art. 6.º Aos agentes dos crimes previstos neste diploma podem ser aplicadas as seguintes penas acessórias:
+Art. 6.º Aos agentes dos crimes previstos neste diploma podem ser aplicadas as seguintes penas acessórias:
 
 a) Suspensão, por tempo de seis meses a três anos, de participação em competição desportiva;
 
@@ -157,24 +172,24 @@ b) Privação do direito a receber subsídios oficiais por tempo de um a cinco a
 
 c) Suspensão do exercício de função ou actividade por tempo de dois a seis anos, tratando-se de árbitro ou equiparado ou de titular de órgão de federação, associação, liga ou organismo similar e de dirigente de clube desportivo ou titular de órgão de sociedades com fins desportivos.
 
-###### Art. 7.º - 1 - O exercício da acção penal pelos crimes previstos neste diploma e a decisão que defina a responsabilidade criminal não prejudicam o uso das providências, nomeadamente de natureza disciplinar, previstas nos regulamentos das federações desportivas e a competência própria dos respectivos órgãos.
+Art. 7.º - 1 - O exercício da acção penal pelos crimes previstos neste diploma e a decisão que defina a responsabilidade criminal não prejudicam o uso das providências, nomeadamente de natureza disciplinar, previstas nos regulamentos das federações desportivas e a competência própria dos respectivos órgãos.
 
 2 - A abertura de inquérito pelos crimes previstos neste diploma não prejudica o exercício do poder disciplinar segundo as normas específicas do procedimento disciplinar desportivo.
 
 3 - Os titulares dos órgãos das federações desportivas devem transmitir ao Ministério Público notícia das infracções ao disposto na presente lei de que tenham conhecimento no exercício das suas funções ou por causa delas.
 
-###### Art. 8.º - 1 - As federações desportivas deverão promover a realização de acções formativas, pedagógicas e educativas, com a finalidade de sensibilizar todos os agentes desportivos e prevenir a ocorrência de circunstâncias susceptíveis de alterarem fraudulentamente a verdade da competição desportiva.
+Art. 8.º - 1 - As federações desportivas deverão promover a realização de acções formativas, pedagógicas e educativas, com a finalidade de sensibilizar todos os agentes desportivos e prevenir a ocorrência de circunstâncias susceptíveis de alterarem fraudulentamente a verdade da competição desportiva.
 
 2 - No mesmo sentido, acções de formação, pedagógicas e educativas devem ser prosseguidas, em colaboração com as federações desportivas, pelas associações e pelos clubes desportivos.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Outubro de 1991.**
+Referendado em 1 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

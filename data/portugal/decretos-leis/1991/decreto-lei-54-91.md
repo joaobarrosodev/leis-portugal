@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/022a00/04500450.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/1991/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1991-508233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfe84fe27aacc2a1db2178566833fc1a13247f0a4ee51a4377384939175ceb41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2080dcc3a1461884495fd087adf4a135bca0c420b1e191d80f04ba8a8e7174e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
 subjects:
 - PSP
 - Subsídio de Risco
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:308684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:13Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto-Lei n.º 196/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1979-381168), de 29 de Junho, na redacção que lhe foi dada pelos Decretos-Leis n.os [368/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1980-464042), de 10 de Setembro, e [57/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1983-308684), de 1 de Fevereiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto-Lei n.º 196/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1979-381168), de 29 de Junho, na redacção que lhe foi dada pelos Decretos-Leis n.os [368/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1980-464042), de 10 de Setembro, e [57/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1983-308684), de 1 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -105,12 +117,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

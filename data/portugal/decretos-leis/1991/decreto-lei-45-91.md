@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/020a00/04190420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/1991/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1991-507811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10eea7dc58af49ac22306a3e6e8e5c44526e1a1c9e452b2c28f1c73e608f2de2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a7f02ecbd9a71264479c012b224168234014a88732c4b45623cf37403e948bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Bragança
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:668291:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668291:por
+  label: "Revogado pelo DEC LEI.278/95.1995.10.25.MA, DR.IS-A [247]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1995-668291
+  date: '1995-10-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:58Z'
   warnings: []
   errors: []
 ---
@@ -101,24 +118,24 @@ Com fundamento nos artigos 19.º, 20.º e 24.º da [Lei n.º 30/86](https://diar
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada a Zona de Caça Nacional da Lombada, situada nas freguesias de Aveleda, Deilão, Rio de Onor, São Julião e Babe, do Município de Bragança, com uma área total de 18000 ha, cujos limites constam da planta anexa ao presente diploma, de que faz parte integrante.
+Artigo 1.º É criada a Zona de Caça Nacional da Lombada, situada nas freguesias de Aveleda, Deilão, Rio de Onor, São Julião e Babe, do Município de Bragança, com uma área total de 18000 ha, cujos limites constam da planta anexa ao presente diploma, de que faz parte integrante.
 
-###### Art. 2.º Os planos de ordenamento e exploração para a Zona de Caça da Lombada são aprovados por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais, nos termos do artigo 128.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+Art. 2.º Os planos de ordenamento e exploração para a Zona de Caça da Lombada são aprovados por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais, nos termos do artigo 128.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
 
-###### Art. 3.º O disposto no presente diploma não prejudica as competências do Serviço Nacional de Parques, Reservas e Conservação da Natureza, consagradas pelo [Decreto-Lei n.º 355/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1979-370045), de 30 de Agosto.
+Art. 3.º O disposto no presente diploma não prejudica as competências do Serviço Nacional de Parques, Reservas e Conservação da Natureza, consagradas pelo [Decreto-Lei n.º 355/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1979-370045), de 30 de Agosto.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 de Março de 1991.
+Art. 4.º O presente diploma entra em vigor no dia 1 de Março de 1991.
 
 Visto e aprovado em Conselho de Ministros de 15 de Novembro de 1990. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Luís Francisco Valente de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Janeiro de 1991.**
+Referendado em 7 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/020a00/04190420.pdf))](https://files.diariodarepublica.pt/1s/1991/01/020a00/04190420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/020a00/04190420.pdf)

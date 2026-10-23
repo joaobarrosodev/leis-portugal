@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19306-1962-163840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91581cad74f9ae4a7ec7a1b3c3dc5284ea53d5bcd2a8ea54735ec639bda71352
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbda3b5d5b17be811f9b1ac8c8dc33ae1beba408cfcedfd3f2edbdbf791eb230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141005:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:28Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +96,11 @@ Regulamento de Uniformes dos Corpos da Guarda Fiscal das Províncias da Guiné, 
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Os graduados e guardas são obrigados à estrita e completa, observância do disposto no presente regulamento de uniformes, competindo aos oficiais do Exército em serviço nos corpos da Guarda Fiscal e aos respectivos graduados exercer continuamente uma rigorosa fiscalização sobre os seus inferiores, exigindo-lhes o exacto cumprimento do disposto no citado regulamento, reprimindo ou dando conhecimento de todas as faltas provenientes da sua não observância.
+Artigo 1.º Os graduados e guardas são obrigados à estrita e completa, observância do disposto no presente regulamento de uniformes, competindo aos oficiais do Exército em serviço nos corpos da Guarda Fiscal e aos respectivos graduados exercer continuamente uma rigorosa fiscalização sobre os seus inferiores, exigindo-lhes o exacto cumprimento do disposto no citado regulamento, reprimindo ou dando conhecimento de todas as faltas provenientes da sua não observância.
 
-###### Art. 2.º Não é permitido o uso de uniformes aos graduados e guardas que, sem ser em acto de serviço a compareçam a reuniões de carácter político ou eleitoral, aos que, encontrando-se no gozo de licença, se entreguem ao trabalho de qualquer profissão civil e ainda aos separados do serviço.
+Art. 2.º Não é permitido o uso de uniformes aos graduados e guardas que, sem ser em acto de serviço a compareçam a reuniões de carácter político ou eleitoral, aos que, encontrando-se no gozo de licença, se entreguem ao trabalho de qualquer profissão civil e ainda aos separados do serviço.
 
-###### Art. 3.º É permitido o uso de trajo civil:
+Art. 3.º É permitido o uso de trajo civil:
 
 a) Aos graduados no gozo de qualquer licença, em passeio e fora das horas normais de expediente;
 
@@ -106,9 +110,9 @@ Tal autorização é da competência dos comandantes de secção;
 
 c) Aos guardas, por motivo de serviço fiscal reservado, quando lhes for determinado ou justificarem tal necessidade no pedido de autorização a submeter ao comandante de secção.
 
-###### Art. 4.º Os guardas a quem for concedida autorização para fazerem uso de trajo civil devem ser portadores de documento donde conste essa autorização, passada por quem a concedeu, e do seu bilhete de identidade.
+Art. 4.º Os guardas a quem for concedida autorização para fazerem uso de trajo civil devem ser portadores de documento donde conste essa autorização, passada por quem a concedeu, e do seu bilhete de identidade.
 
-###### Art. 5.º Não é permitido:
+Art. 5.º Não é permitido:
 
 a) O uso de qualquer artigo de uniforme ou distintivo que não seja prescrito no presente regulamento;
 
@@ -128,21 +132,21 @@ h) O transporte, no braço, de qualquer dos abafos autorizados pelo regulamento 
 
 i) O transporte, quando uniformizados, de volumes ou quaisquer objectos que diminuam o prestígio militar.
 
-###### Art. 6.º É permitido o uso de botas altas, impermeáveis, na época chuvosa, quando em serviço.
+Art. 6.º É permitido o uso de botas altas, impermeáveis, na época chuvosa, quando em serviço.
 
-###### Art. 7.º Os graduados e guardas usarão o cabelo curto e tratado e apresentar-se-ão devidamente barbeados.
+Art. 7.º Os graduados e guardas usarão o cabelo curto e tratado e apresentar-se-ão devidamente barbeados.
 
 Qualquer talhe de barba só poderá ser usado ou modificado depois de devidamente autorizado pelo respectivo comandante de circunscrição.
 
-###### Art. 8.º No caso de luto, usar-se-á no braço esquerdo, acima do cotovelo, um braçal de pano preto de 10 cm de largura.
+Art. 8.º No caso de luto, usar-se-á no braço esquerdo, acima do cotovelo, um braçal de pano preto de 10 cm de largura.
 
-###### Art. 9.º O uniforme, como sinal externo de uma classe, deve ser usado com aprumo e dignidade, sendo expressamente proibido fazer uso dele em circunstâncias ou lugares de que resulte diminuição do prestígio da função pública.
+Art. 9.º O uniforme, como sinal externo de uma classe, deve ser usado com aprumo e dignidade, sendo expressamente proibido fazer uso dele em circunstâncias ou lugares de que resulte diminuição do prestígio da função pública.
 
-###### Art. 10.º Os oficiais do Exército em serviço nos corpos da Guarda Fiscal farão uso dos uniformes previstos no plano de uniformes do Exército, usando como distintivo o emblema «GF» dourado nas platinas dos galões, encimando o distintivo da arma ou serviço do Exército a que pertençam.
+Art. 10.º Os oficiais do Exército em serviço nos corpos da Guarda Fiscal farão uso dos uniformes previstos no plano de uniformes do Exército, usando como distintivo o emblema «GF» dourado nas platinas dos galões, encimando o distintivo da arma ou serviço do Exército a que pertençam.
 
 Em serviço e quando outro uniforme não for determinado, poderão usar camisa branca, do modelo indicado no n.º 6.º do artigo 14.º, em substituição do dólman do uniforme branco. A camisa será de meia manga.
 
-###### Art. 11.º Os distintivos do pessoal privativo dos corpos da Guarda Fiscal compreendem:
+Art. 11.º Os distintivos do pessoal privativo dos corpos da Guarda Fiscal compreendem:
 
 a) O emblema «GF» de metal branco de 2 cm de altura assente no fundo circular de pano azul-marinho, de 2,5 cm de diâmetro (figura n.º 1);
 
@@ -150,13 +154,13 @@ b) Os distintivos hierárquicos, conforme as figuras e descrição indicadas na 
 
 c) Carcelas, conforme a figura e descrição indicada na parte respectiva.
 
-###### Art. 12.º Além dos distintivos indicados no presente regulamento, só é permitido o uso de distintivos das especialidades adquiridas pelo pessoal no Exército ou Armada ou no corpo da Guarda Fiscal quando os mesmos interessem ao serviço da corporação e seja autorizado pelo comandante. Os emblemas serão idênticos e usados conforme se encontrar determinado para o Exército ou Armada.
+Art. 12.º Além dos distintivos indicados no presente regulamento, só é permitido o uso de distintivos das especialidades adquiridas pelo pessoal no Exército ou Armada ou no corpo da Guarda Fiscal quando os mesmos interessem ao serviço da corporação e seja autorizado pelo comandante. Os emblemas serão idênticos e usados conforme se encontrar determinado para o Exército ou Armada.
 
-###### Art. 13.º As condecorações serão usadas nas mesmas condições das que estão determinadas para o Exército.
+Art. 13.º As condecorações serão usadas nas mesmas condições das que estão determinadas para o Exército.
 
 ### CAPÍTULO II — Descrição
 
-###### Art. 14.º Os uniformes para os graduados e guardas dos corpos da Guarda Fiscal da Guiné, Angola e Moçambique compõem-se dos artigos que a seguir se descrevem:
+Art. 14.º Os uniformes para os graduados e guardas dos corpos da Guarda Fiscal da Guiné, Angola e Moçambique compõem-se dos artigos que a seguir se descrevem:
 
 1.º Boné. - Do feitio da figura n.º 2, com capas de terylene, verde-acinzentado, ou caqui-gabardina, do mesmo tom, conforme o uniforme a que se destine, designando-se respectivamente por boné n.º 1 e boné n.º 2. Terá pala curva, de 5 cm de largura, de polimento preto e com 4 cm de cintura. A pala será encimada por um francalete também de polimento preto, com dois passadores, pregado nas extremidades por dois botões pequenos, de metal branco, com o monograma «GF», com excepção dos bonés dos chefes de secção e chefes-ajudantes, em que o francalete será o referido no n.º 21.º do artigo 14.º
 
@@ -226,7 +230,7 @@ b) Nos restantes casos, em passadeiras de 8 cm de comprimento por 5 cm de largur
 
 21.º Francalete para boné. - De cordão prateado, conforme modelo da figura n.º 16.
 
-###### Art. 15.º Os uniformes dos guardas auxiliares dos corpos da Guarda Fiscal da Guiné, Angola e Moçambique compõem-se dos artigos que a seguir se descrevem:
+Art. 15.º Os uniformes dos guardas auxiliares dos corpos da Guarda Fiscal da Guiné, Angola e Moçambique compõem-se dos artigos que a seguir se descrevem:
 
 1.º Barrete. - Do feitio da figura n.º 3 e 3-A, de caqui verde-acinzentado e confeccionado de acordo com o n.º 2.º do artigo 14.º Na cinta do boné, por cima da pala, será usado o emblema a que se refere a alínea a) do artigo 11.º, mas com o monograma «GF» de metal amarelo.
 
@@ -268,7 +272,7 @@ Estas carcelas são para usar na gola do dólman e da camisa.
 
 ### CAPÍTULO III — Tabela dos uniformes
 
-###### Art. 16.º Os uniformes do pessoal dos corpos da Guarda Fiscal da Guiné, Angola e Moçambique tem a designação e composição seguintes:
+Art. 16.º Os uniformes do pessoal dos corpos da Guarda Fiscal da Guiné, Angola e Moçambique tem a designação e composição seguintes:
 
 1.º Grande uniforme - só para graduado e guardas:
 
@@ -370,24 +374,24 @@ Botas;
 
 Polainitos.
 
-###### Art. 17.º O uso dos diferentes uniformes será determinado em ordem de serviço, conforme a natureza e locais dos serviços a desempenhar.
+Art. 17.º O uso dos diferentes uniformes será determinado em ordem de serviço, conforme a natureza e locais dos serviços a desempenhar.
 
 ### CAPÍTULO IV — Diversos
 
-###### Art. 18.º Constitui encargo da Fazenda Nacional o fardamento dos guardas auxiliares, aos quais serão ainda distribuídas camisolas de algodão, de cor azul, de meia manga, cuecas de pano-cru, peúgas de algodão brancas e lenços brancos.
+Art. 18.º Constitui encargo da Fazenda Nacional o fardamento dos guardas auxiliares, aos quais serão ainda distribuídas camisolas de algodão, de cor azul, de meia manga, cuecas de pano-cru, peúgas de algodão brancas e lenços brancos.
 
-###### Art. 19.º Além de outros artigos de fiscalização que venham a constar de listas aprovadas por despacho do governador da província, sob parecer do Comando do Corpo da Guarda Fiscal, serão distribuídos por conta da Fazenda Nacional, aos graduados e guardas, os uniformes de campo e as capas impermeáveis.
+Art. 19.º Além de outros artigos de fiscalização que venham a constar de listas aprovadas por despacho do governador da província, sob parecer do Comando do Corpo da Guarda Fiscal, serão distribuídos por conta da Fazenda Nacional, aos graduados e guardas, os uniformes de campo e as capas impermeáveis.
 
-###### Art. 20.º Aos motoristas e pessoal em serviço nas oficinas auto ou arrecadações, serão distribuídos, por conta da Fazenda Nacional, fatos de zuarte (tipo «macaco»).
+Art. 20.º Aos motoristas e pessoal em serviço nas oficinas auto ou arrecadações, serão distribuídos, por conta da Fazenda Nacional, fatos de zuarte (tipo «macaco»).
 
-###### Art. 21.º Os graduados e guardas dos corpos da Guarda Fiscal têm direito a um subsídio para fardamento, nas condições a estabelecer pelo Governo da província.
+Art. 21.º Os graduados e guardas dos corpos da Guarda Fiscal têm direito a um subsídio para fardamento, nas condições a estabelecer pelo Governo da província.
 
-###### Art. 22.º (transitório). É permitido o uso, durante seis meses, a partir do dia em que começar a vigorar este regulamento, dos artigos de uniforme que deixam de fazer parte do presente diploma.
+Art. 22.º (transitório). É permitido o uso, durante seis meses, a partir do dia em que começar a vigorar este regulamento, dos artigos de uniforme que deixam de fazer parte do presente diploma.
 
 Ministério do Ultramar, 30 de Julho de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
 
 Da Figura n.º 1 à Figura n.º 21
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/07/17300/10231030.pdf))](https://files.diariodarepublica.pt/1s/1962/07/17300/10231030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/07/17300/10231030.pdf)
 
 Ministério do Ultramar, 30 de Julho de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.

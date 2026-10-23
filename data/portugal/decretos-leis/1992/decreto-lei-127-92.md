@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/151a00/31683170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/1992/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b79f5e4260c19376acb8e110b3326695ad54e3bddde60e18b1fd5ad945803fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29dada279ab75de0fee182989fc28cc616058b496fd4d00fc4122c1fec727671
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,55 @@ relationships:
   target: pt:dre:602999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628819:por
+  label: "Extinto, enquanto pessoa colectiva de direito público, o Centro Psiquiátrico de Recuperação de Arnes, criado com\
+    \ a designação de Colónia Agrícola de Arnes pelo Dec Lei 44911 de 07-Mar de 1963 - posteriormente redenominado no presente\
+    \ diploma - pela PORT.1580/2007.12.12.2007.MS, DR.IS [239] de 12.12.2007, que determinou a sucessão do Centro Hospitalar\
+    \ Psiquiátrico de Coimbra, criado neste último diploma, na universalidade dos seus direitos e obrigações.\0s.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1580-2007-628819
+  date: '2007-12-12'
+- type: amended_by
+  target: pt:dre:602999:por
+  label: "Transformado, a partir de 01.02.2009, em entidade pública empresarial, sucedendo-lhe em todos os direitos e obrigações,\
+    \ o Hospital de Magalhães de Lemos, hospital central especializado do sector público administrativo, criado como Centro\
+    \ de Saúde Mental do Porto pela Port 21444 de 05-Ago de 1965 DG.IS [174], posteriormente redenominado como Hospital Magalhães\
+    \ de Lemos pelo presente diploma e cujo regulamento interno consta do Desp 5549/2005(2ªsérie) de 15-Mar DR.IIS [52] -\
+    \ pelo DEC LEI.27/2009.27.01.2009.MS, DR.IS [18] de 27.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2009-602999
+  date: '2009-01-27'
+- type: cites
+  target: pt:dre:195442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535218:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423397:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 129/92, PUBLICADA NO DR.IS-A, 200, SUPL, DE 920831.\020831."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/129-1992-423397
+  date: '1992-08-31'
+- type: repealed_by
+  target: pt:dre:169001:por
+  label: "Revogado pelo DEC LEI.35/99.1999.02.05.MS, DR.IS-A [30] de 05/Fev/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1999-169001
+  date: '1999-02-05'
 article_structure:
   article_count: 12
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:10Z'
   warnings: []
   errors: []
 ---
@@ -222,12 +261,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 17 de Junho de 1992.**
+Promulgado em 17 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Junho de 1992.**
+Referendado em 19 de Junho de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

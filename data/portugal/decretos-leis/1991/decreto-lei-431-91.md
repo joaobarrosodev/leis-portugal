@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/252a00/56205624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/431/1991/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/431-1991-321701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8932aa5349ab6724928877c71d17c1861376eb996344ac404f33d03537e66d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd7feeb09b9f5f56fbb1f7c189be2bf936f7a9ed4f3b3f933041e00f4d666041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Conselho Superior de Medicina Legal
 - Instituto de Medicina Legal
 - Medicina Legal
+- Médico
 - Orgânica
 - Quadro de Pessoal
 - Serviços Médico-legais
@@ -78,16 +78,81 @@ relationships:
   target: pt:dre:222631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222631:por
+  label: "Revogado pelo DEC LEI.11/98.1998.01.24.MJ, DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-1998-222631
+  date: '1998-01-24'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:29Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +197,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 35.º, 46.º, 48.º, 58.º, 59.º, 60.º, 61.º, 62.º, 63.º, 64.º, 65.º e 66.º do [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 35.º, 46.º, 48.º, 58.º, 59.º, 60.º, 61.º, 62.º, 63.º, 64.º, 65.º e 66.º do [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), de 29 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 35.º — [...]
 
@@ -284,9 +349,9 @@ f) ...
 
 Os regimes de trabalho na carreira médica de medicina legal são os previstos para as carreiras médicas, com as devidas adaptações.
 
-###### Art. 2.º Por despacho do Ministro da Justiça podem ser contratados, nos termos do artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, médicos de outras especialidades que não tenham optado pelo regime de dedicação exclusiva para o desempenho de funções periciais no âmbito dos institutos de medicina legal e dos gabinetes médico-legais.
+Art. 2.º Por despacho do Ministro da Justiça podem ser contratados, nos termos do artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, médicos de outras especialidades que não tenham optado pelo regime de dedicação exclusiva para o desempenho de funções periciais no âmbito dos institutos de medicina legal e dos gabinetes médico-legais.
 
-###### Art. 3.º Para o ensino da disciplina de Medicina Legal e Toxicologia Forense, como disciplina constante do plano de estudos conducente à licenciatura em Medicina nas Faculdades de Medicina das Universidades de Coimbra, de Lisboa e do Porto, na Faculdade de Ciências Médicas da Universidade Nova de Lisboa e no Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, são designados e articulados os seugintes institutos de medicina legal:
+Art. 3.º Para o ensino da disciplina de Medicina Legal e Toxicologia Forense, como disciplina constante do plano de estudos conducente à licenciatura em Medicina nas Faculdades de Medicina das Universidades de Coimbra, de Lisboa e do Porto, na Faculdade de Ciências Médicas da Universidade Nova de Lisboa e no Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto, são designados e articulados os seugintes institutos de medicina legal:
 
 a) O Instituto de Medicina Legal de Coimbra, com a Faculdade de Medicina da Universidade de Coimbra;
 
@@ -294,7 +359,7 @@ b) O Instituto de Medicina Legal de Lisboa, com a Faculdade de Medicina da Unive
 
 c) O Instituto de Medicina Legal do Porto, com a Faculdade de Medicina e com o Instituto de Ciências Biomédicas de Abel Salazar, da Universidade do Porto.
 
-###### Art. 4.º - 1 - A articulação a que se refere o artigo anterior constará de protocolo de colaboração a celebrar entre as instituições nele referidas.
+Art. 4.º - 1 - A articulação a que se refere o artigo anterior constará de protocolo de colaboração a celebrar entre as instituições nele referidas.
 
 2 - Cada protocolo será elaborado por uma comissão com a seguinte composição:
 
@@ -304,17 +369,17 @@ b) O presidente do conselho directivo das Faculdades de Medicina, de Ciências M
 
 3 - Os protocolos a que se referem os números anteriores são homologados por despacho conjunto dos Ministros da Justiça e da Educação, devendo previamente ser obtido parecer favorável dos reitores das universidades envolvidas nos mesmos.
 
-###### Art. 5.º - 1 - Por despacho do Ministro da Justiça, sob proposta do director do instituto de medicina legal respectivo, podem ser admitidos à frequência do internato complementar de ingresso na carreira médica de medicina legal os licenciados em Medicina contratados como assistentes ou assistentes estagiários da cadeira de Medicina Legal e Toxicologia Forense ministrada em estabelecimentos universitários públicos.
+Art. 5.º - 1 - Por despacho do Ministro da Justiça, sob proposta do director do instituto de medicina legal respectivo, podem ser admitidos à frequência do internato complementar de ingresso na carreira médica de medicina legal os licenciados em Medicina contratados como assistentes ou assistentes estagiários da cadeira de Medicina Legal e Toxicologia Forense ministrada em estabelecimentos universitários públicos.
 
 2 - O internato a frequentar nos termos previstos no número anterior decorrerá em regime de acumulação, não podendo a remuneração a ele correspondente ser superior a 35% do vencimento do médico interno do internato de medicina legal, a suportar pelo orçamento do instituto de medicina legal respectivo.
 
 3 - A acumulação a que se refere o número anterior não prejudica o regime de dedicação exclusiva em que o docente se encontra.
 
-###### Art. 6.º - 1 - Os internos do internato complementar de medicina legal e os médicos pertencentes à carreira médica de medicina legal podem ser contratados como docentes convidados da cadeira de Medicina Legal e Toxicologia Forense ministrada em estabelecimentos universitários públicos, em regime de acumulação a tempo parcial, nos termos dos artigos 10.º e 11.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro.
+Art. 6.º - 1 - Os internos do internato complementar de medicina legal e os médicos pertencentes à carreira médica de medicina legal podem ser contratados como docentes convidados da cadeira de Medicina Legal e Toxicologia Forense ministrada em estabelecimentos universitários públicos, em regime de acumulação a tempo parcial, nos termos dos artigos 10.º e 11.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro.
 
 2 - A acumulação a que se refere o número anterior não é incompatível com o regime de dedicação exclusiva.
 
-###### Art. 7.º - 1 - O disposto nos Decretos-Leis n.os [150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, e [171/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1990-574905), de 29 de Maio, bem como as respectivas tabelas, são aplicáveis, com as necessárias adaptações, aos médicos dos quadros dos institutos de medicina legal, com efeitos à data da respectiva entrada em vigor.
+Art. 7.º - 1 - O disposto nos Decretos-Leis n.os [150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, e [171/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1990-574905), de 29 de Maio, bem como as respectivas tabelas, são aplicáveis, com as necessárias adaptações, aos médicos dos quadros dos institutos de medicina legal, com efeitos à data da respectiva entrada em vigor.
 
 2 - Sem prejuízo do disposto no número anterior, os médicos pertencentes à carreira de médico legista dos institutos de medicina legal transitam para as categorias da carreira médica de medicina legal com efeitos a partir de 1 de Outubro de 1989, de acordo com as seguintes regras:
 
@@ -324,22 +389,22 @@ b) Os médicos legistas, para assistentes graduados de medicina legal;
 
 c) Os médicos legistas-chefes, para chefes de serviço de medicina legal.
 
-###### Art. 8.º - 1 - Os assistentes estagiários de medicina legal providos em lugares dos quadros dos institutos de medicina legal que, à data da entrada em vigor do presente diploma, tenham pelo menos três anos de exercício efectivo na categoria de técnico superior de medicina legal licenciado em Medicina e classificação de serviço não inferior a Bom poderão candidatar-se à categoria de assistente de medicina legal, mediante concurso de prestação de provas.
+Art. 8.º - 1 - Os assistentes estagiários de medicina legal providos em lugares dos quadros dos institutos de medicina legal que, à data da entrada em vigor do presente diploma, tenham pelo menos três anos de exercício efectivo na categoria de técnico superior de medicina legal licenciado em Medicina e classificação de serviço não inferior a Bom poderão candidatar-se à categoria de assistente de medicina legal, mediante concurso de prestação de provas.
 
 2 - Os serviços devem proceder, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, à abertura dos concursos a que se refere o número anterior.
 
-###### Art. 9.º As categorias da carreira médica de medicina legal previstas no mapa anexo ao [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), de 29 de Dezembro, são substituídas pelas categorias referidas no artigo 59.º daquele decreto-lei, na redacção que lhe é dada pelo presente diploma.
+Art. 9.º As categorias da carreira médica de medicina legal previstas no mapa anexo ao [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), de 29 de Dezembro, são substituídas pelas categorias referidas no artigo 59.º daquele decreto-lei, na redacção que lhe é dada pelo presente diploma.
 
-###### Art. 10.º São revogados os artigos 67.º e 68.º do [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), de 29 de Dezembro.
+Art. 10.º São revogados os artigos 67.º e 68.º do [Decreto-Lei n.º 387-C/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-c-1987-670073), de 29 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho.
 
-**Promulgado em 15 de Outubro de 1991.**
+Promulgado em 15 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1991.**
+Referendado em 18 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

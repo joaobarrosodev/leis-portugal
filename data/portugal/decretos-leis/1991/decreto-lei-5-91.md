@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/006a00/00910093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dbf44c5ee1311a3be6880ec56274c3daf5fb67a8110bc82433353b68c17a217
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8249a40e714098c8fe1a4b228e1171a02e452eaba98cb11493af31259f80237
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,47 @@ relationships:
   target: pt:dre:25345578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573501:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:242040:por
+  label: "Rectificado o terceiro parágrafo do preâmbulo, o artigo 8.º, os n.ºs 1 e 3 do artigo 15.º pela DECL-RECT.5/91.31.01.1991.PCM,\
+    \ DR.IS-A [26]Supl de 31.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-1991-242040
+  date: '1991-01-31'
+- type: repealed_by
+  target: pt:dre:25345578:por
+  label: "Revogado, a partir de 01.07.2014, pela LEI.36/2014.26.06.2014.AR, DR.IS [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2014-25345578
+  date: '2014-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:08Z'
   warnings: []
   errors: []
 ---
@@ -102,23 +133,23 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 25/90](https://diariodarepublica.pt/dr/detalhe/lei/25-1990-573501), de 9 de Agosto, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Enquanto não estiverem instituídas em concreto as regiões administrativas subsiste a divisão distrital.
+Artigo 1.º - 1 - Enquanto não estiverem instituídas em concreto as regiões administrativas subsiste a divisão distrital.
 
 2 - Há em cada distrito uma assembleia distrital com funções deliberativas e um conselho consultivo que assiste o governador civil.
 
-###### Art. 2.º Compõem a assembleia distrital:
+Art. 2.º Compõem a assembleia distrital:
 
 a) Os presidentes das câmaras municipais ou vereadores que os substituam;
 
 b) Dois membros de cada assembleia municipal, devendo um deles ser o respectivo presidente ou o seu substituto e o outro eleito de entre os presidentes de junta de freguesia.
 
-###### Art. 3.º - 1 - As assembleias distritais têm, anualmente, pelo menos, duas sessões ordinárias, em Março e Dezembro, destinadas, respectivamente, à aprovação do relatório e contas do ano anterior e à aprovação do plano de actividades e orçamento para o ano seguinte.
+Art. 3.º - 1 - As assembleias distritais têm, anualmente, pelo menos, duas sessões ordinárias, em Março e Dezembro, destinadas, respectivamente, à aprovação do relatório e contas do ano anterior e à aprovação do plano de actividades e orçamento para o ano seguinte.
 
 2 - A assembleia distrital reúne ordinária e extraordinariamente nos termos do seu regimento.
 
-###### Art. 4.º O exercício das funções de membro da assembleia distrital não é remunerado.
+Art. 4.º O exercício das funções de membro da assembleia distrital não é remunerado.
 
-###### Art. 5.º Compete à assembleia distrital:
+Art. 5.º Compete à assembleia distrital:
 
 a) Elaborar o seu regimento;
 
@@ -144,7 +175,7 @@ l) Gerir o quadro de pessoal por si fixado;
 
 m) Exercer os demais poderes que lhe sejam conferidos por lei.
 
-###### Art. 6.º - 1 - A mesa da assembleia distrital, composta por um presidente, um 1.º secretário e um 2.º secretário, é eleita pela assembleia, de entre os seus membros, por escrutínio secreto.
+Art. 6.º - 1 - A mesa da assembleia distrital, composta por um presidente, um 1.º secretário e um 2.º secretário, é eleita pela assembleia, de entre os seus membros, por escrutínio secreto.
 
 2 - A mesa é eleita pelo período do mandato autárquico, podendo os seus membros ser destituídos pela assembleia, em qualquer altura, por deliberação da maioria absoluta dos seus membros em efectividade de funções.
 
@@ -152,7 +183,7 @@ m) Exercer os demais poderes que lhe sejam conferidos por lei.
 
 4 - Na ausência de todos os membros da mesa a assembleia elege, por voto secreto, uma mesa ad hoc para presidir a essa sessão.
 
-###### Art. 7.º - 1 - Compete ao presidente da mesa da assembleia distrital:
+Art. 7.º - 1 - Compete ao presidente da mesa da assembleia distrital:
 
 a) Convocar as sessões ordinárias e extraordinárias;
 
@@ -172,9 +203,9 @@ g) Exercer os demais poderes conferidos por lei, pelo regimento ou por delibera�
 
 3 - Das decisões do presidente ou dos secretários da mesa cabe reclamação para o plenário da assembleia distrital.
 
-###### Art. 8.º Nos casos em que as assembleias distritais não deliberem a fixação de quadros de pessoal próprios, o apoio às suas reuniões ou sessões é assegurado por pessoal dos quadros de qualquer dos municípios que integram a assembleia distrital de acordo com os critérios que a mesma fixar.
+Art. 8.º Nos casos em que as assembleias distritais não deliberem a fixação de quadros de pessoal próprios, o apoio às suas reuniões ou sessões é assegurado por pessoal dos quadros de qualquer dos municípios que integram a assembleia distrital de acordo com os critérios que a mesma fixar.
 
-###### Art. 9.º Constituem receitas das assembleias distritais:
+Art. 9.º Constituem receitas das assembleias distritais:
 
 a) O produto das contribuições de cada município;
 
@@ -184,21 +215,21 @@ c) O rendimento de bens próprios e o produto da sua alienação;
 
 d) Quaisquer outros rendimentos permitidos por lei.
 
-###### Art. 10.º As assembleias distritais não podem contrair empréstimos.
+Art. 10.º As assembleias distritais não podem contrair empréstimos.
 
-###### Art. 11.º As assembleias distritais ficam sujeitas à tutela administrativa prevista na [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), de 9 de Setembro, nos mesmos termos em que o são as autarquias locais.
+Art. 11.º As assembleias distritais ficam sujeitas à tutela administrativa prevista na [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), de 9 de Setembro, nos mesmos termos em que o são as autarquias locais.
 
-###### Art. 12.º Das deliberações da assembleia distrital cabe recurso contencioso nos termos gerais.
+Art. 12.º Das deliberações da assembleia distrital cabe recurso contencioso nos termos gerais.
 
-###### Art. 13.º O pessoal ao serviço das assembleias distritais não providos nos lugares dos quadros próprios fica sujeito ao regime jurídico do pessoal da Administração Central nos seguintes termos:
+Art. 13.º O pessoal ao serviço das assembleias distritais não providos nos lugares dos quadros próprios fica sujeito ao regime jurídico do pessoal da Administração Central nos seguintes termos:
 
 a) É integrado equitativamente nos QEIS do MPAT e MAI aquele pessoal que à data de entrada em vigor do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, preencha os requisitos previstos no n.º 1 do artigo 37.º do citado diploma;
 
 b) Ao restante pessoal é aplicável o disposto no n.º 2 do artigo 37.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
 
-###### Art. 14.º Com a entrada em vigor do presente diploma, os encargos com o pessoal dos quadros das assembleias distritais e com a manutenção dos respectivos serviços passam a ser integralmente suportados pelas assembleias, através das contribuições dos municípios integrantes, estabelecidas de acordo com os critérios de repartição fixados por cada assembleia.
+Art. 14.º Com a entrada em vigor do presente diploma, os encargos com o pessoal dos quadros das assembleias distritais e com a manutenção dos respectivos serviços passam a ser integralmente suportados pelas assembleias, através das contribuições dos municípios integrantes, estabelecidas de acordo com os critérios de repartição fixados por cada assembleia.
 
-###### Art. 15.º - 1 - Considera-se transferida para o Estado a propriedade dos bens móveis e imóveis adstritos aos serviços e estabelecimentos cujos fins as assembleias distritais deliberem não continuar a assegurar e que vão ser prosseguidos pela Administração Central.
+Art. 15.º - 1 - Considera-se transferida para o Estado a propriedade dos bens móveis e imóveis adstritos aos serviços e estabelecimentos cujos fins as assembleias distritais deliberem não continuar a assegurar e que vão ser prosseguidos pela Administração Central.
 
 2 - Para efeitos do disposto no n.º 1 são dispensadas todas as formalidades, efectuando-se a inscrição no cadastro quando for caso disso, mediante apresentação de declaração conjunta pelos Ministérios do Planeamento e da Administração do Território e da Administração Interna, com base em informação prestada pelo governador e vice-governador civil, onde constem os imóveis a transferir.
 
@@ -206,7 +237,7 @@ b) Ao restante pessoal é aplicável o disposto no n.º 2 do artigo 37.º do [De
 
 4 - As condições de cedência do uso de instalações e bens móveis adstritos aos serviços a que aludem os números anteriores são definidas mediante protocolo celebrado entre os Ministérios do Planeamento e da Administração do Território, da Administração Interna e da tutela das entidades interessadas em prosseguir a actividade daqueles serviços.
 
-###### Art. 16.º - 1 - Se o apuramento e gestão temporária dos bens a que se refere o n.º 1 do artigo 15.º assim o exigir, pode o Ministério do Planeamento e da Administração do Território designar uma comissão para o efeito, composta por três elementos, de que faz parte e preside o governador civil, com faculdade de delegação no vice-governador.
+Art. 16.º - 1 - Se o apuramento e gestão temporária dos bens a que se refere o n.º 1 do artigo 15.º assim o exigir, pode o Ministério do Planeamento e da Administração do Território designar uma comissão para o efeito, composta por três elementos, de que faz parte e preside o governador civil, com faculdade de delegação no vice-governador.
 
 2 - As actividades a desenvolver pela comissão nos termos do n.º 1 constam de plano de actividades e são objecto de relatório e contas em quaisquer dos casos devidamente aprovados pelo Ministério do Planeamento e da Administração do Território.
 
@@ -214,7 +245,7 @@ b) Ao restante pessoal é aplicável o disposto no n.º 2 do artigo 37.º do [De
 
 4 - O apoio à comissão é prestado por pessoal a que se reporta o artigo 13.º, sem prejuízo da sua integração nos quadros de efectivos interdepartamentais dos Ministérios do Planeamento e da Administração do Território e da Administração Interna na data que o mencionado preceito estipula.
 
-###### Art. 17.º - O conselho consultivo tem a seguinte composição:
+Art. 17.º - O conselho consultivo tem a seguinte composição:
 
 a) O governador civil, que preside;
 
@@ -224,13 +255,13 @@ c) Quatro cidadãos especialmente qualificados no âmbito do sector económico, 
 
 2 - Na primeira reunião, os membros do conselho consultivo elegem, de entre eles, um secretário.
 
-###### Art. 18.º Ao conselho consultivo compete dar parecer sobre todos os assuntos que lhe sejam submetidos pelo governador civil ou por imposição da lei.
+Art. 18.º Ao conselho consultivo compete dar parecer sobre todos os assuntos que lhe sejam submetidos pelo governador civil ou por imposição da lei.
 
-###### Art. 19.º O conselho consultivo reúne sempre que para tal seja convocado pelo governador civil.
+Art. 19.º O conselho consultivo reúne sempre que para tal seja convocado pelo governador civil.
 
-###### Art. 20.º Sempre que os elementos previstos na alínea b) do n.º 1 do artigo 17.º deixem de possuir a qualidade que determinou a sua designação para aqueles órgãos, são imediatamente substituídos.
+Art. 20.º Sempre que os elementos previstos na alínea b) do n.º 1 do artigo 17.º deixem de possuir a qualidade que determinou a sua designação para aqueles órgãos, são imediatamente substituídos.
 
-###### Art. 21.º - 1 - No prazo de 30 dias a contar da data da entrada em vigor do presente diploma, o governador ou vice-governador civil convoca e preside ao acto de instalação das assembleias distritais.
+Art. 21.º - 1 - No prazo de 30 dias a contar da data da entrada em vigor do presente diploma, o governador ou vice-governador civil convoca e preside ao acto de instalação das assembleias distritais.
 
 2 - Do acto de instalação é lavrada acta avulsa assinada pelo governador civil ou vice-governador civil e pelos membros da assembleia distrital presentes.
 
@@ -240,20 +271,20 @@ c) Quatro cidadãos especialmente qualificados no âmbito do sector económico, 
 
 5 - O presidente da mesa comunica ao governador civil nos 30 dias imediatos o nome dos elementos eleitos.
 
-###### Art. 22.º Em tudo o que não estiver disposto no presente diploma, aplicam-se ao funcionamento das assembleias distritais, com as devidas adaptações, as regras que, nesse domínio, vigoram para os órgãos municipais.
+Art. 22.º Em tudo o que não estiver disposto no presente diploma, aplicam-se ao funcionamento das assembleias distritais, com as devidas adaptações, as regras que, nesse domínio, vigoram para os órgãos municipais.
 
-###### Art. 23.º São revogados os artigos 82.º a 90.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e o [Decreto-Lei n.º 288/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1985-183233), de 23 de Julho.
+Art. 23.º São revogados os artigos 82.º a 90.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e o [Decreto-Lei n.º 288/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1985-183233), de 23 de Julho.
 
-###### Art. 24.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 24.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira.
 
-**Promulgado em 10 de Dezembro de 1990.**
+Promulgado em 10 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1990.**
+Referendado em 18 de Dezembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

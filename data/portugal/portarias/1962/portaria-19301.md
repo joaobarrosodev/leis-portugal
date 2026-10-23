@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19301-1962-163818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42d808adc6928fa072cd99923ff8722554de2743e1d12031e2ce9a54d1f508fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ec8c8902deb9aaecaf09c8fcc7e13ec821b8a51bf2c743f0db4d72c4e00600f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:278524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500772:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:22Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +103,6 @@ Quadro orgânico do pessoal
 
 (Artigo 6.º do [Decreto-Lei n.º 42851](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42851-1960-278524), de 17 de Fevereiro de 1960)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/07/17100/10151016.pdf))](https://files.diariodarepublica.pt/1s/1962/07/17100/10151016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/07/17100/10151016.pdf)
 
 Presidência do Conselho, 27 de Julho de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar.

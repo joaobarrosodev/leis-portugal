@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1992-240823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e65fec55fbce16f751ddc92485e268189ef5fc6287f38852054db20d251ec8f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f5087d9341b0dfb8855361fc3cfadda0f2e5b62325c08b95fb49941c8595fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,84 @@ subjects:
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Prova de Aferição
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:314396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:166202:por
+  label: "Alterados os arts. 6º, 32º e 39º pelo DEC LEI.53/95.1995.03.20.ME, DR.IS-A [67]\07]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1995-166202
+  date: '1995-03-20'
+- type: amended_by
+  target: pt:dre:626596:por
+  label: "Alterado o art. 7º pelo DEC LEI.318/95.1995.11.28.ME, DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1995-626596
+  date: '1995-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314396:por
+  label: "Revogado, com excepção do disposto no nº 2 do art. 34.º pelo DEC LEI.28-B/96.1996.04.04.ME DR.IS-A [81]SUPL, na\
+    \ redacção dada pelos Dec Lei 53/95 de 20-Mar e 318/95 de 28-Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-b-1996-314396
+  date: '1996-04-04'
 article_structure:
   article_count: 47
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:30Z'
   warnings: []
   errors: []
 ---
@@ -588,12 +644,12 @@ m) Um representante do Gabinete de Educação Tecnológica, Artística e Profiss
 
 Visto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos.
 
-**Promulgado em 25 de Agosto de 1992.**
+Promulgado em 25 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Agosto de 1992.**
+Referendado em 26 de Agosto de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

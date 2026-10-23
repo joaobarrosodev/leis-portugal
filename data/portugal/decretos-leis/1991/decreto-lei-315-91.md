@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acd1a64c19474942952db94aaf2a583cc6fc60312db14a6dea926653253d7841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a667f8edb27015a8aa274cfc733b6fa05ca15872c494a1988cda89195fc7ba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,44 +66,120 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA de Serviço
+- Auto-estrada
 - Auto-estrada da Costa do Estoril
 - Auto-estrada do Norte
-- Auto-estrada Lisboa-malveira
 - Auto-estrada do SUL
 - Auto-estrada Famalicão-guimarães
+- Auto-estrada Lisboa-malveira
 - Auto-estrada Marateca-montemor-o-novo
 - Auto-estrada Porto-amarante
 - Auto-estrada Porto-valença
-- Financiamento
-- Garantia
-- Sociedade Anónima
 - Brisa
 - Contrato de Concessão
 - CREL
-- Rescisão de Contrato
 - Expropriação
+- Financiamento
+- Garantia
 - Isenção de Portagem
-- Auto-estrada
 - Junta Autónoma das Estradas
 - Portagem
-- ÁREA de Serviço
 - Receita Pública
+- Rescisão de Contrato
+- Sociedade Anónima
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:584819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150512:por
+  label: "Aditado o art. 2º-A, pelo DEC LEI.12/92.1992.02.04.MPLAT, DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1992-150512
+  date: '1992-02-04'
+- type: amended_by
+  target: pt:dre:234915:por
+  label: "Alterada a base XVIII do contrato de concessão da construção, conservação e exploração de auto-estradas, pelo DEC\
+    \ LEI.193/92.1992.09.08.MOPTC, DR.IS-A [207]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1992-234915
+  date: '1992-09-08'
+- type: amended_by
+  target: pt:dre:283694:por
+  label: "Ampliada a concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., pelo Dec 467/72, de 22- Nov, na redacção\
+    \ do presente diploma, pela RES.46/93.31.05.1993.PCM, DR.IS-B [126] de 31.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-1993-283694
+  date: '1993-05-31'
+- type: amended_by
+  target: pt:dre:226646:por
+  label: "Suprimida a al. h) do n.º 1, alteradas as redacções das als. c) e d) do n.º 1, o n.º 2 e aditados os nºs. 8 e 9\
+    \ todos referentes à Base I, alterada a Base XLIII e a Brisa foi exonerada da obrigação de reembolso ao Estado do empréstimo,\
+    \ e respectivos juros, a que se refere o n.º 2 do art. 3.º todos do presente diploma, pelo DEC LEI.330-A/95.1995.12.16.PCM\
+    \ DR.IS-A [289]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-a-1995-226646
+  date: '1995-12-16'
+- type: amended_by
+  target: pt:dre:430806:por
+  label: "Ampliada a concessão outorgada à Brisa - Auto-Estradas de Portugal, S.A., pelo DEC LEI.81/96.1996.06.21.MEPAT DR.IS-A\
+    \ [142], com as alterações introduzidas pelo Dec Lei 330-A/95 de 16-Dez\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1996-430806
+  date: '1996-06-21'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a Brisa-Auto-Estradas de Portugal, S.A., a que se refere\
+    \ o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:584819:por
+  label: "Repristinado o regime de portagem previsto na al. h) do nº 1 da base I das bases do contrato de concessão anexas\
+    \ ao presente diploma pelo DEC LEI.314-A/2002.2002.12.26.MOPTH DR.IS-A [298]Supl, e com as taxas de portagem constantes\
+    \ do anexo II daquele diploma\0ma\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-a-2002-584819
+  date: '2002-12-26'
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686606:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:490973:por
+  label: "Alterados os n.ºs 4 da base IX, 2 da base XIX, 3 da base XXIII, 6 da base XXVIII e republicado o anexo I, pela DECL-RECT.261/91.30.11.1991.PCM,\
+    \ DR.IS-A [276]4ºSupl de 30.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/261-1991-490973
+  date: '1991-11-30'
+- type: repealed_by
+  target: pt:dre:671934:por
+  label: "Revogadas as bases anexas ao presente diploma, com excepção da base XXIII anexa ao Dec Lei 458/85 de 30-Out, mantida\
+    \ em vigor pelo presente diploma, pelo DEC LEI.294/97.1997.10.24.MF DR.IS-A [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1997-671934
+  date: '1997-10-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:07Z'
   warnings: []
   errors: []
 ---
@@ -130,31 +206,33 @@ Atendendo ao disposto na base XLVII do anexo I ao [Decreto-Lei n.º 458/85](http
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., pelo [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, e pelo [Decreto-Lei n.º 458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), de 30 de Outubro, é ampliada pela integração na mesma dos novos lanços de auto-estrada referidos na base I das bases do contrato de concessão, anexas ao presente diploma.
+Artigo 1.º A concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., pelo [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro, e pelo [Decreto-Lei n.º 458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), de 30 de Outubro, é ampliada pela integração na mesma dos novos lanços de auto-estrada referidos na base I das bases do contrato de concessão, anexas ao presente diploma.
 
-###### Art. 2.º São aprovadas as bases anexas ao presente diploma, que regularão a concessão referida no artigo anterior e que fazem parte integrante do anexo I, bem como o anexo II do presente diploma, do qual fazem parte integrante.
+Art. 2.º São aprovadas as bases anexas ao presente diploma, que regularão a concessão referida no artigo anterior e que fazem parte integrante do anexo I, bem como o anexo II do presente diploma, do qual fazem parte integrante.
 
-###### Art. 3.º - 1 - São revogadas as bases e as cláusulas que constituem os anexos I e II do [Decreto-Lei n.º 458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), de 30 de Outubro, com excepção da base XXIII, sem prejuízo do disposto na base XIII constante do anexo I.
+Art. 3.º - 1 - São revogadas as bases e as cláusulas que constituem os anexos I e II do [Decreto-Lei n.º 458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), de 30 de Outubro, com excepção da base XXIII, sem prejuízo do disposto na base XIII constante do anexo I.
 
 2 - O empréstimo a que se refere a cláusula 11.ª do anexo II do decreto-lei referido no número anterior, bem como os respectivos juros, que serão calculados nos termos estabelecidos nessa mesma cláusula, deverão ser liquidados pela concessionária até 31 de Dezembro do ano 2000.
 
-###### Art. 4.º Ficam revogadas todas as disposições legais que atribuem isenções de portagem a entidades públicas para além das que constam da base XX do anexo I a este diploma.
+Art. 4.º Ficam revogadas todas as disposições legais que atribuem isenções de portagem a entidades públicas para além das que constam da base XX do anexo I a este diploma.
 
-###### Art. 5.º Ficam os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações autorizados a, por parte do Estado, outorgar os documentos necessários à formalização das alterações ao contrato de concessão, com faculdade de delegação, decorrentes da entrada em vigor do presente diploma.
+Art. 5.º Ficam os Ministros das Finanças e das Obras Públicas, Transportes e Comunicações autorizados a, por parte do Estado, outorgar os documentos necessários à formalização das alterações ao contrato de concessão, com faculdade de delegação, decorrentes da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Julho de 1991.**
+Referendado em 30 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 1 - A concessão tem por objecto a construção, conservação e exploração, em regime de portagem, das seguintes auto-estradas:
 
@@ -192,7 +270,7 @@ Auto-Estrada da Costa do Estoril: lanço Lisboa-Estado Nacional, excluindo o Via
 
 3 - As auto-estradas relacionadas nos n.os 1 e 2 consideram-se divididas nos seguintes lanços e sublanços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf))](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
 
 4 - As extensões dos lanços ou sublanços serão medidas segundo o eixo da auto-estrada e determinadas, consoante os casos, nos termos previstos nos números seguintes.
 
@@ -210,7 +288,9 @@ b) Enquanto não estiver prevista a construção do lanço ou sublanço que lhe 
 
 7 - Os traçados de cada um dos lanços ou sublanços, bem como os respectivos nós e ramais de ligação, serão os que figurarem nos projectos aprovados.
 
-###### Base II — Tipo de concessão
+Base II
+
+Tipo de concessão
 
 1 - A concessão para construção, conservação e exploração das auto-estradas referidas na base I é de obras públicas.
 
@@ -218,11 +298,15 @@ b) Enquanto não estiver prevista a construção do lanço ou sublanço que lhe 
 
 3 - A concessão a que se referem estas bases é feita em regime de exclusivo.
 
-###### Base III — Estabelecimento da concessão
+Base III
+
+Estabelecimento da concessão
 
 Para além das auto-estradas referidas na base I, integram o estabelecimento da concessão todas as obras, máquinas e aparelhagem e respectivos acessórios utilizados para a exploração e conservação das auto-estradas referidas nos n.os 1 e 2 da base I, compreendendo os ramais e nós de ligação e as áreas de serviço ao longo delas, bem como os terrenos, as instalações para a cobrança de portagens, os escritórios e outras dependências de serviço e quaisquer outros bens ligados à referida exploração e conservação que pertençam à concessionária e ainda os que representam ou resultem de previsões para a amortização de outros bens ainda não substituídos ou renovados.
 
-###### Base IV — Reversão dos bens do estabelecimento
+Base IV
+
+Reversão dos bens do estabelecimento
 
 1 - As auto-estradas ficam a pertencer ao domínio público do Estado na data da sua abertura ao tráfego.
 
@@ -230,7 +314,9 @@ Para além das auto-estradas referidas na base I, integram o estabelecimento da 
 
 3 - Todos os demais bens que integram o estabelecimento da concessão revertem, no termo desta, para o Estado.
 
-###### Base V — Delimitação da concessão
+Base V
+
+Delimitação da concessão
 
 1 - Os limites da concessão são definidos em relação às auto-estradas que a integram pelos perfis transversais extremos das mesmas, em conformidade com os traçados definitivos constantes dos projectos oficialmente aprovados.
 
@@ -238,7 +324,9 @@ Para além das auto-estradas referidas na base I, integram o estabelecimento da 
 
 3 - Sem prejuízo do constante do número antecedente, será encargo da concessionária a conservação do sistema de iluminação, da sinalização vertical e das guardas de segurança dos troços das estradas da rede nacional compreendidos, na zona dos nós de ligação, dentro dos limites definidos nos respectivos projectos apresentados pela concessionária e aprovados.
 
-###### Base VI — Continuidade das vias existentes
+Base VI
+
+Continuidade das vias existentes
 
 1 - Competirá à concessionária restabelecer as vias de comunicação existentes interrompidas pela construção das auto-estradas.
 
@@ -248,17 +336,21 @@ Para além das auto-estradas referidas na base I, integram o estabelecimento da 
 
 4 - A concessionária será responsável pelas deficiências ou vícios de construção que venham a detectar-se nos restabelecimentos referidos no n.º 1 da presente base até três anos após a data de abertura ao tráfego do sublanço de auto-estrada onde se localiza.
 
-###### Base VII — Programa de execução das auto-estradas
+Base VII
+
+Programa de execução das auto-estradas
 
 1 - Os lanços e sublanços referidos no n.º 1 da base I entraram em exploração ou entrarão ao serviço, o mais tardar, nos semestres constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf))](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
 
 2 - A pedido da concessionária, devidamente fundamentado, poderão, por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, ser alteradas a divisão em lanços ou sublanços ou as datas de entrada em serviço que constam do número anterior.
 
 3 - O calendário previsto no n.º 1 pressupõe que à concessionária seja facultado atempadamente o acesso às comparticipações financeiras previstas na base XII do presente contrato.
 
-###### Base VIII — Integração na concessão das auto-estradas construídas pelo Estado
+Base VIII
+
+Integração na concessão das auto-estradas construídas pelo Estado
 
 1 - As auto-estradas construídas pelo Estado e a integrar na concessão, nos termos da base I, serão entregues à concessionária, com todos os seus pertences, na data da sua entrada em serviço ou na dos lanços ou sublanços de auto-estrada que lhes fiquem contíguos, excepto no caso de a concessionária solicitar que essa entrega seja antecipada.
 
@@ -268,7 +360,9 @@ Para além das auto-estradas referidas na base I, integram o estabelecimento da 
 
 4 - Sem prejuízo do constante do número anterior, para determinação dos limites das áreas integradas na concessão deverão ser seguidos os critérios constantes da base V.
 
-###### Base IX — Sociedade concessionária
+Base IX
+
+Sociedade concessionária
 
 1 - A concessionária é a BRISA - Auto-Estradas de Portugal, S. A., constituída em Portugal e com sede em Lisboa, que tem por objecto o exercício das actividades abrangidas pela concessão.
 
@@ -298,7 +392,9 @@ b) Para além do estabelecido na alínea anterior, no decurso do 1.º semestre e
 
 10 - Sem prejuízo estabelecido nos n.os 4 e 7 antecedentes, a concessionária poderá aumentar o seu capital por uma ou mais vezes no decurso de cada exercício, de tal modo que, no fim dele, esses aumentos se encontrem totalmente realizados.
 
-###### Base X — Financiamento da concessão
+Base X
+
+Financiamento da concessão
 
 1 - O financiamento necessário à realização do objecto da concessão será assegurado pela concessionária e pelo Estado de acordo com o estabelecido no presente contrato, tendo aquela o direito de receber dos utentes das auto-estradas as importâncias das portagens nas mesmas cobradas e os rendimentos de exploração das áreas de serviço e, bem assim, quaisquer outros rendimentos obtidos no âmbito da concessão.
 
@@ -314,13 +410,17 @@ d) Quaisquer outras fontes de financiamento consideradas adequadas.
 
 3 - As obrigações que a concessionária emitir no mercado interno e que beneficiem do aval do Estado serão equiparadas aos títulos deste para efeitos de serem incluídas nas reservas das seguradoras e outros investidores institucionais.
 
-###### Base XI — Equilíbrio financeiro da concessão
+Base XI
+
+Equilíbrio financeiro da concessão
 
 1 - O Estado, enquanto acccionista maioritário, contribuirá para o equilíbrio financeiro da concessão através das comparticipações e das dotações a que se referem as bases seguintes.
 
 2 - A perda, por parte do Estado, da situação de participação maioritária no capital da concessionária implica a revisão automática das bases relativas ao financiamento da concessão.
 
-###### Base XII — Comparticipações financeiras do Estado
+Base XII
+
+Comparticipações financeiras do Estado
 
 1 - O Estado comparticipará financeiramente no custo dos investimentos que a concessionária efectuar para a realização integral e atempada do objecto da concessão.
 
@@ -346,13 +446,17 @@ d) Quaisquer outras fontes de financiamento consideradas adequadas.
 
 12 - Quando se verificar a integração no objecto da concessão de lanços construídos total ou parcialmente pelo Estado, para serem explorados em regime de portagem pela concessionária, será considerado como comparticipação financeira do Estado uma percentagem do valor do investimento integrado correspondente à prevista no n.º 3 da presente base ou à percentagem de comparticipação que vier a ser acordada entre a concessionária e o Estado.
 
-###### Base XIII — Dotações para equilíbrio financeiro
+Base XIII
+
+Dotações para equilíbrio financeiro
 
 1 - O Estado continuará a assegurar, por conta da concessionária, o serviço da dívida externa referida na cláusula 2.ª do acordo de equilíbrio financeiro constante do anexo II do [Decreto-Lei n.º 458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), de 30 de Outubro, bem como dos respectivos refinanciamentos, diploma esse que, para estes precisos efeitos, se mantém em vigor.
 
 2 - Os pagamentos efectuados pelo Estado nos termos do número anterior constituem dotações para equilíbrio financeiro, a contabilizar nos termos da base seguinte.
 
-###### Base XIV — Especificações de natureza contabilística
+Base XIV
+
+Especificações de natureza contabilística
 
 1 - Os montantes liquidados pelo Estado por conta da concessionária, nos termos do disposto na base XIII do presente contrato, serão por esta contabilizados na conta do passivo intitulada «Fundo de equilíbrio» pelos contravalores reais, em escudos, dessas liquidações.
 
@@ -370,7 +474,9 @@ b) Liquidações feitas pelo Estado em cumprimento do disposto no acordo de equi
 
 6 - A concessionária poderá propor, para efeitos de aprovação pelo Ministério das Finanças, critérios específicos de amortização e de reintegração do seu activo imobilizado reversível que considere mais compatíveis com o objecto e actividades da concessão, salvaguardando sempre que os referidos bens se encontrem integralmente amortizados e reintegrados dentro do prazo da concessão.
 
-###### Base XV — Reembolso dos montantes do fundo de equilíbrio e do fundo de desenvolvimento
+Base XV
+
+Reembolso dos montantes do fundo de equilíbrio e do fundo de desenvolvimento
 
 1 - Os montantes registados na conta do passivo «Fundo de equilíbrio» serão reembolsáveis pela concessionária em 20 semestralidades iguais, no período de 1 de Janeiro de 2001 a 1 de Julho de 2010.
 
@@ -384,15 +490,19 @@ b) Liquidações feitas pelo Estado em cumprimento do disposto no acordo de equi
 
 6 - Os montantes registados na conta do passivo «Fundo de desenvolvimento» entregues pelo Estado à BRISA até 31 de Dezembro de 1990 serão reembolsáveis no ano seguinte ao que corresponder à liquidação final da dívida do fundo de equilíbrio.
 
-###### Base XVI — Avales do Estado em financiamentos externos e internos
+Base XVI
+
+Avales do Estado em financiamentos externos e internos
 
 O Estado poderá avalizar integralmente os financiamentos externos e internos a contrair pela concessionária com vista à prossecução do objecto da concessão, cobrando a taxa de aval em vigor em cada momento.
 
-###### Base XVII — Tarifas de portagem
+Base XVII
+
+Tarifas de portagem
 
 1 - As classes de veículos para efeitos da aplicação das tarifas de portagem por quilómetro de auto-estrada são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf))](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
 
 2 - A relação entre as tarifas da classe 1 e da classe 4 será, no máximo, de 1 para 2,5.
 
@@ -402,7 +512,9 @@ a) A aplicação de esquemas classificativos diferentes do previsto no n.º 1 de
 
 b) A aplicação de uma relação tarifária superior à estabelecida no n.º 2 da presente base, devidamente fundamentada em estudo económico.
 
-###### Base XVIII — Taxas de portagem
+Base XVIII
+
+Taxas de portagem
 
 1 - As taxas de portagem para as diferentes classes de veículos definidas nos termos da base XVII serão calculadas pela aplicação das tarifas de portagem à extensão de percurso a efectuar pelos utentes.
 
@@ -418,7 +530,9 @@ b) A aplicação de uma relação tarifária superior à estabelecida no n.º 2 
 
 7 - As taxas de portagem a praticar inicialmente nos lanços e sublanços que entrem em serviço posteriormente à presente data serão aprovados por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, mediante proposta da concessionária, a qual será apresentada com a antecedência mínima de 60 dias em relação à data prevista para a sua entrada em vigor, prazo findo o qual as referidas taxas se consideram tacitamente aprovadas.
 
-###### Base XIX — Fixação e actualização de tarifas de portagem
+Base XIX
+
+Fixação e actualização de tarifas de portagem
 
 1 - A actualização das tarifas de portagem processar-se-á anualmente e por iniciativa da concessionária, em princípio, desde que a variação não exceda 75% da verificada no índice de preços no consumidor, sem habitação, para o continente, no período contado até à data do último valor publicado do referido índice e para um período igual ao que resulta do prazo decorrido entre a fixação ou a última actualização tarifária e a data pretendida para a entrada efectiva em vigor da nova tarifa, salvo o disposto no número seguinte.
 
@@ -456,7 +570,9 @@ Os coeficientes 0,75 e 0,25 serão substituídos, respectivamente, por 0,9 e 0,1
 
 9 - Sempre que, em razão de desajustamentos ocorridos ao nível dos factores integrantes do equilíbrio financeiro da concessão, do sistema geral de preços ou de variáveis imprevisíveis, esta pretenda actualização tarifária em excesso das permitidas pela presente base, deverá a mesma ser submetida, com antecedência mínima de 60 dias, a aprovação dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Base XX — Isenções de portagem
+Base XX
+
+Isenções de portagem
 
 1 - Não serão concedidas isenções de pagamento das taxas de portagem estabelecidas, excepto nos casos referidos no número seguinte.
 
@@ -482,7 +598,9 @@ g) Veículos da concessionária, bem como os que possam considerar-se no âmbito
 
 5 - Das contas a apresentar para cumprimento do n.º 2 da base LIV constarão os custos associados às isenções de portagem.
 
-###### Base XXI — Caução
+Base XXI
+
+Caução
 
 1 - A caução mínima que a concessionária deverá prestar ao Estado, como garantia do exacto e pontual cumprimento das obrigações por si assumidas no presente contrato, será de 500000 contos.
 
@@ -506,7 +624,9 @@ b) O reforço na alínea a) deverá ser regularizado durante o mês seguinte ao 
 
 9 - Todas as despesas derivadas da prestação da caução serão de conta da concessionária.
 
-###### Base XXII — Elaboração de estudos
+Base XXII
+
+Elaboração de estudos
 
 1 - A concessionária promoverá, sob a fiscalização do Ministério das Obras Públicas, Transportes e Comunicações, exercida através da Junta Autónoma de Estradas, por sua inteira responsabilidade e de acordo com as disposições do presente contrato, os estudos e projectos relativos às obras abrangidas pela concessão.
 
@@ -536,13 +656,15 @@ b) O reforço na alínea a) deverá ser regularizado durante o mês seguinte ao 
 
 14 - As normas a considerar que não estejam taxativamente indicadas neste contrato deverão ser as constantes das disposições legais e regulamentares em vigor e, em casos omissos e por falta de acordo entre a concessionária e a Junta Autónoma de Estradas, deverão ser as que estiverem em vigor nos países da CEE, designadamente as do Service d'Études Techniques des Routes et Autoroutes (SETRA).
 
-###### Base XXIII — Critérios de projecto
+Base XXIII
+
+Critérios de projecto
 
 1 - As auto-estradas concessionadas serão projectadas para uma velocidade base de 120 km, podendo, nos termos do n.º 9 da presente base, ser projectadas para a velocidade de 100 km/h.
 
 2 - Nestas condições serão observadas as seguintes características técnicas fundamentais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf))](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/190a00/42614274.pdf)
 
 3 - O pavimento das auto-estradas será dimensionado para um período de previsão de tráfego de 20 anos, para as licitações do eixo padrão, em vigor, em conformidade com a capacidade de suporte do leito do pavimento. O pavimento poderá ser, no entanto, executado por fases, sendo a primeira para um período mínimo de 10 anos e prevendo-se, desde logo, o reforço da camada de betão betuminoso, previsão esta a ajustar em função da evolução real do tráfego e dos resultados apurados nas campanhas de auscultação do pavimento.
 
@@ -580,7 +702,9 @@ g) Dispositivos de protecção contra agentes poluentes, designadamente ruídos.
 
 13 - Ao longo e através das auto-estradas, incluindo as suas obras de arte especiais, serão estabelecidos, onde se julgue conveniente, os dispositivos necessários para que o futuro alojamento de cabos, nomeadamente eléctricos e telefónicos, possa ser efectuado sem afectar a estrutura e sem necessidade de levantar o pavimento.
 
-###### Base XXIV — Áreas de serviço
+Base XXIV
+
+Áreas de serviço
 
 1 - Consideram-se áreas de serviço as zonas confinantes com as auto-estradas destinadas a apoio aos utentes, designadamente postos de abastecimento de combustíveis, restaurantes e motéis.
 
@@ -598,13 +722,17 @@ g) Dispositivos de protecção contra agentes poluentes, designadamente ruídos.
 
 8 - Em casos excepcionais devidamente fundamentados, poderá o Ministro das Obras Públicas, Transportes e Comunicações, mediante pedido da concessionária e parecer da Junta Autónoma das Estradas, autorizar alterações ao disposto na presente base.
 
-###### Base XXV — Elementos de estudo a facultar à concessionária
+Base XXV
+
+Elementos de estudo a facultar à concessionária
 
 1 - Serão facultados à concessionária, a seu pedido e sem encargos, todos os elementos de que disponha o Ministério das Obras Públicas, Transportes e Comunicações, incluindo estudos prévios, anteprojectos e projectos, aprovados, que interessem ao projecto da concessão.
 
 2 - Estes elementos não constituem obrigação para a concessionária nem compromisso para o Ministério, competindo àquela propor e realizar as alterações que julgue conveniente introduzir-lhes e que pelo Estado sejam aceites, para que as obras a realizar melhor possam corresponder ao objecto da concessão.
 
-###### Base XXVI — Programa de estudos e projectos
+Base XXVI
+
+Programa de estudos e projectos
 
 1 - As datas em que a concessionária se compromete a apresentar as três fases dos projectos que lhe compete elaborar, bem como os prazos de aprovação, tendo em vista o cumprimento do calendário constante da base VII, constarão de um programa a apresentar pela concessionária à Junta Autónoma de Estradas até 30 dias depois da entrada em vigor deste diploma.
 
@@ -626,7 +754,9 @@ g) Dispositivos de protecção contra agentes poluentes, designadamente ruídos.
 
 10 - A aprovação ou não aprovação dos projectos pelo Ministério das Obras Públicas, Transportes e Comunicações não acarretará a responsabilidade do Estado nem libertará a concessionária dos compromissos emergentes deste contrato, sendo sua a responsabilidade que porventura lhe advenha da imperfeição das concepções previstas ou do funcionamento das obras.
 
-###### Base XXVII — Expropriações
+Base XXVII
+
+Expropriações
 
 1 - Compete à concessionária, como entidade expropriante actuando em nome do Estado, realizar as expropriações necessárias à construção das auto-estradas que são objecto da concessão, em conformidade com as plantas parcelares aprovadas pelo Ministério das Obras Públicas, Transportes e Comunicações.
 
@@ -640,7 +770,9 @@ g) Dispositivos de protecção contra agentes poluentes, designadamente ruídos.
 
 6 - A alienação das áreas sobrantes será da competência do Ministério das Obras Públicas, Transportes e Comunicações, nas condições estabelecidas no artigo 7.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), sem prejuízo de o valor obtido reverter para a Fazenda Nacional.
 
-###### Base XXVIII — Execução das obras
+Base XXVIII
+
+Execução das obras
 
 1 - A realização das obras deverá ser precedida de concurso, da competência da concessionária, podendo o Ministério das Obras Públicas, Transportes e Comunicações dispensá-lo a pedido desta, mediante parecer da Junta Autónoma de Estradas.
 
@@ -654,7 +786,9 @@ g) Dispositivos de protecção contra agentes poluentes, designadamente ruídos.
 
 6 - Junto das instalações das fiscalizações da concessionária serão disponibilizadas por estas instalações para utilização da Junta Autónoma de Estradas, constituídas por uma sala/gabinete devidamente apetrechada.
 
-###### Base XXIX — Aumento do número de vias das auto-estradas
+Base XXIX
+
+Aumento do número de vias das auto-estradas
 
 1 - A concessionária obriga-se a aumentar o número de vias das auto-estradas constantes do n.º 1 da base I de acordo com os seguintes parâmetros:
 
@@ -684,13 +818,17 @@ a) No que se refere às terceiras vias previstas nas alíneas b), c) e d) do n.�
 
 b) As auto-estradas referidas no n.º 3 desta base, às quais se aplicará o disposto na parte final da base XLV do presente contrato.
 
-###### Base XXX — Estragos causados em vias de comunicação
+Base XXX
+
+Estragos causados em vias de comunicação
 
 1 - A concessionária é responsável pela reparação de todos os estragos que, justificadamente, se verifique terem sido causados em quaisquer vias de comunicação em consequência das obras a seu cargo.
 
 2 - A concessionária poderá, no entanto, por força de contrato, imputar a responsabilidade referida no número anterior aos empreiteiros a quem venha a adjudicar as obras, sem que tal implique qualquer alteração da sua posição perante a entidade concedente.
 
-###### Base XXXI — Entrada em serviço das auto-estradas
+Base XXXI
+
+Entrada em serviço das auto-estradas
 
 1 - Imediatamente após a conclusão dos trabalhos indispensáveis à entrada em serviço de cada lanço ou sublanço de auto-estrada proceder-se-á, a pedido da concessionária, à sua vistoria, lavrando-se auto em que intervirão representantes da Junta Autónoma de Estradas e da concessionária.
 
@@ -700,19 +838,25 @@ b) As auto-estradas referidas no n.º 3 desta base, às quais se aplicará o dis
 
 4 - Compete à concessionária, no prazo máximo de um ano a contar da data do auto de vistoria relativo à entrada em serviço de cada lanço ou sublanço de auto-estrada, fornecer à Junta Autónoma de Estradas um exemplar de peças escritas e desenhadas (em material reprodutível) definitivas do projecto das obras executadas.
 
-###### Base XXXII — Poderes especiais do concedente
+Base XXXII
+
+Poderes especiais do concedente
 
 1 - O concedente, através do Ministério das Obras Públicas, Transportes e Comunicações, poderá determinar à concessionária a modificação das características técnicas especificadas na base XXIII deste contrato, bem como alterações nas obras por ela realizadas.
 
 2 - Se a concessionária provar que das alterações referidas no número anterior lhe resultou prejuízo, terá direito a uma indemnização, a estabelecer por acordo com a Junta Autónoma de Estradas.
 
-###### Base XXXIII — Alterações nas obras realizadas e entrada em funcionamento de instalações suplementares a pedido da concessionária
+Base XXXIII
+
+Alterações nas obras realizadas e entrada em funcionamento de instalações suplementares a pedido da concessionária
 
 1 - A concessionária poderá, mediante autorização do Ministério das Obras Públicas, Transportes e Comunicações, introduzir alterações nas obras realizadas e, bem assim, estabelecer e pôr em funcionamento instalações suplementares, desde que disso não resulte nenhuma modificação quanto à essência da concessão.
 
 2 - Consideram-se instalações suplementares aquelas que, embora não referidas expressamente neste contrato, permitam melhorar o nível do serviço e sejam do interesse dos utentes ou da exploração da auto-estrada.
 
-###### Base XXXIV — Demarcação dos terrenos e respectiva planta cadastral
+Base XXXIV
+
+Demarcação dos terrenos e respectiva planta cadastral
 
 1 - A concessionária procederá à sua custa, contraditoriamente com os proprietários vizinhos e em presença de um delegado da Junta Autónoma de Estradas, que levantará o respectivo auto, à demarcação dos terrenos que façam parte integrante da concessão, procedendo em seguida ao levantamento da respectiva planta, em fundo cadastral e a escala não inferior a 1:2000, que identifique os terrenos que fazem parte integrante da concessão, as áreas sobrantes e os restantes terrenos.
 
@@ -722,7 +866,9 @@ b) As auto-estradas referidas no n.º 3 desta base, às quais se aplicará o dis
 
 4 - Não serão consideradas válidas quaisquer alienações feitas sem autorização da Junta Autónoma de Estradas.
 
-###### Base XXXV — Conservação das auto-estradas
+Base XXXV
+
+Conservação das auto-estradas
 
 1 - A concessionária deverá manter as auto-estradas que constituem o objecto da concessão em bom estado de conservação e perfeitas condições de utilização, realizando, nas devidas oportunidades, todos os trabalhos necessários para que as mesmas satisfaçam cabal e permanentemente o fim a que se destinam.
 
@@ -730,11 +876,15 @@ b) As auto-estradas referidas no n.º 3 desta base, às quais se aplicará o dis
 
 3 - O estado de conservação e as condições de exploração das auto-estradas, ramais e nós de ligação e áreas de serviço serão verificados pelos agentes de fiscalização da Junta Autónoma de Estradas, competindo à concessionária, dentro dos prazos que lhe forem fixados em notificações dimanadas daquela Junta, proceder às reparações e beneficiações julgadas necessárias.
 
-###### Base XXXVI — Forma de cobrança da portagem
+Base XXXVI
+
+Forma de cobrança da portagem
 
 Competirá à concessionária organizar o serviço de cobrança das portagens por forma que a mesma seja feita com a maior eficiência e o mínimo de incomodidade e perda de tempo para os utentes das auto-estradas.
 
-###### Base XXXVII — Financiamento, construção e exploração das áreas de serviço
+Base XXXVII
+
+Financiamento, construção e exploração das áreas de serviço
 
 1 - A concessionária poderá celebrar com terceiros contratos para o financiamento, construção e exploração das áreas de serviço.
 
@@ -744,7 +894,9 @@ Competirá à concessionária organizar o serviço de cobrança das portagens po
 
 4 - No caso de rescisão da concessão, o Estado respeitará os direitos emergentes dos contratos que, para os efeitos do n.º 1 da presente base, a concessionária tiver celebrado.
 
-###### Base XXXVIII — Obrigações e direitos do público e dos proprietários confinantes das auto-estradas
+Base XXXVIII
+
+Obrigações e direitos do público e dos proprietários confinantes das auto-estradas
 
 1 - As obrigações do público e os direitos e obrigações dos proprietários confinantes com as auto-estradas em relação ao seu policiamento serão os que constam do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e de outras disposições legais ou regulamentares aplicáveis.
 
@@ -752,7 +904,9 @@ Competirá à concessionária organizar o serviço de cobrança das portagens po
 
 3 - A concessionária tem o dever de colaborar com a Junta Autónoma de Estradas, comunicando-lhe as situações em contravenção ao disposto no Estatuto das Estradas Nacionais e outras disposições dos proprietários confinantes das auto-estradas.
 
-###### Base XXXIX — Manutenção e disciplina de tráfego
+Base XXXIX
+
+Manutenção e disciplina de tráfego
 
 1 - A circulação pelas auto-estradas obedecerá ao determinado no Código da Estrada e mais disposições legais ou regulamentares aplicáveis.
 
@@ -760,7 +914,9 @@ Competirá à concessionária organizar o serviço de cobrança das portagens po
 
 3 - Deverá também a concessionária submeter-se, sem direito a qualquer indemnização, a todas as medidas adoptadas pelas autoridades com poderes de disciplina de tráfego, em ocasiões de tráfego excepcionalmente intenso, com o fim de obter o melhor aproveitamento para todas as categorias de utentes do conjunto da rede viária.
 
-###### Base XL — Assistência aos utentes
+Base XL
+
+Assistência aos utentes
 
 1 - A concessionária é obrigada a assegurar a assistência aos utentes das auto-estradas que constituem o objecto da concessão através de serviços de vigilância e socorro.
 
@@ -768,23 +924,31 @@ Competirá à concessionária organizar o serviço de cobrança das portagens po
 
 3 - O funcionamento dos serviços de socorro obedecerá a regulamento a aprovar pela Junta Autónoma de Estradas.
 
-###### Base XLI — Reclamações de utentes
+Base XLI
+
+Reclamações de utentes
 
 1 - A concessionária terá à disposição dos utentes das auto-estradas, em locais a determinar, livros destinados ao registo de reclamações, os quais serão visados periodicamente pelos agentes de fiscalização da Junta Autónoma de Estradas.
 
 2 - Mensalmente serão enviadas à Junta Autónoma de Estradas as reclamações registadas, acompanhadas das respostas dadas aos utentes, bem como o resultado da investigação efectuada, quando necessária.
 
-###### Base XLII — Estatística do tráfego
+Base XLII
+
+Estatística do tráfego
 
 1 - A concessionária organizará uma rigorosa estatística diária do tráfego nas auto-estradas, adoptando para o efeito sistema a estabelecer com a Junta Autónoma de Estradas.
 
 2 - Os elementos obtidos serão mantidos, sem quaisquer restrições, à disposição da fiscalização, que terá livre acesso aos locais onde estejam instalados os sistemas de controle.
 
-###### Base XLIII — Prazo de concessão
+Base XLIII
+
+Prazo de concessão
 
 O prazo de concessão termina em 31 de Dezembro do ano 2020.
 
-###### Base XLIV — Entrada na posse do estado das auto-estradas que constituem o objecto da concessão
+Base XLIV
+
+Entrada na posse do estado das auto-estradas que constituem o objecto da concessão
 
 1 - No fim do prazo da concessão cessam para a concessionária todos os direitos emergentes do contrato, sendo entregues ao Estado, em perfeito estado de conservação e livres de quaisquer ónus ou encargos, todos os bens que constituem o estabelecimento da concessão.
 
@@ -796,11 +960,15 @@ O prazo de concessão termina em 31 de Dezembro do ano 2020.
 
 5 - No fim do prazo da concessão o Estado tomará a seu cargo todas as obrigações eventualmente pendentes entre a concessionária e terceiros resultantes do objecto da concessão, sem prejuízo da responsabilidade da concessionária pelas obrigações assumidas e do disposto nos n.os 1 a 3 da presente base.
 
-###### Base XLV — Ampliação da concessão
+Base XLV
+
+Ampliação da concessão
 
 No decurso do período da concessão poderá o Governo autorizar a ampliação da rede de auto-estradas concessionadas estabelecida na base I, nas condições que, após parecer das entidades fiscalizadoras referidas na base L do presente contrato, venham a ser acordadas com a concessionária.
 
-###### Base XLVI — Trespasse e subconcessão
+Base XLVI
+
+Trespasse e subconcessão
 
 1 - A concessionária não poderá, sem prévia autorização do Governo, subconceder ou trespassar a concessão.
 
@@ -808,7 +976,9 @@ No decurso do período da concessão poderá o Governo autorizar a ampliação d
 
 3 - No caso de trespasse, consideram-se transmitidos para a nova concessionária os direitos e obrigações da anterior, assumindo aquela ainda os deveres, obrigações e encargos que eventualmente lhe venham a ser impostos como condição para a autorização do trespasse.
 
-###### Base XLVII — Sanções
+Base XLVII
+
+Sanções
 
 1 - No caso do não cumprimento pela concessionária de qualquer das obrigações emergentes do contrato de concessão ou das determinações legítimas da fiscalização, poderá o Ministro das Obras Públicas, Transportes e Comunicações, se outra sanção mais grave não se encontrar prevista, aplicar-lhe multas contratuais cujo montante variará, por cada dia de atraso na falta de cumprimento do que haja sido determinado ou por cada falta verificada, entre um mínimo de 500 contos e um máximo de 15000 contos, conforme a gravidade da falta.
 
@@ -822,7 +992,9 @@ No decurso do período da concessão poderá o Governo autorizar a ampliação d
 
 6 - Sem prejuízo do disposto dos números anteriores, a Junta Autónoma de Estradas poderá substituir temporariamente a concessionária para execução dos trabalhos interrompidos, de trabalhos de conservação, exploração ou outros, por conta e risco da concessionária.
 
-###### Base XLVIII — Resgate da concessão
+Base XLVIII
+
+Resgate da concessão
 
 1 - Após 1 de Janeiro de 2010 pode o Estado proceder ao resgate da concessão, a todo o tempo mas nunca antes de decorrido um ano a contar da notificação à concessionária da intenção de resgate.
 
@@ -838,7 +1010,9 @@ b) De importância correspondente ao valor das obras novas implantadas no âmbit
 
 5 - O valor das indemnizações a que se refere o número anterior será determinado por uma comissão arbitral, da qual farão parte três peritos, um nomeado pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, outro pela concessionária e outro por acordo de ambas as partes ou, na sua falta, por escolha do presidente do Tribunal da Relação de Lisboa.
 
-###### Base XLIX — Rescisão da concessão
+Base XLIX
+
+Rescisão da concessão
 
 1 - No caso de a concessionária não cumprir as obrigações que lhe são impostas pelo contrato, o Governo, sob proposta do Ministro das Obras Públicas, Transportes e Comunicações e ouvida a Junta Autónoma de Estradas, poderá rescindir a concessão.
 
@@ -868,29 +1042,39 @@ A nova concessionária ficará sujeita a todas as cláusulas do contrato entre o
 
 6 - A caução reverterá automática e integralmente para o Estado no caso de se verificar a rescisão da concessão.
 
-###### Base L — Fiscalização
+Base L
+
+Fiscalização
 
 1 - A fiscalização da concessão é da competência do Ministério das Finanças, para as questões financeiras, e do Ministério das Obras Públicas, Transportes e Comunicações, para as demais.
 
 2 - A primeira daquelas fiscalizações será exercida pela Inspecção-Geral de Finanças e a segunda pela Junta Autónoma de Estradas.
 
-###### Base LI — Falta de cumprimento pela concessionária por motivo de força maior
+Base LI
+
+Falta de cumprimento pela concessionária por motivo de força maior
 
 1 - A concessionária fica isenta de responsabilidade por falta, deficiência ou atraso na execução do contrato quando se verifique caso de força maior devidamente comprovado.
 
 2 - Para os efeitos indicados no número anterior consideram-se casos de força maior unicamente os que resultam de acontecimentos imprevistos e irresistíveis cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da concessionária, nomeadamente actos de guerra ou subversão, epidemias, radiações atómicas, fogo, raio, graves inundações, ciclones, tremores de terra e outros cataclismos naturais que directamente afectem os trabalhos da concessão.
 
-###### Base LII — Melhoria ou ampliação da rede viária pelo Estado
+Base LII
+
+Melhoria ou ampliação da rede viária pelo Estado
 
 Sem prejuízo do disposto no n.º 3 da base II, o Estado reserva-se o direito de melhorar as estradas existentes ou construir novas estradas sem que a concessionária tenha direito a qualquer indemnização pelos desvios de tráfego que, em consequência dessas obras, possam resultar para as auto-estradas que constituem o objecto da concessão.
 
-###### Base LIII — Indemnizações a terceiros
+Base LIII
+
+Indemnizações a terceiros
 
 1 - Serão da inteira responsabilidade da concessionária todas as indemnizações que, nos termos da lei, sejam devidas a terceiros em consequência de qualquer actividade decorrente da concessão.
 
 2 - Se, por força dos contratos de empreitada que a concessionária celebrar com empreiteiros, a responsabilidade consignada no número antecedente for por estes assumida, sobre eles poderá a concessionária repercutir a obrigação de indemnizar.
 
-###### Base LIV — Relatórios e informações
+Base LIV
+
+Relatórios e informações
 
 1 - A concessionária apresentará ao Ministério das Obras Públicas, Transportes e Comunicações, através da Junta Autónoma de Estradas, no prazo de 30 dias após aprovação do relatório anual de gestão, um relatório respeitante ao ano anterior, no qual será prestada circunstanciada informação sobre os estudos e trabalhos de construção, conservação e exploração das auto-estradas que constituem objecto da concessão e os planos e elementos previsionais relativos aos dois anos seguintes.
 

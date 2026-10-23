@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/1992/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1992-292307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf0f690013105818018917ced242797889572fbcbdf0437b7c850b2a1f6c81e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7ed96c551c55379abd5a50a6c789c18de95271db63253f06b49ae0ab741faba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Sociedade Anónima
 - Privatização
 - Socarmar
-relationships: []
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:39Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a alienação, por fases, da totalidade das acções correspondentes ao capital social da SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A.
+Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a alienação, por fases, da totalidade das acções correspondentes ao capital social da SOCARMAR - Sociedade de Cargas e Descargas Marítimas, S. A.
 
 2 - O processo de reprivatização previsto no número anterior realizar-se-á por fases, sendo regulado pelo presente decreto-lei e pela resolução do Conselho de Ministros a que se refere o artigo 9.º, adiante designada por resolução do Conselho de Ministros.
 
@@ -105,7 +117,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - As acções representativas do capital da Sociedade poderão ser escriturais e serão obrigatoriamente nominativas ou ao portador em regime de registo.
 
-###### Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores e pequenos subscritores 76760 acções, correspondentes a 4% do capital social.
+Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores e pequenos subscritores 76760 acções, correspondentes a 4% do capital social.
 
 2 - É aprovada a alienação em bloco de um lote indivisível de 978690 acções, correspondentes a 51% do capital social, por concurso público aberto a entidades nacionais ou estrangeiras, que poderão apresentar-se a concurso individualmente ou agrupadas, devendo as ordens de compra ser dadas para a totalidade do bloco.
 
@@ -115,7 +127,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Para efeitos do n.º 1, entendem-se como trabalhadores as pessoas abrangidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores serão sujeitas a quantidades mínimas e máximas, a fixar na resolução do Conselho de Ministros, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.
 
@@ -127,11 +139,11 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - O caderno de encargos estabelecerá a sanção pelo incumprimento da aquisição obrigatória prevista no número anterior, que poderá consistir na perda a favor do Estado da totalidade ou de parte das acções adquiridas nos termos do n.º 4.
 
-###### Art. 4.º - 1 - A resolução do Conselho de Ministros definirá preços fixos especiais para as acções a adquirir por trabalhadores e pequenos subscritores, bem como o preço base de alienação dos lotes de acções previstos nos n.os 2 e 3 do artigo 2.º
+Art. 4.º - 1 - A resolução do Conselho de Ministros definirá preços fixos especiais para as acções a adquirir por trabalhadores e pequenos subscritores, bem como o preço base de alienação dos lotes de acções previstos nos n.os 2 e 3 do artigo 2.º
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções, em condições a fixar na resolução do Conselho de Ministros.
 
-###### Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 3.º não conferem aos respectivos titulares o direito de votarem na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.
 
@@ -141,7 +153,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada a alienação futura das acções, quando celebrados antes de iniciado ou terminado o período referido no n.º 1.
 
-###### Art. 6.º - 1 - Exceptuadas as transmissões entre os accionistas que compõem o agrupamento vencedor, as acções adquiridas nos termos do n.º 4 do artigo 3.º são intransmissíveis durante quatro anos.
+Art. 6.º - 1 - Exceptuadas as transmissões entre os accionistas que compõem o agrupamento vencedor, as acções adquiridas nos termos do n.º 4 do artigo 3.º são intransmissíveis durante quatro anos.
 
 2 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada uma futura alienação das acções abrangidas pelo número anterior quando celebrados antes de iniciado ou terminado o período de quatro anos, exceptuando-se os contratos entre accionistas que compõem o agrupamento vencedor.
 
@@ -149,30 +161,30 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 1 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de intransmissibilidade a que as primeiras estão sujeitas.
 
-###### Art. 7.º - 1 - Enquanto o Estado for accionista, e independentemente do número de acções de que seja titular, o seu representante na assembleia geral terá direito a designar, pelo menos, um dos membros do conselho de administração.
+Art. 7.º - 1 - Enquanto o Estado for accionista, e independentemente do número de acções de que seja titular, o seu representante na assembleia geral terá direito a designar, pelo menos, um dos membros do conselho de administração.
 
 2 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução e alteração do pacto social, incluindo o aumento e a redução do capital, só serão válidas quando votadas favoravelmente pelo representante do Estado.
 
 3 - O administrador, nomeado nos termos do n.º 1, tem a competência, direitos e deveres definidos na lei para os administradores por parte do Estado.
 
-###### Art. 8.º Compete ao conselho de administração da Sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 8.º Compete ao conselho de administração da Sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 9.º Serão fixadas por resolução do Conselho de Ministros as condições finais e concretas das operações a realizar para efeitos da execução do presente diploma.
+Art. 9.º Serão fixadas por resolução do Conselho de Ministros as condições finais e concretas das operações a realizar para efeitos da execução do presente diploma.
 
-###### Art. 10.º Para a realização das operações de reprivatização previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com a faculdade de subdelegação, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes, incluindo o ajuste directo da operação.
+Art. 10.º Para a realização das operações de reprivatização previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com a faculdade de subdelegação, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes, incluindo o ajuste directo da operação.
 
-###### Art. 11.º Nos 30 dias seguintes à alienação prevista no n.º 2 do artigo 2.º será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 11.º Nos 30 dias seguintes à alienação prevista no n.º 2 do artigo 2.º será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
-###### Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

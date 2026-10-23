@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/1991/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1991-508982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4f140ec9c7a3eae6d4d4d14c8ffee7c5ef7307b72d727ba6e02243fb815aa06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5154234d10c44368f27fd39a3362165cc9de32bcd402702ffc175acc9a4cb63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Emparcelamento
-- Isenção Fiscal
-- Exploração Agrícola
-- Prédio Rústico
-- Modernização do Sector Agrícola
 - Agricultura
+- Emparcelamento
+- Exploração Agrícola
+- Isenção Fiscal
+- Modernização do Sector Agrícola
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:70128394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70128394:por
+  label: Revogado, a partir de 26.09.2015, o Dec Lei 103/90 de 22-mar, na redação do presente diploma, pelo(a) Lei n.º 111/2015
+    - Diário da República n.º 167/2015, Série I de 2015-08-27 nos termos do art. 62.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/111-2015-70128394
+  date: '2015-08-27'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:18Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +123,7 @@ Considerando que a manutenção das explorações agrícolas bem dimensionadas �
 
 No uso da autorização legislativa concedida pela alínea b) do n.º 1 do artigo 27.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 51.º do [Decreto-Lei n.º 103/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1990-333336), de 22 de Março, passa a ter a seguinte redacção:
+Artigo único. O artigo 51.º do [Decreto-Lei n.º 103/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1990-333336), de 22 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 51.º — [...]
 
@@ -123,12 +141,12 @@ c) As aquisições de bens que excedam o quinhão ideal do adquirente em partilh
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

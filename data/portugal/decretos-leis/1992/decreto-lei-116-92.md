@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/1992/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1992-303221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31dd7c3da30a69198e7d61f17c880c855144bbe1a457882f2c8a3f6ab6d0591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c471fecdded1987c507948a7c6cc001b444b5f5f85a93650eb15cec7c16f581a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Ponte 25 de Abril
 - Contrato de Concessão
 - CP
-- Transporte Ferroviário
 - Estatuto
+- Ponte 25 de Abril
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:140549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567187:por
+  label: "Alterados os arts. 4º e 5º pelo DEC LEI.274/98.1998.09.05.MEPAT, DR.IS-A [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-1998-567187
+  date: '1998-09-05'
+- type: amended_by
+  target: pt:dre:324333:por
+  label: "Altera algumas referências na relação das linhas e ramais a que se refere o n.º 1 do art. 2.º, dos Estatutos da\
+    \ CP, aprovados pelo Dec Lei 109/77, de 25-Mar DR.IS [71], na versão dada pelo presente diploma, pelo DEC LEI.394-A/98.1998.12.15.MEPAT\
+    \ DR.IS-A [288]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/394-a-1998-324333
+  date: '1998-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/339/1991/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/339/1991/09/10/p/dre
+- type: cites
+  target: pt:dre:139464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303672:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:623463:por
+  label: "RECTIFICADO PELA DECL-RECT 103/92 DR.IS-A [175]3SUPL\03SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/103-1992-623463
+  date: '1992-07-31'
+- type: repealed_by
+  target: pt:dre:140549:por
+  label: "Revogado, a partir de 12.07.2009, o Dec Lei 109/77 de 25-Mar, com as alterações deste diploma - que será revogado\
+    \ na mesma data - pelo DEC LEI.137-A/2009.12.06.2009.MOPTC, DR.IS [112-Supl] de 12.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-a-2009-140549
+  date: '2009-06-12'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:54Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +150,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 2.º dos Estatutos dos Caminhos de Ferro Portugueses, E. P., adiante designada por CP, aprovados pelo [Decreto-Lei n.º 109/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1977-139464), de 25 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º dos Estatutos dos Caminhos de Ferro Portugueses, E. P., adiante designada por CP, aprovados pelo [Decreto-Lei n.º 109/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1977-139464), de 25 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -139,23 +170,23 @@ a) ...
 
 b) ...
 
-###### Art. 2.º A relação das linhas férreas e ramais a que se refere o n.º 1 do artigo 2.º dos Estatutos dos Caminhos de Ferro Portugueses, E. P., passa a ser a constante do anexo ao presente diploma.
+Art. 2.º A relação das linhas férreas e ramais a que se refere o n.º 1 do artigo 2.º dos Estatutos dos Caminhos de Ferro Portugueses, E. P., passa a ser a constante do anexo ao presente diploma.
 
-###### Art. 3.º É aditado o artigo 26.º-A aos Estatutos dos Caminhos de Ferro Portugueses, E. P., com a seguinte redacção:
+Art. 3.º É aditado o artigo 26.º-A aos Estatutos dos Caminhos de Ferro Portugueses, E. P., com a seguinte redacção:
 
-###### Art. 26.º-A. A exploração da ligação fluvial Lisboa-Terreiro do Paço ao Barreiro é assegurada pelos Caminhos de Ferro Portugueses, E. P., podendo estes constituir uma empresa para tal exploração.
+Art. 26.º-A. A exploração da ligação fluvial Lisboa-Terreiro do Paço ao Barreiro é assegurada pelos Caminhos de Ferro Portugueses, E. P., podendo estes constituir uma empresa para tal exploração.
 
-###### Art. 4.º É cometida aos Caminhos de Ferro Portugueses, E. P., a exploração, em regime de concessão, de um troço de linha férrea que ligará Campolide ao Pinhal Novo, pela actual ponte sobre o Tejo em Lisboa.
+Art. 4.º É cometida aos Caminhos de Ferro Portugueses, E. P., a exploração, em regime de concessão, de um troço de linha férrea que ligará Campolide ao Pinhal Novo, pela actual ponte sobre o Tejo em Lisboa.
 
-###### Art. 5.º - 1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento), pela Ponte de São João, e Azambuja-Setúbal, pela actual ponte sobre o Tejo em Lisboa.
+Art. 5.º - 1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento), pela Ponte de São João, e Azambuja-Setúbal, pela actual ponte sobre o Tejo em Lisboa.
 
 2 - As subconcessões podem, nos termos que vierem a constar nos respectivos cadernos de encargos, ser estabelecidas mediante condições que obriguem o subconcessionário a proceder à modernização e ou à construção das linhas ou troços de linhas, existentes ou novos.
 
-###### Art. 6.º - 1 - A subconcessão prevista no artigo anterior é feita por concurso público.
+Art. 6.º - 1 - A subconcessão prevista no artigo anterior é feita por concurso público.
 
 2 - O programa do concurso e o respectivo caderno de encargos são aprovados por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 7.º Do caderno de encargos deve constar, obrigatoriamente:
+Art. 7.º Do caderno de encargos deve constar, obrigatoriamente:
 
 a) Requisitos específicos que os eventuais concorrentes devam satisfazer;
 
@@ -173,31 +204,31 @@ g) Tramitação processual do concurso;
 
 h) Critérios da escolha das propostas.
 
-###### Art. 8.º A análise técnica das propostas concorrentes competirá a uma comissão a constituir para esse fim por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 8.º A análise técnica das propostas concorrentes competirá a uma comissão a constituir para esse fim por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 9.º - 1 - A adjudicação das subconcessões é feita pelos Caminhos de Ferro Portugueses, E. P., sujeita a autorização prévia, a prestar por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.
+Art. 9.º - 1 - A adjudicação das subconcessões é feita pelos Caminhos de Ferro Portugueses, E. P., sujeita a autorização prévia, a prestar por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.
 
 2 - O contrato de subconcessão é publicado no Diário da República.
 
-###### Art. 10.º A rescisão de um contrato de subconcessão por iniciativa dos Caminhos de Ferro Portugueses, E. P., carece de autorização prévia a conceder por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 10.º A rescisão de um contrato de subconcessão por iniciativa dos Caminhos de Ferro Portugueses, E. P., carece de autorização prévia a conceder por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 11.º Os preços a praticar pelos operadores subconcessionários não estão sujeitos ao regime geral, sendo estabelecidos no contrato de subconcessão.
+Art. 11.º Os preços a praticar pelos operadores subconcessionários não estão sujeitos ao regime geral, sendo estabelecidos no contrato de subconcessão.
 
-###### Art. 12.º - 1 - Os subconcessionários ficam sujeitos ao cumprimento das leis e regulamentos relativos à exploração ferroviária aplicáveis aos Caminhos de Ferro Portugueses, E. P.
+Art. 12.º - 1 - Os subconcessionários ficam sujeitos ao cumprimento das leis e regulamentos relativos à exploração ferroviária aplicáveis aos Caminhos de Ferro Portugueses, E. P.
 
 2 - A fiscalização da actividade dos subconcessionários, nos termos do número anterior, é da competência da Direcção-Geral de Transportes Terrestres.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Junho de 1992.**
+Referendado em 3 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Relação das linhas e ramais a que se refere o n.º 1 do artigo 2.º dos Estatutos
 

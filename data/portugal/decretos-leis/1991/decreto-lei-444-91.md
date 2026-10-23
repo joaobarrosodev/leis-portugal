@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/264a00/58985900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/444/1991/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1991-316927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47c37bde3fa3fa281ac4b1c6d7eedab4c533a081dd216b5e32409ff7524313ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 511d59df1416e4ab56829c64bef5c16ae3b31d2a095ce98c969b7960e8516860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- CEE
-- Pesca
 - Aquicultura
-- Regulamento CE
+- CEE
+- Financiamento
 - Ifadap
+- Pesca
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:291604:por
@@ -91,16 +91,21 @@ relationships:
   target: celex:31990R3944
   label: null
   source: http://data.europa.eu/eli/reg/1990/3944/oj
+- type: repealed_by
+  target: pt:dre:291604:por
+  label: "Revogado pelo DEC LEI.189/94.1994.07.05.MM, DR.IS-A [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1994-291604
+  date: '1994-07-05'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:53Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +124,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 1.º, 2.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 17.º, 18.º e 19.º do Decreto-Lei n.º 399/87, de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 2.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 17.º, 18.º e 19.º do Decreto-Lei n.º 399/87, de 31 de Dezembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O presente diploma regulamenta os mecanismos de aplicação em Portugal das normas constantes do Regulmento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) do Conselho, com as alterações que lhe foram introduzidas pelo Regulamento (CEE) n.º [3944/90](https://data.europa.eu/eli/reg/1990/3944/oj?locale=pt) do Conselho, relativo a acções comunitárias para o melhoramento e adaptação das estruturas do sector da pesca e da aquicultura.
+Artigo 1.º O presente diploma regulamenta os mecanismos de aplicação em Portugal das normas constantes do Regulmento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) do Conselho, com as alterações que lhe foram introduzidas pelo Regulamento (CEE) n.º [3944/90](https://data.europa.eu/eli/reg/1990/3944/oj?locale=pt) do Conselho, relativo a acções comunitárias para o melhoramento e adaptação das estruturas do sector da pesca e da aquicultura.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Nos casos em que o Regulamento (CEE) [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) fixa prazos para o envio à Comissão das Comunidades Europeias, adiante abreviadamente designada CCE, dos pedidos de financiamento referidos no número anterior, deverão estes ser entregues no IFADAP com a antecedência mínima de 90 dias.
 
-###### Art. 4.º - 1 - Todos os interessados que apresentem pedidos de financiamento candidatos a subsídios comunitários ou nacionais, quando exerçam a pesca, devem demonstrar perante o IFADAP a respectiva actividade, através de declaração passada pela Docapesca, Portos e Lotas, S. A., ou pela Direcção-Geral das Pescas, da qual constem os seguintes elementos, reportados aos dois anos anteriores àquele em que forem apresentados os pedidos:
+Art. 4.º - 1 - Todos os interessados que apresentem pedidos de financiamento candidatos a subsídios comunitários ou nacionais, quando exerçam a pesca, devem demonstrar perante o IFADAP a respectiva actividade, através de declaração passada pela Docapesca, Portos e Lotas, S. A., ou pela Direcção-Geral das Pescas, da qual constem os seguintes elementos, reportados aos dois anos anteriores àquele em que forem apresentados os pedidos:
 
 a) O volume de capturas de cada um dos seus navios, que terá de ser consentâneo com a sua capacidade de captura;
 
@@ -137,7 +142,7 @@ b) O produto total de venda em lota do pescado de cada um dos seus navios.
 
 3 - As declarações referidas nos números anteriores são emitidas pelas entidades regionais competentes quando os interessados sejam pessoas singulares ou colectivas domiciliadas ou sediadas nas Regiões Autónomas.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) ...
 
@@ -153,19 +158,19 @@ e) Providenciar, com a colaboração dos organismos competentes do Ministério d
 
 3 - ...
 
-###### Art. 7.º - 1 - Para os efeitos previstos no n.º 1 do artigo anterior, compete à Direcção-Geral das Pescas, à Direcção-Geral das Florestas e ao Instituto Português de Conservas e Pescado, na área das respectivas competências, efectuar a análise técnica de todos os projectos e outras acções que apresentarem a sua candidatura a ajudas comunitárias e nacionais ao abrigo do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt).
+Art. 7.º - 1 - Para os efeitos previstos no n.º 1 do artigo anterior, compete à Direcção-Geral das Pescas, à Direcção-Geral das Florestas e ao Instituto Português de Conservas e Pescado, na área das respectivas competências, efectuar a análise técnica de todos os projectos e outras acções que apresentarem a sua candidatura a ajudas comunitárias e nacionais ao abrigo do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt).
 
 2 - O relatório da análise referida no número anterior deverá ser elaborado e remetido ao IFADAP no prazo de 30 dias úteis a contar da recepção dos pedidos de parecer e conter a apreciação técnica dos projectos e pedidos, nomeadamente quanto ao seu enquadramento nos respectivos programas, e bem assim a respectiva classificação por grau de prioridade, de acordo com as opções definidas.
 
 3 - ...
 
-###### Art. 9.º - 1 - As percentagens da participação financeira nacional na execução dos projectos apresentados na área da reestruturação, renovação e modernização da frota de pesca, na área do desenvolvimento da aquicultura, na área do ordenamento da faixa costeira, na área dos equipamentos portuários, bem como a percentagem de participação do Estado Português em experiências de pesca, operações de reorientação e associações temporárias de empresas, que mereçam a efectiva concessão de apoio financeiro comunitário no âmbito do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt), são aquelas que constam dos respectivos programas apresentados por Portugal à CCE e por ela aprovados.
+Art. 9.º - 1 - As percentagens da participação financeira nacional na execução dos projectos apresentados na área da reestruturação, renovação e modernização da frota de pesca, na área do desenvolvimento da aquicultura, na área do ordenamento da faixa costeira, na área dos equipamentos portuários, bem como a percentagem de participação do Estado Português em experiências de pesca, operações de reorientação e associações temporárias de empresas, que mereçam a efectiva concessão de apoio financeiro comunitário no âmbito do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt), são aquelas que constam dos respectivos programas apresentados por Portugal à CCE e por ela aprovados.
 
 2 - ...
 
 3 - O prémio a pagar pelo Estado Português aos projectos de sociedades mistas que beneficiem de efectiva contribuição financeira comunitária ao abrigo do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) não pode exceder os limites previstos no n.º 3 do artigo 21.º-C daquele regulamento, sendo o respectivo montante fixado, dentro desses limites, por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -177,7 +182,7 @@ e) Providenciar, com a colaboração dos organismos competentes do Ministério d
 
 6 - ...
 
-###### Art. 11.º - 1 - Os projectos que forem apresentados nas áreas da reestruturação, melhoramento e adaptação do sector da pesca e da aquicultura e que tiverem obtido efectivo apoio financeiro comunitário no âmbito do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt), para além de beneficiarem das obrigatórias ajudas nacionais previstas no n.º 1 do artigo 9.º, poderão ainda recorrer a crédito não bonificado ao abrigo do Sistema de Financiamento à Agricultura Agro-Indústrias e Pescas, aprovado pela portaria publicada no Diário da República, 2.ª série, n.º 300, de 31 de Dezembro de 1986, ou de outro que o substitua.
+Art. 11.º - 1 - Os projectos que forem apresentados nas áreas da reestruturação, melhoramento e adaptação do sector da pesca e da aquicultura e que tiverem obtido efectivo apoio financeiro comunitário no âmbito do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt), para além de beneficiarem das obrigatórias ajudas nacionais previstas no n.º 1 do artigo 9.º, poderão ainda recorrer a crédito não bonificado ao abrigo do Sistema de Financiamento à Agricultura Agro-Indústrias e Pescas, aprovado pela portaria publicada no Diário da República, 2.ª série, n.º 300, de 31 de Dezembro de 1986, ou de outro que o substitua.
 
 2 - ...
 
@@ -189,30 +194,30 @@ e) Providenciar, com a colaboração dos organismos competentes do Ministério d
 
 6 - ...
 
-###### Art. 12.º - O pagamento aos beneficários das quantias correspondentes às comparticipações do Estado Português será efectuado pelo IFADAP, podendo este, mediante garantias, proceder à entrega de adiantamentos nas condições contratualmente estabelecidas.
+Art. 12.º - O pagamento aos beneficários das quantias correspondentes às comparticipações do Estado Português será efectuado pelo IFADAP, podendo este, mediante garantias, proceder à entrega de adiantamentos nas condições contratualmente estabelecidas.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - No caso de os apoios financeiros já efectivamente concedidos serem superiores aos que resultariam da aplicação do artigo 9.º, o IFADAP, ao pagar a primeira prestação do financiamento comunitário, assegurará o reembolso ao Estado da diferença entre o montante dos subsídios já efectivamente concedidos pelo Estado Português e o montante dos subsídios a conceder por aplicação daquela disposição.
 
-###### Art. 17.º - 1 - A solicitação das repartições de finanças pelas quais sejam tributados os beneficiários ou os respectivos fornecedores, o IFADAP comunicar-lhes-á o montante das despesas realizadas em virtude da execução dos projectos e demais acções.
+Art. 17.º - 1 - A solicitação das repartições de finanças pelas quais sejam tributados os beneficiários ou os respectivos fornecedores, o IFADAP comunicar-lhes-á o montante das despesas realizadas em virtude da execução dos projectos e demais acções.
 
 2 - ...
 
-###### Art. 18.º - 1 - Pelos serviços prestados no âmbito do presente diploma, o IFADAP e os organismos referidos no n.º 1 do artigo 7.º receberão uma remuneração correspondente a uma percentagem do montante global das ajudas concedidas.
+Art. 18.º - 1 - Pelos serviços prestados no âmbito do presente diploma, o IFADAP e os organismos referidos no n.º 1 do artigo 7.º receberão uma remuneração correspondente a uma percentagem do montante global das ajudas concedidas.
 
 2 - ...
 
-###### Art. 19.º A não utilização, sem justificação aceite pelo Ministério da Agricultura, Pescas e Alimentação, dos subsídios comunitários concedidos no âmbito dos Regulamentos (CEE) n.os [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) determina a suspensão do direito de candidatura a apoios financeiros concedidos no âmbito do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) pelo período de cinco anos a contar da data da formalização da desistência.
+Art. 19.º A não utilização, sem justificação aceite pelo Ministério da Agricultura, Pescas e Alimentação, dos subsídios comunitários concedidos no âmbito dos Regulamentos (CEE) n.os [2908/83](https://data.europa.eu/eli/reg/1983/2908/oj?locale=pt) e [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) determina a suspensão do direito de candidatura a apoios financeiros concedidos no âmbito do Regulamento (CEE) n.º [4028/86](https://data.europa.eu/eli/reg/1986/4028/oj?locale=pt) pelo período de cinco anos a contar da data da formalização da desistência.
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 29 de Outubro de 1991.**
+Promulgado em 29 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Novembro de 1991.**
+Referendado em 8 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

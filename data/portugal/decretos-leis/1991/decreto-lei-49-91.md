@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/1991/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1991-508453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecf0227de7dffa9542809f785e96f19ba799ee99ad0b89f2408400dd058fc400
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aefcc1bb9bcd6488feca45b84ee2791139dd3440c9fea1e083d9c53180dc7145
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,59 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Activo Imobilizado Corpóreo
-- Empresa
 - Código do IRC
 - Código do IRS
-- IRS
+- Empresa
 - IRC
+- IRS
 relationships:
 - type: amended_by
   target: pt:dre:292879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292879:por
+  label: "Alterados os art.s 1º e 7º, pelo DEC LEI.360/91.28.09.1991.MF, DR.IS-A [224] de 28.09.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1991-292879
+  date: '1991-09-28'
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621941:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:04Z'
   warnings: []
   errors: []
 ---
@@ -216,12 +249,12 @@ A fiscalização do cumprimento das normas constantes do presente diploma compet
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

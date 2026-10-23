@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19155-1962-516058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-05-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e45ed0e02c936c439c43b2b3db1d31bfc6c13ad5220a5d4c0f03af66cb2a67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5008fe199fe47fb730547ea76e170c9040cbb93c66b3ae546e7daac6de224c60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:19Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +92,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional:
 
 Presidência do Conselho, 1 de Maio de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/05/09800/06290629.pdf))](https://files.diariodarepublica.pt/1s/1962/05/09800/06290629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/05/09800/06290629.pdf)
 
 Presidência do Conselho, 1 de Maio de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar.

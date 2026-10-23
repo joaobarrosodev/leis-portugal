@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/1992/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 839156b09dc68d6e7d44118133c6d64950087084d3c1038b50eb0a5e0cd5bd4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e370a83ede4b0bc128b77f3911c2def6a28dc53b504ecafd482d581ed20028d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa de Previdência
 - Centro Regional de Segurança Social
-- Pessoal Dirigente
 - Comissão Administrativa
 - Integração de Trabalhadores
-- Caixa de Previdência
-relationships: []
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:283475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:45Z'
   warnings: []
   errors: []
 ---
@@ -105,26 +117,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 12/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1988-283475), de 15 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 2.º do [Decreto-Lei n.º 12/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1988-283475), de 15 de Janeiro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Os presidentes e vice-presidentes em exercício efectivo de funções nas direcções ou comissões administrativas de caixas de previdência e da direcção da Caixa Nacional de Seguros e Doenças Profissionais sujeitos ao regime da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, bem como aqueles que, encontrando-se sujeitos a regime diverso e não possuam vínculo à função pública, podem ser nomeados para o quadro de pessoal da instituição, até à data da respectiva integração, desde que contém nesta data mais de três anos no exercício das referidas funções.
+Artigo 1.º - 1 - Os presidentes e vice-presidentes em exercício efectivo de funções nas direcções ou comissões administrativas de caixas de previdência e da direcção da Caixa Nacional de Seguros e Doenças Profissionais sujeitos ao regime da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, bem como aqueles que, encontrando-se sujeitos a regime diverso e não possuam vínculo à função pública, podem ser nomeados para o quadro de pessoal da instituição, até à data da respectiva integração, desde que contém nesta data mais de três anos no exercício das referidas funções.
 
 2 - A cessação das funções referidas no número anterior, e nas condições nele previstas, por parte de pessoal com vínculo à função pública confere-lhe o direito à promoção na carreira, no seu quadro de origem, nos termos constantes do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
-###### Art. 2.º - 1 - As nomeações previstas no n.º 1 do artigo anterior são feitas por despacho do membro do Governo que tiver a seu cargo a área da segurança social, com respeito pelas habilitações literárias exigidas por lei, na categoria que a normal promoção na carreira determinar.
+Art. 2.º - 1 - As nomeações previstas no n.º 1 do artigo anterior são feitas por despacho do membro do Governo que tiver a seu cargo a área da segurança social, com respeito pelas habilitações literárias exigidas por lei, na categoria que a normal promoção na carreira determinar.
 
 2 - As nomeações referidas no número anterior não podem efectuar-se em categoria superior à de técnico superior principal, constante das diversas carreiras de pessoal previstas na [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, e legislação complementar, quando recaiam em pessoal não abrangido pelo regime fixado por este último diploma.
 
-###### Art. 2.º O pessoal vinculado à função pública que exerceu as funções de presidente e de vice-presidente de direcções ou de comissões administrativas de caixas de previdência ou da Caixa Nacional de Seguros e Doenças Profissionais e que cessou funções entre 1 de Outubro de 1989 e a data da entrada em vigor do presente diploma também beneficia do regime do [Decreto-Lei n.º 12/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1988-283475), de 15 de Janeiro, com as alterações que ora lhe são introduzidas.
+Art. 2.º O pessoal vinculado à função pública que exerceu as funções de presidente e de vice-presidente de direcções ou de comissões administrativas de caixas de previdência ou da Caixa Nacional de Seguros e Doenças Profissionais e que cessou funções entre 1 de Outubro de 1989 e a data da entrada em vigor do presente diploma também beneficia do regime do [Decreto-Lei n.º 12/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1988-283475), de 15 de Janeiro, com as alterações que ora lhe são introduzidas.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

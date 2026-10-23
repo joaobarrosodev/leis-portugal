@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 141/1992, 1º Suplemento, Série I-A de 1992-06-22
   number: '141'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2916-(2) a 2916-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/141a01/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/1992/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1992-437210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 380501344deb0ad4de5dad16ee8a2a68e691adb3698fc6693adbff0e8e143ecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16a6f5653416c72ec712e064a07ea50bc23d6a1133bbf198a8baec5c5fbdb70d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,87 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AGA
-- Imposto Especial sobre o Álcool
-- Direcção Geral de Inspecção Económica
 - Álcool
-- Importação
-- Contribuições e Impostos
-- Exportação
-- Regime Jurídico
 - Comércio
+- Contribuições e Impostos
+- Direcção Geral de Inspecção Económica
+- Exportação
+- Importação
+- Imposto Especial sobre o Álcool
+- Regime Jurídico
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:614344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterado o art. 4.º pela LEI.30-C/92.1992.12.28.AR DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:275857:por
+  label: "Alterados os arts. 2º, 4º, 9º, 10º, 11º, 13º a 17º, 20º a 26º, e aditados os arts. 10º-A, 11º-A, 13º-A, 15º-A e\
+    \ 15º-B, pelo DEC LEI.181/93.1993.05.14.MF, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1993-275857
+  date: '1993-05-14'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterados os arts. 5º e 8º pela LEI.75/93.1993.12.20.AR,DR.IS-A [295]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:222805:por
+  label: "Alterado o art. 15º-B do presente diploma, na redação do Dec Lei 181/93 14-Maio, pelo DEC LEI.211/94.1994.08.10.MF,\
+    \ DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1994-222805
+  date: '1994-08-10'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os arts. 8º, 13º, 15º-A e 23º e aditados os arts. 15º-C e 24º-A, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A\
+    \ [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os arts.1º, 2º, 3º, 4º, 5º, 8º, 11º e 13º pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção do art 8º pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299]3ºSupl (OE 1997 - Art 38º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:229104:por
+  label: "Alterados os arts. 4.º, 8.º e 11.º pelo DEC LEI.324/98.1998.10.30.MF DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1998-229104
+  date: '1998-10-30'
 - type: cites
   target: celex:31979R1430
   label: null
   source: http://data.europa.eu/eli/reg/1979/1430/oj
+- type: corrected_by
+  target: pt:dre:361329:por
+  label: "Rectificado pela DECL-RECT.152/92.1992.09.09.PCM, DR.IS-A [226]4ºSupl de 30/Set/1992 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/152-1992-361329
+  date: '1992-09-09'
+- type: repealed_by
+  target: pt:dre:426763:por
+  label: "Revogado pelo DEC LEI.300/99.1999.08.05.MF DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1999-426763
+  date: '1999-08-05'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:55Z'
   warnings: []
   errors: []
 ---
@@ -384,12 +437,12 @@ O presente decreto-lei entra em vigor no dia 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1991. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Junho de 1992.**
+Promulgado em 16 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Junho de 1992.**
+Referendado em 17 de Junho de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

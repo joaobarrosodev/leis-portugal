@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/153a00/31973198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/1992/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1992-288222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44eab1d7fbca85390e0bcb6f6659c4b9e1ed7e438954570fd6dc588f8b0585aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02cab6a65126736f3b6bc0ca871e582dfcdeb8759a1b3294845a08b74e28c2ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Investigação Científica e Tecnológica
-- Proteção dos Animais
 - Direcção Geral da Pecuária
 - Experimentação nos Animais
+- Investigação Científica e Tecnológica
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:498488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228405:por
+  label: "Alterado o art. 2º, pelo DEC LEI.197/96.1996.10.16.MADRP, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1996-228405
+  date: '1996-10-16'
 - type: cites
   target: celex:31986L0609
   label: null
   source: http://data.europa.eu/eli/dir/1986/609/oj
+- type: repealed_by
+  target: pt:dre:498488:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 197/96 de 16-out, pelo DEC LEI.113/2013.07.08.2013.MAMAOT, DR.IS\
+    \ [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2013-498488
+  date: '2013-08-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:10Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +117,19 @@ Considerando que essa harmonização deve garantir que tais animais sejam object
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [86/609/CEE](https://data.europa.eu/eli/dir/1986/609/oj?locale=pt), do Conselho, de 24 de Novembro de 1986, que estabelece as normas mínimas relativas à protecção dos animais utilizados para fins experimentais e outros fins científicos.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [86/609/CEE](https://data.europa.eu/eli/dir/1986/609/oj?locale=pt), do Conselho, de 24 de Novembro de 1986, que estabelece as normas mínimas relativas à protecção dos animais utilizados para fins experimentais e outros fins científicos.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma serão aprovadas por portaria conjunta dos Ministros da Agricultura, da Educação, da Saúde e do Comércio e Turismo.
+Art. 2.º As normas técnicas de execução do presente diploma serão aprovadas por portaria conjunta dos Ministros da Agricultura, da Educação, da Saúde e do Comércio e Turismo.
 
-###### Art. 3.º Para efeitos do presente diploma, a autoridade central é a Direcção-Geral da Pecuária (DGP).
+Art. 3.º Para efeitos do presente diploma, a autoridade central é a Direcção-Geral da Pecuária (DGP).
 
-###### Art. 4.º - 1 - A acomodação, maneio e utilização de animais para experiências ou outros fins científicos em violação das regras técnicas referidas no artigo 2.º constitui contra-ordenação punível com coima de 5000$00 a 500000$00.
+Art. 4.º - 1 - A acomodação, maneio e utilização de animais para experiências ou outros fins científicos em violação das regras técnicas referidas no artigo 2.º constitui contra-ordenação punível com coima de 5000$00 a 500000$00.
 
 2 - O montante das coimas aplicáveis às pessoas colectivas poderá elevar-se até 6000000$00.
 
 3 - O comportamento negligente será sancionado até metade do montante máximo da coima prevista.
 
-###### Art. 5.º - 1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro.
+Art. 5.º - 1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro.
 
 2 - Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares para o seu normal funcionamento.
 
@@ -126,7 +137,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A publicidade da decisão será efectivada, a expensas do condenado, em publicação periódica editada na área da comarca da prática da infracção ou, na sua falta, em publicação periódica da comarca mais próxima, bem como através da afixação de edital, por período não inferior a 30 dias, no próprio estabelecimento ou local de exercício da actividade, por forma bem visível ao público.
 
-###### Art. 6.º - 1 - A aplicação das coimas e sanções acessórias previstas nos artigos anteriores compete ao director-geral da pecuária.
+Art. 6.º - 1 - A aplicação das coimas e sanções acessórias previstas nos artigos anteriores compete ao director-geral da pecuária.
 
 2 - A receita das coimas terá a seguinte distribuição:
 
@@ -138,12 +149,12 @@ c) 60% para o Orçamento do Estado.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 10 de Junho de 1992.**
+Promulgado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1992.**
+Referendado em 15 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

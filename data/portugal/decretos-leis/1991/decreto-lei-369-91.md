@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/369/1991/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b03c401810f618d4511260fcd0a20e6aafd09c0289a15611c6bcf41e7eb7f888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fd8f5669d808054179a999f4e56ed396ae32592cab118932363008aacd76a13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Segurança Interna
-- Recrutamento de Pessoal
-- Orgânica
 - Estágio de Formação
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
-- Sistema de Informações da República Portuguesa
+- Segurança Interna
 - Serviço de Informações de Segurança
+- Sistema de Informações da República Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:517985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563987:por
+  label: "Alterados os arts. 21.º, 26.º, 28.º, 34.º, 41.º e 43.º do Dec Lei 225/85, de 04-Jul, na redacção dada pelo presente\
+    \ diploma, pelo DEC LEI.245/95.14.09.1995.MAI, DR.IS-A [213] de 14.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-1995-563987
+  date: '1995-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/1991/07/17/p/dre
+- type: cites
+  target: pt:dre:183013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662958:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517985:por
+  label: "Revogado o Dec Lei 225/85 de 04-Jul, na redacção do presente diploma, pela LEI.9/2007.19.02.2007.AR, DR.IS [35]\
+    \ de 19.02.2007, sem prejuízo do disposto no art. 71º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2007-517985
+  date: '2007-02-19'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:13Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +159,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 21.º, 26.º, 28.º, 33.º, 34.º, 39.º, 41.º, 43.º, 45.º, 52.º, 54.º e 56.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 21.º, 26.º, 28.º, 33.º, 34.º, 39.º, 41.º, 43.º, 45.º, 52.º, 54.º e 56.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 21.º — Organização dos serviços
 
@@ -239,9 +287,9 @@ De acordo com factores de avaliação a definir por despacho do Ministro da Admi
 
 2 - Todo o tempo de serviço prestado no SIS pelos militares na situação de reserva conta para efeitos de aposentação até ao limite correspondente a 36 anos de serviço.
 
-###### Art. 2.º Os mapas do quadro de pessoal do SIS aprovados pelo [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, são substituídos pelos mapas I, II e III anexos ao presente diploma, nos quais se indicam apenas os grupos de pessoal, as carreiras e categorias, sendo as dotações de efectivos e a correspondência entre as actuais e as novas categorias para efeitos de transição do pessoal que actualmente presta serviço no SIS fixadas por despacho conjunto, nos termos do n.º 1 do artigo 27.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), o qual produzirá efeitos reportados a 1 de Outubro de 1989.
+Art. 2.º Os mapas do quadro de pessoal do SIS aprovados pelo [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, são substituídos pelos mapas I, II e III anexos ao presente diploma, nos quais se indicam apenas os grupos de pessoal, as carreiras e categorias, sendo as dotações de efectivos e a correspondência entre as actuais e as novas categorias para efeitos de transição do pessoal que actualmente presta serviço no SIS fixadas por despacho conjunto, nos termos do n.º 1 do artigo 27.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), o qual produzirá efeitos reportados a 1 de Outubro de 1989.
 
-###### Art. 3.º Sem prejuízo da exigência das condições e requisitos referidos nos artigos 40.º, 41.º e 42.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), dependerá de aprovação em estágio o ingresso nas carreiras de técnico superior de informações, técnico de informações e de técnico-adjunto de informações, o qual obedecerá aos seguintes princípios:
+Art. 3.º Sem prejuízo da exigência das condições e requisitos referidos nos artigos 40.º, 41.º e 42.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), dependerá de aprovação em estágio o ingresso nas carreiras de técnico superior de informações, técnico de informações e de técnico-adjunto de informações, o qual obedecerá aos seguintes princípios:
 
 a) Terá a duração de seis meses, dividido em duas fases, sendo a primeira, com cerca de quatro meses, destinada à formação específica e a segunda a um exercício experimental de funções, em regime de acompanhamento e observação;
 
@@ -257,15 +305,15 @@ f) O tempo de estágio, quando seguido de provimento na categoria de ingresso, s
 
 Visto e aprovado em Conselho de Ministros de 8 de Agosto de 1991. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 19 de Setembro de 1991.**
+Promulgado em 19 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -289,10 +337,10 @@ MAPA II
 
 Pessoal técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/230a00/51945196.pdf))](https://files.diariodarepublica.pt/1s/1991/10/230a00/51945196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/230a00/51945196.pdf)
 
 MAPA III
 
 Pessoal auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/230a00/51945196.pdf))](https://files.diariodarepublica.pt/1s/1991/10/230a00/51945196.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/230a00/51945196.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/022a00/04500450.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/1991/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1991-508236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58799e1b814bcb7decc81dab6b48b4417fc44f3a3a93d45e800f73730f7fe9f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6771cbc25fe47f43f2a59fda4b02073077c93bfaa9749a6f92f5f093349e43c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- RTP
 - Estatuto
+- RTP
 - TAXA de Televisão
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556661:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:13Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +122,22 @@ Assim:
 
 Nos termos da alínia a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os intervenientes na cadeia de comercialização de televisores e os utentes do serviço público de televisão deixam de estar obrigados a proceder, respectivamente, ao registo dos televisores e ao pagamento de qualquer taxa de utilização.
+Artigo 1.º Os intervenientes na cadeia de comercialização de televisores e os utentes do serviço público de televisão deixam de estar obrigados a proceder, respectivamente, ao registo dos televisores e ao pagamento de qualquer taxa de utilização.
 
-###### Art. 2.º As taxas de utilização vencidas até à data de entrada em vigor do presente diploma continuam a ser devidas à Radiotelevisão Portuguesa, E. P., adiante designada por RTP, aplicando-se à respectiva cobrança as normas constantes do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1988-283083), de 6 de Fevereiro, mantendo-se para aquela empresa o direito à arrecadação da correspondente receita nos termos do n.º 4 do artigo 5.º do seu Estatuto, aprovado pelo [Decreto-Lei n.º 321/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1980-470872), de 22 de Agosto.
+Art. 2.º As taxas de utilização vencidas até à data de entrada em vigor do presente diploma continuam a ser devidas à Radiotelevisão Portuguesa, E. P., adiante designada por RTP, aplicando-se à respectiva cobrança as normas constantes do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1988-283083), de 6 de Fevereiro, mantendo-se para aquela empresa o direito à arrecadação da correspondente receita nos termos do n.º 4 do artigo 5.º do seu Estatuto, aprovado pelo [Decreto-Lei n.º 321/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1980-470872), de 22 de Agosto.
 
-###### Art. 3.º São revogados os Decretos-Leis n.os [401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, e [38/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1988-283083), de 6 de Fevereiro, e a alínea a) do n.º 3 do artigo 37.º do Estatuto da RTP, aprovado pelo [Decreto-Lei n.º 321/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1980-470872), de 22 de Agosto, sem prejuízo do disposto no artigo 2.º do presente diploma.
+Art. 3.º São revogados os Decretos-Leis n.os [401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, e [38/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1988-283083), de 6 de Fevereiro, e a alínea a) do n.º 3 do artigo 37.º do Estatuto da RTP, aprovado pelo [Decreto-Lei n.º 321/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1980-470872), de 22 de Agosto, sem prejuízo do disposto no artigo 2.º do presente diploma.
 
-###### Art. 4.º O presente diploma produz efeitos desde 31 de Dezembro de 1990.
+Art. 4.º O presente diploma produz efeitos desde 31 de Dezembro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1990. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - António Fernando Couto dos Santos.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

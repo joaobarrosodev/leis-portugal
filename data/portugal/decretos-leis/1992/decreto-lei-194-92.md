@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/09/207a00/42554257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/1992/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1992-234916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20b8d30abf628c33bb07f619525f349d48a0ad453bd5ea88f3404e8504d015f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d53b53799bfc5ceb5ae9ad1e7e412d65a1308d1b0c07c1306b7f7e3689416c1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Saúde
 - Cobrança de Dívidas
 - Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:309009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o art 11º pelo Dec-Lei.224-A/96.1996.11.26.MJ - Aprova o Código das Custas Judiciais - , DR.IS-A\
+    \ [274]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:144844:por
+  label: "Declarada a inconstitucionalidade parcial, com força obrigatória geral, da norma constante do art 10.º pelo AC.177/97.1997.03.04.TCS\
+    \ (Proc.º n.º 775/96), DR.IS-A [173] DE 29/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/177-1997-144844
+  date: '1997-03-04'
+- type: cites
+  target: pt:dre:195602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:309009:por
+  label: "Revogado pelo DEC LEI.218/99.1999.06.15.MS DR.IS-A [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1999-309009
+  date: '1999-06-15'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:35Z'
   warnings: []
   errors: []
 ---
@@ -195,12 +232,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Gomes de Carvalho.
 
-**Promulgado em 16 de Agosto de 1992.**
+Promulgado em 16 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Agosto de 1992.**
+Referendado em 25 de Agosto de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

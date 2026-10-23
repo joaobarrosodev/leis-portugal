@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/1991/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1991-508450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94ca2d77020f4e93318838a0277c2af83cedc0629714d7182c68b752cfee569e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d316abfbe619e16667d659315664a51de855d7d0944f07d150e504e07bea70c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Importação
 - Indústria de Plásticos
 - Indústria Química
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:03Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +103,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 34.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Relativamente aos produtos abaixo indicados, é suspensa a cobrança dos direitos aduaneiros face à Comunidade Económica Europeia e adoptados os direitos que a mesma aplicar nas importações de países terceiros:
+Artigo 1.º Relativamente aos produtos abaixo indicados, é suspensa a cobrança dos direitos aduaneiros face à Comunidade Económica Europeia e adoptados os direitos que a mesma aplicar nas importações de países terceiros:
 
 ex 3901 20 00 - Polietileno de densidade igual ou superior a 0,94, para fibras e para tubo;
 
@@ -113,16 +117,16 @@ ex 8309 90 90 - Tampas de abertura fácil;
 
 8477 20 00 - Extrusoras.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
+Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1990. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - Luís Fernando Mira Amaral.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

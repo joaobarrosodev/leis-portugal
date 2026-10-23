@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/269a00/60766078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/446/1991/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1991-321512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0105caf0b73575e77361afd623f27bd77eb20641c1a1ec053097805ebe6b74b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5def94c695c61c1c7249f550bc8b44782769acadcc33999b38a207fd3deb4b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde Pública
+- Agricultura
 - Águas Residuais
 - Fertilizante
-- Agricultura
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:371037:por
@@ -79,16 +79,21 @@ relationships:
   target: celex:31986L0278
   label: null
   source: http://data.europa.eu/eli/dir/1986/278/oj
+- type: repealed_by
+  target: pt:dre:371037:por
+  label: "Revogado pelo DEC LEI.118/2006.21.06.2006.MAOTDR, DR.IS-A [118] de 21.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2006-371037
+  date: '2006-06-21'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:53Z'
   warnings: []
   errors: []
 ---
@@ -251,12 +256,12 @@ O presente diploma entra em vigor a 1 de Novembro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 24 de Outubro de 1991.**
+Promulgado em 24 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1991.**
+Referendado em 28 de Outubro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

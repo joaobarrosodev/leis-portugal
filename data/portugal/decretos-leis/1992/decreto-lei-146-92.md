@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/1992/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1992-292304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5baa9ab0b8fd1e9b5306acb01f125626398ba844b6cb602ffdd2b619aefe9975
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9008c8732b99fc652bccd8c70276c6d106842b337ad04bd9b037b0e0a9ec3eb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,50 @@ reuse:
 subjects:
 - Abono Suplementar de Invalidez
 - Aposentação
+- Caixa Geral de Aposentações
 - Cartão de Identificação
 - Deficiente das Forças Armadas
-- Caixa Geral de Aposentações
-- Junta Médica
 - Forças Armadas
-- Pensão de Invalidez
-- Proteção ao Deficiente
-- Prestação Suplementar de Invalidez
-- Reforma
-- Militar
 - Incapacidade Permanente
+- Junta Médica
+- Militar
+- Pensão de Invalidez
+- Prestação Suplementar de Invalidez
+- Proteção ao Deficiente
+- Reforma
 relationships:
 - type: amended_by
   target: pt:dre:438071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438071:por
+  label: "Dada nova redacção ao art. 1º do Dec Lei 314/90 de 13-Out, alterado pelo presente diploma, pelo DEC LEI.248/98.11.08.1998.MDN,\
+    \ DR.IS-A [184] de 11.08.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-1998-438071
+  date: '1998-08-11'
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:35Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +129,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 314/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1990-555830), de 13 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 314/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1990-555830), de 13 de Outubro, passa a ter a seguinte redacção:
 
 1 - É considerado grande deficiente das Forças Armadas (GDFAS) o cidadão que, no cumprimento do dever militar e não abrangido pelo [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, adquiriu uma diminuição permanente na sua capacidade geral de ganho, da qual resulte passagem à situação de reforma extraordinária ou atribuição de pensão de invalidez nos termos do n.º 2 do artigo 118.º e dos artigos 127.º e seguintes do Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e cuja desvalorização seja igual ou superior a 70%.
 
@@ -119,12 +137,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

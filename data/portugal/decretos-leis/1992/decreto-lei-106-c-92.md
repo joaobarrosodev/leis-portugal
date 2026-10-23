@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1992, 1º Suplemento, Série I-A de 1992-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2648-(12) a 2648-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126a01/00120015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-c/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-c-1992-410284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f61ffe4f6db2e183995a1adf4f375bdbcaa6ab5a249ab3284ea195b17658355a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f391e04cebedb93054a35a44eb60d2fd6ca7996a74cae307cfa06e9ebd0a6b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Criação de Serviços
-- Direcção Geral dos Serviços de Gestão e Organização
-- Secretaria de Estado da Cultura
-- Gabinete de Planeamento
 - Direcção Geral dos Serviços Centrais
-- Orgânica
-- Quadro de Pessoal
+- Direcção Geral dos Serviços de Gestão e Organização
 - Gabinete de Organização e Pessoal
+- Gabinete de Planeamento
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria de Estado da Cultura
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\
+    \ P\0UPL P"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:517441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Extinta a Direcção Geral dos Serviços de Gestão e Organização pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: repealed_by
+  target: pt:dre:517441:por
+  label: "Revogado pelo DEC LEI.59/97.1997.03.19.MC DR.IS-A [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-1997-517441
+  date: '1997-03-19'
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:34Z'
   warnings: []
   errors: []
 ---
@@ -346,16 +361,16 @@ A distribuição do pessoal pelos diversos serviços é feita mediante despacho 
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro do pessoal dirigente da Direcção-Geral dos Serviços de Gestão e Organização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/126a01/00120015.pdf))](https://files.diariodarepublica.pt/1s/1992/06/126a01/00120015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/126a01/00120015.pdf)

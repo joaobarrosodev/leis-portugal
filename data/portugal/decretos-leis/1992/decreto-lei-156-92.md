@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/1992/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1992-275388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cb4318afa643d0b129d11523e8e4689a7b620d0678fd9eef47c3d1325b64df4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 443bd87f15cef735bcba924aa2f6d3eca3fc722c4a17e11d8a7602d3b488f7b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,32 @@ subjects:
 - Climatização
 - Equipamento Térmico
 - Licenciamento
-- Regulamento
 - Prédio Urbano
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:517194:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:334611:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517194:por
+  label: "Revogado pelo DEC LEI.118/98.1998.05.07.MEPAT, DR.IS-A [105]s\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1998-517194
+  date: '1998-05-07'
 article_structure:
-  article_count: 17
+  article_count: 16
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:49Z'
   warnings: []
   errors: []
 ---
@@ -105,23 +114,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o Regulamento da Qualidade dos Sistemas Energéticos de Climatização em Edifícios, anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º - 1 - É aprovado o Regulamento da Qualidade dos Sistemas Energéticos de Climatização em Edifícios, anexo ao presente diploma, do qual faz parte integrante.
 
 2 - As normas relativas à segurança dos sistemas energéticos de climatização serão objecto de regulamentos específicos, a aprovar por decreto regulamentar.
 
-###### Art. 2.º O presente diploma entra em vigor no prazo de 60 dias a contar da data da sua publicação.
+Art. 2.º O presente diploma entra em vigor no prazo de 60 dias a contar da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Maio de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento da Qualidade dos Sistemas Energéticos de Climatização em Edifícios
 
@@ -403,7 +412,7 @@ c) A satisfação de condições de conforto é garantida pela fixação de limi
 
 QUADRO II.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 3 - O caudal de ar novo, filtrado ou neutralizado, é, para efeitos de dimensionamento no âmbito deste Regulamento, o maior dos valores obtidos para os casos de uma renovação por hora e da utilização dos valores indicados no Quadro II.2.
 
@@ -411,7 +420,7 @@ Quadro II.2
 
 Caudal de ar novo por ocupante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 ## ANEXO III — Dados climáticos
 
@@ -441,13 +450,13 @@ QUADRO III.1
 
 Dados climáticos de Inverno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 QUADRO III.2
 
 Dados climáticos de Verão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 ## ANEXO IV — Método de verificação
 
@@ -633,7 +642,7 @@ Q(índice 3) = Q(índice 3s) + Q(índice 3l)
 
 A folha de cálculo FCI estabelece o cálculo do valor da potência para aquecimento. O seu preenchimento faz chamada a cinco folhas de cálculo parcelares, FCI.a a FCI.e, que servem para calcular, respectivamente, as perdas correspondentes à envolvente opaca exterior, à envolvente interior, aos envidraçados, à renovação do ar e às perdas correspondentes ao ar novo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 2 - Justificação do método de cálculo da potência nominal de arrefecimento. - A potência nominal de arrefecimento de um edifício ou de uma zona independente de um edifício é a potência dos ganhos térmicos nas condições nominais de projecto e corresponde à potência útil que é necessário extrair para compensar aqueles ganhos, mantendo no seu interior as condições pretendidas. Tal como para a potência de aquecimento, o valor calculado da potência de arrefecimento serve como um índice de qualificação do comportamento térmico do sistema/edifício durante o período em que se torne necessário o arrefecimento e constitui, portanto, uma forma de comparar edifícios/sistemas do ponto de vista de conforto térmico no período em que se verifique arrefecimento.
 
@@ -913,7 +922,7 @@ em que V(índice d) se exprime em m3/h.
 
 3) Se um dado edifício tiver uma orientação particular, o processo de cálculo poderá ser simplificado, uma vez que será de esperar que a carga térmica máxima se encontre dentro de certas horas do dia. Assim, para um edifício com área máxima será a calculada para as 11 horas da manhã, correspondente ao período assinalado por PM. Se a orientação predominante for a sul, poder-se-á admitir como previsível que o máximo da carga ocorra às 14 horas, pelo que o processo de cálculo é apenas executado para o período PT. Para orientação oeste, o cálculo será para o período FT.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 ## ANEXO V — Sistemas e equipamentos
 
@@ -925,7 +934,7 @@ O quadro V.1 ilustra as possibilidades dos sistemas na obtenção das condiçõe
 
 Quadro V.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 Equipamentos
 
@@ -965,7 +974,7 @@ QUADRO V.1
 
 Rendimento mínimo das caldeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 Para as caldeiras com potências entre 12 kW e 1200 kW, o rendimento mínimo é uma função linear com o logaritmo da potência cujos limites são os constantes do quadro anterior.
 
@@ -985,7 +994,7 @@ QUADRO V.2
 
 Escalões das instalações de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 15 - Para que o equipamento gerador de frio funcione o mais perto possível do regime de máximo rendimento, o fraccionamento das instalações de arrefecimento terá de obedecer, no mínimo, ao disposto no quadro V.3:
 
@@ -993,7 +1002,7 @@ QUADRO V.3
 
 Escalões das instalações de arrefecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
 
 Ensaios
 
@@ -1017,4 +1026,4 @@ g) A eficiência referida às condições nominais.
 
 3 - As instalações terão de prever a possibilidade de fácil montagem de equipamentos de medição, nomeadamente para determinação das características do ar interior, dos fluidos térmicos, dos gases de exaustão, sem prejuízo quer do funcionamento normal da instalação, quer das condições necessárias à manutenção dos equipamentos.
 
-## Anexo VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf))](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)
+## Anexo VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/173a00/35343548.pdf)

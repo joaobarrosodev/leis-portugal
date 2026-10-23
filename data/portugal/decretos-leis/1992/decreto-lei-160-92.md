@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/1992/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1992-275245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6adcd6d99f5f96834168e690046700c86548ee2328800b302db7ba61dde1b76c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0fae61ebf41755dae0de53aa454ad505c992522d33859dd96221bda8d6323b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Administração Interna
-- Segurança Interna
-- Sistema Retributivo
-- Remuneração Acessória
-- Serviço de Estrangeiros e Fronteiras
-- Remuneração
 - Força Paramilitar
+- Ministério da Administração Interna
+- Remuneração
+- Remuneração Acessória
+- Segurança Interna
+- Serviço de Estrangeiros e Fronteiras
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:649343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627065:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649343:por
+  label: "Revogado, sem prejuízo do disposto no art. 8º, pelo DEC LEI.290-A/2001.2001.11.17.MAI,DR.IS-A [267]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-2001-649343
+  date: '2001-11-17'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:55Z'
   warnings: []
   errors: []
 ---
@@ -164,18 +193,18 @@ O presente diploma produz efeitos nos termos do n.º 1 do artigo 45.º do [Decre
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1992. - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo ao Decreto-Lei n.º 160/92
 
 Pessoal de investigação e fiscalização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/08/176a00/36063607.pdf))](https://files.diariodarepublica.pt/1s/1992/08/176a00/36063607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/176a00/36063607.pdf)

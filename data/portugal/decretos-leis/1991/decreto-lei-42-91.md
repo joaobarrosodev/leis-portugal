@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/018a00/03380342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/1991/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1991-496487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e69ab3ef99c75bc9aa531593168dbdcf13336c7c8d527aaf1c1fb768a9e0a1a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33416cb22d822b3bd364d9856463618f6b6d979e188b118fe6a42916c2ddb751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,136 @@ relationships:
   target: pt:dre:66022085:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:598158:por
+  label: "Aditado um art. 12º-A, pelo DEC LEI.263/92.1992.11.24.MF DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1992-598158
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:257588:por
+  label: "Alterados os artigos 1.º e 4.º pelo DEC LEI.95/94.09.04.1994.MF, DR.IS-A [83] de 09.04.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1994-257588
+  date: '1994-04-09'
+- type: amended_by
+  target: pt:dre:581628:por
+  label: "Alterada a redacção do art 8º pelo Dec Lei.18/97.1997.01.21.MF, DR.IS-A [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1997-581628
+  date: '1997-01-21'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterada a redacção do art. 8.º pela LEI.87-B/98.1998.12.31.AR DR.IS-A [301]5.ºSUPL (OE 1999 - Art. 29.º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:165040:por
+  label: "Alterados os arts. 1º, 2º, 3º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 12º, 12º-A, 13º, 14º, 16º e 17º, aditado o art. 2º-A\
+    \ e republicado na integra com as alterações introduzidas pelo DEC LEI.134/2001.2001.04.24.MF,DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2001-165040
+  date: '2001-04-24'
+- type: amended_by
+  target: pt:dre:647502:por
+  label: "Alterados os arts.1º,2º-A,4º,6º,8º,9º,10º,11º,12º-A,14º,16º e 17º , pelo DEC LEI.194/2002.2002.09.25.MF,DR.IS-A[222]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2002-647502
+  date: '2002-09-25'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterados os arts. 2.º e 7.º e aditados dois novos capítulos (Cap IV e Cap V) ao presente diploma, revisto pelo\
+    \ Dec Lei 134/2001, de 24-Abr, pelo DEC LEI.80/2003.2003.04.23.MF DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:670764:por
+  label: "Alterado o art. 16º pelo DEC LEI.160/2003.2003.07.19.MF DR.IS-A [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2003-670764
+  date: '2003-07-19'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 18º pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 16º do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 18º do presente diploma, revisto e republicado pelo Dec Lei 134/2001 de 24-Abr e na redacção do\
+    \ Dec Lei 211/2005 de 22-Jan, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 9.º do presente diploma, rectificado pela Decl-Rect 75/91 de 05-Abr e na redacção do Dec Lei 134/2001\
+    \ de 24-Abr [revisão e republicação] e do Dec Lei 194/2002 de 25-Set, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl]\
+    \ de 28.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 3º (na redacção do Dec Lei 134/2001, de 24-Abr), 8º (na redacção do Dec Lei 18/97, de 21-Jan,\
+    \ Lei 87-B/98, de 31-Dez, Dec Lei 134/2001, de 24-Abr, e Dec Lei 194/2002, de 25-Set) e 18º (na redacção do Dec Lei 211/2005,\
+    \ de 07-Dez, e Lei 67-A/2007, de 31-Dez), pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 6º (alterado pelo Dec Lei 134/2001 de 24-abr) pela LEI.66-B/2012.31.12.2012.AR, DR.IS\
+    \ [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados e renumerados os arts. 7º (na redação do Dec Lei 134/2001, de 24-abr e do Dec Lei 80/2003, de 23-abr),\
+    \ 8º (na redacção dos Dec Lei 18/97, de 21-jan, Lei 87-B/98, de 31-dez, Dec Lei 134/2001, de 24-abr, Dec Lei 194/2002,\
+    \ de 25-set e Dec Lei 64-B/2011, de 30-dez) e 18º (na redacção dos Dec Lei 211/2005, de 07-dez, Lei 67-A/2007, de 31-dez\
+    \ e Dec Lei 64-B/2011, de 30-dez), pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: cites
+  target: pt:dre:298192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401895:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:185161:por
+  label: "Rectificado pela DECL-RECT.75/91.1991.04.05.SG-PCM DR.IS-A [99] de 30/Abr/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/75-1991-185161
+  date: '1991-04-05'
+- type: corrected_by
+  target: pt:dre:345973:por
+  label: "Rectificado o artigo único (que altera as alíneas c) dos n.ºs 1 e 2 do artigo 1.º e o artigo 4.º do presente diploma)\
+    \ do Decreto-Lei n.º 95/94, de 9 de Abril, DECL-RECT.83/94.30.06.1994.PCM, DR.IS-A [149]3ºSupl de 30.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/83-1994-345973
+  date: '1994-06-30'
+- type: repealed_by
+  target: pt:dre:66022085:por
+  label: Revogado a partir de 01.01.2015 pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série
+    I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
 article_structure:
   article_count: 18
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:13:17Z'
   warnings: []
   errors: []
 ---
@@ -314,12 +434,12 @@ c) A liquidação tenha por base declarações de rendimentos apresentadas em pr
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 14 de Janeiro de 1991.**
+Promulgado em 14 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Janeiro de 1991.**
+Referendado em 16 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/1992/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1992-283346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1504b628ed570179985f2dbc46a5fa06f0306ca219236f106da907e8c27200b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59c445718b8fe6a8dfc02e89f9ec79a3ce55e12145e20977349b4fb45202559
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Distribuição de Gás
-- Instalação de GÁS
+- Gás Natural
 - Indústria da Construção
+- Instalação de GÁS
 - Segurança dos Edifícios
 - Vistoria
 relationships:
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/219/1991/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/219/1991/06/17/p/dre
+- type: cites
+  target: pt:dre:619287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658906:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:15Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 6.º, 7.º, 9.º e 11.º do [Decreto-Lei n.º 262/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1989-619287), de 17 de Agosto, alterado pelo [Decreto-Lei n.º 219/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1991-658906), de 17 de Junho, bem como os seus anexos A, B e C, passam a ter a seguinte redacção:
+Artigo único. Os artigos 6.º, 7.º, 9.º e 11.º do [Decreto-Lei n.º 262/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1989-619287), de 17 de Agosto, alterado pelo [Decreto-Lei n.º 219/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1991-658906), de 17 de Junho, bem como os seus anexos A, B e C, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — [...]
 
@@ -231,12 +239,12 @@ Entidade distribuidora
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Julho de 1992.**
+Promulgado em 27 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1992.**
+Referendado em 31 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

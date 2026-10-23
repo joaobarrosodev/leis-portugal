@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19276-1962-162629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10ffaead4c203182ca0c10cc44d1f5326d232de8e2118ba76060ac43f8ffd767
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ff7cd91900f9eb0a1420a3ffffae2105d84128bf561b85cb66eb39d117bfc2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:351726:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:52Z'
   warnings: []
   errors: []
 ---
@@ -84,6 +88,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 29105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29105-1938-351726), de 8 de Novembro de 1938, que os valores para a cobrança dos direitos de exportação referentes a mercadorias sujeitas a tributação ad valorem sejam os constantes da seguinte tabela oficial:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/07/16000/09780979.pdf))](https://files.diariodarepublica.pt/1s/1962/07/16000/09780979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/07/16000/09780979.pdf)
 
 Ministério das Finanças, 14 de Julho de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

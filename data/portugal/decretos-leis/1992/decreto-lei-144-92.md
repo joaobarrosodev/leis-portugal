@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/1992/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1992-292305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67854a4c5d2b13dee5d5971a2ecae5921e3a07b0a0182014787a553cf76ce05e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad22ac61a16bc1f3abd34d7902c9d805f561dbbe5120ae1ef2648283e91088f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,73 @@ relationships:
   target: pt:dre:520467:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO DE UM LUGAR DE TÉCNICO SUPERIOR O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE ADMINISTRAÇÃO PELO DN 1/93
+    DE 07-DEZ 1992 DR.IS-B [10] DE 13/JAN/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-01-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: CRIADO O CONSELHO RESPONSÁVEL PELAS ACTIVIDADES DE FORMAÇÃO NO INA PELA PORT 117/93 DE 02-FEV DR.IS-B [27]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-02-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 170/92 DE 29-OUT DR.IS-A [252]2SUPL DE 31/OUT/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE ADMINISTRAÇÃO PELO DN 226/92 DE 02-NOV DR.IS-B [283] DE 09/DEZ/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-12-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 227/92 DE 02-NOV DR.IS-B [285] DE 11/DEZ/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-12-11'
+- type: amended_by
+  target: pt:dre:588260:por
+  label: "Aumentado um lugar de técnico superior, no quadro de pessoal do Instituto Nacional de Administração, aprovado pelo\
+    \ presente diploma, pelo DN.1/93.13.01.1993.PCM, DR.IS-B [10] de 13.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-1993-588260
+  date: '1993-01-13'
+- type: amended_by
+  target: pt:dre:599766:por
+  label: "Criado o Conselho Responsável pelas Actividades de Formação no INA, pela PORT.117/93.02.02.1993.PCM, DR.IS-B [27]\
+    \ de 02.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/117-1993-599766
+  date: '1993-02-02'
+- type: amended_by
+  target: pt:dre:3454803:por
+  label: "Alterado o quadro de pessoal pela PORT.209/96IIS.23.10.1996.PCM, DR.IIS [246] de 23.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-1996-3454803
+  date: '1996-10-23'
+- type: amended_by
+  target: pt:dre:2779125:por
+  label: "Alterado o quadro de pessoal, alterado pela Port 607/95, de 20-Jun, pela PORT.1380/2000(2ªSÉRIE).2000.08.10.MREAP\
+    \ DR.IIS [213] de 14/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1380-2000-2779125
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:3014257:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1326/2002(2ªSÉRIE).2002.08.09.SEAP-MF, DR.IIS [199] DE 29/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1326-2002-3014257
+  date: '2002-08-09'
+- type: amended_by
+  target: pt:dre:1729877:por
+  label: "Alterado o quadro de pessoal pela PORT.909/2003(2ªSÉRIE).2003.05.19.MF, DR.IIS [162] de 16/Jul/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/909-2003-1729877
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas do Instituto, cuja orgânica foi\
+    \ aprovada no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro de Estado e das\
+    \ Finanças em articulação com o Ministro de Estado e da Administração Interna, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/1991/05/25/p/dre
   label: null
@@ -85,16 +152,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:226042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520467:por
+  label: "Revogado com excepcção do disposto no n.º 2 do artigo 6.º pelo DEC LEI.85/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2007-520467
+  date: '2007-03-29'
 article_structure:
   article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:34Z'
   warnings: []
   errors: []
 ---
@@ -571,16 +676,16 @@ b) Sem prejuízo das habilitações legais, para carreira ou categoria que integ
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Julho de 1992.**
+Referendado em 6 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro anexo a que se refere o artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/166a00/33813388.pdf))](https://files.diariodarepublica.pt/1s/1992/07/166a00/33813388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/166a00/33813388.pdf)

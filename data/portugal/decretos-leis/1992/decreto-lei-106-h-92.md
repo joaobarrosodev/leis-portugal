@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1992, 1º Suplemento, Série I-A de 1992-06-01
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2648-(45) a 2648-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126a01/00450047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-h-1992-410289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff6831d6e8269bef1f21ed5962811acd6e3d556dcb693fbce73985fd3fa15a11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b35c7a4562ab3c2cd01037042d17bd252501415129747a24ddcba10cb3f357a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Cinemateca Portuguesa-Museu do Cinema
 - Direcção Geral dos Espectáculos e das Artes
 - Direcção Geral dos Serviços de Gestão e Organização
-- Cinemateca Portuguesa-Museu do Cinema
-- Secretaria de Estado da Cultura
+- Fundo de Fomento Cultural
+- Gabinete de Relações Culturais Internacionais
 - Instituto da Biblioteca Nacional e do Livro
 - Instituto Português de Cinema
 - Instituto Português de Museus
-- Fundo de Fomento Cultural
 - Orgânica
-- Teatro Nacional de São Carlos
-- Gabinete de Relações Culturais Internacionais
+- Reestruturação de Serviços
+- Secretaria de Estado da Cultura
 - Teatro Nacional de DONA Maria II
+- Teatro Nacional de São Carlos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - TRANSITARAM PARA A DEPENDENCIA DO MINISTRO DA CULTURA, ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A\
+    \ [266]SUPL, OS SEGUINTES SERVIÇOS E ORGANISMOS: - DIRECÇÃO GERAL DOS SERVIÇOS DE GESTÃO E ORGANIZAÇÃO, - CINEMATECA PORTUGUESA\
+    \ - MUSEU DO CINEMA, - ARQUIVOS NACIONAIS/TORRE DO TOMBO, - DIRECÇÃO GERAL DOS ESPECTÁCULOS, - FUNDO DE FOMENTO CULTURAL,\
+    \ - GABINETE DAS RELAÇÕES CULTURAIS INTERNACIONAIS, - INSTITUTO PORTUGUÊS DO PATRIMÓNIO ARQUITECTÓNICO E ARQUEOLÓGICO,\
+    \ - INSTITUTO PORTUGUÊS DA ARTE CINEMATOGRAFICA E AUDIOVISUAL, - INSTITUTO PORTUGUÊS DE MUSEUS, - INSTITUTO DAS ARTES\
+    \ CENICAS, - INSTITUTO DA BIBLIOTECA NACIONAL E DO LIVRO, - COMPANHIA NACIONAL DE BAILADO E - DELEGAÇÕES REGIONAIS DA\
+    \ CULTURA DO NORTE, DO CENTRO, DO ALENTEJO E DO ALGARVE\0, DO CENTRO, DO ALENTEJO E DO ALGARVE"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:469652:por
   label: Última alteração registada na importação inicial
@@ -87,16 +97,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1991/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1991/05/06/p/dre
+- type: cites
+  target: pt:dre:311438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469652:por
+  label: "Revogado pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:39Z'
   warnings: []
   errors: []
 ---
@@ -255,12 +294,12 @@ O Instituto Português de Museus tem por objectivo o planeamento, a instalação
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

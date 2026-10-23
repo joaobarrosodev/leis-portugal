@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/1992/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1992-291941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db0bfeb70f548e67d63e1c4c1795ade770f4a0edf1c993a3be4ef3890eed543b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d52b1a06075c7c6bde7b72db9822e08a88fbec618e98be637de61e172ecf5fa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imóvel Classificado
 - Código da Contribuição Autárquica
 - Código do Imposto Municipal de SISA e do Imposto sobre as Sucessões e Doações
-- Política Fiscal
 - Contribuição Autárquica
+- Imóvel Classificado
 - Isenção Fiscal
+- Política Fiscal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1992/03/09/p/dre
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:29Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +117,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 50.º e pelo n.º 2 do artigo 51.º da [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), de 9 de Março, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 12.º e 23.º do Código da Contribuição Autárquica, aprovado pelo [Decreto-Lei n.º 442-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024), de 30 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º e 23.º do Código da Contribuição Autárquica, aprovado pelo [Decreto-Lei n.º 442-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024), de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 12.º — Isenção
 
@@ -139,7 +147,7 @@ b) Nos casos não contemplados na alínea anterior, no ano, inclusive, da aquisi
 
 5 - ...
 
-###### Art. 2.º É aditado ao Código da Contribuição Autárquica o artigo 21.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Código da Contribuição Autárquica o artigo 21.º-A, com a seguinte redacção:
 
 ###### Artigo 21.º-A — Retardamento da liquidação
 
@@ -147,22 +155,22 @@ b) Nos casos não contemplados na alínea anterior, no ano, inclusive, da aquisi
 
 2 - O juro será contado dia a dia, desde o termo do prazo para o cumprimento da obrigação de que resultou o atraso na liquidação, até à data em que vier a ser suprida ou corrigida a falta, tendo em conta o período em que a liquidação da colecta de cada ano tiver sido retardada.
 
-###### Art. 3.º É aditado ao Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações o artigo 39.º-A, com a seguinte redacção:
+Art. 3.º É aditado ao Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações o artigo 39.º-A, com a seguinte redacção:
 
-###### Art. 39.º-A - Será abatido ao imposto municipal de sisa que for devido pela primeira transmissão de prédios urbanos novos ou suas fracções autónomas, destinados exclusivamente a habitação, o imposto municipal de sisa pago pela aquisição do terreno onde os prédios foram edificados, no todo ou, tratando-se de fracções autónomas, da parte que, segundo a permilagem referida no artigo 1418.º do Código Civil, lhe corresponder.
+Art. 39.º-A - Será abatido ao imposto municipal de sisa que for devido pela primeira transmissão de prédios urbanos novos ou suas fracções autónomas, destinados exclusivamente a habitação, o imposto municipal de sisa pago pela aquisição do terreno onde os prédios foram edificados, no todo ou, tratando-se de fracções autónomas, da parte que, segundo a permilagem referida no artigo 1418.º do Código Civil, lhe corresponder.
 
 § único. A dedução referida no corpo deste artigo será efectuada a pedido do interessado, no momento da liquidação da sisa, devendo, para o efeito, ser apresentados os elementos de prova necessários.
 
-###### Art. 4.º O presente diploma reporta os seus efeitos à data de entrada em vigor da [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), de 9 de Março.
+Art. 4.º O presente diploma reporta os seus efeitos à data de entrada em vigor da [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), de 9 de Março.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Valente de Oliveira.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

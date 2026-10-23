@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/361/1991/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1991-293718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1e1e678886895733d9e7395b944a8fc10ef2cf70722c144488849f68f51bd25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b982f66dab03385cbebca89a591a0269b2ab76fbab43208d2ea31926552a8c3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,45 @@ relationships:
   target: pt:dre:667921:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683045:por
+  label: "Alterado o art. 30º, pelo DEC LEI.103/93.1993.04.05.PCM, DR.IS-A [80] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-1993-683045
+  date: '1993-04-05'
+- type: amended_by
+  target: pt:dre:405475:por
+  label: "Alterado o art. 4º pelo DEC LEI.130/96.1996.08.13.PCM, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1996-405475
+  date: '1996-08-13'
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583811:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667921:por
+  label: "Revogados os nºs 6 e 8 do art. 5º e o art. 8º, alterados o nº 2 do art. 3º e o art. 7º, bem como os estatutos e\
+    \ a denominação da Fundação das Descobertas - que passa a designar-se Fundação do Centro Cultural de Belém - pelo DEC\
+    \ LEI.391/99.1999.09.30.MC DR.IS-A [229]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1999-667921
+  date: '1999-09-30'
 article_structure:
-  article_count: 37
+  article_count: 36
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:07Z'
   warnings: []
   errors: []
 ---
@@ -113,21 +142,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a Fundação das Descobertas, adiante designada abreviadamente por Fundação, instituição de direito privado e utilidade pública, à qual é conferida personalidade jurídica.
+Artigo 1.º - 1 - É criada a Fundação das Descobertas, adiante designada abreviadamente por Fundação, instituição de direito privado e utilidade pública, à qual é conferida personalidade jurídica.
 
 2 - A Fundação rege-se pelos seus estatutos e, subsidiariamente, pela legislação aplicável.
 
-###### Art. 2.º A Fundação é instituída pelo Estado e pelas pessoas singulares e colectivas enumeradas no artigo 35.º dos estatutos.
+Art. 2.º A Fundação é instituída pelo Estado e pelas pessoas singulares e colectivas enumeradas no artigo 35.º dos estatutos.
 
-###### Art. 3.º - 1 - São aprovados os estatutos da Fundação, anexos a este diploma.
+Art. 3.º - 1 - São aprovados os estatutos da Fundação, anexos a este diploma.
 
 2 - Os estatutos poderão ser alterados por proposta do conselho directivo, obtido parecer favorável do conselho de mecenas.
 
 3 - A aprovação do Governo será concedida por deliberação do Conselho de Ministros.
 
-###### Art. 4.º Ao pessoal da Fundação aplica-se o regime do contrato individual de trabalho, sem prejuízo de, sob proposta do seu conselho de administração, o membro do Governo responsável pela cultura poder requisitar funcionários públicos ou do sector empresarial do Estado para o exercício de funções na Fundação, nos termos da legislação aplicável.
+Art. 4.º Ao pessoal da Fundação aplica-se o regime do contrato individual de trabalho, sem prejuízo de, sob proposta do seu conselho de administração, o membro do Governo responsável pela cultura poder requisitar funcionários públicos ou do sector empresarial do Estado para o exercício de funções na Fundação, nos termos da legislação aplicável.
 
-###### Art. 5.º - 1 - O património da Fundação é constituído pelos bens e valores a que se refere o artigo 5.º dos estatutos.
+Art. 5.º - 1 - O património da Fundação é constituído pelos bens e valores a que se refere o artigo 5.º dos estatutos.
 
 2 - A entrada do Estado para o património inicial da Fundação é constituída pela cedência, em direito de superfície perpétuo e gratuito, dos terrenos afectos à construção dos módulos n.os 4 e 5 do Centro Cultural de Belém, bem como dos módulos n.os 1, 2 e 3 e terrenos que constituem suas partes integrantes.
 
@@ -147,31 +176,31 @@ b) Do projecto devidamente licenciado da construção dos módulos n.os 4 e 5.
 
 8 - A instalação do museu permanente e a escolha do seu título, vocação e recheio inicial são da exclusiva responsabilidade do Estado.
 
-###### Art. 6.º - 1 - O presente diploma constitui título suficiente para efeitos de registo predial e de inscrição na respectiva matriz predial a favor da Fundação, os quais se farão sem pagamento de quaisquer taxas ou emolumentos.
+Art. 6.º - 1 - O presente diploma constitui título suficiente para efeitos de registo predial e de inscrição na respectiva matriz predial a favor da Fundação, os quais se farão sem pagamento de quaisquer taxas ou emolumentos.
 
 2 - Enquanto não forem efectuadas no registo predial as inscrições e a nova descrição dos terrenos incluídos na área de intervenção do Centro Cultural de Belém, as escrituras públicas necessárias para efeitos de cedência do direito de superfície prevista no n.º 5 do artigo anterior descreverão os terrenos em causa como «a parte dos prédios delimitados na planta anexa ao Despacho n.º 2/88, de 31 de Janeiro, do Primeiro-Ministro, publicado no Diário da República, 2.ª série, de 9 de Fevereiro de 1988, que está afecta à construção dos módulos n.os 4 e 5 do Centro Cultural de Belém, de acordo com o estudo prévio vencedor do concurso aberto na sequência do n.º 3 da [Resolução do Conselho de Ministros n.º 3/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1988-583811), de 12 de Janeiro».
 
 Ar. 7.º Os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e no n.º 2 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), da mesma data.
 
-###### Art. 8.º - 1 - O Estado reserva-se o direito de determinar que os módulos n.os 1, 2 e 3 do Centro Cultural de Belém fiquem afectos à realização de actividades de relevante interesse nacional, mediante eventuais contrapartidas financeiras.
+Art. 8.º - 1 - O Estado reserva-se o direito de determinar que os módulos n.os 1, 2 e 3 do Centro Cultural de Belém fiquem afectos à realização de actividades de relevante interesse nacional, mediante eventuais contrapartidas financeiras.
 
 2 - O direito referido no número anterior será exercida pelo Primeiro-Ministro ou pelo membro do Governo em quem este delegar, com a antecedência conveniente a não causar graves prejuízos à programação das actividades da Fundação.
 
 3 - Em relação à presidência portuguesa do Conselho das Comunidades, que decorrerá entre 1 de Janeiro e 1 de Julho de 1992, ficam os módulos n.os 1, 2 e 3 do Centro Cultural de Belém desde já afectos à finalidade a que se refere o n.º 1 do presente artigo.
 
-###### Art. 9.º As referências do presente diploma aos módulos do Centro Cultural de Belém consideram-se efectuadas de acordo com a designação dos mesmos no estudo prévio vencedor do concurso aberto na sequência do n.º 3 da [Resolução do Conselho de Ministros n.º 3/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1988-583811), de 12 de Janeiro.
+Art. 9.º As referências do presente diploma aos módulos do Centro Cultural de Belém consideram-se efectuadas de acordo com a designação dos mesmos no estudo prévio vencedor do concurso aberto na sequência do n.º 3 da [Resolução do Conselho de Ministros n.º 3/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1988-583811), de 12 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1991. - Aníbal António Cavaco Silva - José Oliveira Costa - Luís Madureira - José Manuel Cardoso Borges Soeiro - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 20 de Setembro de 1991.**
+Promulgado em 20 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos da Fundação das Descobertas
 
@@ -325,7 +354,7 @@ e) O conselho fiscal.
 
 ###### Artigo 13.º — Nomeação e mandato
 
-**O presidente da Fundação é designado pelo Primeiro-Ministro, após parecer do conselho de mecenas, e exerce o seu mandato por um período de cinco anos, renovável.**
+O presidente da Fundação é designado pelo Primeiro-Ministro, após parecer do conselho de mecenas, e exerce o seu mandato por um período de cinco anos, renovável.
 
 ###### Artigo 14.º — Funções e competência
 

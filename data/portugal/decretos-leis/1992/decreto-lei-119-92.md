@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/1992/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1992-304358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4313cac7ef31d197a1d731ada77cc5f9dd74dcc5cf626dfb81502aa689b5d7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5808182b7c86dd0f4f6b497615e9ca6c7866769dc7f006e947b9763117800633
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,57 @@ relationships:
   target: pt:dre:837135331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70171988:por
+  label: Alterado, a partir de 31.12.2015, o Estatuto da Ordem dos Engenheiros, aprovado pelo presente decreto-lei, pelo(a)
+    Lei n.º 123/2015 - Diário da República n.º 171/2015, Série I de 2015-09-02, que o republicou, com a redação atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/123-2015-70171988
+  date: '2015-09-02'
+- type: amended_by
+  target: pt:dre:837135331:por
+  label: Alterados, a partir de 1 de abril de 2024, os artigos 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º,
+    15.º, 16.º, 17.º, 23.º, 24.º, 26.º, 30.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 43.º, 47.º, 48.º,
+    50.º, 52.º, 53.º 54.º, 58.º, 59.º, 61.º, 62.º, 64.º, 65.º, 67.º, 67.º, 68.º, 69.º, 70.º, 72.º, 73.º, 74.º, 75.º, 77.º,
+    81.º, 82.º, 84.º, 87.º, 88.º, 89.º, 91.º, 93.º, 95.º, 97.º, 99.º, 118.º, 120.º, 122.º, 123.º, 125.º, 128.º, 129.º, 130.º,
+    131.º, 132.º, 136.º, 137.º, 147.º e o anexo, aditados os artigos 7.º-A, 27.º-A, 40.º-A, 43.º-A e 117.º-A, alterado sistematicamente
+    o capítulo ix do título i que passa a integrar os artigos 117.º-A, 118.º, 119.º, 120.º e 121.º, e revogado o n.º 2 do
+    artigo 7.º, os n.ºs 2, 3, 4, 8 e 9 do artigo 11.º, os n.ºs 3 e 4 do artigo 12.º, as alíneas b) e f) do artigo 14.º, a
+    alínea b) do n.º 1, a alínea b) do n.º 2 e os n.ºs 5 e 6 do artigo 15.º, os artigos 19.º, 20.º, 21.º, 22.º, 25.º e 29.º,
+    o n.º 3 do artigo 31.º, o n.º 3 do artigo 33.º, as alíneas i) e j) do n.º 1 e a alínea e) do n.º 2 do artigo 35.º, o n.º
+    5 do artigo 36.º, as alíneas e), j), k) e l) do n.º 3 e o n.º 4 do artigo 40.º, as alíneas c), g), i), j) e l) do n.º
+    3 do artigo 43.º, os artigos 44.º, 45.º e 46.º, a alínea r) do n.º 2 do artigo 48.º, o artigo 51.º, os n.ºs 2, 3, 4 e
+    5 do artigo 54.º, os artigos 55.º e 56.º, a alínea d) do n.º 3 do artigo 70.º, o n.º 6 do artigo 72.º, o n.º 3 do artigo
+    72.º, as alíneas c) e g) do n.º 4 do artigo 77.º, o n.º 3 do artigo 81.º, os n.ºs 4, 5 e 6 do artigo 87.º, os artigos
+    124.º, 126.º e 127.º, o n.º 4 do artigo 130.º, o artigo 138.º e a alínea g) do artigo 147.º do Estatuto da Ordem dos Engenheiros
+    pelo(a) Lei n.º 11/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2024-837135331
+  date: '2024-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/1992/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/1992/04/04/p/dre
+- type: cites
+  target: pt:dre:198094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677067:por
+  label: null
+  source: null
 article_structure:
-  article_count: 93
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 92
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:55Z'
   warnings: []
   errors: []
 ---
@@ -110,21 +147,21 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 4/92](https://diariodarepublica.pt/dr/detalhe/lei/4-1992-198094), de 4 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Ordem dos Engenheiros, publicado em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovado o Estatuto da Ordem dos Engenheiros, publicado em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 352/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1981-566864), de 28 de Dezembro.
+Art. 2.º É revogado o [Decreto-Lei n.º 352/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1981-566864), de 28 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 10 de Junho de 1992.**
+Promulgado em 10 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Junho de 1992.**
+Referendado em 15 de Junho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto da Ordem dos Engenheiros
 
@@ -178,7 +215,9 @@ n) Exercer as demais funções que resultem da lei e das disposições deste Est
 
 A atribuição do título, o seu uso e o exercício da profissão de engenheiro dependem de inscrição como membro efectivo da Ordem.
 
-###### Artigo 4.º — Título de engenheiro
+###### Artigo 4.º
+
+## Título de engenheiro
 
 Para efeitos do presente Estatuto, designa-se por engenheiro o titular de licenciatura, ou equivalente legal, em curso de Engenharia, inscrito na Ordem como membro efectivo, e que se ocupa da aplicação das ciências e técnicas respeitantes aos diferentes ramos de engenharia nas actividades de investigação, concepção, estudo, projecto, fabrico, construção, produção, fiscalização e controlo de qualidade, incluindo a coordenação e gestão dessas actividades e outras com elas relacionadas.
 

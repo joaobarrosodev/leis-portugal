@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/10/238a00/53675370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/396/1991/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1991-289065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39faa25d7ad1cc9a981d82c700aedf4bb6743cf2b414664bbd4fa587b136d1ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 690e1a05e1f2189d4acb63d2d6d6dcd1d6e0c1ba3b889e4f7c072e76b99023c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Contrato Individual de Trabalho
+- Duração do Trabalho
+- Formação Profissional
 - Inspecção Geral do Trabalho
 - Orientação Profissional
-- Trabalho de Menores
 - Regime Jurídico
-- Duração do Trabalho
 - Trabalhador Estudante
+- Trabalho de Menores
 relationships:
 - type: amended_by
   target: pt:dre:632906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371438:por
+  label: "Alterados os arts. 121º, 122º e 124º do regime jurídico anexo ao Dec Lei 49408 de 24-Nov-1969 DG.IS [275]SUPL, na\
+    \ redacção do presente diploma, pela LEI.58/99.1999.06.30.AR, DR.IS-A [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-1999-371438
+  date: '1999-06-30'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 122º do regime jurídico do Contrato Individual de Trabalho anexo ao Dec Lei 49408 de\
+    \ 24-Nov 1969, na redacção do presente diploma, pela LEI.118/99.1999.08.11.AR, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:332750:por
+  label: "Alterado o art. 127º do regime jurídico anexo ao Dec Lei 49408 de 24-Nov de 1969, com a redacção conferida pelo\
+    \ presente diploma, pelo DEC LEI.170/2001.2001.05.25.MTS DR.IS-A [121]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2001-332750
+  date: '2001-05-25'
+- type: amended_by
+  target: pt:dre:264573:por
+  label: "Alterado o art. 122º do cap. VIII do Dec Lei 49408 de 24-Nov 1969, com a redacção do presente diploma, pelo DEC\
+    \ LEI.58/2002.2002.03.15.MTS DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2002-264573
+  date: '2002-03-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691438:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423061:por
+  label: "Revogado o nº 1 do art. 3º pela LEI.118/99.1999.08.11.AR, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor das normas regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:12:48Z'
   warnings: []
   errors: []
 ---
@@ -273,12 +320,12 @@ O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Álvaro José Brilhante Laborinho Lúcio - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 190/1991, 1º Suplemento, Série I-A de 1991-08-20
   number: '190'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4274-(2) a 4274-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/190a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1991-618109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2320c14c40543c460103c33edf949d30eb9dea1d171d43375ca4355304d599d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2965649c1b9a0e86e9f7ffa5d8658c36ea1e295467ae35fb5e9d661f94545373
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto do Pessoal
 - Administração de Portos
+- Estatuto do Pessoal
 - Regime Jurídico
 - Trabalhador Portuário
 relationships:
@@ -74,16 +74,29 @@ relationships:
   target: pt:dre:667362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378500:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667362:por
+  label: "Revogado pelo DEC LEI.421/99.1999.10.21.MEPAT, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/421-1999-667362
+  date: '1999-10-21'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:07Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 8.º, 10.º, 33.º, 39.º, 51.º, 53.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 62.º e 64.º do Estatuto do Pessoal das Administrações dos Portos, aprovado pelo [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 8.º, 10.º, 33.º, 39.º, 51.º, 53.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 62.º e 64.º do Estatuto do Pessoal das Administrações dos Portos, aprovado pelo [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — (...)
 
@@ -218,20 +231,20 @@ O regime e montante das remunerações específicas, nomeadamente quanto aos efe
 
 3 - Os titulares dos cargos de direcção e chefia previstos no artigo 9.º são remunerados por tabela salarial específica, a aprovar por portaria do ministro da tutela, sob proposta das administrações portuárias.
 
-###### Art. 2.º - 1 - O pessoal de direcção e chefia estranho aos quadros das administrações poderá requerer a sua integração no organismo onde desempenha funções a partir da renovação da primeira comissão de serviço, ficando o eventual deferimento do pedido dependente de deliberação fundamentada dos respectivos conselhos de administração.
+Art. 2.º - 1 - O pessoal de direcção e chefia estranho aos quadros das administrações poderá requerer a sua integração no organismo onde desempenha funções a partir da renovação da primeira comissão de serviço, ficando o eventual deferimento do pedido dependente de deliberação fundamentada dos respectivos conselhos de administração.
 
 2 - A integração prevista no número anterior faz-se de acordo com as regras de recrutamento para admissão do restante pessoal.
 
-###### Art. 3.º É revogada a [Portaria n.º 501/88](https://diariodarepublica.pt/dr/detalhe/portaria/501-1988-378500), de 27 de Julho.
+Art. 3.º É revogada a [Portaria n.º 501/88](https://diariodarepublica.pt/dr/detalhe/portaria/501-1988-378500), de 27 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1991. - Aníbal António Cavaco Silva - José Manuel Alves Elias da Costa - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda.
 
-**Promulgado em 4 de Agosto de 1991.**
+Promulgado em 4 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Agosto de 1991.**
+Referendado em 8 de Agosto de 1991.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

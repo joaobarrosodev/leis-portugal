@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/127a00/26672674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/1992/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1992-516768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36f85ba0726cde68c95f8f0e8d1d412536c927fc00cecdf6f675cc9f468e65ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ebe383547dd0e989e059572a350431a3409a14f65175eab19fb0464ff5bd8df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Ação Social
+- Definição de Competências
 - Ministério do Emprego e da Segurança Social
 - Orgânica
 - Serviços Sociais
@@ -76,20 +76,79 @@ relationships:
   target: pt:dre:520995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL-RECT 85/92 DR.IS-A [148]SUPL DE 30/JUN/1992\0UN/1992"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-30'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o art 42º pelo Dec-Lei 224-A/96. 1996.11.26.MJ - Aprova o Código das Custas Judiciais - , DR.IS-A\
+    \ [274]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinada a sucessão dos Serviços Sociais do Ministério da Segurança Social e do Trabalho, nos direitos e obrigações,\
+    \ aos Serviços Sociais do Ministério do Trabalho e Segurança Social cuja orgânica foi aprovada pelo presente diploma,\
+    \ pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:457199:por
+  label: "Determinado que os Serviços Sociais do Ministério da Segurança Social da Família e da Criança sucedam nos direitos\
+    \ e obrigações aos Serviços Sociais do Ministério da Segurança Social e do Trabalho, cuja orgância foi aprovada pelo presente\
+    \ diploma e remete, a partir da entrada em vigor do presente diploma todas as referências ao conselho de direcção dos\
+    \ Serviços Sociais para o conselho directivo, pelo DEC LEI.5/2005.05.01.2005.MSSFC, DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extintos os Serviços Sociais do MTSS, criados no Dec Lei 49373 de 11-Nov de 1969 e cuja orgânica consta do presente\
+    \ diploma, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS [208] de 27.10.2006, nos termos do preceituado no respectivo\
+    \ art. 36º, sendo as suas atribuições integradas nos Serviços Sociais da Administração Pública, no âmbito do MFAP\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/1991/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/194/1991/05/25/p/dre
+- type: cites
+  target: pt:dre:215768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520995:por
+  label: "Revogado, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, pelo DR.49/2007.27.04.2007.MFAP,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2007-520995
+  date: '2007-04-27'
 article_structure:
   article_count: 45
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:15:44Z'
   warnings: []
   errors: []
 ---
@@ -546,16 +605,16 @@ São revogados o [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 12 de Maio de 1992.**
+Promulgado em 12 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1992.**
+Referendado em 13 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal a que se refere o artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/127a00/26672674.pdf))](https://files.diariodarepublica.pt/1s/1992/06/127a00/26672674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/127a00/26672674.pdf)

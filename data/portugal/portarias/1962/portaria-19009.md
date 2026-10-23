@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19009-1962-518633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34477ae07bd8e93d7f616730e8611cc5ae845d382cd36239b3bceb48fd5d85ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6bde6ecb1b2f80b1ed1542654fe97a46c37aa4e17288ce1cc5ce6d6a532d585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:09Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +86,7 @@ Manda o Governo da República Portuguesa, pelos Ministros do Ultramar e Secretá
 
 1.º É constituído, na 2.ª região aérea e na dependência do respectivo comandante, o aeródromo-base n.º 4, com a seguinte finalidade e localização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/02/02500/01020102.pdf))](https://files.diariodarepublica.pt/1s/1962/02/02500/01020102.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/02/02500/01020102.pdf)
 
 2.º Com base na unidade indicada no n.º 1.º podem ser criados os aeródromos de manobra que as circunstâncias aconselhem.
 

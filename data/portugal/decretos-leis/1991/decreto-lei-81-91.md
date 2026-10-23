@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/041a00/07820797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be9b9a0c03be6d86fb344fc299473a4d3de2d207e94dd0a8a2d073ee65b921d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0605674ec5b2a985006fba40c7cea79f3079104d00638d80fd37d7f02633685
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
+- Agricultor
 - Agrupamento de Produtores
-- Financiamento
-- Contabilidade
-- Desenvolvimento Rural
-- Desenvolvimento Regional
-- Feoga
+- Ajuda Comunitária
 - Apoio ao Investimento
+- Contabilidade
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Exploração Florestal
+- Feoga
+- Financiamento
 - Gestão Agrícola
+- Ifadap
 - Indemnização Compensatória
 - Jovem Agricultor
-- Exploração Agrícola
-- Proteção do Ambiente
 - Política Agrícola Comum
 - Prédio Rústico
-- Exploração Florestal
-- Agricultor
-- Regulamento CE
+- Proteção do Ambiente
 - Região Desfavorecida
-- Ifadap
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:515190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "- RECTIFICADO PELA DECLARACAO DE RECTIFICACAO 131/91, DE 31 DE MAIO, PUBLICADO NO DR.IS-A, 124 SUPL.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-31'
+- type: amended_by
+  target: pt:dre:517183:por
+  label: "Alterados os valores fixados nos arts. 2º, nº 5, 4º, nº 7, 5º, nº 14, 6º, 6º, 12º, nº 6, 15º, nº 1, als, a) e b)\
+    \ e nº 2, 19º, nº 4, 22º, nºs 1 e 2, 24º, nºs 1, 2 e 4 , 25º, nº 1, 26º, nº 5, 29º, nº 1, 35º, 38º, nº 1, 40º, nº 1 al.\
+    \ b) 42º, nºs 2 e 3, 44º, nº 1, 48º, nº 7, 5Oº, nº 3 e 51º, nºs 7 e 8 pelo DEC LEI.67/94.1994.02.28.MA, DR.IS-A [49]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1994-517183
+  date: '1994-02-28'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -115,16 +128,28 @@ relationships:
   target: celex:31989R3808
   label: null
   source: http://data.europa.eu/eli/reg/1989/3808/oj
+- type: repealed_by
+  target: pt:dre:522859:por
+  label: "Revogado o art. 50.º e secção IV do título III, pelo DEC LEI.31/94.1994.02.05.MA DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-1994-522859
+  date: '1994-02-05'
+- type: repealed_by
+  target: pt:dre:269400:por
+  label: "Revogado pelo DEC LEI.150/94.1994.05.25.MA, DR.IS-A [121], relativo á melhoria da eficácia das estruturas agrícolas,\
+    \ determinando, no entanto, a sua aplicação até á entrada em vigor das medidas equivalentes previstas no citado diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-1994-269400
+  date: '1994-05-25'
 article_structure:
   article_count: 64
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:53Z'
   warnings: []
   errors: []
 ---
@@ -1053,15 +1078,15 @@ c) As modalidades de aplicação da concessão das ajudas referidas no n.º 2 do
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Fernando Nunes Ferreira Real.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Janeiro de 1991.**
+Referendado em 7 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 

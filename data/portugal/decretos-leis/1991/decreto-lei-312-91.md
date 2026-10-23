@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/312/1991/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1991-674435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 111bd0bd50294cabaf710cf141c662ef7361ec33feea027f5c1ae1acc23ed18f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bff04ce55deb96cde4b3cabd8cc40b08c171594b5002cbe3236dfd2c630f9c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Estatuto
 - Privatização
+- Sociedade Anónima
 - TAP
 relationships:
 - type: amended_by
   target: pt:dre:411976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a TAP-Air Portugal, S.A., a que se refere o presente\
+    \ diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516726:por
+  label: "Revogado os arts. 4.º e 8.º pelo DEC LEI.122/98.1998.05.09.MF DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-1998-516726
+  date: '1998-05-09'
+- type: repealed_by
+  target: pt:dre:437428:por
+  label: "Revogada a isen&#231;&#227;o fiscal de que beneficia a empresa Transportes A&#233;reos Portugueses, S.A., nos termos\
+    \ da al. a) do n&#186; 1 da base XII anexa ao Dec Lei 39188 de 25-Abr 1953, mantida em vigor pelos arts. 2.&#186; e 3&#186;.\
+    \ do presente diploma, pelo DEC LEI.258/98.1998.08.17.MEPAT DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1998-437428
+  date: '1998-08-17'
+- type: repealed_by
+  target: pt:dre:411976:por
+  label: "Revogados os arts. 4º e 8º pelo DEC LEI.34/2000.2000.03.14.MES DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2000-411976
+  date: '2000-03-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:11:02Z'
   warnings: []
   errors: []
 ---
@@ -100,35 +135,35 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Transportes Aéreos Portugueses, E. P., criada pelo [Decreto-Lei n.º 469-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845), de 28 de Agosto, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, com a denominação de Transportes Aéreos Portugueses, S. A., ou, abreviadamente, TAP, S. A., TAP - Air Portugal, Air Portugal, ou TAP.
+Artigo 1.º - 1 - A empresa pública Transportes Aéreos Portugueses, E. P., criada pelo [Decreto-Lei n.º 469-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845), de 28 de Agosto, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, com a denominação de Transportes Aéreos Portugueses, S. A., ou, abreviadamente, TAP, S. A., TAP - Air Portugal, Air Portugal, ou TAP.
 
 2 - A TAP, S. A., rege-se pelo presente diploma, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos seus estatutos.
 
-###### Art. 2.º - 1 - A TAP, S. A., sucede automática e globalmente à empresa pública Transportes Aéreos Portugueses, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A TAP, S. A., sucede automática e globalmente à empresa pública Transportes Aéreos Portugueses, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do estabelecido no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da TAP, S. A.
 
-###### Art. 3.º - A TAP, S. A., assegurará a exploração dos serviços públicos de transporte aéreo de passageiros, carga e correio e as actividades que lhes sejam complementares, subsidiárias ou acessórias, no mesmo âmbito e com os direitos, obrigações e demais condições, nomeadamente os derivados do contrato de concessão previsto no [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953, bem como da legislação complementar, que vinham sendo observadas pela TAP, E. P.
+Art. 3.º - A TAP, S. A., assegurará a exploração dos serviços públicos de transporte aéreo de passageiros, carga e correio e as actividades que lhes sejam complementares, subsidiárias ou acessórias, no mesmo âmbito e com os direitos, obrigações e demais condições, nomeadamente os derivados do contrato de concessão previsto no [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953, bem como da legislação complementar, que vinham sendo observadas pela TAP, E. P.
 
-###### Art. 4.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.
+Art. 4.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.
 
 2 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 5.º - O capital inicial da TAP, S. A., é de 12006036000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+Art. 5.º - O capital inicial da TAP, S. A., é de 12006036000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
-###### Art. 6.º - 1 - São aprovados os estatutos da TAP, S. A., anexos ao presente diploma.
+Art. 6.º - 1 - São aprovados os estatutos da TAP, S. A., anexos ao presente diploma.
 
 2 - A alteração efectuada pelo artigo 1.º deste diploma, bem como os estatutos da TAP, S. A., agora aprovados, produzem efeitos, relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.
 
 3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 7.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gerência e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
+Art. 7.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gerência e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
 
 2 - Nos 30 dias seguintes à publicação do presente diploma, o conselho de administração convocará a assembleia geral dos accionistas, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 3 - A assembleia geral referida no n.º 2 será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário uma pessoa por aquele designada.
 
-###### Art. 8.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 8.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -136,47 +171,47 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 9.º - Até ao termo dos correspondentes contratos, o Estado mantém, perante as instituições financeiras ou outras entidades que celebraram contratos com a TAP, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como causa de alteração de circunstâncias ou de default para efeitos dos referidos contratos.
+Art. 9.º - Até ao termo dos correspondentes contratos, o Estado mantém, perante as instituições financeiras ou outras entidades que celebraram contratos com a TAP, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como causa de alteração de circunstâncias ou de default para efeitos dos referidos contratos.
 
-###### Art. 10.º - 1 - Os trabalhadores ao serviço e os pensionistas da Transportes Aéreos Portugueses, E. P., mantêm perante a Transportes Aéreos Portugueses, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 10.º - 1 - Os trabalhadores ao serviço e os pensionistas da Transportes Aéreos Portugueses, E. P., mantêm perante a Transportes Aéreos Portugueses, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na TAP, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.
 
 3 - A situação dos trabalhadores da TAP, S. A., chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo da requisição.
 
-###### Art. 11.º - A alienação das acções, quando o Estado o entenda por conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
+Art. 11.º - A alienação das acções, quando o Estado o entenda por conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Julho de 1991.**
+Promulgado em 26 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1991.**
+Referendado em 29 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos de Transportes Aéreos Portuguesas, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 312/91, de 17 de Agosto, continua a personalidade jurídica da empresa pública Transportes Aéreos Portugueses, E. P., adopta a denominação social de Transportes Aéreos Portugueses, S. A., podendo abreviadamente ser designada por TAP, S. A., TAP - Air Portugal, Air Portugal, ou apenas TAP.
+Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 312/91, de 17 de Agosto, continua a personalidade jurídica da empresa pública Transportes Aéreos Portugueses, E. P., adopta a denominação social de Transportes Aéreos Portugueses, S. A., podendo abreviadamente ser designada por TAP, S. A., TAP - Air Portugal, Air Portugal, ou apenas TAP.
 
 2 - A sociedade rege-se pelo Decreto-Lei n.º 312/91, de 17 de Agosto, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes estatutos.
 
-###### Art. 2.º - 1 - A sociedade tem a sede no edifício n.º 25 do Aeroporto de Lisboa.
+Art. 2.º - 1 - A sociedade tem a sede no edifício n.º 25 do Aeroporto de Lisboa.
 
 2 - Por deliberação do conselho de administração, a sociedade pode criar e encerrar agências, delegações ou quaisquer outras formas de representação em território nacional ou estrangeiro.
 
-###### Art. 3.º - 1 - Constitui objecto da sociedade a exploração dos serviços públicos de transporte aéreo de passageiros, carga e correio, bem como a prestação dos serviços e a realização das operações comerciais, industriais e financeiras relacionadas directa ou indirectamente com a referida exploração e, ainda, exercer quaisquer outras actividades consideradas convenientes aos interesses empresariais.
+Art. 3.º - 1 - Constitui objecto da sociedade a exploração dos serviços públicos de transporte aéreo de passageiros, carga e correio, bem como a prestação dos serviços e a realização das operações comerciais, industriais e financeiras relacionadas directa ou indirectamente com a referida exploração e, ainda, exercer quaisquer outras actividades consideradas convenientes aos interesses empresariais.
 
 2 - A sociedade pode participar em sociedades de qualquer natureza e objecto, em associações, agrupamentos complementares de empresas, agrupamentos europeus de interesse económico, ou outras formas de colaboração com terceiros.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 4.º - 1 - O capital da sociedade é de 12006036000$00, está totalmente realizado pelos valores integrantes do património da sociedade e é representado por 12006036 acções com o valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - O capital da sociedade é de 12006036000$00, está totalmente realizado pelos valores integrantes do património da sociedade e é representado por 12006036 acções com o valor nominal de 1000$00 cada uma.
 
 2 - Serão obrigatoriamente da titularidade do Estado ou de outras entidades pertencentes ao sector público as acções representativas de, pelo menos, 51% do capital social em cada momento existente.
 
@@ -192,15 +227,15 @@ Estatutos de Transportes Aéreos Portuguesas, S. A.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 5.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 5.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
-###### Art. 6.º - 1 - Os membros dos órgãos sociais são eleitos por três anos, sendo permitida a sua reeleição por uma ou mais vezes.
+Art. 6.º - 1 - Os membros dos órgãos sociais são eleitos por três anos, sendo permitida a sua reeleição por uma ou mais vezes.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à designação de quem deva substituí-los, estando dispensados de prestar caução, relativamente ao desempenho dos seus cargos.
 
 #### SECÇÃO I — Assembleia Geral
 
-###### Art. 7.º - 1 - A assembleia geral é composta pelos accionistas com direito de voto.
+Art. 7.º - 1 - A assembleia geral é composta pelos accionistas com direito de voto.
 
 2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.
 
@@ -210,13 +245,13 @@ Estatutos de Transportes Aéreos Portuguesas, S. A.
 
 5 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral.
 
-###### Art. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que incluirá ainda um vice-presidente e um secretário, podendo qualquer deles ser ou não accionista, sendo as respectivas faltas supridas nos termos da lei comercial.
+Art. 8.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, que incluirá ainda um vice-presidente e um secretário, podendo qualquer deles ser ou não accionista, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral sempre que a lei ou os estatutos não exijam maior número.
 
 3 - A assembleia geral para eleição dos membros dos órgãos sociais não poderá deliberar sem que estejam presentes ou representados accionistas cujas acções representem, pelo menos, 51% do capital social.
 
-###### Art. 9.º Compete à assembleia geral:
+Art. 9.º Compete à assembleia geral:
 
 a) Deliberar sobre o relatório do conselho de administração, as contas do exercício e o parecer do conselho fiscal e sobre a aplicação dos resultados do exercício;
 
@@ -230,15 +265,15 @@ e) Autorizar a aquisição ou alienação de bens imóveis ou de participações
 
 f) Deliberar sobre a emissão de obrigações.
 
-###### Art. 10.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário, ou ainda quando a sua convocação seja requerida ao presidente da respectiva mesa por accionistas que representem pelo menos 5% do capital social.
+Art. 10.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o julguem necessário, ou ainda quando a sua convocação seja requerida ao presidente da respectiva mesa por accionistas que representem pelo menos 5% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 11.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
+Art. 11.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por cooptação dos administradores em exercício, desde que estes sejam em número suficiente para o conselho poder funcionar e a sua maioria tenha sido eleita pelos titulares do capital pertencente ao sector público.
 
-###### Art. 12.º - 1 - Compete ao conselho de administração:
+Art. 12.º - 1 - Compete ao conselho de administração:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -254,7 +289,7 @@ f) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela as
 
 2 - O conselho de administração poderá, dentro dos limites legais, delegar algumas das suas competências em um ou mais dos seus membros ou numa comissão executiva.
 
-###### Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 13.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Convocar e dirigir a actividade do conselho, presidindo às respectivas reuniões;
 
@@ -262,13 +297,13 @@ b) Zelar pela correcta execução das deliberações do conselho.
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 14.º - 1 - O conselho de administração deverá fixar as datas ou periodicidade das suas reuniões e reunirá sempre que seja convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+Art. 14.º - 1 - O conselho de administração deverá fixar as datas ou periodicidade das suas reuniões e reunirá sempre que seja convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração não poderá deliberar sem a presença da maioria dos seus membros, salvo por motivo de urgência, como tal reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou com base em documento conferindo poderes a outro administrador.
 
 3 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido, e serão tomadas por maioria de votos expressos, tendo o presidente, ou quem o substitua, voto de qualidade.
 
-###### Art. 15.º - 1 - A sociedade obriga-se:
+Art. 15.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração, que devem integrar a comissão executiva, quando exista;
 
@@ -280,13 +315,13 @@ c) Pela assinatura de mandatário constituído, no âmbito do correspondente man
 
 3 - O conselho de administração pode deliberar, nos termos legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou por chancela, designadamente os títulos representativos do capital social.
 
-###### Art. 16.º Os membros do conselho de administração têm direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
+Art. 16.º Os membros do conselho de administração têm direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
 
 #### SECÇÃO III — Conselho
 
-###### Art. 17.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral, e devendo um dos vogais efectivos e o suplente ser revisores oficiais de contas.
+Art. 17.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral, e devendo um dos vogais efectivos e o suplente ser revisores oficiais de contas.
 
-###### Art. 18.º - 1 - Para além das atribuições constantes da lei, compete especialmente ao conselho fiscal:
+Art. 18.º - 1 - Para além das atribuições constantes da lei, compete especialmente ao conselho fiscal:
 
 a) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;
 
@@ -298,7 +333,7 @@ b) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 19.º Os resultados positivos de cada exercício, devidamente aprovados, terão, pela ordem abaixo indicada, a seguinte aplicação:
+Art. 19.º Os resultados positivos de cada exercício, devidamente aprovados, terão, pela ordem abaixo indicada, a seguinte aplicação:
 
 a) Um mínimo de 10% para constituição ou reintegração da reserva legal, até atingir o montante legalmente exigível;
 
@@ -312,6 +347,6 @@ e) O restante conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 20.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+Art. 20.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

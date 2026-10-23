@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 188/1992, 1º Suplemento, Série I-A de 1992-08-17
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3992-(2) a 3992-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/08/188a01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/1992/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1992-684396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10bab2768aba423528e0d7fd49f65b1e4cb9c6a9c4ed0ac3b1c8adcc3720ca42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86a79df5bccd8135b09e0bf1957ea0181192f2bef80480a86de5bca938786230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
 - Extinção de Serviços
+- ICEP
 - Instituto de Promoção Turística
 - Ministério do Comércio e Turismo
 - Orgânica
@@ -80,16 +80,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/428/1991/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/428/1991/10/31/p/dre
+- type: cites
+  target: pt:dre:220915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607335:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:17:19Z'
   warnings: []
   errors: []
 ---
@@ -116,17 +156,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinto o Instituto de Promoção Turística (IPT), criado pelo [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, e alterado pelo [Decreto-Lei n.º 400/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1990-563233), de 17 de Dezembro.
+Artigo 1.º É extinto o Instituto de Promoção Turística (IPT), criado pelo [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro, e alterado pelo [Decreto-Lei n.º 400/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1990-563233), de 17 de Dezembro.
 
-###### Art. 2.º São transferidas para o Instituto do Comércio Externo de Portugal (ICEP), criado pelo [Decreto-Lei n.º 115/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1982-607335), de 14 de Abril, com as atribuições e competências estabelecidas pelo [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, e alteradas pelo [Decreto-Lei n.º 428/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1991-321918), de 31 de Outubro, as atribuições e competências cometidas ao IPT.
+Art. 2.º São transferidas para o Instituto do Comércio Externo de Portugal (ICEP), criado pelo [Decreto-Lei n.º 115/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1982-607335), de 14 de Abril, com as atribuições e competências estabelecidas pelo [Decreto-Lei n.º 388/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1986-220915), de 18 de Novembro, e alteradas pelo [Decreto-Lei n.º 428/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1991-321918), de 31 de Outubro, as atribuições e competências cometidas ao IPT.
 
-###### Art. 3.º - 1 - São transferidos para o ICEP os direitos e obrigações do IPT, bem como os exercidos autonomamente pelos seus serviços desconcentrados.
+Art. 3.º - 1 - São transferidos para o ICEP os direitos e obrigações do IPT, bem como os exercidos autonomamente pelos seus serviços desconcentrados.
 
 2 - O Ministro do Comércio e Turismo poderá determinar, no prazo de 60 dias, sob proposta do administrador liquidatário, quais os direitos e obrigações do IPT que não serão transmitidos para o ICEP e a que condições será sujeita a sua transmissão.
 
-###### Art. 4.º O ICEP, através das suas delegações no estrangeiro e das representações até agora integradas no IPT, assegurará a promoção de Portugal como destino turístico privilegiado e apoiará a actuação das empresas portuguesas do sector do turismo, na sua actividade interna e externa, quando a mesma promova o turismo nacional.
+Art. 4.º O ICEP, através das suas delegações no estrangeiro e das representações até agora integradas no IPT, assegurará a promoção de Portugal como destino turístico privilegiado e apoiará a actuação das empresas portuguesas do sector do turismo, na sua actividade interna e externa, quando a mesma promova o turismo nacional.
 
-###### Art. 5.º - 1 - A liquidação do património do IPT será realizada no prazo de seis meses a contar da data da entrada em vigor do presente diploma.
+Art. 5.º - 1 - A liquidação do património do IPT será realizada no prazo de seis meses a contar da data da entrada em vigor do presente diploma.
 
 2 - Por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo será nomeado o administrador liquidatário.
 
@@ -142,7 +182,7 @@ d) Propor ao Ministro do Comércio e Turismo os termos da transmissão de quaisq
 
 4 - A remuneração do administrador liquidatário corresponde ao índice 800 da escala indiciária para as carreiras de regime geral.
 
-###### Art. 6.º - 1 - Os funcionários e agentes do Estado, dos institutos públicos e das autarquias locais que à data da entrada em vigor do presente diploma se encontrem a prestar serviço no IPT podem ser integrados no quadro de pessoal do ICEP, precedendo a sua anuência, de acordo com as seguintes regras:
+Art. 6.º - 1 - Os funcionários e agentes do Estado, dos institutos públicos e das autarquias locais que à data da entrada em vigor do presente diploma se encontrem a prestar serviço no IPT podem ser integrados no quadro de pessoal do ICEP, precedendo a sua anuência, de acordo com as seguintes regras:
 
 a) A integração no quadro do ICEP implica a opção pelo regime do contrato individual de trabalho, com a consequente cessação do vínculo à função pública;
 
@@ -176,7 +216,7 @@ c) O tempo de serviço prestado na categoria que deu origem à transição conta
 
 8 - Os contratos referidos no número anterior celebrados ao abrigo de legislação estrangeira cessarão igualmente, observando-se o que nela se dispuser para este efeito.
 
-###### Art. 7.º São revogados os seguintes diplomas:
+Art. 7.º São revogados os seguintes diplomas:
 
 a) O [Decreto-Lei n.º 83/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1983-310667), de 11 de Fevereiro;
 
@@ -190,18 +230,18 @@ e) O [Decreto-Lei n.º 400/90](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 f) O [Decreto Regulamentar n.º 44/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1982-394292), de 24 de Julho.
 
-###### Art. 8.º As referências feitas ao IPT em diplomas, contratos ou quaisquer outros actos serão entendidas como reportadas, para todos os efeitos, ao ICEP e seus serviços.
+Art. 8.º As referências feitas ao IPT em diplomas, contratos ou quaisquer outros actos serão entendidas como reportadas, para todos os efeitos, ao ICEP e seus serviços.
 
-###### Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Julho de 1992.**
+Promulgado em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1992.**
+Referendado em 21 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

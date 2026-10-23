@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/033a00/06070609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/1991/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1991-478263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35153e94f8db6374db50f9a03fcec77c33fda1ca8780c72723a9deb4de55f4aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c28316a596c29cee2a03bae007fc18730a2df037fcbdd372381e1d21ef2145ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mercado Cambial
 - Contra-ordenação
 - Infracção Cambial
+- Mercado Cambial
 - Operação Cambial
 relationships:
 - type: amended_by
   target: pt:dre:438040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:313848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573523:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:644373:por
+  label: "Rectificado pela DECL-RECT.28-D/91.1991.02.25.SG-PCM,DR.IS-A [49]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-d-1991-644373
+  date: '1991-02-25'
+- type: repealed_by
+  target: pt:dre:438040:por
+  label: "Revogado pelo DEC LEI.295/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/295-2003-438040
+  date: '2003-11-21'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:14:28Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +125,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 5.º da [Lei n.º 37/90](https://diariodarepublica.pt/dr/detalhe/lei/37-1990-573523), de 10 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 34.º, 36.º, 37.º, 38.º, 43.º e 44.º do [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 34.º, 36.º, 37.º, 38.º, 43.º e 44.º do [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 34.º — [...]
 
@@ -165,7 +183,7 @@ d) ...
 
 Não tendo havido lugar à extinção do procedimento por contra-ordenação nos termos do disposto no artigo 43.º, e depois de realizadas as diligências que em consequência da defesa se tornem necessárias, o processo, se for caso disso, será remetido à entidade competente para aplicar as coimas e sanções acessórias, com parecer sobre as contra-ordenações que se devem considerar provadas e as sanções que lhes são aplicáveis.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, o artigo 37.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 13/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1990-313848), de 8 de Janeiro, o artigo 37.º-A, com a seguinte redacção:
 
 ###### Artigo 37.º-A — Outras contra-ordenações
 
@@ -179,16 +197,16 @@ c) Entre 50% e 75%, quando o valor seja superior a 100000000$00 mas não a 50000
 
 d) Entre 75% e 100%, no máximo de 500000000$00, quando o valor seja superior a 500000000$00.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

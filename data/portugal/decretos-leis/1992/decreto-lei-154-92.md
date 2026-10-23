@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 170/1992, 1º Suplemento, Série I-A de 1992-07-25
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3492-(2) a 3492-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/170a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1992-305260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e3eb9dcab2bb4488cc817b7215b821cd6f5d13359ade7bab5ab1334c24cd7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d505bd0d161b6017343fc8db9162ae6af6afa84536ac979b4a38fef72c4ebaa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,7 +78,6 @@ subjects:
 - Escola Portuguesa de Pesca
 - Extinção de Serviços
 - Gabinete de Estudos e Planeamento das Pescas
-- Ministério do MAR
 - Gabinete dos Assuntos Europeus
 - Inspecção Geral das Pescas
 - Instituto do Trabalho Portuário
@@ -86,22 +85,70 @@ subjects:
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Português de Conservas e Pescado
 - Instituto Português de Investigação Marítima
+- Ministério do MAR
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:223012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: PASSOU PARA A DEPENDENCIA DO MINISTRO DO EQUIPAMENTO SOCIAL A COMISSAO DE PLANEAMENTO DO TRANSPORTE MARÍTIMO DE EMERGÊNCIA,
+    ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL, NA REDACÇÃO CONFERIDA PELA DECL-RECT 150/95 DE 30-NOV DR.IS-A
+    [277]3SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:435397:por
+  label: "Extinta a Direcção Geral das pescas, o Instituto Português de investigação Marítima e o Gabinete dos Assuntos Europeus,\
+    \ pelo DEC LEI.74/96.1996.06.18.MADRP, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1996-435397
+  date: '1996-06-18'
+- type: amended_by
+  target: pt:dre:223012:por
+  label: "Extinta a Direcção Geral de Portos Navegação e Transportes Marítimos, pelo DEC LEI.331/98.1998.11.03.MEPAT, DR.IS-A\
+    \ [254]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1998-223012
+  date: '1998-11-03'
+- type: cites
+  target: pt:dre:220103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547635:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:16:45Z'
   warnings: []
   errors: []
 ---
@@ -364,18 +411,18 @@ d) A alínea d), na data de entrada em vigor do diploma que reestruturar a Escol
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1992. - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 9 de Julho de 1992.**
+Promulgado em 9 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Julho de 1992.**
+Referendado em 15 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA
 
 (a que se refere o n.º 3 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/170a01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1992/07/170a01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/170a01/00020005.pdf)
