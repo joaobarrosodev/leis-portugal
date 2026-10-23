@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18100/32103212.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1990-573546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8264451a8a7f128493ac5baaf81f3440683d178fccf636b28903e47ef7f642e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 138c545c97bd811daec58f7c3d55170666133bcea28c81daf1f7bcf4eff8b44e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Código de Processo Penal
+- Infracção Aduaneira
+- Infracção Fiscal
+- Multa
+- Regime Jurídico
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:263935:por
+  label: Alterados os arts. 12.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º e 65.º do Regime Jurídico das Infracções Fiscais
+    Aduaneiras aprovado pelo Dec Lei 376-A/89 de 25-out, na redacção conferida pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 98/94 - Diário da República n.º 90/1994, Série I-A de 1994-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1994-263935
+  date: '1994-04-18'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:30Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +126,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 36.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 33.º, 34.º, 49.º e 50.º do Regime Jurídico das Infracções Fiscais Aduaneiras, aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 33.º, 34.º, 49.º e 50.º do Regime Jurídico das Infracções Fiscais Aduaneiras, aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 12.º — [...]
 
@@ -154,7 +182,7 @@ No uso da autorização legislativa concedida pelo artigo 36.º da [Lei n.º 101
 
 2 - ...
 
-###### Art. 2.º São aditados ao capítulo II da parte I do Regime Jurídico das Infracções Fiscais Aduaneiras os artigos 14.º-A, 14.º-B, 14.º-C e 16.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao capítulo II da parte I do Regime Jurídico das Infracções Fiscais Aduaneiras os artigos 14.º-A, 14.º-B, 14.º-C e 16.º-A, com a seguinte redacção:
 
 ###### Artigo 14.º-A — Privação temporária do direito de participar em feiras, mercados, leilões ou arrematações de mercadorias
 
@@ -188,12 +216,12 @@ No uso da autorização legislativa concedida pelo artigo 36.º da [Lei n.º 101
 
 Visto e aprovado em Conselho de Ministros de 7 de Junho de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 24 de Julho de 1990.**
+Promulgado em 24 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Julho de 1990.**
+Referendado em 27 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

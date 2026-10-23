@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18544-1961-171500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ea7e5969671aa0a503ca4b6fb51083143a9d119d1774e76701d3deed6700827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eec981a344a611fde7f81bebd756be1feccf6d5a2d5dc90e07e21bdce94972f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528266:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:17Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 15084404$88, tomando como contrapartida disponibilidades do rendimento de concessões petrolíferas, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 281.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
+Capítulo 12.º, artigo 281.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
 
 1) «Aproveitamento de recursos»:
 
@@ -125,7 +137,7 @@ a) «Mecanização da conservação de estradas e melhoramento de oficinas de ob
 
 2) Um de 4195570$10, tomando como contrapartida os saldos das contas de exercícios findos, consignado ao reforço das seguintes verbas da mesma tabela de despesa com estas importâncias:
 
-### Capítulo 12.º, artigo 281.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
+Capítulo 12.º, artigo 281.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
 
 2) «Comunicações e transportes»:
 
@@ -141,7 +153,7 @@ a) «Construção e apetrechamento de instalações escolares» ... 900000$00
 
 3) Um de 1136791$57, tomando como contrapartida disponibilidades do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39179](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39179-1953-528266), de 21 de Abril de 1953, destinado a reforçar com estas quantias as seguintes verbas da referida tabela de despesa:
 
-### Capítulo 12.º, artigo 281.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
+Capítulo 12.º, artigo 281.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
 
 2) «Comunicações e transportes»:
 

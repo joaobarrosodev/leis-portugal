@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21700/38643866.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1990-557596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83759f32d31c4e3fc05011953101c6bd2d5a236092735fc0801496f0e0efa01c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86f1f0b3257d6e46685f9f82a0848dfd49355be6222fa1b3585af3da9ade1454
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Prestações da Segurança Social
+- Protecção na Doença
+- Regime Geral da Segurança Social
+- Segurança Social
+- Subsídio de Doença
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:592342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321720:por
+  label: "Alterados os arts. 13º, 22º e 31º e aditado um art. 32º-A ao Dec Lei 132/88 de 20-Abr, na redacção dada pelo presente\
+    \ diploma, pelo DEC LEI.165/99.1999.05.13.MTS,DR.IS-A [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1999-321720
+  date: '1999-05-13'
+- type: cites
+  target: pt:dre:285146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592342:por
+  label: "Revogada a alteração dada ao Dec Lei 132/88, de 20-Abr, pelo DEC LEI.28/2004.04.02.2004.MSST, DR.IS-A [29] de 04.02.2004,\
+    \ e consideradas todas as referências legais ao presente diploma como feitas ao citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2004-592342
+  date: '2004-02-04'
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:10Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +141,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 12.º, 19.º, 22.º, 23.º, 24.º, 26.º, 27.º, 28.º, 30.º, 34.º, 35.º e 38.º do [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, passam a ter a seguinte redação:
+Artigo 1.º Os artigos 11.º, 12.º, 19.º, 22.º, 23.º, 24.º, 26.º, 27.º, 28.º, 30.º, 34.º, 35.º e 38.º do [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, passam a ter a seguinte redação:
 
 ###### Artigo 11.º — Índice de profissionalidade
 
@@ -209,7 +243,7 @@ As entidades empregadoras podem requerer às instituições de segurança social
 
 A atribuição do subsídio de doença aos trabalhadores do serviço doméstico depende de, em nome do beneficiário, haver registo de remunerações por trabalho prestado correspondente a 12 dias no decurso dos quatro meses imediatamente anteriores ao começo do mês que antecede o da data do início da incapacidade.
 
-###### Art. 2.º Ao [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, é aditado o artigo 27.º-A, com a seguinte redacção:
+Art. 2.º Ao [Decreto-Lei n.º 132/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1988-285146), de 20 de Abril, é aditado o artigo 27.º-A, com a seguinte redacção:
 
 ###### Artigo 27.º-A — Condicionamentos à atribuição da pensão provisória de invalidez
 
@@ -217,16 +251,16 @@ A atribuição do subsídio de doença aos trabalhadores do serviço doméstico 
 
 2 - O princípio estabelecido no número anterior não é, porém, aplicável aos casos em que tenha sido requerida nova verificação de incapacidade permanente por agravamento do estado de saúde do beneficiário, comprovado por informação médica, de harmonia com o disposto no n.º 3 do artigo 35.º do [Decreto Regulamentar n.º 57/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1987-417662), de 11 de Agosto.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 do segundo mês subsequente ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia 1 do segundo mês subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Aníbal António Cavaco Silva - José Albino da Silva Peneda - Arlindo Gomes de Carvalho.
 
-**Promulgado em 7 de Setembro de 1990.**
+Promulgado em 7 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

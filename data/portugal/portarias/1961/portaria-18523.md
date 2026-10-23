@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a773ffb9e5f019dda2294215b17d8776c52ddbeacd3f32d93b268ea268b60fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 782e1b33ca28344fe0bd76a1ce0a520b01e91cfb2cf3af418155444e6c1d21ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:412390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:51Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +139,7 @@ Regulamento dos Cursos de Preparação de Técnicos e Auxiliares dos Serviços C
 
 ### CAPÍTULO I — Dos cursos
 
-###### Artigo 1.º Os cursos do primeiro grupo a que se refere o n.º 1.º da Portaria n.º 18523, desta data, são os seguintes:
+Artigo 1.º Os cursos do primeiro grupo a que se refere o n.º 1.º da Portaria n.º 18523, desta data, são os seguintes:
 
 a) De auxiliares de laboratório de análises;
 
@@ -147,7 +151,7 @@ d) De ajudantes mistos.
 
 § único. Os cursos de ajudantes mistos destinam-se a preparar profissionais para o exercício conjunto das actividades auxiliares dos serviços clínicos indicados nas alíneas a), b) e c), exclusivamente em hospitais sub-regionais ou em serviços de idêntica categoria.
 
-###### Art. 2.º Os cursos do segundo grupo são os seguintes:
+Art. 2.º Os cursos do segundo grupo são os seguintes:
 
 a) De dietistas;
 
@@ -157,9 +161,9 @@ c) De técnicos de fisioterapia;
 
 d) De técnicos de radiologia.
 
-###### Art. 3.º Além dos cursos a que se alude nos artigos anteriores, poderão ser criados os mais que forem exigidos pelas necessidades dos serviços do Ministério.
+Art. 3.º Além dos cursos a que se alude nos artigos anteriores, poderão ser criados os mais que forem exigidos pelas necessidades dos serviços do Ministério.
 
-###### Art. 4.º A duração dos cursos é a seguinte:
+Art. 4.º A duração dos cursos é a seguinte:
 
 1.º Para os cursos do primeiro grupo, excepto o de ajudantes mistos, seis meses, seguidos de três meses de estágio;
 
@@ -169,11 +173,11 @@ d) De técnicos de radiologia.
 
 4.º Para o curso de dietistas, dois anos escolares.
 
-###### Art. 5.º Quando circunstâncias especiais o aconselhem e depois de ouvida a Comissão Inter-Hospitalar de Lisboa, poderá, por despacho ministerial, ser autorizado que qualquer dos cursos tenha maior duração.
+Art. 5.º Quando circunstâncias especiais o aconselhem e depois de ouvida a Comissão Inter-Hospitalar de Lisboa, poderá, por despacho ministerial, ser autorizado que qualquer dos cursos tenha maior duração.
 
 ### CAPÍTULO II — Das condições de admissão
 
-###### Art. 6.º São condições de admissão aos cursos de preparação de técnicos e auxiliares:
+Art. 6.º São condições de admissão aos cursos de preparação de técnicos e auxiliares:
 
 a) Habilitações literárias, comprovadas documentalmente;
 
@@ -183,36 +187,36 @@ c) Idade mínima tal que, quando terminado o curso, o candidato tenha atingido o
 
 d) Bom comportamento moral.
 
-###### Art. 7.º As habilitações literárias mínimas para admissão aos cursos são as seguintes:
+Art. 7.º As habilitações literárias mínimas para admissão aos cursos são as seguintes:
 
 a) Para os cursos do primeiro grupo, o exame de 4.ª classe de instrução primária ou de admissão aos liceus ou às escolas técnicas;
 
 b) Para os cursos do segundo grupo, o segundo ciclo dos liceus ou o exame de admissão aos institutos industrial ou comercial, ou ainda qualquer dos exames referidos na alínea anterior e cinco anos de exercício da profissão do primeiro grupo correspondente àquela cujo curso, no segundo grupo, se deseje tirar.
 
-###### Art. 8.º É obrigatório o exame de admissão a qualquer dos cursos.
+Art. 8.º É obrigatório o exame de admissão a qualquer dos cursos.
 
 § único. Os candidatos à matrícula nos cursos do segundo grupo já habilitados por um curso do primeiro grupo, nos termos da última parte da alínea b) do artigo anterior, estão igualmente sujeitos a exame de admissão.
 
 ### CAPÍTULO III — Do funcionamento dos cursos
 
-###### Art. 9.º Enquanto não entrar em funcionamento a Escola Nacional de Saúde Pública, a elaboração dos programas dos cursos e bem assim dos pontos de exame de admissão ou dos exames finais é da competência da Comissão Inter-Hospitalar de Lisboa, que para o efeito designará os professores a quem cometerá a sua preparação.
+Art. 9.º Enquanto não entrar em funcionamento a Escola Nacional de Saúde Pública, a elaboração dos programas dos cursos e bem assim dos pontos de exame de admissão ou dos exames finais é da competência da Comissão Inter-Hospitalar de Lisboa, que para o efeito designará os professores a quem cometerá a sua preparação.
 
-###### Art. 10.º Os cursos do primeiro grupo, quando frequentados por serventuários dos serviços de saúde e assistência, poderão ser ministrados em períodos nocturnos. Mas as lições não poderão prolongar-se para além das 23 horas.
+Art. 10.º Os cursos do primeiro grupo, quando frequentados por serventuários dos serviços de saúde e assistência, poderão ser ministrados em períodos nocturnos. Mas as lições não poderão prolongar-se para além das 23 horas.
 
-###### Art. 11.º Os alunos dos cursos realizarão os seus estágios nos hospitais onde funcionam os centros de ensino. Contudo, o conselho escolar poderá determinar que os estágios sejam realizados noutros estabelecimentos, sempre que desta forma se torne mais eficiente a preparação profissional ministrada.
+Art. 11.º Os alunos dos cursos realizarão os seus estágios nos hospitais onde funcionam os centros de ensino. Contudo, o conselho escolar poderá determinar que os estágios sejam realizados noutros estabelecimentos, sempre que desta forma se torne mais eficiente a preparação profissional ministrada.
 
-###### Art. 12. O exame final de cada um dos cursos é constituído por provas escritas, práticas e orais, que deverão ser julgadas por um júri nomeado pela direcção do centro de ensino. O presidente do júri será designado pela Comissão Inter-Hospitalar de Lisboa.
+Art. 12. O exame final de cada um dos cursos é constituído por provas escritas, práticas e orais, que deverão ser julgadas por um júri nomeado pela direcção do centro de ensino. O presidente do júri será designado pela Comissão Inter-Hospitalar de Lisboa.
 
-###### Art. 13.º A relação dos examinandos será afixada em lugar visível do hospital ou estabelecimento onde se ministram os cursos, pelo menos com três dias de antecedência sobre o início das provas.
+Art. 13.º A relação dos examinandos será afixada em lugar visível do hospital ou estabelecimento onde se ministram os cursos, pelo menos com três dias de antecedência sobre o início das provas.
 
-###### Art. 14.º Aos alunos poderão ser concedidas bolsas de estudo ou outras facilidades, quando se encontrarem nas condições que forem fixadas por despacho ministerial genérico.
+Art. 14.º Aos alunos poderão ser concedidas bolsas de estudo ou outras facilidades, quando se encontrarem nas condições que forem fixadas por despacho ministerial genérico.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 15.º A direcção dos centros previstos no n.º 2.º da Portaria n.º 18523 é constituída por um delegado da administração do hospital ou estabelecimento, que presidirá, e por dois médicos, como representantes dos respectivos serviços clínicos.
+Art. 15.º A direcção dos centros previstos no n.º 2.º da Portaria n.º 18523 é constituída por um delegado da administração do hospital ou estabelecimento, que presidirá, e por dois médicos, como representantes dos respectivos serviços clínicos.
 
-###### Art. 16.º A orientação dos cursos compete a um conselho constituído pelos professores e monitores de cada um, sob a presidência de um dos membros da direcção do centro, e por dois alunos livremente escolhidos pelos seus colegas.
+Art. 16.º A orientação dos cursos compete a um conselho constituído pelos professores e monitores de cada um, sob a presidência de um dos membros da direcção do centro, e por dois alunos livremente escolhidos pelos seus colegas.
 
-###### Art. 17.º Em tudo o que não estiver previsto neste regulamento aplicar-se-ão os regulamentos oficiais das escolas de ensino técnico.
+Art. 17.º Em tudo o que não estiver previsto neste regulamento aplicar-se-ão os regulamentos oficiais das escolas de ensino técnico.
 
 Ministério da Saúde e Assistência, 12 de Junho de 1961. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25500/45404540.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1990-566201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19b7d23d0f930516e3855b1f74b8f87ff44980bed15f7f95b87b73c5f9066ea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0db8eb1b6b74f0405c9fae66dc7e48abca653e972323a88b909487a59f428170
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Militar
+- Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:25Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +115,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As compensações financeiras previstas nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 279/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1989-618505), de 23 de Agosto, atribuídas aos militares dos três ramos das forças armadas em serviço efectivo normal são actualizadas em 12%, com arredondamento para a centena de escudos imediatamente superior.
+Artigo 1.º - 1 - As compensações financeiras previstas nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 279/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1989-618505), de 23 de Agosto, atribuídas aos militares dos três ramos das forças armadas em serviço efectivo normal são actualizadas em 12%, com arredondamento para a centena de escudos imediatamente superior.
 
 2 - As remunerações que do antecedente eram superiores aos montantes estabelecidos no diploma referido no número anterior são igualmente actualizadas em 12%, com arredondamento para a centena de escudos imediatamente superior, mantendo-se os respectivos abonos enquanto, nos termos estatutariamente aplicáveis, os militares se mantiverem na situação que lhes conferiu o direito às mencionadas remunerações.
 
-###### Art. 2.º São extintas todas as remunerações acessórias atribuídas aos militares em serviço efectivo normal cujos fundamentos não se enquadrem no estabelecido nos n.os 1 e 2 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho.
+Art. 2.º São extintas todas as remunerações acessórias atribuídas aos militares em serviço efectivo normal cujos fundamentos não se enquadrem no estabelecido nos n.os 1 e 2 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho.
 
-###### Art. 3.º Os subsídios, suplementos, gratificações ou outros abonos que vinham sendo identificados em lei especial como subsídios, suplementos, gratificação ou abonos de risco, penosidade, insalubridade, deslocação em serviço e subsídios de deslocamento e de residência mantêm-se nos seus montantes actuais, sujeitos à actualização nos termos em que vem sendo feita, até à fixação do regime e condições de atribuição de cada suplemento em decreto-lei, conforme preceitua o n.º 3 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho.
+Art. 3.º Os subsídios, suplementos, gratificações ou outros abonos que vinham sendo identificados em lei especial como subsídios, suplementos, gratificação ou abonos de risco, penosidade, insalubridade, deslocação em serviço e subsídios de deslocamento e de residência mantêm-se nos seus montantes actuais, sujeitos à actualização nos termos em que vem sendo feita, até à fixação do regime e condições de atribuição de cada suplemento em decreto-lei, conforme preceitua o n.º 3 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1990.
+Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Joaquim Fernando Nogueira - Eugénio Manuel dos Santos Ramos - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 25 de Outubro de 1990.**
+Promulgado em 25 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Outubro de 1990.**
+Referendado em 30 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

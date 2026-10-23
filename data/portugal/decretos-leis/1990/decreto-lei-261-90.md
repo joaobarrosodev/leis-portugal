@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1990-557002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fdfad8bde9b17c8c263595219826587fec4c28a75ce97d64ca54bf4592c9c71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92c150e94f25790a202e4b17ec6e6167b8b8d295880c935c7d7376bee68729a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissariado da Exposição Europália 91-portugal
+- Exposição
+- Fundo de Fomento Cultural
+- Manifestação Cultural
+- Presidência do Conselho de Ministros
+relationships:
+- type: cites
+  target: pt:dre:645731:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:35Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +100,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 12.º do [Decreto-Lei n.º 332-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-a-1989-645731), de 27 de Setembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 12.º do [Decreto-Lei n.º 332-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-a-1989-645731), de 27 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - O Comissariado disporá, para os encargos a suportar durante os anos de 1989 e 1990, de verbas apropriadas previstas no orçamento do Fundo de Fomento Cultural.
+Art. 12.º - 1 - O Comissariado disporá, para os encargos a suportar durante os anos de 1989 e 1990, de verbas apropriadas previstas no orçamento do Fundo de Fomento Cultural.
 
 2 - ...
 
@@ -101,12 +110,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - José Manuel Durão Barroso.
 
-**Promulgado em 10 de Agosto de 1990.**
+Promulgado em 10 de Agosto de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Agosto de 1990.**
+Referendado em 16 de Agosto de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

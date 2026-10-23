@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11200/22452245.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1990-571401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 428acaaa77087e2f33ea25592ce00d285e44472399b3c535b661e9bb73c32b21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc24405061a49e7840e081311428a674b41b4a172e161f509c7dc4ae9dc6eb7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dispensa de Serviço
+- Estatuto
+- Guarda Fiscal
+- Militar
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252976:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:59Z'
   warnings: []
   errors: []
 ---
@@ -101,26 +119,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os militares da Guarda Fiscal podem ser dispensados do serviço da mesma Guarda desde que o requeiram ao comandante-geral.
+Artigo 1.º Os militares da Guarda Fiscal podem ser dispensados do serviço da mesma Guarda desde que o requeiram ao comandante-geral.
 
-###### Art. 2.º O requerimento é deferido logo que haja conhecimento da unidade ou do distrito de recrutamento e mobilização a que o militar terá passagem quando for dispensado.
+Art. 2.º O requerimento é deferido logo que haja conhecimento da unidade ou do distrito de recrutamento e mobilização a que o militar terá passagem quando for dispensado.
 
-###### Art. 3.º Há lugar a indemnização ao Estado pelos encargos investidos na sua formação, relativamente aos militares que requeiram dispensa de serviço durante os cursos de formação de oficiais ou de formação de soldados, ou durante os seis anos subsequentes ao final dos mesmos.
+Art. 3.º Há lugar a indemnização ao Estado pelos encargos investidos na sua formação, relativamente aos militares que requeiram dispensa de serviço durante os cursos de formação de oficiais ou de formação de soldados, ou durante os seis anos subsequentes ao final dos mesmos.
 
-###### Art. 4.º A indemnização referida no artigo anterior é fixada por despacho do Ministro das Finanças, sob proposta do Comando-Geral da Guarda Fiscal.
+Art. 4.º A indemnização referida no artigo anterior é fixada por despacho do Ministro das Finanças, sob proposta do Comando-Geral da Guarda Fiscal.
 
-###### Art. 5.º Os militares dispensados do serviço a seu pedido não podem, em caso algum, ser reintegrados.
+Art. 5.º Os militares dispensados do serviço a seu pedido não podem, em caso algum, ser reintegrados.
 
-###### Art. 6.º É revogado o [Decreto n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto/78-1977-252976), de 28 de Maio.
+Art. 6.º É revogado o [Decreto n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto/78-1977-252976), de 28 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 4 de Maio 1990.**
+Promulgado em 4 de Maio 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Maio de 1990.**
+Referendado em 8 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18552-1961-171490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc4c4c3ba90320d9ee884d23828b7bf6b5251cfdb08ebc077313225a5883495a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37c4e63ae7c4df8d19b18f4dba2244a0165bb5990e1ffb744f14a830a1bef0dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:463597:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:27Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, sob propost
 
 Às Portarias n.os 12341, de 3 de Abril de 1948, relativa à missão geográfica de Moçambique; 13637, de 9 De Agosto de 1951, relativa à missão geográfica de Angola; 14481, de 1 de Agosto de 1953, relativa à missão de pedologia de Angola; 16159, de 6 de Fevereiro de 1957, relativa à missão de estudos das minorias étnicas do ultramar português; 17549, de 23 de Janeiro de 1960, relativa à missão de estudos agronómicos do ultramar, e 17658, de 2 de Abril de 1960, relativa à missão de estudos do rendimento nacional no ultramar, é acrescentado um novo número, com a seguinte redacção:
 
-**O chefe da missão poderá ser autorizado por despacho ministerial a satisfazer encargos na metrópole, no ultramar e no estrangeiro, a proceder, por atribuição de subsídios, ao pagamento de serviços que incidam sobre o material da missão, ou outros que possam eficazmente contribuir para melhorar os resultados dos seus trabalhos.**
+O chefe da missão poderá ser autorizado por despacho ministerial a satisfazer encargos na metrópole, no ultramar e no estrangeiro, a proceder, por atribuição de subsídios, ao pagamento de serviços que incidam sobre o material da missão, ou outros que possam eficazmente contribuir para melhorar os resultados dos seus trabalhos.
 
 Ministério do Ultramar, 26 de Junho de 1961. - Pelo Ministro do Ultramar, Manuel Rafael Amaro da Costa, Subsecretário de Estado do Fomento Ultramarino.
 

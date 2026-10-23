@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18557-1961-171476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62bba16f1391ef7c006154d94edd4af5d73fed04eb8510f181ad5d7a688b4c30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 017cbd2fd0c0268a29ae466bc2c4f2e85d5cf01ed97b526fa8d403497f29dfb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292920:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:32Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 1.º O artigo 10.º passa a ter a seguinte redacção:
 
-###### Art. 10.º As calças de algodão amarelo-torrado para oficiais, aspirantes a oficial e cadetes são de caqui, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
+Art. 10.º As calças de algodão amarelo-torrado para oficiais, aspirantes a oficial e cadetes são de caqui, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
 
 Têm cós de 0,040 m de altura, com sete passadeiras (uma sobre a costura traseira e três de cada lado), com 0,040 m de altura por 0,015 m de largura.
 
@@ -101,7 +113,7 @@ Largura inferior da perna entre 0,230 m e 0,280 m.
 
 2.º O artigo 12.º passa a ter a redacção seguinte:
 
-###### Art. 12.º As calças azuis para oficiais, aspirantes a oficial e cadetes são de pano de lã azul-ferrete, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
+Art. 12.º As calças azuis para oficiais, aspirantes a oficial e cadetes são de pano de lã azul-ferrete, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
 
 Têm cós com passadeiras, como é indicado no artigo 10.º
 
@@ -109,7 +121,7 @@ Largura inferior da perna entre 0,230 m e 0,280 m.
 
 3.º O artigo 14.º passa a ter a seguinte redacção:
 
-###### Art. 14.º As calças de flanela azul para oficiais, aspirantes a oficial e cadetes (figs. 18 e 19) são de flanela de lã azul-ferrete, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com a abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior têm, de cada lado, uma algibeira interior, com a abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos, nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 5.
+Art. 14.º As calças de flanela azul para oficiais, aspirantes a oficial e cadetes (figs. 18 e 19) são de flanela de lã azul-ferrete, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com a abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior têm, de cada lado, uma algibeira interior, com a abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos, nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 5.
 
 Têm cós com passadeiras, como é indicado no artigo 10.º
 
@@ -117,7 +129,7 @@ Largura inferior da perna entre 0,230 m e 0,280 m.
 
 4.º O artigo 42.º passa a ter a redacção seguinte:
 
-###### Art. 42.º A farda para oficiais generais (figs. 38 e 39) é de pano de lã azul-ferrete forrada de cetim preto, com duas ordens divergentes de oito botões cada uma, do padrão n.º 1, da cintura à altura dos ombros, para ter abotoados os quatro botões inferiores. As bandas são viradas e abotoam no penúltimo botão de cima; cada uma das bandas tem três casas fingidas.
+Art. 42.º A farda para oficiais generais (figs. 38 e 39) é de pano de lã azul-ferrete forrada de cetim preto, com duas ordens divergentes de oito botões cada uma, do padrão n.º 1, da cintura à altura dos ombros, para ter abotoados os quatro botões inferiores. As bandas são viradas e abotoam no penúltimo botão de cima; cada uma das bandas tem três casas fingidas.
 
 Gola direita de 0,035 m a 0,050 m de altura, bordada a ouro, conforme a fig. 40, com os cantos rectangulares e fechada por um colchete na parte inferior.
 
@@ -129,13 +141,13 @@ Em cada ombro, para colocação das dragonas, a farda tem duas passadeiras fixas
 
 5.º O artigo 51.º passa a ter a seguinte redacção:
 
-###### Art. 51.º A jaqueta branca para oficiais é de cotim branco, de talhe igual ao da jaqueta azul, tendo em cada ombro duas pequenas passadeiras fixas, do mesmo tecido, para a colocação das platinas.
+Art. 51.º A jaqueta branca para oficiais é de cotim branco, de talhe igual ao da jaqueta azul, tendo em cada ombro duas pequenas passadeiras fixas, do mesmo tecido, para a colocação das platinas.
 
 Mangas sem botões e com canhão fechado de 0,075 m de altura.
 
 6.º O artigo 75.º passa a ter a redacção seguinte:
 
-###### Art. 75.º Os distintivos correspondentes a cada posto de oficial e a aspirante a oficial são os que a seguir se indicam e usam-se:
+Art. 75.º Os distintivos correspondentes a cada posto de oficial e a aspirante a oficial são os que a seguir se indicam e usam-se:
 
 1) Nas mangas da farda, sobrecasaca, jaqueta azul e jaquetão:
 
@@ -213,7 +225,7 @@ e) Oficiais superiores, subalternos e aspirante a oficial - os galões indicados
 
 7.º O artigo 79.º passa a ter a redacção seguinte:
 
-###### Art. 79.º Os distintivos de especialização para oficiais são os seguintes:
+Art. 79.º Os distintivos de especialização para oficiais são os seguintes:
 
 1) Mergulhador sapador (fig. 91). - Um capacete de mergulhador com 0,04 m de altura por 0,035 m de largura.
 
@@ -223,7 +235,7 @@ e) Oficiais superiores, subalternos e aspirante a oficial - os galões indicados
 
 8.º O artigo 96.º passa a ter a redacção seguinte:
 
-###### Art. 96.º O Chefe do Estado, quando for oficial da Armada, usará:
+Art. 96.º O Chefe do Estado, quando for oficial da Armada, usará:
 
 1) Sendo oficial general - os artigos de uniforme correspondentes ao seu posto, com as seguintes alterações:
 
@@ -241,7 +253,7 @@ c) Nas platinas - seis estrelas do padrão n.º 2, de ouro fosco, dispostas em d
 
 9.º O artigo 97.º passa a ter a redacção seguinte:
 
-###### Art. 97.º O Ministro da Defesa Nacional, quando for oficial da Armada, usará os artigos de uniforme correspondentes ao seu posto, com as seguintes alterações:
+Art. 97.º O Ministro da Defesa Nacional, quando for oficial da Armada, usará os artigos de uniforme correspondentes ao seu posto, com as seguintes alterações:
 
 1) Sendo oficial general:
 
@@ -261,7 +273,7 @@ d) Boné e chapéu armado iguais aos dos oficiais generais.
 
 10.º O artigo 99.º passa a ter a redacção seguinte:
 
-###### Art. 99.º O vice-almirante exercendo as funções de chefe do Estado-Maior General das Forças Armadas ou as de presidente do Supremo Tribunal Militar usará os uniformes correspondentes ao seu posto, com as seguintes alterações:
+Art. 99.º O vice-almirante exercendo as funções de chefe do Estado-Maior General das Forças Armadas ou as de presidente do Supremo Tribunal Militar usará os uniformes correspondentes ao seu posto, com as seguintes alterações:
 
 1) Nos uniformes em que os galões são usados nas mangas - uma estrela do padrão n.º 1, de ouro fosco, colocada superiormente ao óculo do galão;
 

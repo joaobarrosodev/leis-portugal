@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1990-571248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b948c0569107c9dfafc120ce021f8f484722605ef4d247e96519976d98b53b0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da2215eb08ecbbdcd342e8c966c49d1a1f06b8b76d1322d96bbe3d364f87d91c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto
+- Fundação
+- Fundação Arpad Szènes-vieira da Silva
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 16
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:54Z'
   warnings: []
   errors: []
 ---
@@ -104,35 +116,37 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É instituída pelo Estado, pela Câmara Municipal de Lisboa, pelo Dr. José de Azeredo Perdigão, pela Fundação Luso-Americana para o Desenvolvimento e pela Fundação Cidade de Lisboa uma fundação denominada Fundação Arpad Szènes-Vieira da Silva.
+Artigo 1.º É instituída pelo Estado, pela Câmara Municipal de Lisboa, pelo Dr. José de Azeredo Perdigão, pela Fundação Luso-Americana para o Desenvolvimento e pela Fundação Cidade de Lisboa uma fundação denominada Fundação Arpad Szènes-Vieira da Silva.
 
-###### Art. 2.º A Fundação é uma instituição de direito privado e utilidade pública, dotada de personalidade jurídica, durará por tempo ilimitado, tem a sua sede em Lisboa, no edifício da antiga Fábrica de Tecidos de Seda, e reger-se-á pelos estatutos em anexo ao presente diploma, que dele fazem parte integrante, e, subsidiariamente, pela demais legislação aplicável.
+Art. 2.º A Fundação é uma instituição de direito privado e utilidade pública, dotada de personalidade jurídica, durará por tempo ilimitado, tem a sua sede em Lisboa, no edifício da antiga Fábrica de Tecidos de Seda, e reger-se-á pelos estatutos em anexo ao presente diploma, que dele fazem parte integrante, e, subsidiariamente, pela demais legislação aplicável.
 
-###### Art. 3.º A Fundação tem por fim promover a divulgação e o estudo das obras artísticas de Maria Helena Vieira da Silva e de Arpad Szènes, para o que deverá proceder à criação de um museu e de um centro de documentação e de investigação dedicados ao trabalho destes dois artistas.
+Art. 3.º A Fundação tem por fim promover a divulgação e o estudo das obras artísticas de Maria Helena Vieira da Silva e de Arpad Szènes, para o que deverá proceder à criação de um museu e de um centro de documentação e de investigação dedicados ao trabalho destes dois artistas.
 
-###### Art. 4.º O património da Fundação é constituído pelos bens indicados no artigo 3.º dos respectivos estatutos.
+Art. 4.º O património da Fundação é constituído pelos bens indicados no artigo 3.º dos respectivos estatutos.
 
-###### Art. 5.º - 1 - O Estado assegurará, anualmente, um subsídio destinado a despesas ordinárias de manutenção e conservação do museu e do centro.
+Art. 5.º - 1 - O Estado assegurará, anualmente, um subsídio destinado a despesas ordinárias de manutenção e conservação do museu e do centro.
 
 2 - A atribuição do subsídio previsto no número anterior está sujeita a visto do Tribunal de Contas.
 
-###### Art. 6.º Os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e no n.º 2 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), da mesma data.
+Art. 6.º Os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e no n.º 2 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), da mesma data.
 
-###### Art. 7.º O presente diploma constitui título bastante para efeitos de registo predial e de inscrição matricial do imóvel da sede da Fundação.
+Art. 7.º O presente diploma constitui título bastante para efeitos de registo predial e de inscrição matricial do imóvel da sede da Fundação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 10 de Abril de 1990.**
+Promulgado em 10 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1990.**
+Referendado em 11 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -320,4 +334,4 @@ b) Verificar a regularidade dos livros e registos contabilísticos, bem como da 
 
 2 - No caso de extinção da Fundação, o património desta reverterá para o Estado, à excepção do prédio identificado no artigo 3.º, n.º 1, alínea a), que reverterá para a Câmara Municipal de Lisboa.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18515-1961-172152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 040b58cb878144274c9187157de32c1dde1993bb8c60fd9b5a1231e060eac4f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfef64b06818917cbb844fc8fef59efc553665fc95ef93a19266e86b76e76f43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561213:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:39Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 1.º O artigo 6.º passa a ter a seguinte redacção:
 
-###### Art. 6.º A blusa azul para praças de marinhagem (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete de 0,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
+Art. 6.º A blusa azul para praças de marinhagem (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete de 0,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
 
 A manga é de uma só costura, com canhão sobreposto no próprio tecido de 0,050 m de altura, pregado com quatro pespontos paralelos, formando dois bicos nos quais o canhão atinge a altura máxima de 0,080 m. O canhão tem uma abertura no punho, que fecha por meio de dois botões pretos do padrão n.º 7 e é interiormente forrado com zuarte igual ao da algibeira.
 
@@ -104,7 +116,7 @@ Para os cabos reunindo todas as condições de promoção (fig. 47) o intervalo 
 
 2.º O artigo 7.º passa a ter a seguinte redacção:
 
-###### Art. 7.º A blusa branca para as praças da marinhagem é de cotim de algodão branco liso, com o talhe da azul. A parte inferior dos canhões das mangas e do corpo da blusa têm um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto a branco.
+Art. 7.º A blusa branca para as praças da marinhagem é de cotim de algodão branco liso, com o talhe da azul. A parte inferior dos canhões das mangas e do corpo da blusa têm um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto a branco.
 
 A fita de seda para prender a manta é branca, sendo igualmente brancos os ilhós onde ela enfia e os botões de maça dos canhões.
 
@@ -114,7 +126,7 @@ Em ambas as mangas, na parte exterior, a blusa leva as divisas correspondentes �
 
 3.º O artigo 46.º passa a ter a seguinte redacção:
 
-###### Art. 46.º Os distintivos de classe são os seguintes:
+Art. 46.º Os distintivos de classe são os seguintes:
 
 I) Dos artilheiros (fig. 51). - Dois corpos de peça de artilharia com 0,050 m de comprimento cada, cruzados em ângulo recto e com as boladas para cima, formando uma figura de 0,040 m x 0,040 m.
 
@@ -176,7 +188,7 @@ XX) Dos fuzileiros (fig. 76). - Duas pistolas-metralhadoras completas com cano c
 
 4.º O artigo 47.º passa a ter a seguinte redacção:
 
-###### Art. 47.º Os distintivos das especializações são as seguintes:
+Art. 47.º Os distintivos das especializações são as seguintes:
 
 1) Apontadores (fig. 78). - Um círculo com 0,024 m de diâmetro representando o campo de uma ocular com os respectivos retículos.
 
@@ -194,13 +206,13 @@ XX) Dos fuzileiros (fig. 76). - Duas pistolas-metralhadoras completas com cano c
 
 5.º O artigo 55.º passa a ter a seguinte redacção:
 
-###### Art. 55.º O dólman branco para sargentos-ajudantes (figs. 95 e 96) é igual ao determinado para os oficiais, tendo em cada ombro duas pequenas passadeiras do mesmo tecido para fixação da platina rígida.
+Art. 55.º O dólman branco para sargentos-ajudantes (figs. 95 e 96) é igual ao determinado para os oficiais, tendo em cada ombro duas pequenas passadeiras do mesmo tecido para fixação da platina rígida.
 
 No dólman branco não se usam distintivos de especialização em apontadores, telemetristas, estereotelemetristas, preditores, fuzileiros especiais e monitores. Para sargentos-ajudantes especializados em submersíveis, mecânicos e artífices de aviação o dólman leva no peito, do lado direito, o distintivo da especialização confeccionado em metal dourado.
 
 6.º O artigo 56.º passa a ter a seguinte redacção:
 
-###### Art. 56.º O dólman branco para primeiros-sargentos e segundos-sargentos, praças da música e da taifa (figs. 97 e 98) é de cotim de algodão branco, liso, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
+Art. 56.º O dólman branco para primeiros-sargentos e segundos-sargentos, praças da música e da taifa (figs. 97 e 98) é de cotim de algodão branco, liso, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
 
 Abotoa à frente com uma ordem de seis botões do padrão n.º 1 para os primeiros-sargentos e segundos-sargentos e do padrão n.º 3 para as praças da música e da taifa; o botão superior fica distanciado 0,030 m da gola.
 
@@ -214,7 +226,7 @@ Nos ombros têm platinas fixas do mesmo cotim com 0,040 m de largura, que abotoa
 
 7.º O artigo 63.º passa a ter a seguinte redacção:
 
-###### Art. 63.º O jaquetão azul para sargentos-ajudantes (figs. 103 e 104) é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões grandes de metal iguais aos dos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados. Quando abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
+Art. 63.º O jaquetão azul para sargentos-ajudantes (figs. 103 e 104) é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões grandes de metal iguais aos dos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados. Quando abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
 
 Mangas fechadas, sem canhões, mas com dois botões pequenos de metal iguais aos dos oficiais, junto à costura.
 
@@ -228,7 +240,7 @@ Para sargentos especializados em apontadores, telemetristas, estereotelemetrista
 
 8.º O artigo 145.º passa a ter a seguinte redacção:
 
-###### Art. 145.º Os artigos deste grupo a usar pelos motociclistas são os que a seguir se indicam:
+Art. 145.º Os artigos deste grupo a usar pelos motociclistas são os que a seguir se indicam:
 
 1.) Botas de cano alto (fig. 154). - De atanado, pretas, sem biqueira, abertas longitudinalmente, com fole interior de cabedal da mesma cor e apertando do lado exterior da perna com três presilhas.
 
@@ -300,6 +312,6 @@ c) Tempo frio e seco. - Os artigos descritos nos n.os 1), 3), 4), 5), 7) e 8), c
 
 Ministério da Marinha, 6 de Junho de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/06/13100/06730677.pdf))](https://files.diariodarepublica.pt/1s/1961/06/13100/06730677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/06/13100/06730677.pdf)
 
 Ministério da Marinha, 6 de Junho de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

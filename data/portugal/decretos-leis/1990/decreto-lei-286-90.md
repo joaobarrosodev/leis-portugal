@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21700/38523855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1990-557597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eabd8175baf75f91cd1c5a649ec63c3d84bb83a2dc61416d5c1c34631adf178
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74e09fd325cddfce54aca90ee6bbe151a6477a3ee080e4d504f30468fb3b69df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Capital Social
+- Diário de Notícias
+- Estatuto
+- Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430981:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:05Z'
   warnings: []
   errors: []
 ---
@@ -98,33 +117,33 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - A Empresa Pública dos Jornais Notícias e Capital (EPNC), criada pelo [Decreto-Lei n.º 639/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/639-1976-430981), de 29 de Julho, que se passou a designar Diário de Notícias, E. P., pelo [Decreto-Lei n.º 448/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1988-356516), de 10 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de Diário de Notícias, S. A.
+Artigo 1.º - A Empresa Pública dos Jornais Notícias e Capital (EPNC), criada pelo [Decreto-Lei n.º 639/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/639-1976-430981), de 29 de Julho, que se passou a designar Diário de Notícias, E. P., pelo [Decreto-Lei n.º 448/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1988-356516), de 10 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de Diário de Notícias, S. A.
 
 2 - O Diário de Notícias, S. A., rege-se pelo presente diploma, pelos estatutos anexos, pelas disposições legais reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 2.º - 1 - O Diário de Notícias, S. A., sucede, automática e globalmente, à empresa pública Diário de Notícias, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - O Diário de Notícias, S. A., sucede, automática e globalmente, à empresa pública Diário de Notícias, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação da transformação prevista no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da sociedade.
 
-###### Art. 3.º - 1 - A transformação efectuada pelo artigo 1.º do presente diploma não afecta os direitos e obrigações dos trabalhadores e pensionistas da empresa pública Diário de Notícias, E. P., que já detinham tal estatuto à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - A transformação efectuada pelo artigo 1.º do presente diploma não afecta os direitos e obrigações dos trabalhadores e pensionistas da empresa pública Diário de Notícias, E. P., que já detinham tal estatuto à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, de autarquias locais, de institutos públicos ou de empresas públicas podem ser autorizados a exercer funções no Diário de Notícias, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
-###### Art. 4.º - 1 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da comunicação social.
+Art. 4.º - 1 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da comunicação social.
 
 2 - Enquanto a totalidade das acções do Diário de Notícias, S. A., pertencer ao Estado, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante do Estado exare a deliberação no livro de actas da sociedade.
 
-###### Art. 5.º O capital social do Diário de Notícias, S. A., é de 2000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+Art. 5.º O capital social do Diário de Notícias, S. A., é de 2000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
-###### Art. 6.º - 1 - São aprovados os estatutos do Diário de Notícias, S. A., anexos a este diploma.
+Art. 6.º - 1 - São aprovados os estatutos do Diário de Notícias, S. A., anexos a este diploma.
 
 2 - As futuras alterações aos estatutos serão feitas nos termos da lei comercial aplicável.
 
-###### Art. 7.º - 1 - Fica desde já convocada a assembleia geral do Diário de Notícias, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data de entrada em vigor do presente diploma, ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e deliberar sobre a respectiva remuneração.
+Art. 7.º - 1 - Fica desde já convocada a assembleia geral do Diário de Notícias, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data de entrada em vigor do presente diploma, ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e deliberar sobre a respectiva remuneração.
 
 2 - Os membros em exercício do conselho de gerência e da comissão de fiscalização do Diário de Notícias, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos do Diário de Notícias, S. A., com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
-###### Art. 8.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, e enquanto a sociedade for de capitais exclusiva ou maioritariamente públicos, o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 8.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, e enquanto a sociedade for de capitais exclusiva ou maioritariamente públicos, o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas de exercício;
 
@@ -132,41 +151,41 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente, aos membros do Governo referidos no número anterior, um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação as previsões.
 
-###### Art. 9.º A alienação das acções representativias do capital social do Diário de Notícias, S. A., será determinada nos termos da lei.
+Art. 9.º A alienação das acções representativias do capital social do Diário de Notícias, S. A., será determinada nos termos da lei.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - António Fernando Couto dos Santos.
 
-**Promulgado em 7 de Setembro de 1990.**
+Promulgado em 7 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos do Diário de Notícias S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação de Diário de Notícias, S. A.
+Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação de Diário de Notícias, S. A.
 
 2 - A sociedade rege-se pelo Decreto-Lei n.º 286/90, de 19 de Setembro, pelos presentes estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 2.º - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa, na Avenida da Liberdade, 266, podendo, por deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere útil à prossecução dos seus fins.
+Art. 2.º - A duração da sociedade é por tempo indeterminado e a sua sede é em Lisboa, na Avenida da Liberdade, 266, podendo, por deliberação do conselho de administração, estabelecer, em qualquer ponto do território nacional ou no estrangeiro, agências, delegações ou qualquer outra forma de representação que considere útil à prossecução dos seus fins.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto principal a edição de publicações jornalísticas, periódicas ou não.
+Art. 3.º - 1 - A sociedade tem por objecto principal a edição de publicações jornalísticas, periódicas ou não.
 
 2 - A sociedade pode ainda dedicar-se a quaisquer outras actividades complementares ou conexas do seu objecto principal.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 4.º - 1 - O capital da sociedade é de 2000000000$00 e encontra-se totalmente realizado.
+Art. 4.º - 1 - O capital da sociedade é de 2000000000$00 e encontra-se totalmente realizado.
 
 2 - O capital é dividido em acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.
+Art. 5.º - 1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.
 
 2 - As acções serão emitidas como acções escriturais.
 
@@ -174,7 +193,7 @@ Estatutos do Diário de Notícias S. A.
 
 4 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a definir pela assembleia geral.
 
-###### Art. 6.º - 1 - O aumento de capital social depende de deliberação da assembleia geral.
+Art. 6.º - 1 - O aumento de capital social depende de deliberação da assembleia geral.
 
 2 - Na subscrição em dinheiro das novas acções resultantes de aumento de capital, têm preferência os accionistas na proporção das respectivas posições.
 
@@ -182,7 +201,7 @@ Estatutos do Diário de Notícias S. A.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º São órgãos da sociedade:
+Art. 7.º São órgãos da sociedade:
 
 a) A assembleia geral;
 
@@ -190,7 +209,7 @@ b) O conselho de administração;
 
 c) O conselho fiscal.
 
-###### Art. 8.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
+Art. 8.º - 1 - A assembleia geral é constituída pelos accionistas com direito a voto.
 
 2 - A cada 1000 acções corresponde um voto na assembleia geral.
 
@@ -204,7 +223,7 @@ c) O conselho fiscal.
 
 7 - Não são consideradas, para efeitos de participação em assembleias gerais, as transmissões de acções efectuadas após a recepção da convocatória para a reunião de cada assembleia, em primeira convocação.
 
-###### Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência.
+Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência.
 
 2 - Compete, em especial, à assembleia geral:
 
@@ -222,13 +241,13 @@ f) Autorizar a aquisição e alienação de imóveis, bem como a realização de
 
 g) Exercer as demais competências que lhe sejam cometidas por lei ou pelos accionistas.
 
-###### Art. 10.º - 1 - A mesa da assembleia geral é composta por um presidente e dois secretários, eleitos por períodos de três anos, renováveis.
+Art. 10.º - 1 - A mesa da assembleia geral é composta por um presidente e dois secretários, eleitos por períodos de três anos, renováveis.
 
 2 - As reuniões da assembleia geral serão convocadas e dirigidas pelo presidente da respectiva mesa, nos termos da lei.
 
 3 - As assembleias gerais serão convocadas por cartas registadas, dirigidas a todos os accionistas, sendo dispensada a publicação das convocatórias.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá, ordinariamente, uma vez por ano e, extraordinariamente, a solicitação dos conselhos de administração e fiscal ou de accionistas que representem, pelo menos, 10% do capital social.
+Art. 11.º - 1 - A assembleia geral reunirá, ordinariamente, uma vez por ano e, extraordinariamente, a solicitação dos conselhos de administração e fiscal ou de accionistas que representem, pelo menos, 10% do capital social.
 
 2 - Para que a assembleia geral possa funcionar validamente, em primeira convocatória, é necessário que nela esteja representado, pelo menos, um quinto do capital social.
 
@@ -238,13 +257,13 @@ g) Exercer as demais competências que lhe sejam cometidas por lei ou pelos acci
 
 5 - De todas as reuniões será lavrada acta.
 
-###### Art. 12.º - 1 - O conselho de administração é composto por três membros, nomeados por períodos de três anos, renováveis.
+Art. 12.º - 1 - O conselho de administração é composto por três membros, nomeados por períodos de três anos, renováveis.
 
 2 - Os membros do conselho de administração são eleitos pela assembleia geral, que igualmente procederá à escolha do presidente do órgão, de entre os administradores eleitos.
 
 3 - O membro do conselho de administração que presidir a este órgão exercerá as funções de administrador-delegado a tempo inteiro.
 
-###### Art. 13.º Compete ao conselho de administração:
+Art. 13.º Compete ao conselho de administração:
 
 a) Gerir a sociedade e praticar todos os actos e operações necessários ao cumprimento do seu objecto social;
 
@@ -264,9 +283,9 @@ h) Executar as deliberações da assembleia geral;
 
 i) Exercer as demais competências atribuídas por lei ou pelos accionistas.
 
-###### Art. 14.º Compete ao administrador-delegado convocar as reuniões do conselho e dirigir os respectivos trabalhos, velar pela execução das suas deliberações e assegurar os actos de gestão corrente.
+Art. 14.º Compete ao administrador-delegado convocar as reuniões do conselho e dirigir os respectivos trabalhos, velar pela execução das suas deliberações e assegurar os actos de gestão corrente.
 
-###### Art. 15.º - 1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação de um administrador ou do presidente do conselho fiscal.
+Art. 15.º - 1 - O conselho de administração reúne obrigatoriamente uma vez por mês e sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação de um administrador ou do presidente do conselho fiscal.
 
 2 - O conselho de administração só poderá funcionar com a presença da maioria dos seus membros.
 
@@ -274,15 +293,15 @@ i) Exercer as demais competências atribuídas por lei ou pelos accionistas.
 
 4 - De todas as reuniões será lavrada acta.
 
-###### Art. 16.º - 1 - A sociedade obriga-se pela assinatura de dois administradores, pela assinatura de um administrador e de um mandatário ou de dois mandatários constituídos nos termos dos presentes estatutos.
+Art. 16.º - 1 - A sociedade obriga-se pela assinatura de dois administradores, pela assinatura de um administrador e de um mandatário ou de dois mandatários constituídos nos termos dos presentes estatutos.
 
 2 - Em assuntos de mero expediente bastará a assinatura do administrador-delegado.
 
-###### Art. 17.º - 1 - O conselho fiscal é composto por três membros, eleitos por períodos de três anos, renováveis, sendo um presidente e dois vogais, um dos quais será, obrigatoriamente, revisor oficial de contas.
+Art. 17.º - 1 - O conselho fiscal é composto por três membros, eleitos por períodos de três anos, renováveis, sendo um presidente e dois vogais, um dos quais será, obrigatoriamente, revisor oficial de contas.
 
 2 - O presidente do conselho fiscal será designado pela assembleia geral que proceder à eleição dos membros do conselho.
 
-###### Art. 18.º - Compete ao conselho fiscal:
+Art. 18.º - Compete ao conselho fiscal:
 
 a) Emitir parecer sobre o relatório e contas anuais, elaborados pelo conselho de administração;
 
@@ -292,7 +311,7 @@ c) Submeter à apreciação do conselho de administração qualquer assunto que 
 
 d) Praticar todos os demais actos que lhe sejam cometidos por lei ou pelos presentes estatutos.
 
-###### Art. 19.º - 1 - O conselho fiscal reúne obrigatoriamente de três em três meses e sempre que o seu presidente, por sua iniciativa ou a solicitação dos dois vogais ou do presidente do conselho de administração, o convoque.
+Art. 19.º - 1 - O conselho fiscal reúne obrigatoriamente de três em três meses e sempre que o seu presidente, por sua iniciativa ou a solicitação dos dois vogais ou do presidente do conselho de administração, o convoque.
 
 2 - O conselho fiscal só poderá funcionar com a presença da maioria dos seus membros e as suas deliberações são tomadas por maioria dos votos expressos.
 
@@ -300,7 +319,7 @@ d) Praticar todos os demais actos que lhe sejam cometidos por lei ou pelos prese
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 20.º Os lucros de exercício, apurados em conformidade com a lei, serão aplicados, sucessivamente, para:
+Art. 20.º Os lucros de exercício, apurados em conformidade com a lei, serão aplicados, sucessivamente, para:
 
 a) Cobertura dos prejuízos de exercícios anteriores;
 
@@ -310,11 +329,11 @@ c) Constituição, reforço ou reintegração de outras reservas, de acordo com 
 
 d) O saldo, depois da aplicação a quaisquer outros fins determinados pela assembleia geral, destinar-se-á a dividendos.
 
-###### Art. 21.º O ano social será o ano civil.
+Art. 21.º O ano social será o ano civil.
 
-###### Art. 22.º Os membros dos órgãos sociais são dispensados de prestação de caução pelo exercício dos seus cargos.
+Art. 22.º Os membros dos órgãos sociais são dispensados de prestação de caução pelo exercício dos seus cargos.
 
-###### Art. 23.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 23.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei comercial e pelas deliberações da assembleia geral.
 

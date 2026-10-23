@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02000/03380341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4d1f15829143661a19274b72ceb79823e214f9a6fd60f25ec1b3766d5163a8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 582857e9856333552b370aba6cea0614896c2d59c94cc07fa083cc27bcdd68c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Duração do Trabalho
+- Pessoal de Enfermagem
+- Regime de Pessoal
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:554800:por
+  label: "Determinado que a enfermeira do quadro de pessoal da Direcção-Geral da Aviação Civil transite para a nova estrutura\
+    \ remuneratória do pessoal da carreira de enfermagem, grau 1, escalão 4, índice 115, de acordo com o anexo II do presente\
+    \ diploma, pela PORT.888/90.22.09.1990.PCM, DR.IS [220] de 22.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-1990-554800
+  date: '1990-09-22'
+- type: amended_by
+  target: pt:dre:146916:por
+  label: "Alterados os art.s 2º e 10º e substituídos os anexos II e III mencionados no art. 9º, pelo DEC LEI.38/91.18.01.1991.MS,\
+    \ DR.IS-A [15-Supl] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1991-146916
+  date: '1991-01-18'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO, COM EXCEPÇÃO DO ART 10, PELO DEC LEI 437/91 DE 18-NOV DR.IS-A [257] NA REDACÇÃO DADA PELO DEC LEI 38/91\
+    \ DE 18-JAN\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-11-08'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:15Z'
   warnings: []
   errors: []
 ---
@@ -201,16 +248,16 @@ São revogados os artigos 17.º do [Decreto-Lei n.º 178/85](https://diariodarep
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Bizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 11 de Janeiro de 1990.**
+Promulgado em 11 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Janeiro de 1990.**
+Referendado em 14 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do ANEXO I ao ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/02000/03380341.pdf))](https://files.diariodarepublica.pt/1s/1990/01/02000/03380341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02000/03380341.pdf)

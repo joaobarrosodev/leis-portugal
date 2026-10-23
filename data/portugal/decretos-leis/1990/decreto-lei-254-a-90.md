@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 180/1990, 1º Suplemento, Série I de 1990-08-06
   number: '180'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3208-(2) a 3208-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/18001/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-a-1990-607498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d1416c2322ec3b4439326016d77bec2a1597bf93e84d72bb3e638eb8a6b9b6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d14b567d878610f8c7034719bc8303533c9057d42ced2bec2c2883c0e8098a2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Limite de Velocidade
+- Lisboa
+- Multa
+- Ponte 25 de Abril
+- Sinalização
+- Trânsito
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474114:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:25Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +117,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º e 12.º do [Decreto n.º 47123](https://diariodarepublica.pt/dr/detalhe/decreto/47123-1966-474114), de 30 de Julho de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º e 12.º do [Decreto n.º 47123](https://diariodarepublica.pt/dr/detalhe/decreto/47123-1966-474114), de 30 de Julho de 1966, passam a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - Os veículos automóveis em circulação na Ponte e no viaduto ficam sujeitos aos limites de velocidade instantânea, máxima e mínima, indicados pela sinalização colocada ao longo do percurso.
+Art. 11.º - 1 - Os veículos automóveis em circulação na Ponte e no viaduto ficam sujeitos aos limites de velocidade instantânea, máxima e mínima, indicados pela sinalização colocada ao longo do percurso.
 
 2 - Nos casos de emergência, a entidade encarregada da exploração da Ponte poderá tomar imediatamente as medidas que entenda necessárias, promovendo a sinalização adequada. Se estas medidas se tiverem de manter por mais de oito dias, torna-se necessário a sua aprovação pela Direcção-Geral de Viação.
 
@@ -107,7 +127,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A inobservância do limite mínimo de velocidade indicado pela sinalização referida no n.º 1 deste artigo será punida com multa de 7500$00 37500$00.
 
-###### Art. 12.º - 1 - Sobre a Ponte e o viaduto, os veículos automóveis pesados e os motociclos são obrigados a circular pela via de tráfego mais à direita do condutor, salvo em casos de imobilização, por razões estranhas ao congestionamento de trânsito, do veículo que os preceda.
+Art. 12.º - 1 - Sobre a Ponte e o viaduto, os veículos automóveis pesados e os motociclos são obrigados a circular pela via de tráfego mais à direita do condutor, salvo em casos de imobilização, por razões estranhas ao congestionamento de trânsito, do veículo que os preceda.
 
 2 - Os veículos referidos no número anterior ficam proibidos de ultrapassar na Ponte e no viaduto.
 
@@ -115,7 +135,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A contravenção do disposto nos números anteriores deste artigo é punida com multa de 25000$00 a 125000$00 e considerada manobra perigosa.
 
-###### Art. 2.º São aprovados os sinais de trânsito constantes do anexo ao presente diploma, que dele faz parte integrante, aos quais se aplicam as disposições do capítulo I do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, e que ficam a fazer parte integrante do quadro II àquele Regulamento:
+Art. 2.º São aprovados os sinais de trânsito constantes do anexo ao presente diploma, que dele faz parte integrante, aos quais se aplicam as disposições do capítulo I do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, e que ficam a fazer parte integrante do quadro II àquele Regulamento:
 
 a) B24 - Trânsito proibido a veículos com reboque: esta proibição pode restringir-se aos veículos cujo reboque tenha um peso total superior ao que se indicar, a branco, sobre a silhueta do mesmo, ou em painel adicional;
 
@@ -123,24 +143,24 @@ b) B25 - Trânsito proibido a veículos de mercadorias e a veículos com reboque
 
 c) B26 - Proibição de ultrapassar para os motociclos: indicação de que é proibida aos condutores de motociclos a ultrapassagem de qualquer veículo.
 
-###### Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1990.
 
 Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Julho de 1990.**
+Promulgado em 31 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Agosto de 1990.**
+Referendado em 6 de Agosto de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo ao Decreto-Lei n.º 254-A/90
+Anexo ao Decreto-Lei n.º 254-A/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18001/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18001/00020003.pdf)
 
 A cor e dimensões destes sinais obedecem ao disposto no n.º 3 do artigo 4.º do Regulamento do Código da Estrada, sendo a ordem exterior de cor branca e com a espessura de 2 cm.

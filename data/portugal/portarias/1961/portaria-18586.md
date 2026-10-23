@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18586-1961-172917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4aebb6cb533eca0674b1568689c5bb0fedaadc28b4a8b4271b856e4e07bbd6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfbb5c0a5d66cb7aa6e065e84506c3f3f6eac037a9fe0f7e8f024b1a22b36480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:07Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 10299233$76, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar com estas quantias as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 275.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
+Capítulo 12.º, artigo 275.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
 
 1) «Conhecimento científico do território»:
 
@@ -129,7 +141,7 @@ a) «Mecanização da conservação de estradas e melhoramentos de oficinas de o
 
 2) Um de 10006210$54, tomando como contrapartida o imposto das sobrevalorizações, destinado a reforçar pela forma que se indica estas verbas da mesma tabela de despesa:
 
-### Capítulo 12.º. artigo 275.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
+Capítulo 12.º. artigo 275.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
 
 2) «Aproveitamento de recursos»:
 
@@ -159,7 +171,7 @@ a) 2.ª «Urbanização, incluindo a construção de edifícios públicos ou de 
 
 3) Um de 18512851$48, tomando como contrapartida igual quantia a sair do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39648-1954-635201), de 12 de Maio de 1954, consignado ao reforço, com as importâncias que se indicam, das seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 275.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
+Capítulo 12.º, artigo 275.º «Plano de Fomento - Programa de execução da 2.ª fase (1961)»:
 
 2) «Aproveitamento de recursos»:
 

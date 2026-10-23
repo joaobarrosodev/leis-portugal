@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1990-565866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4d52d962a0c665880248402080cf89d39a29f98205f39ca3038c8d64ff6a49e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe22583596d0bfe28d414d325f0e3cfb41cb8ec4c4f47c8aa14d5f2809649154
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Domínio Público do Estado
+- Gabinete da Área de Sines
+- Junta Autónoma das Estradas
+- Rede de Estradas
+- Transferência Patrimonial
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:11Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +98,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É transmitida para o Estado e integrada no domínio público a propriedade do troço da via rápida R-52, na extensão de 4249,15 m, entre os perfis 0 e 198, incluindo as respectivas obras de arte.
+Artigo 1.º É transmitida para o Estado e integrada no domínio público a propriedade do troço da via rápida R-52, na extensão de 4249,15 m, entre os perfis 0 e 198, incluindo as respectivas obras de arte.
 
-###### Art. 2.º O referido troço da via rápida R-52, definido no esboço corográfico anexo, fica sob a jurisdição da Junta Autónoma de Estradas.
+Art. 2.º O referido troço da via rápida R-52, definido no esboço corográfico anexo, fica sob a jurisdição da Junta Autónoma de Estradas.
 
-###### Art. 3.º O troço de estrada a que se referem os artigos anteriores tem o valor de 153225531$00 e é integrado no domínio público do Estado, sem quaisquer ónus ou encargos.
+Art. 3.º O troço de estrada a que se referem os artigos anteriores tem o valor de 153225531$00 e é integrado no domínio público do Estado, sem quaisquer ónus ou encargos.
 
-###### Art. 4.º O disposto nos artigos 1.º e 2.º constitui título bastante de transferência para todos os efeitos legais.
+Art. 4.º O disposto nos artigos 1.º e 2.º constitui título bastante de transferência para todos os efeitos legais.
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 1990 - Aníbal António Cavaco Silva - José Oliveira Costa - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/25100/44754475.pdf))](https://files.diariodarepublica.pt/1s/1990/10/25100/44754475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/25100/44754475.pdf)

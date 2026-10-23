@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18566-1961-172898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bbab9b53aa4556e44896f613b4b7a29fe83855b5364162d0767d9fa00ae41b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 805465b066912c01b38d2b6383e23dfac421ee5722868461599a83ae3e3b101a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561228:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:42Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +121,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 12.º — II Plano de Fomento - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958
 
-###### Artigo 1457.º «Conhecimento científico do território»:
+Artigo 1457.º «Conhecimento científico do território»:
 
 1) 1.ª «Revisão da cartografia geral» ... 768025$35
 
@@ -109,7 +133,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 5) 1.ª «Estudos económicos com objectivo ao Plano de Fomento» ... 483500$00
 
-###### Artigo 1458.º «Aproveitamento de recursos»:
+Artigo 1458.º «Aproveitamento de recursos»:
 
 1) «Agricultura, silvicultura e pecuária»:
 
@@ -121,7 +145,7 @@ d) 1.ª «Obras hidroagrícolas da Cela» ... 2254268$31
 
 g) 1.ª «Estudos das cabeceiras do rio Cunene para regularização da albufeira da Matala e conclusão dos estudos da 2.ª fase do Cunene (Mulondo-Quiteve)» ... 2599148$50
 
-###### Artigo 1459.º «Povoamento»:
+Artigo 1459.º «Povoamento»:
 
 1) 1.ª «Continuação da colonização do Cunene (1.ª fase - Matala)» ... $60
 
@@ -131,7 +155,7 @@ g) 1.ª «Estudos das cabeceiras do rio Cunene para regularização da albufeira
 
 5) «Colonização baseada na pesca na baía dos Tigres» ... 1000000$00
 
-###### Artigo 1460.º «Comunicações e transportes»:
+Artigo 1460.º «Comunicações e transportes»:
 
 1) «Execução do plano rodoviário» ... 549305$24
 
@@ -163,15 +187,15 @@ e) «Melhoramento e apetrechamento de portos secundários» ... 3375002$87
 
 7) «Telecomunicações» ... 4410437$87
 
-###### Artigo 1461.º «Instrução e saúde»:
+Artigo 1461.º «Instrução e saúde»:
 
 1) 1.ª «Construção e apetrechamento de instalações escolares» ... 15936740$42
 
-###### Artigo 1462.º «Melhoramentos locais»:
+Artigo 1462.º «Melhoramentos locais»:
 
 1) «Participação no estudo, projecto e execução de obras de interesse local» ... 938186$02
 
-###### Artigo 1463.º «Equipamento dos serviços públicos»:
+Artigo 1463.º «Equipamento dos serviços públicos»:
 
 1) 1.ª «Instalação e apetrechamento do Laboratório de Engenharia Civil de Luanda» ... 3771449$93
 
@@ -197,7 +221,7 @@ b) «Conclusão das obras do aproveitamento hidroeléctrico do Biópio» ... 272
 
 1.º Reforçar com estas importâncias as seguintes verbas da mesma tabela de despesa:
 
-###### Artigo 1458.º «Aproveitamento de recursos»:
+Artigo 1458.º «Aproveitamento de recursos»:
 
 1) «Agricultura, silvicultura e pecuária»:
 
@@ -217,13 +241,13 @@ f) 1.ª «Obras de valorização da pequena agricultura da Huíla» ... 2102579$
 
 c) «Pesca» ... 10202118$56
 
-###### Artigo 1459.º «Povoamento»:
+Artigo 1459.º «Povoamento»:
 
 1) «Continuação da colonização do Cunene (1.ª fase - Matala)» ... 149332$88
 
 2) «Desenvolvimento do colonato da Cela» ... 7000000$00
 
-###### Artigo 1460.º «Comunicações e transportes»:
+Artigo 1460.º «Comunicações e transportes»:
 
 2) «Caminhos de ferro»:
 
@@ -233,7 +257,7 @@ c) «Moçâmedes» ... 459337$96
 
 b) «Lobito» ... 584498$47
 
-###### Artigo 1461.º «Instrução e saúde»:
+Artigo 1461.º «Instrução e saúde»:
 
 1) «Construção e apetrechamento de instalações escolares» ... 1499188$37
 
@@ -255,11 +279,11 @@ a) «Conclusão das obras do aproveitamento hidroeléctrico da Matala» ... 9867
 
 3) Um de 35917474$33, tomando como contrapartida disponibilidades do Fundo de Fomento, destinado a reforçar as seguintes verbas da mesma tabela de despesa com estas quantias:
 
-###### Artigo 1457.º «Conhecimento científico do território»:
+Artigo 1457.º «Conhecimento científico do território»:
 
 1) «Revisão da cartografia geral» ... 9084253$74
 
-###### Artigo 1458.º «Aproveitamento de recursos»:
+Artigo 1458.º «Aproveitamento de recursos»:
 
 1) «Agricultura, silvicultura e pecuária»:
 
@@ -279,11 +303,11 @@ b) 1.ª «Minas» ... 1220262$85
 
 c) «Pesca» ... 1641390$89
 
-###### Artigo 1459.º «Povoamento»:
+Artigo 1459.º «Povoamento»:
 
 2) «Desenvolvimento do colonato da Cela» ... 6000000$00
 
-###### Artigo 1460.º «Comunicações e transportes»:
+Artigo 1460.º «Comunicações e transportes»:
 
 1) 1.ª «Execução do plano rodoviário» ... 19352$18
 
@@ -303,7 +327,7 @@ e) 1.ª «Melhoramentos e apetrechamento de portos secundários» ... 5356226$45
 
 6) 1.ª «Aeroportos e material aeronáutico» ... 1129131$63
 
-###### Artigo 1462.º «Melhoramentos locais»:
+Artigo 1462.º «Melhoramentos locais»:
 
 1) 1.ª «Participação no estudo, projecto e execução de obras de interesse local» ... 305040$48
 
@@ -313,11 +337,11 @@ e) 1.ª «Melhoramentos e apetrechamento de portos secundários» ... 5356226$45
 
 1.º Reforçar pela seguinte forma estas verbas da mesma tabela de despesa:
 
-###### Artigo 1459.º «Povoamento»:
+Artigo 1459.º «Povoamento»:
 
 2) «Desenvolvimento do Colonato da Cela» ... 1000000$00
 
-###### Artigo 1460.º «Comunicações e transportes»:
+Artigo 1460.º «Comunicações e transportes»:
 
 2) «Caminhos de ferro»:
 
@@ -337,13 +361,13 @@ c) «Moçâmedes» ... 564679$75
 
 6) Um de 116271779$80, tomando como contrapartida igual quantia do empréstimo da metrópole autorizado pelos Decretos-Leis n.os 42817 e 42946, artigo 3.º, respectivamente de 25 de Janeiro e 27 de Abril de 1960, consignado a reforçar com estas quantias as verbas da mesma tabela de despesa que se indicam:
 
-###### Artigo 1458.º «Aproveitamento de recursos»:
+Artigo 1458.º «Aproveitamento de recursos»:
 
 2) «Electricidade e indústrias»:
 
 a) 1.ª «Participação na produção, transporte e grande distribuição de energia eléctrica e subestações» ... 67431127$18
 
-###### Artigo 1460.º «Comunicações e transportes»:
+Artigo 1460.º «Comunicações e transportes»:
 
 2) «Caminhos de ferro»:
 
@@ -363,7 +387,7 @@ c) 2.ª «Moçâmedes» ... 9546867$73
 
 7) Um de 131037780$03, tomando como contrapartida igual importância do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 42817](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144), de 25 de Janeiro de 1960, e cujo crédito especial foi autorizado pelo [Decreto-Lei n.º 43536](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43536-1961-561228), de 13 de Março do ano em curso, destinado a reforçar com as seguintes importâncias estas verbas da mesma tabela de despesa:
 
-###### Artigo 1458.º «Aproveitamento de recursos»:
+Artigo 1458.º «Aproveitamento de recursos»:
 
 1) «Agricultura, silvicultura e pecuária»:
 
@@ -377,11 +401,11 @@ d) 2.ª «Obras hidroagrícolas da Cela» ... 11621102$02
 
 c) 1.ª «Pesca» ... 1500000$00
 
-###### Artigo 1459.º «Povoamento»:
+Artigo 1459.º «Povoamento»:
 
 1) 3.ª «Continuação da colonização do Cunene (1.ª fase - Matala)» ... 8870905$80
 
-###### Artigo 1460.º «Comunicações e transportes»:
+Artigo 1460.º «Comunicações e transportes»:
 
 1) 2.ª «Execução do plano rodoviário» ... 43958570$30
 
@@ -397,11 +421,11 @@ c) 2.ª «Moçâmedes» ... 4000000$00
 
 6) 2.ª «Aeroportos e material aeronáutico» ... 30496732$20
 
-###### Artigo 1462.º «Melhoramentos locais»:
+Artigo 1462.º «Melhoramentos locais»:
 
 2) 1.ª «Melhoramentos urbanos e rurais de interesse social» ... 1500000$00
 
-###### Artigo 1463.º «Equipamento dos serviços públicos»:
+Artigo 1463.º «Equipamento dos serviços públicos»:
 
 1) «Instalação e apetrechamento do Laboratório de Engenharia Civil de Luanda» ... 1000000$00
 

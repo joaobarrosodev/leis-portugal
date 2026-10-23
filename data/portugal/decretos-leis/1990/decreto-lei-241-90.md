@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1990-573126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e78c5f331b4ac22e2890ba40a6b25b6d162999d6af641b3029fb6fe51596fe24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bf2fb31475630e2eda4b02a8c7a83f75c5aca92f7478f774e3d407c8ce471a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Laboratório Nacional de Investigação Veterinária
+- Pecuária
+- Saúde Pública
+- Veterinário
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:10Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +102,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os laboratórios dependentes das direcções regionais de agricultura ou pertencentes a outras entidades para tal qualificadas podem realizar diagnósticos e análises, nas áreas da sanidade animal e da higiene pública veterinária, no âmbito das atribuições da Direcção-Geral da Pecuária, de acordo com o disposto no presente diploma.
+Artigo 1.º Os laboratórios dependentes das direcções regionais de agricultura ou pertencentes a outras entidades para tal qualificadas podem realizar diagnósticos e análises, nas áreas da sanidade animal e da higiene pública veterinária, no âmbito das atribuições da Direcção-Geral da Pecuária, de acordo com o disposto no presente diploma.
 
-###### Art. 2.º O responsável técnico dos laboratórios referidos no artigo anterior é um médico veterinário que, mediante termo de ajuramentação, se compromete a cumprir integralmente as normas técnicas e científicas emitidas pelo Laboratório Nacional de Investigação Veterinária, adiante designado por LNIV.
+Art. 2.º O responsável técnico dos laboratórios referidos no artigo anterior é um médico veterinário que, mediante termo de ajuramentação, se compromete a cumprir integralmente as normas técnicas e científicas emitidas pelo Laboratório Nacional de Investigação Veterinária, adiante designado por LNIV.
 
-###### Art. 3.º - 1 - No âmbito das actividades de apoio aos laboratórios referidos no artigo 1.º, compete ao LNIV:
+Art. 3.º - 1 - No âmbito das actividades de apoio aos laboratórios referidos no artigo 1.º, compete ao LNIV:
 
 a) Fornecer gratuitamente técnicas padronizadas;
 
@@ -119,16 +124,16 @@ g) Controlar a execução de provas de despiste e diagnóstico, utilizadas em ca
 
 2 - As provas em animais vivos ou seus produtos, legalmente exigidas para trocas internacionais, só podem ser efectuadas pelo LNIV.
 
-###### Art. 4.º As metodologias de colheita, envio e análise de amostras que os laboratórios referidos no artigo 1.º devem respeitar, nas áreas da sanidade animal e da higiene pública veterinária, são estabelecidas por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 4.º As metodologias de colheita, envio e análise de amostras que os laboratórios referidos no artigo 1.º devem respeitar, nas áreas da sanidade animal e da higiene pública veterinária, são estabelecidas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Arlindo Marques da Cunha.
 
-**Promulgado em 10 de Julho de 1990.**
+Promulgado em 10 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1990.**
+Referendado em 12 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

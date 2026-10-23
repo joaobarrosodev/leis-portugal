@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18634-1961-173503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38220de27966eb172feac8d390970933e3a72098cb6545d74ee972c6ab4adcb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a094d8444c207649e235e3e4a4527941bf0a8ca7eed8dd2c1d3a8856a38e5069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:07Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +86,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, 
 
 Ministério da Educação Nacional, 2 de Agosto de 1961. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/08/17800/09720972.pdf))](https://files.diariodarepublica.pt/1s/1961/08/17800/09720972.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/08/17800/09720972.pdf)
 
 Ministério da Educação Nacional, 2 de Agosto de 1961. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.

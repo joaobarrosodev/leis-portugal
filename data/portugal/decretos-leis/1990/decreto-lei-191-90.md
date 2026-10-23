@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/25012502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1990-575136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65f8c63d19ff429e722108ff939f2395f46e10af8d31129a03e9843f0ed424d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f043908bb04b995bd1e02a8b48bbe905710a5539b8a9101581f4cbe4cc3a8ddb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão para Apreciação de Projectos de Obras
+- Inspecção Geral de Jogos
+- Orgânica
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:55Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º, 18.º e 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º, 18.º e 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 11.º — Comissão para Apreciação de Projectos de Obras
 
@@ -155,16 +168,16 @@ d) Zonas de jogo do Algarve, Funchal, Porto Santo, Tróia e Vidago-Pedras Salgad
 
 8 - ...
 
-###### Art. 2.º As alterações decorrentes da nova redacção dada ao n.º 3 do artigo 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591) produzem efeitos a contar de 1 de Janeiro de 1990.
+Art. 2.º As alterações decorrentes da nova redacção dada ao n.º 3 do artigo 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591) produzem efeitos a contar de 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - Roberto Artur da Luz Carneiro - António José de Castro Bagão Félix - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Maio de 1990.**
+Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1990.**
+Referendado em 29 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

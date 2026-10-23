@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18563-1961-172890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cadfa8eeab81856b74c6dec42a62491a32a8d33368341db1e6ef3772a3fcbc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f37f2ae5063a479becd44c8f07dc69ff03dc0bb4c87b710e45cb6057c5445e90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:42Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +113,7 @@ b) Com 5000000$00 a do n.º 4), alínea d) «Comunicações e transportes - Aero
 
 1) Um de 24910018$79, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
+Capítulo 12.º, artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
 
 1) «Conhecimento científico do território»:
 
@@ -155,7 +167,7 @@ b) «Construção e equipamento de instalações hospitalares e congéneres» ..
 
 3) Um de 11510689$62, tomando como contrapartida disponibilidades do Fundo de Fomento do Algodão, destinado a reforçar, pela forma que se indica, as seguintes dotações da mesma tabela de despesa:
 
-###### Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
+Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
 
 2) «Aproveitamento de recursos»:
 
@@ -171,7 +183,7 @@ a) «Participação no estudo, projecto e execução de obras de interesse local
 
 4) Um de 65899984$80, tomando como contrapartida disponibilidades da comparticipação dos serviços de portos, caminhos de ferro e transportes, destinado a reforçar com estas quantias as verbas da mesma tabela de despesa que se indicam:
 
-###### Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
+Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
 
 4) «Comunicações e transportes»:
 
@@ -191,7 +203,7 @@ c) «Portos»:
 
 5) Um de 20000000$00, tomando como contrapartida igual quantia a sair do empréstimo da metrópole, autorizado pelos Decretos-Leis n.os 42817 e 42946, artigo 3.º, respectivamente de 25 de Janeiro e 27 de Abril de 1960, destinado a reforçar com estas quantias as seguintes verbas da mesma tabela de despesa:
 
-###### Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
+Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
 
 4) «Comunicações e transportes»:
 
@@ -205,7 +217,7 @@ c) «Portos»:
 
 6) Um de 33700000$00, tomando como contrapartida o empréstimo autorizado pelo [Decreto-Lei n.º 43701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43701-1961-170902), de 19 de Maio do ano corrente, destinado a reforçar as seguintes verbas da mesma tabela de despesa com estas quantias:
 
-###### Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
+Artigo 1694.º «Plano de Fomento - Programa de execução da 2.ª fase, 1961»:
 
 4) «Comunicações e transportes»:
 

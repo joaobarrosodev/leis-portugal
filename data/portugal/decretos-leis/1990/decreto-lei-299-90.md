@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1990-554863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 849e44b0057d7285224ffe16c59013f9ac668c2a5eb549978f337bf7a7f19e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c07a90b50247d96811f28f599f70b2626a98d26aa1237ae1ca050c9a183228c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Lagoa
+- Lagos
+- Portimão
+- Tavira
+- Vinho
+- ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423405:por
+  label: "Alterados os arts. 4.º e 10.º e adita um anexo aos Estatutos, pelo DEC LEI.318/2003.20.12.2003.MADRP, DR.IS-A [293]\
+    \ de 20.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-2003-423405
+  date: '2003-12-20'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681399:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado, na redacção do Dec Lei 318/2003 de 20-Dez, pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo\
+    \ transitoriamente em vigor até à publicação da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:25Z'
   warnings: []
   errors: []
 ---
@@ -98,31 +129,31 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos das Regiões Vitivinícolas de Lagoa, Lagos, Portimão e Tavira, anexos ao presente diploma e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas, na nomenclatura comunitária, abreviadamente designados por VQPRD.
+Artigo 1.º São aprovados os Estatutos das Regiões Vitivinícolas de Lagoa, Lagos, Portimão e Tavira, anexos ao presente diploma e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas, na nomenclatura comunitária, abreviadamente designados por VQPRD.
 
-###### Art. 2.º A entidade competente a que se alude nos Estatutos aprovados pelo presente diploma, e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a comissão vitivinícola regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
+Art. 2.º A entidade competente a que se alude nos Estatutos aprovados pelo presente diploma, e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a comissão vitivinícola regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
 
-###### Art. 3.º - 1 - Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio a que se refere o artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+Art. 3.º - 1 - Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio a que se refere o artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
 
 2 - Incumbe à comissão instaladora elaborar e propor os estatutos da CVR.
 
-###### Art. 4.º É revogada a [Portaria n.º 207/80](https://diariodarepublica.pt/dr/detalhe/portaria/207-1980-681399), de 26 de Abril.
+Art. 4.º É revogada a [Portaria n.º 207/80](https://diariodarepublica.pt/dr/detalhe/portaria/207-1980-681399), de 26 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha.
 
-**Promulgado em 6 de Setembro de 1990.**
+Promulgado em 6 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos das Regiões Vitivinícolas de Lagoa, Lagos, Portimão e Tavira
 
-###### Artigo 1.º - 1 - São reconhecidas como denominações de origem controlada (DOC) para a produção de vinhos a integrar na categoria dos chamados «vinhos de qualidade produzidos em regiões determinadas» (VQPRD) da nomenclatura comunitária as seguintes denominações, de que podem usufruir os vinhos tintos e brancos produzidos nas respectivas zonas vitivinícolas que satisfaçam as disposições dos presentes Estatutos e outros requisitos aplicáveis aos vinhos em geral, e, em particular, aos VQPRD:
+Artigo 1.º - 1 - São reconhecidas como denominações de origem controlada (DOC) para a produção de vinhos a integrar na categoria dos chamados «vinhos de qualidade produzidos em regiões determinadas» (VQPRD) da nomenclatura comunitária as seguintes denominações, de que podem usufruir os vinhos tintos e brancos produzidos nas respectivas zonas vitivinícolas que satisfaçam as disposições dos presentes Estatutos e outros requisitos aplicáveis aos vinhos em geral, e, em particular, aos VQPRD:
 
 a) Lagoa;
 
@@ -136,7 +167,7 @@ d) Tavira.
 
 3 - Fica proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos nestes Estatutos, induzirem a confusão no consumidor, mesmo que precedidos dos termos «tipo», «estilo», ou outros análogos.
 
-###### Art. 2.º - 1 - A área geográfica correspondente a cada uma das denominações ora consideradas, delimitada na carta de 1:500000, em anexo, abrange:
+Art. 2.º - 1 - A área geográfica correspondente a cada uma das denominações ora consideradas, delimitada na carta de 1:500000, em anexo, abrange:
 
 a) Lagoa:
 
@@ -172,7 +203,7 @@ Do Município de Vila Real de Santo António, a freguesia do mesmo nome e parte 
 
 2 - O limite natural da zona vitivinícola de Lagos no Município de Aljezur é a ribeira de Odeceixe.
 
-###### Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes Estatutos devem estar, ou ser instaladas, em:
+Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes Estatutos devem estar, ou ser instaladas, em:
 
 a) Solos litólicos não húmicos de arenitos, grés-de-silves ou afins;
 
@@ -182,7 +213,7 @@ c) Regosolos psamíticos normais e para-hidromórficos;
 
 d) Solos podzolizados de areias e arenitos grosseiros.
 
-###### Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade destas zonas vitícolas são as seguintes:
+Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade destas zonas vitícolas são as seguintes:
 
 a) Lagoa:
 
@@ -242,31 +273,31 @@ Castas autorizadas: Diagalves, Manteúdo e Tamarês.
 
 2 - A comercialização de vinhos com referência a uma ou duas castas só pode ser feita, em relação às recomendadas, com prévia autorização da entidade competente e a observância das disposições de âmbito geral aplicáveis.
 
-###### Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas, as vinhas devem ser estremes, em forma baixa, em taça ou cordão.
+Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas, as vinhas devem ser estremes, em forma baixa, em taça ou cordão.
 
 2 - As práticas culturais deverão ser as tradicionais ou recomendadas pela entidade competente, em ligação com os serviços regionais de agricultura.
 
 3 - A rega da vinha só pode ser efectuada em condições excepcionais reconhecidas pelo Instituto da Vinha e do Vinho (IVV) e sob autorização prévia, caso a caso, da entidade competente, à qual incumbe velar pelo cumprimento das normas que para o efeito vierem a ser definidas.
 
-###### Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes Estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
+Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes Estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
 
 2 - Sempre que se verifiquem alterações na constituição das vinhas cadastradas e aprovadas, será do facto dado conhecimento pelos respectivos viticultores, sem o que os seus vinhos deixarão de ter direito à denominação.
 
-###### Art. 7.º - 1 - Os vinhos protegidos por estes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais a estudar pela entidade competente, deve decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito e que ficam sob o controlo da referida entidade.
+Art. 7.º - 1 - Os vinhos protegidos por estes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais a estudar pela entidade competente, deve decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito e que ficam sob o controlo da referida entidade.
 
 2 - Na elaboração são seguidos os métodos e práticas enológicas tradicionais, legalmente autorizados.
 
 3 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação, a entidade competente estabelecerá os termos em que deverá decorrer a vinificação, devendo os referidos vinhos ser conservados em secções separadas, em vasilhas com a devida identificação e de que constem, nomeadamente, as indicações relativas ao volume da vasilha, à espécie de vinho contido e ao ano de colheita.
 
-###### Art. 8.º Os mostos destinados aos vinhos de denominação «Lagoa», «Lagos», «Portimão» e «Tavira» devem ter um título alcoométrico volúmico em potência mínimo natural de 11% para vinhos tintos e 10% para vinhos brancos.
+Art. 8.º Os mostos destinados aos vinhos de denominação «Lagoa», «Lagos», «Portimão» e «Tavira» devem ter um título alcoométrico volúmico em potência mínimo natural de 11% para vinhos tintos e 10% para vinhos brancos.
 
-###### Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação é fixado em 60 hl para os vinhos tintos e brancos.
+Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação é fixado em 60 hl para os vinhos tintos e brancos.
 
 2 - No caso de a produção exceder o quantitativo fixado, não pode ser utilizada a denominação para a totalidade da colheita, salvo em anos de produção excepcional, em que o IVV, sob proposta da entidade regional competente, estabelecerá o limite de produção com direito à utilização da denominação e o destino da produção excedentária.
 
-###### Art. 10.º Os vinhos brancos e tintos só poderão ser engarrafados após um estágio mínimo de seis meses e oito meses, respectivamente.
+Art. 10.º Os vinhos brancos e tintos só poderão ser engarrafados após um estágio mínimo de seis meses e oito meses, respectivamente.
 
-###### Art. 11.º - 1 - Os vinhos de denominação devem ter o título alcoométrico volúmico mínimo de:
+Art. 11.º - 1 - Os vinhos de denominação devem ter o título alcoométrico volúmico mínimo de:
 
 a) Vinho tinto - 12%;
 
@@ -276,14 +307,14 @@ b) Vinho branco - 11,5%.
 
 3 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, à limpidez, ao aroma e ao sabor, a definir por regulamento interno da CVR.
 
-###### Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes Estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua incrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
+Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes Estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua incrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
 
-###### Art. 13.º Os vinhos de qualidade objecto dos presentes Estatutos só podem ser postos em circulação e comercializados desde que, nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
+Art. 13.º Os vinhos de qualidade objecto dos presentes Estatutos só podem ser postos em circulação e comercializados desde que, nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
 
-###### Art. 14.º - 1 - O engarrafamento só pode ser feito após aprovação do respectivo vinho, confirmando satisfazer as necessárias exigências.
+Art. 14.º - 1 - O engarrafamento só pode ser feito após aprovação do respectivo vinho, confirmando satisfazer as necessárias exigências.
 
 2 - Os rótulos a utilizar devem ser apresentados à apreciação prévia da entidade competente.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/22100/39433945.pdf))](https://files.diariodarepublica.pt/1s/1990/09/22100/39433945.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/22100/39433945.pdf)

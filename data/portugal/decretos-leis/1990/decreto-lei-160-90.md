@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11400/22652266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1990-571440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a187bf4043c827532cd286619f7f359f38bfc3167343cb9b855609075463eaa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37fb532b66fdee0439856640cba01d37de1d72dd8d91293d5d3716db3ea00c83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Aproximação das Legislações
+- Centro Nacional de Protecção da Produção Agrícola
+- Comércio
+- Controlo Sanitário
+- Definição de Competências
+- Fabrico Industrial
+- Instituto de Qualidade Alimentar
+- Licenciamento
+- Limite Máximo de Resíduos
+- Produto Alimentar
+- Produto Fitofarmacêutico
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:320558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:320558:por
+  label: "Revogado, a partir de 23.07.2000, pelo DEC LEI.147/2000.2000.07.18.MADRP,DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2000-320558
+  date: '2000-07-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:10Z'
   warnings: []
   errors: []
 ---
@@ -106,46 +124,46 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece o regime dos limites máximos de resíduos de produtos fitofarmacêuticos permitidos nos produtos agrícolas alimentares destinados à alimentação humana ou, ainda que ocasionalmente, à alimentação animal.
+Artigo 1.º O presente diploma estabelece o regime dos limites máximos de resíduos de produtos fitofarmacêuticos permitidos nos produtos agrícolas alimentares destinados à alimentação humana ou, ainda que ocasionalmente, à alimentação animal.
 
-###### Art. 2.º Para efeitos do disposto no presente diploma, entende-se por:
+Art. 2.º Para efeitos do disposto no presente diploma, entende-se por:
 
 a) Resíduo de produto fitofarmacêutico, ou, abreviadamente, resíduo - a fracção residual de produto fitofarmacêutico e os seus eventuais produtos tóxicos de metabolização, de degradação ou de reacção existentes nos produtos agrícolas alimentares;
 
 b) Lançamento no mercado - toda a entrega, a título oneroso ou gratuito.
 
-###### Art. 3.º - 1 - Os produtos a que se refere o artigo 1.º e os limites máximos de resíduos permitidos no momento do seu lançamento no mercado são definidos por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 3.º - 1 - Os produtos a que se refere o artigo 1.º e os limites máximos de resíduos permitidos no momento do seu lançamento no mercado são definidos por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 2 - O lançamento no mercado de produtos incluídos nas portarias a que se refere o número anterior com teores de resíduos, resultantes de fumigações, superiores aos permitidos pode ser previamente autorizado pelo Instituto de Qualidade Alimentar (IQA), mediante parecer do Centro Nacional de Protecção da Produção Agrícola (CNPPA), ouvida a Comissão de Toxicologia dos Pesticidas (CTP), desde que os produtos em causa não se destinem a consumo imediato e na altura da sua colocação à disposição do utilizador ou do consumidor os teores de resíduos não excedam os limites fixados.
 
 3 - O lançamento no mercado previsto no número anterior tem de respeitar as eventuais condições impostas na autorização prévia.
 
-###### Art. 4.º - 1 - Sempre que, devido a novos conhecimentos científicos e técnicos, a CTP considere que um determinado limite máximo de resíduo, fixado nas portarias a que se refere o n.º 1 do artigo anterior, deve ser reduzido num prazo curto, o CNPPA proporá a redução provisória do referido limite, a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 4.º - 1 - Sempre que, devido a novos conhecimentos científicos e técnicos, a CTP considere que um determinado limite máximo de resíduo, fixado nas portarias a que se refere o n.º 1 do artigo anterior, deve ser reduzido num prazo curto, o CNPPA proporá a redução provisória do referido limite, a aprovar por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 2 - Da redução provisória referida no número anterior é dado imediato conhecimento à Comissão das Comunidades Europeias e aos Estados membros.
 
-###### Art. 5.º - 1 - Sem prejuízo das competências próprias atribuídas por lei a outras entidades, compete especialmente ao IQA e ao CNPPA, de acordo com as respectivas atribuições, promover, coordenar e controlar a aplicação do disposto no presente diploma.
+Art. 5.º - 1 - Sem prejuízo das competências próprias atribuídas por lei a outras entidades, compete especialmente ao IQA e ao CNPPA, de acordo com as respectivas atribuições, promover, coordenar e controlar a aplicação do disposto no presente diploma.
 
 2 - Para efeitos do disposto no número anterior, o IQA e o CNPPA devem proceder à elaboração de programas anuais de controlo, em cuja execução devem participar as direcções regionais de agricultura do Ministério da Agricultura, Pescas e Alimentação e, eventualmente, outras entidades convidadas para o efeito.
 
 3 - Dos resultados dos programas de controlo são elaborados relatórios anuais, a apresentar à Comissão das Comunidades Europeias até 1 de Agosto do ano seguinte.
 
-###### Art. 6.º - 1 - Para efeitos do disposto no presente diploma, os métodos de amostragem e de análise a adoptar serão os fixados em normas portuguesas.
+Art. 6.º - 1 - Para efeitos do disposto no presente diploma, os métodos de amostragem e de análise a adoptar serão os fixados em normas portuguesas.
 
 2 - Na ausência de normas portuguesas, são adoptados os métodos e as regras de adequada prática laboratorial indicados pelo CNPPA.
 
-###### Art. 7.º Às infracções ao disposto no presente diploma é aplicável o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, e diplomas complementares, se sanção mais grave lhes não couber.
+Art. 7.º Às infracções ao disposto no presente diploma é aplicável o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, e diplomas complementares, se sanção mais grave lhes não couber.
 
-###### Art. 8.º As normas técnicas necessárias à boa execução do presente diploma serão aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 8.º As normas técnicas necessárias à boa execução do presente diploma serão aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 4 de Maio de 1990.**
+Promulgado em 4 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Maio de 1990.**
+Referendado em 9 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

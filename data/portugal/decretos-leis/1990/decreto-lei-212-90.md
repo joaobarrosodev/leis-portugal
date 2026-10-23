@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1990-575362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f4ec1a33421d34f809c2ec8c1dd5433b2fe24b00188e3ffa7bcd6f170285dd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 344128ca85246d86aa0618dda869de7214b7247c14143578608b6c0a6101235d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descrição de Funções
+- Direcção Geral de Viação
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:683040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610896:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683040:por
+  label: "Revogado pelo DEC LEI.484/99.1999.11.10.MAI, DR.IS-A [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/484-1999-683040
+  date: '1999-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:25Z'
   warnings: []
   errors: []
 ---
@@ -98,42 +137,42 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São unificadas as carreiras de agente técnico de viação e de inspector-examinador, integrando-se no grupo de pessoal técnico-profissional nível 4, na carreira de inspector de viação.
+Artigo 1.º - 1 - São unificadas as carreiras de agente técnico de viação e de inspector-examinador, integrando-se no grupo de pessoal técnico-profissional nível 4, na carreira de inspector de viação.
 
 2 - A carreira de inspector de viação desenvolve-se pelas categorias de técnico-adjunto especialista de 1.ª classe, técnico-adjunto especialista e técnico-adjunto principal, de 1.ª classe e de 2.ª classe, a que corresponde a escala salarial prevista para a carreira e categoria do grupo de pessoal técnico-profissional, nível 4, constantes do anexo I ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 2.º Compete, genericamente, ao inspector de viação executar operações de selecção de condutores, inspeccionar veículos, seus equipamentos e acessórios, fiscalizar o ensino da condução automóvel e executar, a partir de orientações e instruções precisas, trabalho de apoio técnico.
+Art. 2.º Compete, genericamente, ao inspector de viação executar operações de selecção de condutores, inspeccionar veículos, seus equipamentos e acessórios, fiscalizar o ensino da condução automóvel e executar, a partir de orientações e instruções precisas, trabalho de apoio técnico.
 
-###### Art. 3.º - 1 - O recrutamento para ingresso na carreira de inspector de viação faz-se de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente, com carta de condução e previamente aprovados em estágio, que integrará a frequência de um curso de formação específica, com a duração de um ano, organizado pela Direcção-Geral de Viação, cujo regulamento é aprovado nos termos dos n.os 8 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+Art. 3.º - 1 - O recrutamento para ingresso na carreira de inspector de viação faz-se de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente, com carta de condução e previamente aprovados em estágio, que integrará a frequência de um curso de formação específica, com a duração de um ano, organizado pela Direcção-Geral de Viação, cujo regulamento é aprovado nos termos dos n.os 8 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
 
 2 - Os estagiários são remunerados pelo índice 160, sem prejuízo do direito de opção pelo vencimento do lugar de origem, no caso de pessoal já vinculado à função pública, regulando-se pelo regime previsto no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, e, subsidiariamente, pelas normas do artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
 
 3 - O acesso na carreira e a progressão regem-se pelo disposto na lei geral para as categorias da carreira técnico-profissional de nível 4.
 
-###### Art. 4.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontrarem providos nos lugares das carreiras de agente técnico de viação e de inspector-examinador transitam para a carreira de inspector de viação e para as categorias do grupo de pessoal técnico-profissional, nível 4, de acordo com a tabela de equiparações constante do mapa anexo ao presente diploma, de que faz parte integrante.
+Art. 4.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontrarem providos nos lugares das carreiras de agente técnico de viação e de inspector-examinador transitam para a carreira de inspector de viação e para as categorias do grupo de pessoal técnico-profissional, nível 4, de acordo com a tabela de equiparações constante do mapa anexo ao presente diploma, de que faz parte integrante.
 
 2 - A transição prevista no número anterior e a integração na nova estrutura salarial processam-se nos termos da lei geral e do disposto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, sem prejuízo do tempo de serviço prestado nas categorias extintas, para efeitos de progressão e promoção.
 
-###### Art. 5.º O quadro de pessoal da Direcção-Geral de Viação, aprovado pela [Portaria n.º 46/89](https://diariodarepublica.pt/dr/detalhe/portaria/46-1989-610896), de 24 de Janeiro, é alterado de acordo com o mapa anexo ao presente diploma, de que faz parte integrante.
+Art. 5.º O quadro de pessoal da Direcção-Geral de Viação, aprovado pela [Portaria n.º 46/89](https://diariodarepublica.pt/dr/detalhe/portaria/46-1989-610896), de 24 de Janeiro, é alterado de acordo com o mapa anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 6.º Aos efeitos remuneratórios do presente diploma aplica-se o disposto no n.º 3 do artigo 45.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+Art. 6.º Aos efeitos remuneratórios do presente diploma aplica-se o disposto no n.º 3 do artigo 45.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Junho de 1990.**
+Promulgado em 11 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1990.**
+Referendado em 18 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf)
 
 Mapa anexo a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14600/27162717.pdf)

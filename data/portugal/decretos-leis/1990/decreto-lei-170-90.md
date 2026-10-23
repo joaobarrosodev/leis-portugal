@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/12000/23612363.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1990-574913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccdf9f28313452df217e21829bf2bffb1b7e0e91d94f195be957d3d24e090338
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f0764544bed791080613145be3939cef039b8a138f5d03cb985abb496d87ad7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Superior de Belas-artes
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Pessoal não Docente
+- Porto
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTO UM LUGAR DO GRUPO DE PESSOAL TECNICO-PROFISSIONAL PELA PORT 1026/91 DE 07-OUT DR.IS-B [230]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL, NA PARTE RELATIVA AS ÁREAS FUNCIONAIS DE BIBLIOTECA, DOCUMENTAÇÃO E ARQUIVO, PELA\
+    \ PORT 584/93 DE 08-JUN DR.IS-B [133]\0JUN DR.IS-B [133]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-08'
+- type: cites
+  target: pt:dre:253057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:24Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +135,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O quadro do pessoal não docente da Escola Superior de Belas-Artes do Porto passa a ser o constante do mapa anexo ao presente diploma, de que faz parte integrante.
+Artigo 1.º O quadro do pessoal não docente da Escola Superior de Belas-Artes do Porto passa a ser o constante do mapa anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 2.º Ao recrutamento e selecção do pessoal não docente da Escola Superior de Belas-Artes do Porto é aplicável a lei geral ou especial sobre carreiras, sendo o desenvolvimento da carreira de auxiliar de manutenção idêntico ao da carreira de auxiliar administrativo.
+Art. 2.º Ao recrutamento e selecção do pessoal não docente da Escola Superior de Belas-Artes do Porto é aplicável a lei geral ou especial sobre carreiras, sendo o desenvolvimento da carreira de auxiliar de manutenção idêntico ao da carreira de auxiliar administrativo.
 
-###### Art. 3.º 1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que à data de entrada em vigor do presente diploma presta serviço na Escola Superior de Belas-Artes do Porto transita para os lugares do quadro constante do mapa a que se refere o artigo 1.º de acordo com as seguintes regras:
+Art. 3.º 1 - Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal que à data de entrada em vigor do presente diploma presta serviço na Escola Superior de Belas-Artes do Porto transita para os lugares do quadro constante do mapa a que se refere o artigo 1.º de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou agente já possui;
 
@@ -120,16 +159,16 @@ c) As correspondências de categoria fazem-se em função do índice remunerató
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Alberto José Nunes Correia Ralha.
 
-**Promulgado em 10 de Maio de 1990.**
+Promulgado em 10 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Maio de 1990.**
+Referendado em 14 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro do pessoal não docente da Escola Superior de Belas-Artes do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12000/23612363.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12000/23612363.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12000/23612363.pdf)

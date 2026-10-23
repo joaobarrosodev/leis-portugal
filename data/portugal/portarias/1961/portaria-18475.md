@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18475-1961-170939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d8613b82aefe02c040f7da68e36bdd2d12ad5ca08e9125a412d2674b4accbe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ca823fafe4f6517674f45a61405f0fd5d293132d01c3a054ac7ff65499898e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,44 @@ relationships:
   target: pt:dre:217374:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627464:por
+  label: "Alterados o art. 3º, e seus parágrafos, o art. 16º, e seu § único, o art. 17º, e seu § único, o art. 21º, e seus\
+    \ parágrafos, e art. 31º, e seus parágrafos, pela PORT.19887.06.06.1963.MOP, DG.IS [134] de 06.06.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19887-1963-627464
+  date: '1963-06-06'
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586252:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:217374:por
+  label: "Revogadas as disposições do regulamento aprovado no presente diploma, pela PORT.351/71.30.06.1971.MOP, DG.IS [152]Supl\
+    \ de 30.06.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1971-217374
+  date: '1971-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:46Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +124,13 @@ Regulamento do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/
 
 ### CAPÍTULO I — Constituição
 
-###### Artigo 1.º A Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas é composta da seguinte forma:
+Artigo 1.º A Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas é composta da seguinte forma:
 
 Presidente - O presidente do Conselho Superior de Obras Públicas.
 
 Vogais:
 
-**O presidente da Junta Autónoma de Estradas.**
+O presidente da Junta Autónoma de Estradas.
 
 O director-geral dos Edifícios e Monumentos Nacionais.
 
@@ -132,21 +160,21 @@ O vogal secretário do Conselho Superior de Obras Públicas, que servirá de sec
 
 ### CAPÍTULO II — Funcionamento
 
-###### Art. 2.º A Comissão reúne ordinàriamente duas vezes por mês e extraordinàriamente sempre que se torne necessário.
+Art. 2.º A Comissão reúne ordinàriamente duas vezes por mês e extraordinàriamente sempre que se torne necessário.
 
 § único. A ordem do dia das sessões é levada ao conhecimento dos vogais da Comissão pelo respectivo aviso convocatório.
 
-###### Art. 3.º Do presidente. - O presidente convoca os membros para as sessões e preside a estas; dirige os trabalhos da Comissão e representa-a perante as autoridades; trata com o Ministro das Obras Públicas e corresponde-se directamente com os outros serviços ou autoridades públicas, e assina a correspondência da Comissão, podendo delegar no secretário a assinatura daquela que não envolva a responsabilidade da Comissão.
+Art. 3.º Do presidente. - O presidente convoca os membros para as sessões e preside a estas; dirige os trabalhos da Comissão e representa-a perante as autoridades; trata com o Ministro das Obras Públicas e corresponde-se directamente com os outros serviços ou autoridades públicas, e assina a correspondência da Comissão, podendo delegar no secretário a assinatura daquela que não envolva a responsabilidade da Comissão.
 
 § único. O presidente pode, por sua iniciativa ou a pedido de dois ou mais membros da Comissão, e se assim o julgar conveniente, convidar para assistirem às sessões as pessoas que possam esclarecer a Comissão sobre os assuntos em exame.
 
-###### Art. 4.º Do secretário. - O secretário dirige o serviço da secretaria da Comissão; recebe e redige toda a correspondência, assinando aquela para que recebeu delegação do presidente; assiste às sessões da Comissão e redige as actas; tem a seu cargo a organização e conservação dos ficheiros e arquivos; submete as minutas das actas à apreciação do presidente antes de serem lidas em sessão para efeito de aprovação; promove a junção, pelos interessados, de todos os documentos que faltem para instrução completa dos processos a submeter à Comissão; anota todos os pedidos de inscrição, registando-os sob numeração contínua, segundo a ordem da sua chegada; vigia o movimento dos processos e a sua classificação; abre um processo para cada sanção disciplinar suscitada e inscreve-o em registo especial; procede idênticamente para todos os casos de dispensa de inscrição previstos nos §§ 1.º e 2.º artigo 15.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e também para as inscrições feitas ao abrigo do artigo 17.º do mesmo decreto-lei; promove a publicação no Diário do Governo de todas as resoluções da Comissão e dos despachos do Ministro sobre as reclamações que em última instância lhe sejam submetidas contra as mesmas resoluções, e dá conhecimento directo aos empreiteiros interessados das resoluções que tenham sido tomadas a seu respeito.
+Art. 4.º Do secretário. - O secretário dirige o serviço da secretaria da Comissão; recebe e redige toda a correspondência, assinando aquela para que recebeu delegação do presidente; assiste às sessões da Comissão e redige as actas; tem a seu cargo a organização e conservação dos ficheiros e arquivos; submete as minutas das actas à apreciação do presidente antes de serem lidas em sessão para efeito de aprovação; promove a junção, pelos interessados, de todos os documentos que faltem para instrução completa dos processos a submeter à Comissão; anota todos os pedidos de inscrição, registando-os sob numeração contínua, segundo a ordem da sua chegada; vigia o movimento dos processos e a sua classificação; abre um processo para cada sanção disciplinar suscitada e inscreve-o em registo especial; procede idênticamente para todos os casos de dispensa de inscrição previstos nos §§ 1.º e 2.º artigo 15.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e também para as inscrições feitas ao abrigo do artigo 17.º do mesmo decreto-lei; promove a publicação no Diário do Governo de todas as resoluções da Comissão e dos despachos do Ministro sobre as reclamações que em última instância lhe sejam submetidas contra as mesmas resoluções, e dá conhecimento directo aos empreiteiros interessados das resoluções que tenham sido tomadas a seu respeito.
 
 § 1.º De nenhum processo pode ser dado conhecimento a pessoa estranha à Comissão sem autorização expressa do presidente.
 
 § 2.º São considerados reservados todos os documentos constantes de processos de inscrição e classificação de empreiteiros, pelo que deles não podem ser passadas certidões.
 
-###### Art. 5.º Da instrução e distribuição dos processos. - Aberto um processo de inscrição e classificação, a secretaria da Comissão promove a recolha de todas as informações de carácter técnico e administrativo, bem como as dos sindicatos, que servirão de fundamento às resoluções a tomar, e a junção pelos interessados dos documentos e esclarecimentos em falta e dos que se tornem complementarmente necessários.
+Art. 5.º Da instrução e distribuição dos processos. - Aberto um processo de inscrição e classificação, a secretaria da Comissão promove a recolha de todas as informações de carácter técnico e administrativo, bem como as dos sindicatos, que servirão de fundamento às resoluções a tomar, e a junção pelos interessados dos documentos e esclarecimentos em falta e dos que se tornem complementarmente necessários.
 
 Cada caso a tratar pela Comissão é distribuído a um relator, designado pelo presidente.
 
@@ -154,9 +182,9 @@ Ao relator é fornecida pelo secretário da Comissão uma informação em modelo
 
 O relator solicitará do secretário quaisquer novos documentos ou informações que julgue necessários e, findo o seu exame, lavrará o seu relatório e proposta fundamentada de resolução, enviando-o, juntamente com o processo, em prazo que não deverá exceder dez dias, contados da data da sua recepção, ao secretário, que o apresentará completo ao presidente.
 
-###### Art. 6.º Das sessões. - A Comissão reúne quinzenalmente numa das salas do Conselho Superior de Obras Públicas.
+Art. 6.º Das sessões. - A Comissão reúne quinzenalmente numa das salas do Conselho Superior de Obras Públicas.
 
-**O presidente poderá convocar extraordinàriamente a Comissão a pedido justificado de, pelo menos, três dos seus membros.**
+O presidente poderá convocar extraordinàriamente a Comissão a pedido justificado de, pelo menos, três dos seus membros.
 
 As decisões da Comissão serão tomadas por maioria de votos, tendo o presidente voto de qualidade em caso de empate, e só são vàlidas quando estejam presentes, além do presidente, dois directores-gerais ou seus representantes, o ajudante do procurador-geral da República, dois representantes dos sindicatos ou da Ordem dos Engenheiros e o representante dos Grémios dos Industriais da Construção Civil e Obras Públicas.
 
@@ -174,7 +202,7 @@ As decisões da Comissão serão tomadas por maioria de votos, tendo o president
 
 ### CAPÍTULO III — Categorias, subcategorias e classes
 
-###### Art. 7.º Categorias e subcategorias. - Os empreiteiros inscritos serão agrupados, segundo as suas especialidades, nas categorias e subcategorias seguintes:
+Art. 7.º Categorias e subcategorias. - Os empreiteiros inscritos serão agrupados, segundo as suas especialidades, nas categorias e subcategorias seguintes:
 
 I categoria:
 
@@ -322,13 +350,13 @@ A 9.ª subcategoria da mesma categoria abrange as redes de canalizações e seus
 
 4.º A Comissão poderá propor a criação de novas subcategorias.
 
-###### Art. 8.º A inscrição numa das categorias previstas no corpo do artigo anterior habilita o empreiteiro nela inscrito a executar os trabalhos que se enquadrem na sua actividade normal e, bem assim, a orientar a realização de todos os abrangidos pelas respectivas subcategorias, se nos programas de concurso não estiverem indicadas subcategorias. Mas, se os programas exigirem subcategorias, só poderão concorrer e executar os respectivos trabalhos empreiteiros que delas possuam alvarás.
+Art. 8.º A inscrição numa das categorias previstas no corpo do artigo anterior habilita o empreiteiro nela inscrito a executar os trabalhos que se enquadrem na sua actividade normal e, bem assim, a orientar a realização de todos os abrangidos pelas respectivas subcategorias, se nos programas de concurso não estiverem indicadas subcategorias. Mas, se os programas exigirem subcategorias, só poderão concorrer e executar os respectivos trabalhos empreiteiros que delas possuam alvarás.
 
 A inscrição numa subcategoria corresponde ao reconhecimento de que o empreiteiro nela inscrito possui a especialização que é de exigir para a execução de todos os trabalhos que nela se enquadrem.
 
-###### Art. 9.º Um empreiteiro pode ser inscrito em mais do que uma categoria e subcategoria.
+Art. 9.º Um empreiteiro pode ser inscrito em mais do que uma categoria e subcategoria.
 
-###### Art. 10.º Dentro de cada categoria ou subcategoria os empreiteiros serão distribuídos pelas classes estabelecidas no § 2.º do artigo 2.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), em harmonia com os seus recursos e possibilidades.
+Art. 10.º Dentro de cada categoria ou subcategoria os empreiteiros serão distribuídos pelas classes estabelecidas no § 2.º do artigo 2.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), em harmonia com os seus recursos e possibilidades.
 
 § único. A 2.ª classe é dividida em duas subclasses:
 
@@ -342,19 +370,19 @@ Subclasse A, obras de valor até 50000000$00;
 
 Subclasse B, obras de valor superior a 50000000$00.
 
-###### Art. 11.º Os empreiteiros podem pedir elevação ou baixa de classe ou alteração da categoria ou subcategoria, mediante a instrução do respectivo processo e aplicação do disposto na segunda parte do artigo 18.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
+Art. 11.º Os empreiteiros podem pedir elevação ou baixa de classe ou alteração da categoria ou subcategoria, mediante a instrução do respectivo processo e aplicação do disposto na segunda parte do artigo 18.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
 
-###### Art. 12.º É necessária uma inscrição especial se no momento da adjudicação ou no decurso da empreitada a importância total dos trabalhos, tanto públicos ou de utilidade pública como particulares, executados simultâneamente pelo empreiteiro, exceder dez vezes o limite superior da classe mais elevada que lhe tenha sido atribuída, com o limite máximo de 200000000$00 para a 4.ª classe.
+Art. 12.º É necessária uma inscrição especial se no momento da adjudicação ou no decurso da empreitada a importância total dos trabalhos, tanto públicos ou de utilidade pública como particulares, executados simultâneamente pelo empreiteiro, exceder dez vezes o limite superior da classe mais elevada que lhe tenha sido atribuída, com o limite máximo de 200000000$00 para a 4.ª classe.
 
 ### CAPÍTULO IV — Competência e atribuições da Comissão
 
-###### Art. 13.º Compete à Comissão examinar os pedidos de inscrição que sejam dirigidos ao presidente e resolver sobre eles.
+Art. 13.º Compete à Comissão examinar os pedidos de inscrição que sejam dirigidos ao presidente e resolver sobre eles.
 
 Mensalmente serão publicados no Diário do Governo as listas dos empreiteiros a quem foram passados alvarás, com a indicação das respectivas categorias, subcategorias e classes.
 
 § único. A apresentação de reclamações contra a inscrição feita pela Comissão será regulada, quanto a formalidades e prazos, pelas disposições dos artigos 17.º a 19.º do presente regulamento, salvo no que se refere às respectivas comunicações, que não serão enviadas com aviso de recepção.
 
-###### Art. 14.º Cumpre às direcções-gerais ou organismos equiparados do Ministério das Obras Públicas, às administrações que tenham a seu cargo trabalhos de construção, reconstrução, grande reparação ou adaptação de bens imóveis a fazer por conta do Estado, das autarquias locais e dos institutos públicos ou que pelo Estado sejam comparticipados e ainda às empresas concessionárias do Estado enviar à Comissão as informações de factos que impliquem falta de idoneidade moral dos empreiteiros ou revelem o seu estado de falência, a falta de meios de acção correspondentes à importância das obras que têm adjudicadas ou alterações ao disposto no artigo 4.º e seus parágrafos do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) no que diz respeito à constituição e gerência das empresas consideradas nacionais, e, bem assim, de todas as faltas cometidas na execução dos trabalhos por empreiteiros inscritos ou não e que sejam de natureza a justificar a aplicação de uma sanção, nos termos dos artigos 10.º e 11.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
+Art. 14.º Cumpre às direcções-gerais ou organismos equiparados do Ministério das Obras Públicas, às administrações que tenham a seu cargo trabalhos de construção, reconstrução, grande reparação ou adaptação de bens imóveis a fazer por conta do Estado, das autarquias locais e dos institutos públicos ou que pelo Estado sejam comparticipados e ainda às empresas concessionárias do Estado enviar à Comissão as informações de factos que impliquem falta de idoneidade moral dos empreiteiros ou revelem o seu estado de falência, a falta de meios de acção correspondentes à importância das obras que têm adjudicadas ou alterações ao disposto no artigo 4.º e seus parágrafos do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) no que diz respeito à constituição e gerência das empresas consideradas nacionais, e, bem assim, de todas as faltas cometidas na execução dos trabalhos por empreiteiros inscritos ou não e que sejam de natureza a justificar a aplicação de uma sanção, nos termos dos artigos 10.º e 11.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
 
 § 1.º As direcções-gerais ou organismos equiparados do Ministério das Obras Públicas enviarão à Comissão, na conclusão de cada obra, um duplicado devidamente preenchido do modelo n.º 2, intitulado: «Ministério das Obras Públicas - Cadastro dos empreiteiros - Boletim de informação», que é enviado, para efeito de organização do cadastro, à Secretaria-Geral do Ministério.
 
@@ -364,23 +392,23 @@ Da mesma forma procederá a Direcção-Geral dos Serviços de Urbanização em r
 
 § 3.º As entidades referidas no § 1.º enviarão à Comissão, até ao fim de Fevereiro de cada ano e com referência ao ano anterior, uma relação dos empreiteiros que executaram ou estiverem executando obras públicas nesse ano, com a indicação, para cada um deles, do seu nome e morada, designação das obras executadas ou em execução, sua localização administrativa e seu valor.
 
-###### Art. 15.º Ouvidas as partes em causa, a Comissão em sessão plenária apreciará se há lugar para aplicação de alguma das sanções previstas nos artigos 10.º e 11.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e resolverá em conformidade com as conclusões do seu exame.
+Art. 15.º Ouvidas as partes em causa, a Comissão em sessão plenária apreciará se há lugar para aplicação de alguma das sanções previstas nos artigos 10.º e 11.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e resolverá em conformidade com as conclusões do seu exame.
 
-###### Art. 16.º As suspensões ou cassações de alvarás serão imediatamente comunicadas, com aviso de recepção, ao interessado ou seu representante e à entidade participante, mas só terão efeito depois de decididas as eventuais reclamações, formuladas nos termos dos artigos seguintes.
+Art. 16.º As suspensões ou cassações de alvarás serão imediatamente comunicadas, com aviso de recepção, ao interessado ou seu representante e à entidade participante, mas só terão efeito depois de decididas as eventuais reclamações, formuladas nos termos dos artigos seguintes.
 
 § único. Exceptuam-se as comunicações relativas a suspensões de alvarás motivadas por falta do cumprimento do disposto nos artigos 24.º, 25.º, 26.º, 27.º e 29.º e seu § único, que não serão enviadas com aviso de recepção.
 
-###### Art. 17.º Os interessados podem reclamar para a Comissão, dentro do prazo de quinze dias, sobre a data da recepção do aviso a que se refere o artigo anterior. A decisão tomada sobre esta reclamação será imediatamente e pela mesma forma comunicada ao empreiteiro e à entidade participante.
+Art. 17.º Os interessados podem reclamar para a Comissão, dentro do prazo de quinze dias, sobre a data da recepção do aviso a que se refere o artigo anterior. A decisão tomada sobre esta reclamação será imediatamente e pela mesma forma comunicada ao empreiteiro e à entidade participante.
 
 § único. As reclamações sobre suspensões de alvarás motivadas por falta do cumprimento do disposto nos artigos 24.º, 25.º, 26.º, 27.º e 29.º e seu § único só serão aceites quando nelas se faça a prova iniludível de que foi feita nos prazos legais a entrega dos documentos cuja falta motivou a aplicação dessa penalidade.
 
-###### Art. 18.º A reclamação para o Ministro contra a decisão da Comissão deverá ser apresentada no prazo de dez dias, contados da data da recepção do aviso, comunicando essa decisão.
+Art. 18.º A reclamação para o Ministro contra a decisão da Comissão deverá ser apresentada no prazo de dez dias, contados da data da recepção do aviso, comunicando essa decisão.
 
-###### Art. 19.º Decorridos estes prazos sem apresentação de reclamações consideram-se definitivas as decisões tomadas.
+Art. 19.º Decorridos estes prazos sem apresentação de reclamações consideram-se definitivas as decisões tomadas.
 
-###### Art. 20.º As decisões definitivas serão publicadas no Diário do Governo.
+Art. 20.º As decisões definitivas serão publicadas no Diário do Governo.
 
-###### Art. 21.º Resolvida a suspensão, o cancelamento ou a cessação o empreiteiro atingido deverá fazer a entrega à Comissão do alvará nos quinze dias seguintes à publicação da decisão definitiva no Diário do Governo, sob pena, nos termos do disposto no § 1.º do artigo 12.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, com a redacção dada pelo [Decreto-Lei n.º 43563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43563-1961-559425), de 27 de Março de 1961, de o mesmo lhe ser apreendido pelas autoridades policiais.
+Art. 21.º Resolvida a suspensão, o cancelamento ou a cessação o empreiteiro atingido deverá fazer a entrega à Comissão do alvará nos quinze dias seguintes à publicação da decisão definitiva no Diário do Governo, sob pena, nos termos do disposto no § 1.º do artigo 12.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, com a redacção dada pelo [Decreto-Lei n.º 43563](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43563-1961-559425), de 27 de Março de 1961, de o mesmo lhe ser apreendido pelas autoridades policiais.
 
 § 1.º Os empreiteiros que sonegarem os alvarás que tenham sido suspensos, cancelados ou cassados, impedindo assim que seja feita a sua apreensão, serão considerados em exercício ilegal da profissão.
 
@@ -388,7 +416,7 @@ Da mesma forma procederá a Direcção-Geral dos Serviços de Urbanização em r
 
 ### CAPÍTULO V — Instrução dos processos
 
-###### Art. 22.º A inscrição é requerida ao presidente da Comissão e deve ser sempre instruída com a documentação seguinte:
+Art. 22.º A inscrição é requerida ao presidente da Comissão e deve ser sempre instruída com a documentação seguinte:
 
 1.º Um requerimento por cada pedido de inscrição, mencionando a categoria ou subcategoria e a classe em que pretende ser inscrito;
 
@@ -450,41 +478,41 @@ Quando a tecnicidade dos trabalhos, evolução da indústria, condições do exe
 
 § 4.º Para a admissão aos concursos de obras públicas ou equiparadas será exigida a indicação do número e data do alvará de inscrição. No acto da assinatura do contrato poderá ser exigida a exibição do alvará ou de pública-forma do mesmo passada em data posterior à da adjudicação.
 
-###### Art. 23.º Os empreiteiros já inscritos e classificados cujos técnicos, referidos no n.º 4.º do artigo 22.º deste regulamento, passem a estar abrangidos pelo disposto no § 2.º do artigo 5.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), com a redacção dada pelo [Decreto-Lei n.º 42200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42200-1959-586252), de 1 de Abril de 1959, comunicá-lo-ão à Comissão no prazo de oito dias, contados da data da nomeação dos mesmos técnicos para o cargo incompatível e providenciarão imediatamente no sentido da sua substituição, sob pena de suspensão dos alvarás concedidos, nos termos do § único do artigo 10.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), com a redacção dada pelo [Decreto-Lei n.º 42200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42200-1959-586252), de 1 de Abril de 1959.
+Art. 23.º Os empreiteiros já inscritos e classificados cujos técnicos, referidos no n.º 4.º do artigo 22.º deste regulamento, passem a estar abrangidos pelo disposto no § 2.º do artigo 5.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), com a redacção dada pelo [Decreto-Lei n.º 42200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42200-1959-586252), de 1 de Abril de 1959, comunicá-lo-ão à Comissão no prazo de oito dias, contados da data da nomeação dos mesmos técnicos para o cargo incompatível e providenciarão imediatamente no sentido da sua substituição, sob pena de suspensão dos alvarás concedidos, nos termos do § único do artigo 10.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), com a redacção dada pelo [Decreto-Lei n.º 42200](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42200-1959-586252), de 1 de Abril de 1959.
 
 ### CAPÍTULO VI — Modificação das categorias e classes e dos recursos dos empreiteiros inscritos em geral - Penalidades
 
-###### Art. 24.º Quando se verificarem alterações nos quadros técnicos dos empreiteiros inscritos deverão estes comunicá-las à Comissão, com as indicações exigidas no n.º 4.º do artigo 22.º e juntando as declarações dos novos técnicos a que a mesma disposição se refere.
+Art. 24.º Quando se verificarem alterações nos quadros técnicos dos empreiteiros inscritos deverão estes comunicá-las à Comissão, com as indicações exigidas no n.º 4.º do artigo 22.º e juntando as declarações dos novos técnicos a que a mesma disposição se refere.
 
-###### Art. 25.º Sempre que haja alterações importantes no equipamento que possam implicar mudança de categoria, de subcategoria ou de classe deverão ser comunicadas discriminadamente.
+Art. 25.º Sempre que haja alterações importantes no equipamento que possam implicar mudança de categoria, de subcategoria ou de classe deverão ser comunicadas discriminadamente.
 
-###### Art. 26.º Deverão ser sempre comunicadas à Comissão todas as alterações no pacto social das sociedades por quotas e em nome colectivo, mudanças de sede, cessões de quotas, alterações de participações no capital de sociedades em nome colectivo, nomeação ou demissão de gerentes, juntando-se à documentação indicada no n.º 8.º do artigo 22.º deste regulamento as certidões das respectivas escrituras - que poderão ser substituídas pelos documentos referidos no n.º 3.º do mesmo artigo - ou de actas, as certidões do seu registo na Repartição do Comércio e, ainda, tratando-se de mudança de sede, as notas de averbamento ou certidão da nova matrícula no registo comercial, consoante a nova sede for situada na área da conservatória onde estiver feita a matrícula ou na área de outra conservatória.
+Art. 26.º Deverão ser sempre comunicadas à Comissão todas as alterações no pacto social das sociedades por quotas e em nome colectivo, mudanças de sede, cessões de quotas, alterações de participações no capital de sociedades em nome colectivo, nomeação ou demissão de gerentes, juntando-se à documentação indicada no n.º 8.º do artigo 22.º deste regulamento as certidões das respectivas escrituras - que poderão ser substituídas pelos documentos referidos no n.º 3.º do mesmo artigo - ou de actas, as certidões do seu registo na Repartição do Comércio e, ainda, tratando-se de mudança de sede, as notas de averbamento ou certidão da nova matrícula no registo comercial, consoante a nova sede for situada na área da conservatória onde estiver feita a matrícula ou na área de outra conservatória.
 
 § 1.º As empresas individuais comunicarão também sempre à Comissão as mudanças quer da firma comercial que usam, quer da situação do seu escritório ou estabelecimento, juntando no primeiro caso notas de averbamento e no segundo notas de averbamento ou certidões da nova matrícula no registo comercial, consoante a situação do novo escritório ou estabelecimento for na área da conservatória onde estiver feita a matrícula ou na de outra conservatória.
 
 § 2.º As alterações da denominação social e as mudanças de sede das sociedades por quotas e em nome colectivo, e bem assim as mudanças da firma comercial e da situação dos escritórios ou estabelecimentos das empresas individuais, deverão constar, obrigatòriamente e por meio de averbamento, dos alvarás passados.
 
-###### Art. 27.º As sociedades anónimas comunicarão à Comissão todas as alterações no seu pacto social, nas pessoas dos seus corpos gerentes e nas pessoas com acções averbadas, acompanhando a comunicação das certidões das respectivas escrituras ou documentos equivalentes, certidão do seu registo na Repartição do Comércio, certidão da acta da assembleia geral, em caso de eleição, e documento bastante sobre as acções averbadas, assim como de comprovação da nacionalidade dos novos administradores, gerentes ou accionistas com acções averbadas.
+Art. 27.º As sociedades anónimas comunicarão à Comissão todas as alterações no seu pacto social, nas pessoas dos seus corpos gerentes e nas pessoas com acções averbadas, acompanhando a comunicação das certidões das respectivas escrituras ou documentos equivalentes, certidão do seu registo na Repartição do Comércio, certidão da acta da assembleia geral, em caso de eleição, e documento bastante sobre as acções averbadas, assim como de comprovação da nacionalidade dos novos administradores, gerentes ou accionistas com acções averbadas.
 
 § único. É aplicável às sociedades anónimas o disposto no artigo 26.º e seu § 2.º deste regulamento, na parte referente a alterações de denominação social e a mudanças de sede.
 
-###### Art. 28.º A falta do cumprimento do disposto nos artigos 23.º, 24.º 25.º, 26.º e seus parágrafos e 27.º e seu § único, no prazo de 60 dias, contados da data em que se verificou o facto por eles abrangido, implica a suspensão dos alvarás.
+Art. 28.º A falta do cumprimento do disposto nos artigos 23.º, 24.º 25.º, 26.º e seus parágrafos e 27.º e seu § único, no prazo de 60 dias, contados da data em que se verificou o facto por eles abrangido, implica a suspensão dos alvarás.
 
-###### Art. 29.º Os empreiteiros inscritos entregarão à Comissão, até ao último dia de Fevereiro de cada ano, e com referência ao ano anterior, relações por cada inscrição concedida em modelo n.º 1 ou n.º 1-A, devidamente preenchidas e relativas, respectivamente, às obras executadas e em execução tanto públicas como particulares e que nela se enquadrem sob pena de suspensão do alvará.
+Art. 29.º Os empreiteiros inscritos entregarão à Comissão, até ao último dia de Fevereiro de cada ano, e com referência ao ano anterior, relações por cada inscrição concedida em modelo n.º 1 ou n.º 1-A, devidamente preenchidas e relativas, respectivamente, às obras executadas e em execução tanto públicas como particulares e que nela se enquadrem sob pena de suspensão do alvará.
 
 § único. Incorrem também na penalidade estabelecida no corpo deste artigo os empreiteiros inscritos que, não tendo executado ou não tendo em execução qualquer obra no ano anterior, não entregarem à Comissão e no prazo nele fixado a respectiva declaração relativa a cada alvará, em modelo n.º 2 devidamente preenchido.
 
-###### Art. 30.º Os serviços fiscalizadores de obras públicas, ou como tais considerados no § 2.º do artigo 1.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), enviarão à Comissão, na conclusão de cada empreitada, uma relação dos principais elementos do equipamento técnico do empreiteiro empregado nas obras, com indicação do seu estado de conservação.
+Art. 30.º Os serviços fiscalizadores de obras públicas, ou como tais considerados no § 2.º do artigo 1.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), enviarão à Comissão, na conclusão de cada empreitada, uma relação dos principais elementos do equipamento técnico do empreiteiro empregado nas obras, com indicação do seu estado de conservação.
 
-###### Art. 31.º Caducarão as deliberações da Comissão já tomadas sobre pedidos de inscrição e classificação e de que tenha resultado a concessão de alvarás relativamente aos empreiteiros de obras públicas que não pagarem as respectivas taxas referidas no artigo 18.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) no prazo de 60 dias, contados da data da publicação deste regulamento.
+Art. 31.º Caducarão as deliberações da Comissão já tomadas sobre pedidos de inscrição e classificação e de que tenha resultado a concessão de alvarás relativamente aos empreiteiros de obras públicas que não pagarem as respectivas taxas referidas no artigo 18.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) no prazo de 60 dias, contados da data da publicação deste regulamento.
 
 § 1.º O disposto no corpo deste artigo é tornado extensivo às futuras deliberações da Comissão sempre que os empreiteiros de obras públicas a quem forem concedidos alvarás não pagarem as respectivas taxas no prazo de 90 dias, contados da data do aviso em que lhes for comunicada a sua concessão.
 
 § 2.º Os processos relativos aos pedidos de inscrição e classificação aos quais for aplicado o disposto no corpo deste artigo e no seu § 1.º serão imediatamente arquivados e qualquer posterior renovação desses pedidos implicará a organização de novo processo.
 
-###### Art. 32.º As modificações de alvarás por motivo da aplicação do artigo 8.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) ou por motivo de alterações regulamentares serão feitas até ao fim do 1.º mês do ano seguinte àquele em que ocorrerem os factos que as determinaram.
+Art. 32.º As modificações de alvarás por motivo da aplicação do artigo 8.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) ou por motivo de alterações regulamentares serão feitas até ao fim do 1.º mês do ano seguinte àquele em que ocorrerem os factos que as determinaram.
 
-###### Art. 33.º Os documentos a apresentar pelos empreiteiros deverão ser lavrados em papel selado.
+Art. 33.º Os documentos a apresentar pelos empreiteiros deverão ser lavrados em papel selado.
 
 Tratando-se de documentos passados por um serviço público ou por particulares, cada uma das folhas deverá ser selada com um selo de 5$00.
 
@@ -492,14 +520,14 @@ Ministério das Obras Públicas, 16 de Maio de 1961. - O Ministro das Obras Púb
 
 Modelo n.º 1 (artigo 29.º do regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf)
 
 Modelo n.º 1-A (artigo 29.º do regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf)
 
 Modelo n.º 2 (§ único do artigo 29.º do regulamento).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf))](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/11400/05910599.pdf)
 
 Ministério das Obras Públicas, 16 de Maio de 1961. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1990-333556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eb5a3c168eee188ffa205dbac26e58f0e5f64d72bcd90e16490366e069b64a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4112893985c54a939914dffc5dc5fc23df152a9fc769e8bf78b3a205660774ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Bagagem
+- Controlo Aduaneiro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:35Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +96,22 @@ Ponderada a necessidade de actualização de algumas normas processuais constant
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 30.º e 46.º do Decreto-Lei n.º 176/85, de 22 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 30.º e 46.º do Decreto-Lei n.º 176/85, de 22 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 30.º Qualquer pessoa poderá efectuar o desalfandegamento da bagagem manifestada de um viajante, desde que apresente às autoridades aduaneiras declaração escrita das mercadorias para clara fixação da responsabilidade fiscal em que possa incorrer o mesmo viajante.
+Art. 30.º Qualquer pessoa poderá efectuar o desalfandegamento da bagagem manifestada de um viajante, desde que apresente às autoridades aduaneiras declaração escrita das mercadorias para clara fixação da responsabilidade fiscal em que possa incorrer o mesmo viajante.
 
-###### Art. 46.º A isenção de direitos de importação das bagagens dos viajantes que venham fixar domicílio no território nacional é concedida pelos directores das alfândegas, que poderão delegar esta competência nos chefes das estâncias aduaneiras.
+Art. 46.º A isenção de direitos de importação das bagagens dos viajantes que venham fixar domicílio no território nacional é concedida pelos directores das alfândegas, que poderão delegar esta competência nos chefes das estâncias aduaneiras.
 
-###### Art. 2.º São revogados os artigos 6.º e 9.º, o n.º 3 do artigo 12.º, os artigos 27.º e 28.º e o n.º 2 do artigo 51.º do Decreto-Lei n.º 176/85, de 22 de Maio.
+Art. 2.º São revogados os artigos 6.º e 9.º, o n.º 3 do artigo 12.º, os artigos 27.º e 28.º e o n.º 2 do artigo 51.º do Decreto-Lei n.º 176/85, de 22 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 31 de Dezembro de 1989.**
+Promulgado em 31 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Janeiro de 1990.**
+Referendado em 5 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1990-573113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 415149bb0666b04e768f7d23fe68e8868bffdbd1939064b04e3224da93daccaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fe3e2e7e441e48b13f152f39affff96f601558c54e571efddd450b8a0a28568
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autonomia Administrativa
+- CASA do POVO
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:151919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552992:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:15Z'
   warnings: []
   errors: []
 ---
@@ -185,12 +208,12 @@ O presente diploma entra em vigor no dia 1 de Agosto de 1990.
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Penada.
 
-**Promulgado em 18 de Julho de 1990.**
+Promulgado em 18 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Julho de 1990.**
+Referendado em 20 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

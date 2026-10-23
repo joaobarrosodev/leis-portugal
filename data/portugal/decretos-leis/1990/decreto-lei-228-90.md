@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/15700/28892889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1990-575697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ced1788a1f79c5081055ac8a52bac441c278a3472f11a5ee5e936eacc9bdb77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0cca504ea7eeecf43601332e80c52399a12396756c8a1662e9b1e39982208ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Brucelose
+- Carne
+- Carne de Vaca
+- CEE
+- Decisão CE
+- Direcção Geral da Pecuária
+- Doença Animal
+- Gado Bovino
+- Leucose Animal
+- Política Agrícola Comum
+- Tuberculose
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:48Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +114,9 @@ Considerando que se torna necessário prever a transferência para o IFADAP de p
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 10.º do Decreto-Lei n.º 251/88, de 16 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do Decreto-Lei n.º 251/88, de 16 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 a) ...
 
@@ -107,16 +124,16 @@ b) 20% da receita depositada à ordem da Direcção-Geral da Pecuária, nos term
 
 2 - As verbas previstas no número anterior são transferidas para o IFADAP, que as movimenta de acordo com a sua competência.
 
-###### Art. 2.º O pagamento das indemnizações por abate compulsivo resultantes da execução dos planos de erradicação da brucelose, da tuberculose e da leucose enzoótica dos bovinos, previstas no Decreto-Lei n.º 251/88, de 16 de Julho, será efectuado no prazo máximo de 30 dias úteis após a data do abate.
+Art. 2.º O pagamento das indemnizações por abate compulsivo resultantes da execução dos planos de erradicação da brucelose, da tuberculose e da leucose enzoótica dos bovinos, previstas no Decreto-Lei n.º 251/88, de 16 de Julho, será efectuado no prazo máximo de 30 dias úteis após a data do abate.
 
 Visto e aprovado em Conselho de Ministros de 7 de Junho de - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 27 de Junho de 1990.**
+Promulgado em 27 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1990.**
+Referendado em 29 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

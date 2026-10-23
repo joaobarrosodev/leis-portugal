@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1990-333536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5d6b2780739dfdb0d4b338e7a2161ac55413f06cd3bd8c786bf4d60a958d944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e0fc388dabc393d162a4f4cef4971090f2e9e5e1545c23b9aa4b989f2574873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA NON Aedificandi
+- Caminhos de Ferro Portugueses
+- Lisboa
+- Sintra
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:20Z'
   warnings: []
   errors: []
 ---
@@ -101,25 +123,25 @@ Considerando, finalmente, que os limites da zona non aedificandi prevista no Reg
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos, estudos prévios ou anteprojectos de remodelação ou ampliação das infra-estruturas ferroviárias na linha do Oeste serão consideradas áreas non aedificandi as faixas de terreno confinantes à esquerda e à direita da via entre os quilómetros 7 e 11,360, conforme os limites e distâncias expressos nos desenhos n.os 11 917, 11 918, 11 919, 11 920 e V-010 138, que constituem o anexo I, que faz parte integrante deste diploma, e discriminados nos quadros de valores e distâncias contidos no anexo II, que faz parte integrante do presente diploma.
+Artigo 1.º Até à aprovação dos planos, estudos prévios ou anteprojectos de remodelação ou ampliação das infra-estruturas ferroviárias na linha do Oeste serão consideradas áreas non aedificandi as faixas de terreno confinantes à esquerda e à direita da via entre os quilómetros 7 e 11,360, conforme os limites e distâncias expressos nos desenhos n.os 11 917, 11 918, 11 919, 11 920 e V-010 138, que constituem o anexo I, que faz parte integrante deste diploma, e discriminados nos quadros de valores e distâncias contidos no anexo II, que faz parte integrante do presente diploma.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de construção ou ampliação nas áreas referidas no artigo anterior ficarão sujeitas, caso a caso, à autorização e aprovação especial do Ministro das Obras Públicas, Transportes e Comunicações, sob proposta dos Caminhos de Ferro Portugueses, E. P.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de construção ou ampliação nas áreas referidas no artigo anterior ficarão sujeitas, caso a caso, à autorização e aprovação especial do Ministro das Obras Públicas, Transportes e Comunicações, sob proposta dos Caminhos de Ferro Portugueses, E. P.
 
-###### Art. 3.º É revogado o [Decreto Regulamentar n.º 5/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1979-383863), de 13 de Março.
+Art. 3.º É revogado o [Decreto Regulamentar n.º 5/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1979-383863), de 13 de Março.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 21 de Dezembro de 1989.**
+Promulgado em 21 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1989.**
+Referendado em 27 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf)
 
 ## ANEXO II — Linha do Oeste
 
@@ -127,4 +149,4 @@ Concelho da Amadora
 
 Terrenos a declarar como área non aedificandi
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01400/02410242.pdf)

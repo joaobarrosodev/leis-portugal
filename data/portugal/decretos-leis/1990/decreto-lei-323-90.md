@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1990-565581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85f972fa364dcfd7b16d1d79a8613f67976febaba60b63a5d43102d8c2e5e65a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49483ad68a9099a3011c1c2e17a53d41beaae243f7f002534fab989bfd3d252d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carta de Condução
+- Forças Armadas
+- Militar
+- Reforma
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:263558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:55Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +104,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 48673](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48673-1968-263558), de 11 de Novembro de 1968, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 48673](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48673-1968-263558), de 11 de Novembro de 1968, passa a ter a seguinte redacção:
 
-###### Artigo 1.º Os boletins de condução de que sejam titulares os oficiais, sargentos e praças dos quadros permanentes das forças armadas continuam a ser válidos quando aqueles militares se encontrem nas situações de reserva ou reforma.
+Artigo 1.º Os boletins de condução de que sejam titulares os oficiais, sargentos e praças dos quadros permanentes das forças armadas continuam a ser válidos quando aqueles militares se encontrem nas situações de reserva ou reforma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Joaquim Fernando Nogueira. - Joaquim Fernando Nogueira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 4 de Outubro de 1990.**
+Promulgado em 4 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1990.**
+Referendado em 10 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

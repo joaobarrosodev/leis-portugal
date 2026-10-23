@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 145/1990, 1º Suplemento, Série I de 1990-06-26
   number: '145'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2694-(2) a 2694-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14501/00020002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-1990-339473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 001b42cdce791fb2015f64728fb19d383a5e3040d90a81daf1f6952b4f3b9697
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73732c697f3f57abae6765dc6e2e93d972b84a820abf0af16a81148f79d26893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Comparticipação do Estado
+- Desenvolvimento Rural
+- FIDA
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:15Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +100,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças autorizado a concretizar a contribuição do Governo Português para os recursos do IFAD, no montante de 1 milhão de dólares dos Estados Unidos da América (USD).
+Artigo 1.º Fica o Ministro das Finanças autorizado a concretizar a contribuição do Governo Português para os recursos do IFAD, no montante de 1 milhão de dólares dos Estados Unidos da América (USD).
 
-###### Art. 2.º O governador e o governador suplente no IFAD são nomeados por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 2.º O governador e o governador suplente no IFAD são nomeados por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 3.º Em representação do Governo, fica o Ministro das Finanças autorizado a praticar todos os actos necessários à realização da contribuição referida no artigo 1.º, nomeadamente:
+Art. 3.º Em representação do Governo, fica o Ministro das Finanças autorizado a praticar todos os actos necessários à realização da contribuição referida no artigo 1.º, nomeadamente:
 
 a) A inscrever no Orçamento do Estado as verbas que forem necessárias para ocorrer aos encargos inerentes à realização da presente contribuição;
 
 b) A emitir os títulos de obrigação (promissórias) a que venha a haver lugar nos termos do regime aplicável à presente reconstituição.
 
-###### Art. 4.º - 1 - Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
+Art. 4.º - 1 - Das promissórias mencionadas no artigo precedente, cujo serviço de emissão ficará a cargo da Junta do Crédito Público, constarão os seguintes elementos:
 
 a) Número de ordem;
 
@@ -121,12 +126,12 @@ e) Direitos, isenções e garantias de que gozam e que são os dos restantes tí
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 22 de Junho de 1990.**
+Promulgado em 22 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Junho de 1990.**
+Referendado em 25 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

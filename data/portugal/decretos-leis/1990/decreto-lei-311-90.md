@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/22700/40574058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1990-554608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cff438502320eb5f3a58549626591f806237137194af5a6fcd715d572d8e3c7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2f61254f8d6b05c03c3f0c6c45ec8b30cfeeee444aabbb18ec3164a49ba4aab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições da Segurança Social
+- Prorrogação de Prazo
+- Segurança Social
+- Trabalhador Independente
 relationships:
 - type: amended_by
   target: pt:dre:189476:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:653124:por
+  label: "Revogado pelo DEC LEI.328/93.25.09.1993.MESS, DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1993-653124
+  date: '1993-09-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:40Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +113,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O valor das bases de incidência contributiva que, em relação a cada beneficiário do regime de segurança social dos trabalhadores independentes, se encontre em aplicação em 30 de Junho de 1990 por força do disposto no [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, e demais legislação aplicável mantém-se inalterável até à aprovação do novo regime de segurança social dos trabalhadores independentes.
+Artigo 1.º O valor das bases de incidência contributiva que, em relação a cada beneficiário do regime de segurança social dos trabalhadores independentes, se encontre em aplicação em 30 de Junho de 1990 por força do disposto no [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, e demais legislação aplicável mantém-se inalterável até à aprovação do novo regime de segurança social dos trabalhadores independentes.
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Julho de 1990.
+Art. 2.º O presente diploma produz efeitos desde 1 de Julho de 1990.
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Peneda.
 
-**Promulgado em 13 de Setembro de 1990.**
+Promulgado em 13 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Setembro de 1990.**
+Referendado em 17 de Setembro de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

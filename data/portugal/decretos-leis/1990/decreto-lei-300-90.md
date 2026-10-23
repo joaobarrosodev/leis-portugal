@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 221/1990, 1º Suplemento, Série I de 1990-09-24
   number: '221'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3946-(2) a 3946-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22101/00020005.pdf
 entry_into_force_dates: []
@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1990-575515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eef6c2f7935816647953593c09bd360202c63a6695ce8ec8a3cba5aaf996e59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a478b0aa0b5926fb163d78e9e287713b8c3551bbb5f10fe278aaa015114a07ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capital Social
+- Centralcer
+- Estatuto
+- Privatização
+- Sociedade Anónima
+relationships:
+- type: cites
+  target: pt:dre:276643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:25Z'
   warnings: []
   errors: []
 ---
@@ -93,29 +106,29 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública CENTRALCER - Central de Cervejas, E. P., criada pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima, com a denominação de CENTRALCER - Central de Cervejas, S. A.
+Artigo 1.º - 1 - A empresa pública CENTRALCER - Central de Cervejas, E. P., criada pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima, com a denominação de CENTRALCER - Central de Cervejas, S. A.
 
 2 - A CENTRALCER - Central de Cervejas, S. A., rege-se pelo presente diploma, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos seus estatutos.
 
-###### Art. 2.º - 1 - A CENTRALCER - Central de Cervejas, S. A., continua, sob forma de sociedade anónima, a personalidade jurídica da empresa pública CENTRALCER - Central de Cervejas, E. P., conservando todos os direitos e obrigações integrantes da sua esfera jurídica.
+Art. 2.º - 1 - A CENTRALCER - Central de Cervejas, S. A., continua, sob forma de sociedade anónima, a personalidade jurídica da empresa pública CENTRALCER - Central de Cervejas, E. P., conservando todos os direitos e obrigações integrantes da sua esfera jurídica.
 
 2 - A transformação efectuada pelo artigo anterior em nada afecta os direitos e obrigações dos trabalhadores e pensionistas da CENTRALCER - Central de Cervejas, E. P.
 
 3 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas e emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da CENTRALCER - Central de Cervejas, S. A.
 
-###### Art. 3.º Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho do Ministro das Finanças.
+Art. 3.º Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - O capital da CENTRALCER - Central de Cervejas, S. A., é de 9500000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+Art. 4.º - 1 - O capital da CENTRALCER - Central de Cervejas, S. A., é de 9500000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
 2 - As acções representativas do capital da sociedade poderão ser escriturais e, enquanto se mantiver a limitação instituída pelos artigos 10.º, n.º 1, e 12.º, n.º 1, serão obrigatoriamente nominativas ou ao portador registadas.
 
-###### Art. 5.º - 1 - São aprovados os estatutos da CENTRALCER - Central de Cervejas, S. A., anexos ao presente diploma.
+Art. 5.º - 1 - São aprovados os estatutos da CENTRALCER - Central de Cervejas, S. A., anexos ao presente diploma.
 
 2 - A alteração efectuada pelo artigo 1.º, bem como os estatutos da CENTRALCER - Central de Cervejas, S. A., agora aprovados, produzem efeitos relativamente a terceiros independentemente de registo, o qual, no entanto, deve ser requerido nos 30 dias seguintes à data da entrada em vigor do presente diploma.
 
 3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 6.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, do presente diploma e da resolução do Conselho de Ministros a que se refere o artigo 15.º do presente diploma, adiante designada por resolução do Conselho de Ministros, é aprovada a alienação da totalidade das acções representativas do capital social da sociedade.
+Art. 6.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, do presente diploma e da resolução do Conselho de Ministros a que se refere o artigo 15.º do presente diploma, adiante designada por resolução do Conselho de Ministros, é aprovada a alienação da totalidade das acções representativas do capital social da sociedade.
 
 2 - Serão reservados para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes até 20% do total das acções a alienar.
 
@@ -125,7 +138,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Para efeitos do disposto no n.º 2, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 7.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar mediante resolução do Conselho de Ministros.
+Art. 7.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar mediante resolução do Conselho de Ministros.
 
 2 - As propostas de aquisição de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar na resolução do Conselho de Ministros, procedendo-se a rateio, em função do número de subscritores, se disso for caso.
 
@@ -139,7 +152,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - Nos 15 dias seguintes ao termo do processo de reprivatização, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular.
 
-###### Art. 8.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
+Art. 8.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
 
 2 - Exceptuadas as transmissões para os accionistas que compõem o bloco, as acções adquiridas nos termos do n.º 4 do artigo 6.º são indisponíveis durante cinco anos.
 
@@ -149,7 +162,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - São nulos os acordos pelos quais os titulares das acções a que se refere o n.º 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas.
 
-###### Art. 9.º - 1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
+Art. 9.º - 1 - A resolução do Conselho de Ministros fixará preços especiais para as aquisições de acções por trabalhadores, pequenos subscritores e emigrantes.
 
 2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções previsto no n.º 3, em condições a fixar na resolução do Conselho de Ministros.
 
@@ -163,7 +176,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - As acções adquiridas por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade.
 
-###### Art. 10.º - 1 - No processo de reprivatização não podem ser adquiridas por entidades estrangeiras acções que excedam 30% do capital da sociedade.
+Art. 10.º - 1 - No processo de reprivatização não podem ser adquiridas por entidades estrangeiras acções que excedam 30% do capital da sociedade.
 
 2 - Se existir a alienação em bloco de uma parte das acções, como referido no n.º 4 do artigo 6.º, o limite referido no número anterior será fraccionado em partes iguais para as acções adquiridas dentro e fora do bloco.
 
@@ -175,7 +188,7 @@ b) Os acordos pelos quais entidades portuguesas e estrangeiras se obriguem a ent
 
 c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a uma entidade estrangeira, interveniente ou não no processo de reprivatização, seja atribuído o direito de adquirir acções que, por aquele processo, pertençam a entidades portuguesas.
 
-###### Art. 11.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
+Art. 11.º - 1 - São nulos os acordos pelos quais entidades portuguesas adquiram, no processo de reprivatização, acções em nome próprio mas por conta de entidades estrangeiras e, bem assim, são nulas as aquisições efectuadas por aquelas entidades nas referidas condições.
 
 2 - São nulos os acordos pelos quais, durante o período de indisponibilidade referido no n.º 2 do artigo 8.º, entidades portuguesas adquiram acções da sociedade reprivatizada em nome próprio mas por conta de entidades estrangeiras.
 
@@ -183,7 +196,7 @@ c) Os contratos-promessa, contratos de opção ou quaisquer outros pelos quais a
 
 4 - No caso do n.º 1 deste artigo, as acções adquiridas reputam-se para todos os efeitos pertencentes à entidade portuguesa, devendo esta restituir à entidade estrangeira os fundos que dela tenha recebido para o efeito.
 
-###### Art. 12.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:
+Art. 12.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:
 
 a) Não podem ser inscritas ou averbadas a entidades estrangeiras acções com direito de voto representativas de mais de 30% do capital social com direito a voto;
 
@@ -193,7 +206,7 @@ c) Nas sociedades, ordinárias ou gestoras de participações sociais, titulares
 
 2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e provas que considerar necessárias.
 
-###### Art. 13.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
+Art. 13.º - 1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As sociedades ou entidades equiparáveis constituídas ao abrigo de lei estrangeira;
 
@@ -203,31 +216,31 @@ b) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Códig
 
 3 - Cada entidade colectiva concorrente declarará, por escrito, se se encontra ou não em relação prevista no número anterior com outra entidade também concorrente.
 
-###### Art. 14.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 14.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 15.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 15.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 16.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Art. 16.º Para efeitos da primeira assembleia geral de accionistas, não serão consideradas as transmissões de acções até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
 
-###### Art. 17.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais nos termos do número seguinte, os membros do conselho de gerência e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
+Art. 17.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais nos termos do número seguinte, os membros do conselho de gerência e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
 
 2 - Nos 30 dias seguintes à alienação das acções, o conselho de administração convocará a assembleia geral dos accionistas, para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 3 - A assembleia geral referida no número anterior será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário um accionista por aquele escolhido.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 20 de Setembro de 1990.**
+Promulgado em 20 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1990.**
+Referendado em 20 de Setembro de 1990.
 
-**O Primeiro-Ministro, Joaquim Fernando Nogueira, Primeiro-Ministro em exercício.**
+O Primeiro-Ministro, Joaquim Fernando Nogueira, Primeiro-Ministro em exercício.
 
 ESTATUTOS
 
@@ -393,4 +406,4 @@ b) Caduca automaticamente o artigo anterior.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.

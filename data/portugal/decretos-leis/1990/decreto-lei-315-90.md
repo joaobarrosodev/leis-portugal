@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23700/42754275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1990-555831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364f96f9b0e40fe281922efdcd29662a25fa89dc2165c98f652b790d22a196e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ced03419e7566b71c25ae4d7a6bff7f8b033f95ce9fc6ae6ea532ffa89588fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Circulação de Mercadorias
+- Direitos de Importação
+- Importação
+- Pauta dos Direitos de Importação
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590341:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:40Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +115,26 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 34.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A taxa da Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 444/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1989-590341), de 29 de Dezembro, relativa a pilhas alcalinas de bióxido de manganês, classificadas na subposição 85061110, é alterada para 8,9%.
+Artigo 1.º A taxa da Pauta dos Direitos de Importação, aprovada pelo [Decreto-Lei n.º 444/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1989-590341), de 29 de Dezembro, relativa a pilhas alcalinas de bióxido de manganês, classificadas na subposição 85061110, é alterada para 8,9%.
 
-###### Art. 2.º A taxa da Pauta referida no artigo anterior, incidente sobre peças de caixas de relógios da subposição 91119000, é alterada para 7,9%.
+Art. 2.º A taxa da Pauta referida no artigo anterior, incidente sobre peças de caixas de relógios da subposição 91119000, é alterada para 7,9%.
 
-###### Art. 3.º A nota (001) do capítulo 39 da Pauta referida no artigo 1.º passa a ter a seguinte redacção:
+Art. 3.º A nota (001) do capítulo 39 da Pauta referida no artigo 1.º passa a ter a seguinte redacção:
 
 Os preparados para moldação de discos musicais estão sujeitos à taxa de 12,5%.
 
-###### Art. 4.º É suspensa a cobrança dos direitos aplicáveis a peixes vivos de água do mar, da subposição NC 03019990, importados das Comunidades Europeias.
+Art. 4.º É suspensa a cobrança dos direitos aplicáveis a peixes vivos de água do mar, da subposição NC 03019990, importados das Comunidades Europeias.
 
-###### Art. 5.º O artigo 1.º produz efeitos desde 1 de Junho de 1990 e o artigo 4.º desde 2 de Abril de 1990.
+Art. 5.º O artigo 1.º produz efeitos desde 1 de Junho de 1990 e o artigo 4.º desde 2 de Abril de 1990.
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - Luís Fernando Mira Amaral.
 
-**Promulgado em 28 de Setembro de 1990.**
+Promulgado em 28 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1990.**
+Referendado em 3 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

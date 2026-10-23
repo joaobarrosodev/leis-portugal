@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18567-1961-172877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59f1f0dea1e313b8a3d123da9724c46ead904917124d81b50ab19fd01b3cb531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7d1eb51d597a83a04f7b95aad230c94ebdeb33a0da640b2b836e9d0c30d3301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:559176:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:47Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +97,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 A) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/15300/08050806.pdf))](https://files.diariodarepublica.pt/1s/1961/07/15300/08050806.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/15300/08050806.pdf)
 
 B) Pessoal civil assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/15300/08050806.pdf))](https://files.diariodarepublica.pt/1s/1961/07/15300/08050806.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/15300/08050806.pdf)
 
 Considerando a forma de recrutamento estabelecida nos n.os 3.º, 4.º e 5.º da referida [Portaria n.º 18369](https://diariodarepublica.pt/dr/detalhe/portaria/18369-1961-559176), devem entender-se como limites máximos a abonar no ultramar os vencimentos e salários agora fixados.
 

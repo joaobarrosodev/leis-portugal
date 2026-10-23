@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25100/44694475.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9edf341e0cdab2363aeb49ed730b511031747500f269efed596d5abbc7cc40b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc4ba0b165482e22eb281365c4bb03743a6f9c693942963b2d673b10328c2ffd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Portugal
+- Conselho Consultivo
+- Conselho de Administração
+- Conselho de Auditoria
+- Definição de Competências
+- Orgânica
+- Pessoal Dirigente
+- Política Cambial
 relationships:
 - type: amended_by
   target: pt:dre:408498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificado DR.IS [300]5ºSupl de 31/Dez/1990 R\0R\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-12-31'
+- type: amended_by
+  target: pt:dre:562272:por
+  label: "Alterados os arts. 3º, 17º, 18º, 19º, 20º, 22º, 25º, 26º, 35º, 36º, 46º e 63º, e revogados os arts. 27º, 28º, 29º\
+    \ e 30º pelo DEC LEI.231/95.1995.09.12.MF, DR.IS-A [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1995-562272
+  date: '1995-09-12'
+- type: amended_by
+  target: pt:dre:594748:por
+  label: "Alterado o art. 64º, pela LEI.3/96.1996.02.05.AR DR.IS [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1996-594748
+  date: '1996-02-05'
+- type: amended_by
+  target: pt:dre:225375:por
+  label: "Alterados os arts 1º, 3º, 16º, 43º, 44º, 47º, 51º, 57º, 58º, 64º, 66º, 67º, 69º, 71º e 72º e aditados os arts. 71º-A\
+    \ e 71º-B pela LEI.5/98.1998.01.31.AR, DR.IS [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-1998-225375
+  date: '1998-01-31'
+- type: cites
+  target: pt:dre:310378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565863:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247180:por
+  label: Rectificado pela DECL.DD35.31.12.1990.PCM, DR.IS [300-5ºSupl] de 31.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247180
+  date: '1990-12-31'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:10Z'
   warnings: []
   errors: []
 ---
@@ -122,83 +165,83 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica do Banco de Portugal, anexa ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica do Banco de Portugal, anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º Em relação às notas retiradas da circulação até 15 de Novembro de 1975, mantém-se por 20 anos, a contar dessa data, o prazo para o Banco de Portugal as receber.
+Art. 2.º Em relação às notas retiradas da circulação até 15 de Novembro de 1975, mantém-se por 20 anos, a contar dessa data, o prazo para o Banco de Portugal as receber.
 
-###### Art. 3.º - 1 - São revogados a Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, e o Regulamento Administrativo do Banco, aprovado por Decreto de 23 de Abril de 1891.
+Art. 3.º - 1 - São revogados a Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, e o Regulamento Administrativo do Banco, aprovado por Decreto de 23 de Abril de 1891.
 
 2 - Mantêm-se em vigor, com as necessárias adaptações, os regulamentos por que o Banco de Portugal actualmente se rege.
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Lei Orgânica do Banco de Portugal
 
 ### CAPÍTULO I — Natureza e sede
 
-###### Artigo 1.º O Banco de Portugal, adiante abreviadamente designado por Banco, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com a natureza de empresa pública.
+Artigo 1.º O Banco de Portugal, adiante abreviadamente designado por Banco, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com a natureza de empresa pública.
 
-###### Art. 2.º O Banco tem a sua sede em Lisboa, podendo ter filiais, sucursais, delegações ou agências noutras localidades, bem como delegações no estrangeiro.
+Art. 2.º O Banco tem a sua sede em Lisboa, podendo ter filiais, sucursais, delegações ou agências noutras localidades, bem como delegações no estrangeiro.
 
-###### Art. 3.º O Banco de Portugal é o banco central da República Portuguesa, devendo, nessa qualidade, assegurar o equilíbrio monetário interno e a solvência exterior da moeda.
+Art. 3.º O Banco de Portugal é o banco central da República Portuguesa, devendo, nessa qualidade, assegurar o equilíbrio monetário interno e a solvência exterior da moeda.
 
 ### CAPÍTULO II — Capital, reservas e provisões
 
-###### Art. 4.º - 1 - O Banco dispõe de um capital de 200000000$00, que pode ser aumentado, designadamente por incorporação de reservas deliberada pelo conselho de administração.
+Art. 4.º - 1 - O Banco dispõe de um capital de 200000000$00, que pode ser aumentado, designadamente por incorporação de reservas deliberada pelo conselho de administração.
 
 2 - A deliberação do aumento de capital deve ser autorizada pelo Ministro das Finanças.
 
-###### Art. 5.º - 1 - O Banco tem uma reserva sem limite máximo, constituída por transferência de 10% do resultado de cada exercício, apurado nos termos do artigo 63.º
+Art. 5.º - 1 - O Banco tem uma reserva sem limite máximo, constituída por transferência de 10% do resultado de cada exercício, apurado nos termos do artigo 63.º
 
 2 - Além da reserva referida no número anterior, pode o conselho de administração criar outras reservas e provisões, designadamente para prevenir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas.
 
 ### CAPÍTULO III — Emissão monetária, reservas cambiais e outras coberturas
 
-###### Art. 6.º - 1 - O Banco detém o exclusivo da emissão de notas e de pôr em circulação as moedas metálicas, incluindo as comemorativas, as quais têm curso legal e poder liberatório.
+Art. 6.º - 1 - O Banco detém o exclusivo da emissão de notas e de pôr em circulação as moedas metálicas, incluindo as comemorativas, as quais têm curso legal e poder liberatório.
 
 2 - O poder liberatório das notas é ilimitado, sendo o das moedas metálicas estabelecido em diploma legal.
 
-###### Art. 7.º - 1 - Consideram-se notas do Banco de Portugal em circulação as que por ele, no exercício das suas funções, forem entregues a terceiros e continuem em poder destes, sem que tenha decorrido o prazo de troca referido no n.º 1 do artigo 9.º
+Art. 7.º - 1 - Consideram-se notas do Banco de Portugal em circulação as que por ele, no exercício das suas funções, forem entregues a terceiros e continuem em poder destes, sem que tenha decorrido o prazo de troca referido no n.º 1 do artigo 9.º
 
 2 - A responsabilidade do Banco restringe-se às notas em circulação, sem prejuízo do previsto no n.º 2 do artigo 9.º
 
 3 - As moedas metálicas são postas em circulação por intermédio e sob requisição do Banco.
 
-###### Art. 8.º - 1 - Os tipos de notas, respectivas chapas e características são aprovados por decreto-lei, sob proposta do Banco de Portugal.
+Art. 8.º - 1 - Os tipos de notas, respectivas chapas e características são aprovados por decreto-lei, sob proposta do Banco de Portugal.
 
 2 - As notas têm a data da emissão geral e são assinadas, por chancela, pelo governador e por um vice-governador ou administrador, em exercício nessa data.
 
 3 - O valor facial das moedas metálicas, suas características e quantitativo da sua emissão são acordados entre o Estado e o Banco e aprovados por decreto-lei.
 
-###### Art. 9.º - 1 - O Banco fixa e anuncia publicamente o prazo em que devem ser trocadas as notas de qualquer tipo ou chapa que venham a ser retiradas da circulação.
+Art. 9.º - 1 - O Banco fixa e anuncia publicamente o prazo em que devem ser trocadas as notas de qualquer tipo ou chapa que venham a ser retiradas da circulação.
 
 2 - Findo o prazo fixado nos termos do número anterior, deixam as notas de ter poder liberatório e são abatidas à circulação, mas persiste para o Banco a obrigação de as receber e pagar enquanto não decorrem 20 anos.
 
-###### Art. 10.º - 1 - O Banco procederá à apreensão de todas as notas que lhe sejam apresentadas suspeitas de contrafacção ou de falsificação ou alteração do valor facial, lavrando auto do qual conste a identificação das notas e do portador, bem como os fundamentos da suspeita.
+Art. 10.º - 1 - O Banco procederá à apreensão de todas as notas que lhe sejam apresentadas suspeitas de contrafacção ou de falsificação ou alteração do valor facial, lavrando auto do qual conste a identificação das notas e do portador, bem como os fundamentos da suspeita.
 
 2 - O auto referido no número anterior será remetido à Polícia Judiciária, para efeito do respectivo procedimento.
 
 3 - O Banco pode recorrer directamente a qualquer autoridade, ou agente desta, para os fins previstos neste artigo.
 
-###### Art. 11.º Não é admitido o processo judicial de reforma de notas.
+Art. 11.º Não é admitido o processo judicial de reforma de notas.
 
-###### Art. 12.º - 1 - É proibida a reprodução ou imitação, total ou parcial, por qualquer processo técnico, de notas do Banco, bem como a distribuição dessas reproduções ou imitações.
+Art. 12.º - 1 - É proibida a reprodução ou imitação, total ou parcial, por qualquer processo técnico, de notas do Banco, bem como a distribuição dessas reproduções ou imitações.
 
 2 - É igualmente proibida a simples feitura de chapas, matrizes ou outros meios técnicos que permitam a reprodução ou imitação contempladas no número anterior.
 
 3 - Em circunstâncias justificadas, nomeadamente para fins didácticos, poderá o Banco autorizar a reprodução ou imitação de notas.
 
-###### Art. 13.º - 1 - As infracções ao disposto nos n.os 1 e 2 do artigo anterior, quando não integrem tipos de crimes de contrafacção, falsificação ou alteração do valor facial da moeda, constituem contra-ordenação punível com coima de 20000$00 a 500000$00 ou de 50000$00 a 6000000$00, consoante o agente seja pessoa singular ou pessoa colectiva.
+Art. 13.º - 1 - As infracções ao disposto nos n.os 1 e 2 do artigo anterior, quando não integrem tipos de crimes de contrafacção, falsificação ou alteração do valor facial da moeda, constituem contra-ordenação punível com coima de 20000$00 a 500000$00 ou de 50000$00 a 6000000$00, consoante o agente seja pessoa singular ou pessoa colectiva.
 
 2 - A tentativa e a negligência são puníveis.
 
@@ -206,11 +249,11 @@ Lei Orgânica do Banco de Portugal
 
 4 - É subsidiariamente aplicável o regime geral das contra-ordenações.
 
-###### Art. 14.º Como sanção acessória das contra-ordenações previstas no artigo anterior, ou independentemente da aplicação de uma coima, nos termos do regime referido no n.º 4 do mesmo artigo, o Banco pode apreender e destruir as reproduções, imitações, chapas, matrizes e outros meios técnicos mencionados no artigo 12.º
+Art. 14.º Como sanção acessória das contra-ordenações previstas no artigo anterior, ou independentemente da aplicação de uma coima, nos termos do regime referido no n.º 4 do mesmo artigo, o Banco pode apreender e destruir as reproduções, imitações, chapas, matrizes e outros meios técnicos mencionados no artigo 12.º
 
-###### Art. 15.º A emissão monetária do Banco, constituída pelas notas em circulação e demais responsabilidades-escudos à vista, deverá encontrar-se sempre coberta por disponibilidades sobre o exterior e por outros valores, nos temos dos artigos seguintes.
+Art. 15.º A emissão monetária do Banco, constituída pelas notas em circulação e demais responsabilidades-escudos à vista, deverá encontrar-se sempre coberta por disponibilidades sobre o exterior e por outros valores, nos temos dos artigos seguintes.
 
-###### Art. 16.º - 1 - As disponibilidades sobre o exterior são constituídas por:
+Art. 16.º - 1 - As disponibilidades sobre o exterior são constituídas por:
 
 a) Ouro em barra ou amoedado;
 
@@ -244,7 +287,7 @@ c) Débitos resultantes da intervenção do Banco em sistemas internacionais de 
 
 5 - Os valores referidos nos n.os 1 e 3 são contabilizados de acordo com as normas definidas pelo conselho de administração, tendo em atenção os critérios e princípios seguidos por instituições congéneres e organismos internacionais com atribuições monetárias e financeiras.
 
-###### Art. 17.º A emissão monetária do Banco, na parte que ultrapassar o valor das disponibilidades sobre o exterior, líquidas das correspondentes responsabilidades, deverá ter cobertura integral constituída pelos seguintes valores:
+Art. 17.º A emissão monetária do Banco, na parte que ultrapassar o valor das disponibilidades sobre o exterior, líquidas das correspondentes responsabilidades, deverá ter cobertura integral constituída pelos seguintes valores:
 
 a) Créditos sobre o Estado e as regiões autónomas;
 
@@ -264,7 +307,7 @@ g) Cheques em escudos de que o Banco seja proprietário e portador, sem endosso 
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 18.º - 1 - Como banco central, compete especialmente ao Banco, tendo em conta as orientações do Governo:
+Art. 18.º - 1 - Como banco central, compete especialmente ao Banco, tendo em conta as orientações do Governo:
 
 a) Colaborar na definição e executar a política monetária e cambial;
 
@@ -276,17 +319,17 @@ d) Velar pela estabilidade do sistema financeiro nacional, assegurando, com essa
 
 2 - Cabe também ao Banco aconselhar o Governo nos domínios monetário, financeiro e cambial.
 
-###### Art. 19.º - 1 - Compete ao Banco assegurar a centralização e elaboração das estatísticas monetárias, financeiras e cambiais, bem como de outros elementos informativos que julgue necessários para a execução das funções que lhe são atribuídas.
+Art. 19.º - 1 - Compete ao Banco assegurar a centralização e elaboração das estatísticas monetárias, financeiras e cambiais, bem como de outros elementos informativos que julgue necessários para a execução das funções que lhe são atribuídas.
 
 2 - O Banco pode exigir a qualquer entidade, pública ou privada, que lhe sejam fornecidas directamente as informações necessárias para cumprimento do estabelecido no número anterior.
 
-###### Art. 20.º Compete ao Banco regular a criação e o funcionamento de câmaras de compensação de cheques e outros valores.
+Art. 20.º Compete ao Banco regular a criação e o funcionamento de câmaras de compensação de cheques e outros valores.
 
 #### SECÇÃO II — Política monetária e cambial
 
-###### Art. 21.º Para execução da política monetária e cambial, compete ao Banco a orientação e fiscalização dos mercados monetário, financeiro e cambial.
+Art. 21.º Para execução da política monetária e cambial, compete ao Banco a orientação e fiscalização dos mercados monetário, financeiro e cambial.
 
-###### Art. 22.º - 1 - Para orientar e fiscalizar os mercados monetário, financeiro e cambial, cabe ao Banco:
+Art. 22.º - 1 - Para orientar e fiscalizar os mercados monetário, financeiro e cambial, cabe ao Banco:
 
 a) Regular o funcionamento desses mercados, adoptando providências genéricas ou intervindo, sempre que necessário, para garantir o cumprimento dos objectivos da política económica, em particular no que se refere ao comportamento das taxas de juro e de câmbio;
 
@@ -300,7 +343,7 @@ d) Estabelecer os condicionalismos a que devem estar sujeitas as disponibilidade
 
 #### SECÇÃO III — Exercício da supervisão
 
-###### Art. 23.º Com o fim de assegurar a supervisão das instituições a ela sujeitas, compete ao Banco, nomeadamente:
+Art. 23.º Com o fim de assegurar a supervisão das instituições a ela sujeitas, compete ao Banco, nomeadamente:
 
 a) Apreciar os pedidos de constituição das referidas instituições, bem como da sua fusão, cisão ou modificação de objecto;
 
@@ -316,7 +359,7 @@ f) Estabelecer directivas para actuação das instituições, nomeadamente quant
 
 g) Manter organizado o registo especial a que estão sujeitas as instituições acima mencionadas.
 
-###### Art. 24.º Compete igualmente ao Banco:
+Art. 24.º Compete igualmente ao Banco:
 
 a) Realizar inspecções nos estabelecimentos das instituições sujeitas à sua supervisão e proceder a averiguações em qualquer entidade ou local onde haja fundadas suspeitas da prática irregular de actividades monetárias, financeiras ou cambiais;
 
@@ -324,29 +367,29 @@ b) Instaurar, nos termos da lei, os processos adequados à verificação das inf
 
 #### SECÇÃO IV — Relações entre o Estado e o Banco
 
-###### Art. 25.º O Banco pode conceder ao Estado, por via das adequadas operações de crédito, os meios necessários à comparticipação deste no capital de organismos internacionais cuja actividade principal respeite aos domínios monetário, financeiro e cambial.
+Art. 25.º O Banco pode conceder ao Estado, por via das adequadas operações de crédito, os meios necessários à comparticipação deste no capital de organismos internacionais cuja actividade principal respeite aos domínios monetário, financeiro e cambial.
 
-###### Art. 26.º - 1 - O Estado pode recorrer a uma conta gratuita aberta no Banco, cujo saldo devedor não poderá exceder 10% das respectivas receitas correntes cobradas no último ano.
+Art. 26.º - 1 - O Estado pode recorrer a uma conta gratuita aberta no Banco, cujo saldo devedor não poderá exceder 10% das respectivas receitas correntes cobradas no último ano.
 
 2 - As regiões autónomas podem dispor de um mecanismo análogo ao previsto no número anterior, nos termos definidos no [Decreto-Lei n.º 336/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1990-565863).
 
-###### Art. 27.º - 1 - Além dos casos previstos nos artigos 35.º e 26.º, e sem prejuízo das operações permitidas na alínea b) do n.º 1 do artigo 35.º, é vedada ao Banco a concessão de crédito ao Estado e as outras pessoas colectivas de direito público, salvo a tomada firme de bilhetes do Tesouro, em condições acordadas entre o Ministério das Finanças e o Banco e observados os limites legais.
+Art. 27.º - 1 - Além dos casos previstos nos artigos 35.º e 26.º, e sem prejuízo das operações permitidas na alínea b) do n.º 1 do artigo 35.º, é vedada ao Banco a concessão de crédito ao Estado e as outras pessoas colectivas de direito público, salvo a tomada firme de bilhetes do Tesouro, em condições acordadas entre o Ministério das Finanças e o Banco e observados os limites legais.
 
 2 - Fica igualmente vedado ao Banco garantir quaisquer obrigações do Estado, de serviços dele dependentes ou de outras pessoas colectivas de direito público, bem como realizar pagamentos de conta de qualquer deles, quando não existam no Banco fundos que lhes pertençam e que para tal fim estejam imediatamente disponíveis.
 
 3 - O preceituado neste artigo não impede que entre o Banco e pessoas colectivas de direito público, com natureza de instituições de crédito ou parabancárias, se possam realizar quaisquer operações permitidas pela presente Lei Orgânica.
 
-###### Art. 28.º Aplicam-se ao Banco, como caixa geral do Tesouro e cofre central do Tesouro no âmbito regional e local, as normas legais reguladoras das atribuições e competências daqueles serviços.
+Art. 28.º Aplicam-se ao Banco, como caixa geral do Tesouro e cofre central do Tesouro no âmbito regional e local, as normas legais reguladoras das atribuições e competências daqueles serviços.
 
-###### Art. 29.º Nas qualidades mencionadas no artigo anterior, o Banco procede, gratuitamente, às entradas, saídas e transferências de fundos da conta do Tesouro.
+Art. 29.º Nas qualidades mencionadas no artigo anterior, o Banco procede, gratuitamente, às entradas, saídas e transferências de fundos da conta do Tesouro.
 
-###### Art. 30.º As contas do Estado da responsabilidade do Banco estão sujeitas, quanto ao processamento e julgamento, ao regime das restantes contas do mesmo Estado.
+Art. 30.º As contas do Estado da responsabilidade do Banco estão sujeitas, quanto ao processamento e julgamento, ao regime das restantes contas do mesmo Estado.
 
 #### SECÇÃO V — Relações monetárias internacionais
 
-###### Art. 31.º O Banco de Portugal é a autoridade cambial da República Portuguesa.
+Art. 31.º O Banco de Portugal é a autoridade cambial da República Portuguesa.
 
-###### Art. 32.º Como autoridade cambial, compete, em especial, ao Banco:
+Art. 32.º Como autoridade cambial, compete, em especial, ao Banco:
 
 a) Supervisionar e fiscalizar os pagamentos externos;
 
@@ -354,15 +397,15 @@ b) Definir os princípios reguladores das operações sobre ouro e divisas;
 
 c) Autorizar os pagamentos externos que disso careçam.
 
-###### Art. 33.º - 1 - O Banco pode celebrar, em nome próprio ou em nome do Estado e por conta e ordem deste, com estabelecimentos congéneres, públicos ou privados, domiciliados no estrangeiro, acordos de compensação e pagamentos ou quaisquer contratos que sirvam as mesmas finalidades.
+Art. 33.º - 1 - O Banco pode celebrar, em nome próprio ou em nome do Estado e por conta e ordem deste, com estabelecimentos congéneres, públicos ou privados, domiciliados no estrangeiro, acordos de compensação e pagamentos ou quaisquer contratos que sirvam as mesmas finalidades.
 
 2 - Tendo em vista a gestão das disponibilidades sobre o exterior, o Banco pode redescontar títulos da sua carteira, dar valores em garantia e realizar no exterior outras operações adequadas.
 
-###### Art. 34.º O Banco pode participar no capital de instituições estrangeiras ou internacionais com atribuições monetárias e cambiais e fazer parte dos respectivos órgãos sociais.
+Art. 34.º O Banco pode participar no capital de instituições estrangeiras ou internacionais com atribuições monetárias e cambiais e fazer parte dos respectivos órgãos sociais.
 
 #### SECÇÃO VI — Operações do Banco
 
-###### Art. 35.º - 1 - No âmbito da execução da política monetária e cambial, o Banco pode efectuar as operações que se justifiquem na sua qualidade de banco central e, nomeadamente, as seguintes:
+Art. 35.º - 1 - No âmbito da execução da política monetária e cambial, o Banco pode efectuar as operações que se justifiquem na sua qualidade de banco central e, nomeadamente, as seguintes:
 
 a) Redescontar e descontar, por prazo que não exceda um ano, letras, livranças, extractos de factura, warrants e outros títulos de crédito de natureza análoga, nas condições a definir pelo conselho de administração;
 
@@ -406,7 +449,7 @@ d) Reciprocidade prevista em acordos ou contratos bilaterais celebrados pelo Est
 
 e) Expressa estipulação em acordos multilaterais de compensação e pagamentos.
 
-###### Art. 36.º É, nomeadamente, vedado ao Banco:
+Art. 36.º É, nomeadamente, vedado ao Banco:
 
 a) Redescontar, no País, títulos de crédito da sua carteira comercial, representativos de operações realizadas nos termos da alínea a) do n.º 1 do artigo 35.º;
 
@@ -420,13 +463,13 @@ d) Ser proprietário de imóveis, além dos necessários ao desempenho das suas 
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 37.º São órgãos do Banco o governador, o conselho de administração, o conselho de auditoria e o conselho consultivo.
+Art. 37.º São órgãos do Banco o governador, o conselho de administração, o conselho de auditoria e o conselho consultivo.
 
-###### Art. 38.º O governador e os demais membros do conselho de administração do Banco são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
+Art. 38.º O governador e os demais membros do conselho de administração do Banco são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
 
 #### SECÇÃO II — Governador
 
-###### Art. 39.º - 1 - Compete ao governador:
+Art. 39.º - 1 - Compete ao governador:
 
 a) Representar o Banco;
 
@@ -442,13 +485,13 @@ f) Exercer as demais competências que lhe estejam legalmente cometidas.
 
 2 - O governadores, em acta do conselho de administração, pode, nos termos do n.º 2 do artigo 45.º, delegar nos vice-governadores ou em administradores parte da sua competência.
 
-###### Art. 40.º Aos vice-governadores cabe, em geral, coadjuvar o governador e, nomeadamente, exercer as funções que por este lhes forem delegadas, sem prejuízo das demais competências que lhes estejam legalmente cometidas.
+Art. 40.º Aos vice-governadores cabe, em geral, coadjuvar o governador e, nomeadamente, exercer as funções que por este lhes forem delegadas, sem prejuízo das demais competências que lhes estejam legalmente cometidas.
 
-###### Art. 41.º - 1 - Se estiverem em risco interesses sérios do País ou do Banco e não for possível reunir o conselho de administração, por motivo imperioso de urgência, por falta de quórum ou por qualquer outro motivo justificado, o governador tem competência própria para a prática de todos os actos necessários à prossecução dos fins cometidos ao Banco e que caibam na competência daquele conselho.
+Art. 41.º - 1 - Se estiverem em risco interesses sérios do País ou do Banco e não for possível reunir o conselho de administração, por motivo imperioso de urgência, por falta de quórum ou por qualquer outro motivo justificado, o governador tem competência própria para a prática de todos os actos necessários à prossecução dos fins cometidos ao Banco e que caibam na competência daquele conselho.
 
 2 - Perante terceiros, incluindo notários, conservadores de registos e outros titulares da função pública, a assinatura do governador, com invocação do previsto no número anterior, constitui presunção da impossibilidade de reunião do conselho de administração.
 
-###### Art. 42.º - 1 - O governador será substituído, nas suas faltas ou impedimentos, pelo modo e ordem seguintes:
+Art. 42.º - 1 - O governador será substituído, nas suas faltas ou impedimentos, pelo modo e ordem seguintes:
 
 a) Pelo vice-governador mais antigo ou, em igualdade de circunstâncias, pelo mais velho;
 
@@ -458,29 +501,29 @@ b) Pelo administrador mais antigo ou, em igualdade de circunstâncias, pelo mais
 
 3 - Perante terceiros, incluindo notários, conservadores de registos e outros titulares de função pública, a assinatura de um vice-governador ou de administrador, com invocação do previsto nos números anteriores, constitui presunção da pressuposta falta, impedimento ou vacatura.
 
-###### Art. 43.º - 1 - O governador tem voto de qualidade nas reuniões a que preside e pode suspender a eficácia das deliberações do conselho de administração ou de comissões executivas que, em seu parecer, sejam contrárias à lei, aos interesses do País ou do Banco.
+Art. 43.º - 1 - O governador tem voto de qualidade nas reuniões a que preside e pode suspender a eficácia das deliberações do conselho de administração ou de comissões executivas que, em seu parecer, sejam contrárias à lei, aos interesses do País ou do Banco.
 
 2 - A suspensão será comunicada ao Governo, por intermédio do Ministro das Finanças, e considera-se levantada se, dentro de 15 dias depois de imposta, o Conselho de Ministros a não tiver confirmado.
 
 #### SECÇÃO III — Conselho de administração
 
-###### Art. 44.º - 1 - O conselho de administração é composto pelo governador, que preside, por um ou dois vice-governadores e por três a cinco administradores.
+Art. 44.º - 1 - O conselho de administração é composto pelo governador, que preside, por um ou dois vice-governadores e por três a cinco administradores.
 
 2 - Os membros do conselho de administração exercem as suas funções por períodos renováveis de cinco anos.
 
 3 - Considera-se termo do período de cinco anos a data da aprovação das contas do último exercício, iniciado durante esse período.
 
-###### Art. 45.º - 1 - Compete ao conselho de administração a prática de todos os actos necessários à prossecução dos fins cometidos ao Banco e que não sejam abrangidos pela competência exclusiva de outros órgãos.
+Art. 45.º - 1 - Compete ao conselho de administração a prática de todos os actos necessários à prossecução dos fins cometidos ao Banco e que não sejam abrangidos pela competência exclusiva de outros órgãos.
 
 2 - O conselho de administração pode delegar, por acta, poderes em um ou mais dos seus membros ou em trabalhadores do Banco e autorizar que se proceda à subdelegação desses poderes, estabelecendo em cada caso os respectivos limites e condições.
 
-###### Art. 46.º - 1 - O conselho de administração, sob proposta do governador, atribui aos seus membros pelouros correspondentes a um ou mais serviços do Banco.
+Art. 46.º - 1 - O conselho de administração, sob proposta do governador, atribui aos seus membros pelouros correspondentes a um ou mais serviços do Banco.
 
 2 - A atribuição de um pelouro envolve a delegação dos poderes correspondentes à competência desse pelouro.
 
 3 - A distribuição de pelouros não dispensa o dever, que a todos os membros do conselho de administração incumbe, de acompanhar e tomar conhecimento da generalidade dos assuntos do Banco e de propor providências relativas a qualquer deles.
 
-###### Art. 47.º - 1- O conselho de administração reúne, ordinariamente, pelo menos uma vez por semana e, extraordinariamente, sempre que seja convocado pelo governador.
+Art. 47.º - 1- O conselho de administração reúne, ordinariamente, pelo menos uma vez por semana e, extraordinariamente, sempre que seja convocado pelo governador.
 
 2 - Para o conselho deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício.
 
@@ -488,33 +531,33 @@ b) Pelo administrador mais antigo ou, em igualdade de circunstâncias, pelo mais
 
 4 - As deliberações do conselho são tomadas por maioria de votos dos membros presentes, não sendo permitidas abstenções.
 
-###### Art. 48.º - 1 - O conselho de administração pode criar as comissões executivas, permanentes ou eventuais, consideradas necessárias para a descentralização e bom andamento dos serviços.
+Art. 48.º - 1 - O conselho de administração pode criar as comissões executivas, permanentes ou eventuais, consideradas necessárias para a descentralização e bom andamento dos serviços.
 
 2 - O conselho de administração pode delegar nas comissões executivas parte dos poderes que lhe são conferidos.
 
-###### Art. 49.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionam-se, sumariamente mas com clareza, todos os assuntos tratados nas respectivas reuniões.
+Art. 49.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionam-se, sumariamente mas com clareza, todos os assuntos tratados nas respectivas reuniões.
 
 2 - As actas são assinadas por todos os membros do conselho de administração ou das comissões executivas que participaram na reunião e subscritas por quem a secretariou.
 
 3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções, sendo-lhes ainda facultado votar «vencido» quanto às deliberações de que discordem.
 
-###### Art. 50.º Dos actos administrativos do governador, vice-governadores, conselho de administração, comissões executivas, administradores ou trabalhadores do Banco, no uso de poderes delegados, cabe recurso contencioso, nos termos gerais de direito.
+Art. 50.º Dos actos administrativos do governador, vice-governadores, conselho de administração, comissões executivas, administradores ou trabalhadores do Banco, no uso de poderes delegados, cabe recurso contencioso, nos termos gerais de direito.
 
-###### Art. 51.º - 1 - Os membros do conselho de administração gozam das regalias de natureza social atribuídas aos trabalhadores do Banco.
+Art. 51.º - 1 - Os membros do conselho de administração gozam das regalias de natureza social atribuídas aos trabalhadores do Banco.
 
 2 - São aplicáveis aos membros do conselho de administração as normas do Estatuto dos Gestores Públicos e legislação complementar que se mostrem compatíveis com as características específicas do Banco.
 
 #### SECÇÃO IV — Conselho de auditoria
 
-###### Art. 52.º - 1 - O conselho de auditoria é constituído por quatro membros, sendo três designados pelo Ministro das Finanças e um pelos trabalhadores do Banco de Portugal.
+Art. 52.º - 1 - O conselho de auditoria é constituído por quatro membros, sendo três designados pelo Ministro das Finanças e um pelos trabalhadores do Banco de Portugal.
 
 2 - Dos membros designados pelo Ministro das Finanças um será o presidente, com voto de qualidade, outro será um revisor oficial de contas e o terceiro será uma personalidade de reconhecida competência em matéria económica.
 
-###### Art. 53.º - 1 - Os membros do conselho de auditoria exercem as suas funções por períodos renováveis de três anos.
+Art. 53.º - 1 - Os membros do conselho de auditoria exercem as suas funções por períodos renováveis de três anos.
 
 2 - As funções de membro do conselho de auditoria são acumuláveis com outras funções profissionais que se não mostrem incompatíveis.
 
-###### Art. 54.º - 1 - Compete ao conselho de auditoria:
+Art. 54.º - 1 - Compete ao conselho de auditoria:
 
 a) Acompanhar o funcionamento do Banco e o cumprimento das leis e regulamentos que lhe são aplicáveis;
 
@@ -528,7 +571,7 @@ e) Chamar a atenção do governador ou do conselho de administração para qualq
 
 2 - O conselho de auditoria pode ser apoiado por serviços ou técnicos do Banco, de sua escolha.
 
-###### Art. 55.º - 1 - O conselho de auditoria reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocado pelo presidente.
+Art. 55.º - 1 - O conselho de auditoria reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocado pelo presidente.
 
 2 - Para o conselho de auditoria deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício.
 
@@ -538,11 +581,11 @@ e) Chamar a atenção do governador ou do conselho de administração para qualq
 
 5 - Os membros do conselho de auditoria têm direito a remuneração mensal, fixada pelo Ministro das Finanças.
 
-###### Art. 56.º Os membros do conselho de auditoria podem participar, sem direito de voto, nas reuniões do conselho de administração, sendo obrigatória, nas reuniões ordinárias, a presença de um deles, por escala.
+Art. 56.º Os membros do conselho de auditoria podem participar, sem direito de voto, nas reuniões do conselho de administração, sendo obrigatória, nas reuniões ordinárias, a presença de um deles, por escala.
 
 #### SECÇÃO V — Conselho consultivo
 
-###### Art. 57.º - 1 - O conselho consultivo é composto pelo governador do Banco, que preside, e pelos seguintes membros:
+Art. 57.º - 1 - O conselho consultivo é composto pelo governador do Banco, que preside, e pelos seguintes membros:
 
 a) Os vice-governadores;
 
@@ -562,27 +605,27 @@ g) O presidente do conselho de auditoria do Banco.
 
 3 - Sempre que o considere conveniente, o presidente do conselho consultivo pode convidar a fazerem-se representar nas respectivas reuniões determinadas entidades ou sectores de actividade, bem como sugerir ao Governo a presença de elementos das entidades ou dos serviços públicos com competência nas matérias a apreciar, em qualquer caso, sem direito a voto.
 
-###### Art. 58.º Compete ao conselho consultivo pronunciar-se sobre:
+Art. 58.º Compete ao conselho consultivo pronunciar-se sobre:
 
 a) O relatório anual da actividade do Banco, antes da sua apresentação;
 
 b) Os assuntos que lhe forem submetidos pelo governador ou pelo conselho de administração.
 
-###### Art. 59.º O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for convocado pelo governador.
+Art. 59.º O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for convocado pelo governador.
 
 ### CAPÍTULO VI — Organização dos serviços
 
-###### Art. 60.º O conselho de administração decide da orgânica e do modo de funcionamento dos serviços e elabora os regulamentos internos necessários.
+Art. 60.º O conselho de administração decide da orgânica e do modo de funcionamento dos serviços e elabora os regulamentos internos necessários.
 
-###### Art. 61.º Compete às filiais, sucursais, delegações e agências, sob a direcção, fiscalização e superintendência do conselho de administração, o desempenho, nas respectivas áreas, das funções que lhes forem cometidas.
+Art. 61.º Compete às filiais, sucursais, delegações e agências, sob a direcção, fiscalização e superintendência do conselho de administração, o desempenho, nas respectivas áreas, das funções que lhes forem cometidas.
 
 ### CAPÍTULO VII — Orçamento e contas
 
-###### Art. 62.º - 1 - Será elaborado anualmente um orçamento de exploração.
+Art. 62.º - 1 - Será elaborado anualmente um orçamento de exploração.
 
 2 - O orçamento de cada ano será comunicado ao Ministro das Finanças até 30 de Novembro do ano anterior.
 
-###### Art. 63.º - 1 - O resultado do exercício é apurado deduzindo-se ao total de proveitos e outros lucros imputáveis ao exercício as verbas correspondentes aos custos a seguir indicados:
+Art. 63.º - 1 - O resultado do exercício é apurado deduzindo-se ao total de proveitos e outros lucros imputáveis ao exercício as verbas correspondentes aos custos a seguir indicados:
 
 a) Custos operacionais e administrativos anuais;
 
@@ -598,34 +641,34 @@ b) 10% para outras reservas que o conselho de administração delibere;
 
 c) 80% para o Estado.
 
-###### Art. 64.º - 1 - Até 31 de Março e com referência ao último dia do ano anterior, o Banco envia ao Ministro das Finanças, para aprovação, o relatório, o balanço e as contas anuais de gerência, depois de discutidos e apreciados pelo conselho de administração e com o parecer do conselho de auditoria.
+Art. 64.º - 1 - Até 31 de Março e com referência ao último dia do ano anterior, o Banco envia ao Ministro das Finanças, para aprovação, o relatório, o balanço e as contas anuais de gerência, depois de discutidos e apreciados pelo conselho de administração e com o parecer do conselho de auditoria.
 
 2 - Na falta de despacho do Ministro das Finanças, o relatório, o balanço e as contas consideram-se aprovados decorridos 30 dias após a data do seu recebimento.
 
 3 - A publicação do relatório, balanço e contas é feita no Diário da República, no prazo de 30 dias após a sua aprovação.
 
-###### Art. 65.º O Banco publica, no Diário da República, uma sinopse resumida do seu activo e passivo, com designação das rubricas que representam as reservas e outras coberturas da emissão, as notas em circulação e as demais responsabilidades à vista, nos fechos das operações nos dias 8, 15, 22 e último de cada mês.
+Art. 65.º O Banco publica, no Diário da República, uma sinopse resumida do seu activo e passivo, com designação das rubricas que representam as reservas e outras coberturas da emissão, as notas em circulação e as demais responsabilidades à vista, nos fechos das operações nos dias 8, 15, 22 e último de cada mês.
 
 ### CAPÍTULO VIII — Trabalhadores
 
-###### Art. 66.º Os trabalhadores do Banco estão sujeitos às normas do regime jurídico do contrato individual de trabalho.
+Art. 66.º Os trabalhadores do Banco estão sujeitos às normas do regime jurídico do contrato individual de trabalho.
 
-###### Art. 67.º - 1 - O conselho de administração, tendo em atenção a natureza específica das funções cometidas ao Banco, definirá a política de pessoal, após audição dos órgãos institucionais de representação dos trabalhadores.
+Art. 67.º - 1 - O conselho de administração, tendo em atenção a natureza específica das funções cometidas ao Banco, definirá a política de pessoal, após audição dos órgãos institucionais de representação dos trabalhadores.
 
 2 - A política de pessoal, definida nos termos do número anterior, é divulgada por escrito, cabendo ao conselho organizar os instrumentos adequados à correcta execução dessa política.
 
-###### Art. 68.º - 1 - No âmbito das acções de natureza social do Banco, existe um fundo social com consignação de verbas que o conselho de administração delibere atribuir-lhe, de forma a assegurar o preenchimento das respectivas finalidades.
+Art. 68.º - 1 - No âmbito das acções de natureza social do Banco, existe um fundo social com consignação de verbas que o conselho de administração delibere atribuir-lhe, de forma a assegurar o preenchimento das respectivas finalidades.
 
 2 - O fundo social é regido por regulamento aprovado pelo conselho de administração e é gerido por uma comissão nomeada pelo mesmo conselho, com poderes delegados para o efeito, e que incluirá representantes da comissão de trabalhadores do Banco.
 
 ### CAPÍTULO IX — Disposições gerais
 
-###### Art. 69.º O Banco obriga-se pela assinatura do governador ou de dois outros membros do conselho de administração, e de quem estiver legitimado nos termos do n.º 2 do artigo 39.º, dos n.os 1 e 2 do artigo 42.º ou do n.º 2 do artigo 45.º
+Art. 69.º O Banco obriga-se pela assinatura do governador ou de dois outros membros do conselho de administração, e de quem estiver legitimado nos termos do n.º 2 do artigo 39.º, dos n.os 1 e 2 do artigo 42.º ou do n.º 2 do artigo 45.º
 
-###### Art. 70.º Os membros do conselho de administração, conselho de auditoria, conselho consultivo e, bem assim, todos os trabalhadores do Banco estão sujeitos, nos termos legais, ao dever de segredo.
+Art. 70.º Os membros do conselho de administração, conselho de auditoria, conselho consultivo e, bem assim, todos os trabalhadores do Banco estão sujeitos, nos termos legais, ao dever de segredo.
 
-###### Art. 71.º - 1 - Salvo quando em representação do Banco ou dos seus trabalhadores, é vedado aos membros do conselho de administração e aos demais trabalhadores fazer parte dos corpos sociais de outra instituição de crédito, parabancária ou sujeita à supervisão do Banco ou nestas exercer quaisquer funções.
+Art. 71.º - 1 - Salvo quando em representação do Banco ou dos seus trabalhadores, é vedado aos membros do conselho de administração e aos demais trabalhadores fazer parte dos corpos sociais de outra instituição de crédito, parabancária ou sujeita à supervisão do Banco ou nestas exercer quaisquer funções.
 
 2 - Sem prejuízo de outras incompatibilidades ou impedimentos legalmente previstos, não poderão os membros do conselho de administração exercer quaisquer funções remuneradas fora do Banco ou ser membros dos corpos sociais de qualquer sociedade, a menos que o façam em representação de interesses do Banco e devidamente autorizados pelo conselho de administração.
 
-###### Art. 72.º O Banco rege-se pelas disposições da presente Lei Orgânica e dos regulamentos que venham a ser adoptados em sua execução, bem como pelas normas aplicáveis da legislação reguladora da actividade das instituições de crédito.
+Art. 72.º O Banco rege-se pelas disposições da presente Lei Orgânica e dos regulamentos que venham a ser adoptados em sua execução, bem como pelas normas aplicáveis da legislação reguladora da actividade das instituições de crédito.

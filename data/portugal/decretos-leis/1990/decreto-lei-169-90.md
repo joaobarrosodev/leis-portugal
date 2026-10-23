@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1990-571451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bd1dd2378db60b609b03409a729aa9ff50168b80c414eb9abd3931a8a258c4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b5532cf490887a04d2b01695ec1ee8962785cddf3e39cb2b6793de7803b0a73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contingentação
+- Direitos Aduaneiros
+- Importação
+- Mercadoria
+- Política Aduaneira
+- Produto Industrial
+relationships:
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:24Z'
   warnings: []
   errors: []
 ---
@@ -90,26 +100,26 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 34.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma, que dele faz parte integrante, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado de Roma, durante o ano de 1990, nos limites dos contingentes pautais referidos naquele anexo.
+Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma, que dele faz parte integrante, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado de Roma, durante o ano de 1990, nos limites dos contingentes pautais referidos naquele anexo.
 
 2 - O disposto no número anterior é igualmente aplicável, nos termos dos protocolos de adaptação, aos produtos originários dos países com os quais as Comunidades Europeias concluíram acordos preferenciais.
 
-###### Art. 2.º A admissão, a atribuição e o modo de gestão dos contingentes referidos no n.º 1 do artigo anterior serão regulados por portaria conjunta dos Ministros das Finanças e da Indústria e Energia.
+Art. 2.º A admissão, a atribuição e o modo de gestão dos contingentes referidos no n.º 1 do artigo anterior serão regulados por portaria conjunta dos Ministros das Finanças e da Indústria e Energia.
 
-###### Art. 3.º O disposto no presente diploma produz efeitos desde 1 de Janeiro de 1990.
+Art. 3.º O disposto no presente diploma produz efeitos desde 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Maio de 1990.**
+Promulgado em 10 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Maio de 1990.**
+Referendado em 14 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Lista a que se refere o n.º 1 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11900/23432345.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11900/23432345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11900/23432345.pdf)

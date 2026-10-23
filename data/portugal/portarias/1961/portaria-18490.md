@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18490-1961-170488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e292082ba8b7fff1218056f5243576b52e231e6be14dff57ef3f8f1e24395356
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 655f4793625d2dd6914fd2a7865e9d98409557f051f562727e1bd0f4db2bf562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:693992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:352507:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693992:por
+  label: "Revogada, no que respeita a quadros de pessoal, pela PORT.20014.17.08.1963.PC, DG.IS [193] de 17.08.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20014-1963-693992
+  date: '1963-08-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:01Z'
   warnings: []
   errors: []
 ---
@@ -102,18 +111,18 @@ Delegação da Direcção do Serviço de Infra-Estruturas
 
 A) Oficiais e oficiais milicianos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
 
 B) Sargentos e sargentos milicianos, praças readmitidas e praças não readmitidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
 
 C) Pessoal civil contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
 
 D) Pessoal civil assalariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12500/06490650.pdf)
 
 Presidência do Conselho e Ministério do Ultramar, 29 de Maio de 1961. - O Ministro da Defesa Nacional, António de Oliveira Salazar. - O Ministro do Ultramar, Adriano José Alves Moreira.

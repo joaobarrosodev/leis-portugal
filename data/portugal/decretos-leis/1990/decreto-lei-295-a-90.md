@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 219/1990, 1º Suplemento, Série I de 1990-09-21
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3930-(2) a 3930-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,157 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb98dc8f7c77868802987ba3a3dcb21f208243f7e525c900097055f6bcfc15f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd80a40858ce9c95819721c7c8a4df2ad807d5973ba71c285b13ae6b18ff82f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Definição de Competências
+- Estatuto de Disponibilidade
+- Inspecção da Polícia Judiciária
+- Orgânica
+- Polícia Judiciária
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:353541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553434:por
+  label: "Alterados o valor do índice 100 da escala salarial para as carreiras de investigação criminal da Polícia Judiciária,\
+    \ constante do mapa III e o valor do índice 100 da escala salarial do pessoal de apoio à investigação criminal da Polícia\
+    \ Judiciária, constante do mapa V, pela PORT.887-A/90.21.09.1990.PCM, DR.IS [219-Supl] de 21.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/887-a-1990-553434
+  date: '1990-09-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ACTUALIZADOS OS MONTANTES PREVISTOS NO NUM 3 DO ART 13 PELA PORT 447/93 DR.IS-B [99]T
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-28'
+- type: amended_by
+  target: pt:dre:664766:por
+  label: ALTERADO O ART 95 PELO DEC LEI 311/93 DE 09-SET DR.IS-A [212]9
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/447-1993-664766
+  date: '1993-09-09'
+- type: amended_by
+  target: pt:dre:661288:por
+  label: ACTUALIZADOS OS MONTANTES DO SUBSIDIO DE FIXACAO REFERIDO NA AL C) DO NUM 2 DO ART 103 PELA PORT 300/94 DE 18-MAI
+    DR.IS-A [115]L
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1993-661288
+  date: '1994-05-18'
+- type: amended_by
+  target: pt:dre:297218:por
+  label: "Alterado o art. 53º pelo DEC LEI.196/94.1994.07.21.MJ, DR.IS-A [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1994-297218
+  date: '1994-07-21'
+- type: amended_by
+  target: pt:dre:609309:por
+  label: "Alterados os arts. 4º, 18º, 30º e aditado o art. 30ºA pela LEI.36/94.1994.09.29.AR, DR.IS-A [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-1994-609309
+  date: '1994-09-29'
+- type: amended_by
+  target: pt:dre:691784:por
+  label: "Alterados os arts. 72º e 133º pelo DEC LEI.301/95.1995.11.18.MJ, DR.IS-A [267]\067]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1995-691784
+  date: '1995-11-18'
+- type: amended_by
+  target: pt:dre:626426:por
+  label: "Alterada a redacção do art. 4º, na redacção dada pelo art. 10º da Lei 36/94 de 29-Set, pelo DEC LEI.325/95.1995.12.02.MJ,\
+    \ DR.IS-A [278]\0278]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1995-626426
+  date: '1995-12-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 411/96 DE 24-AGO DR.IS-B [196]T\0-B [196]T"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-24'
+- type: amended_by
+  target: pt:dre:401885:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, pela PORT.411/96.24.08.1996.PCM, DR.IS-B [196] de\
+    \ 24.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1996-401885
+  date: '1996-08-24'
+- type: amended_by
+  target: pt:dre:241229:por
+  label: "Alterado o art. 156º pela LEI.45/96.1996.09.03.AR, DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-1996-241229
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:643132:por
+  label: "Alterado o nº 3 do art. 16º pelo Dec Lei.238/97.1997.09.08.MJ, DR.IS-A [207]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-1997-643132
+  date: '1997-09-08'
+- type: amended_by
+  target: pt:dre:478065:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, na redacção dada pelas Port 533/95 de\
+    \ 03-Jun e 411/96 de 24-Ago, pela PORT.373/98.1998.07.01.PCM, DR.IS-B [149]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/373-1998-478065
+  date: '1998-07-01'
+- type: amended_by
+  target: pt:dre:235925:por
+  label: "Alterado o art. 99º pelo DEC LEI.302/98.1998.10.07.MJ, DR.IS-A [231]l\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/302-1998-235925
+  date: '1998-10-07'
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247074:por
+  label: Rectificado pela DECL.DD3085.1990.12.31.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247074
+  date: '1990-12-31'
+- type: repealed_by
+  target: pt:dre:353541:por
+  label: Revogado, sem prejuízo do nº 3 do art. 178.º,pelo DEC LEI.275-A/2000.2000.11.09.MJ DR.IS-A [259]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-2000-353541
+  date: '2000-11-09'
 article_structure:
   article_count: 182
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:20Z'
   warnings: []
   errors: []
 ---
@@ -2112,13 +2229,13 @@ Os encargos resultantes da aplicação do presente diploma serão satisfeitos, n
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 13 de Setembro de 1990.**
+Promulgado em 13 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Setembro de 1990.**
+Referendado em 18 de Setembro de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
@@ -2126,7 +2243,7 @@ MAPA I
 
 Quadro único do pessoal da Polícia Judiciária a que se refere o artigo 72.º do Decreto-Lei n.º 295-A/90, de 21 de Setembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
 
 MAPA II
 
@@ -2152,22 +2269,22 @@ MAPA III
 
 Pessoal de investigação criminal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
 
 MAPA IV
 
 Pessoal de investigação criminal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
 
 MAPA V
 
 Pessoal de apoio à investigação criminal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
 
 MAPA VI
 
 Pessoal de apoio à investigação criminal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21901/00020034.pdf)

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1990-555041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a95fa373d25314fe1801896559df7f6a64600b3d1e1ca7d5fbb00939f7f0a492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1ca16cf3b061cc09e7d90ed80c6109406346745bfda4edcf67562106384b40c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Aproximação das Legislações
+- Comércio Externo
+- Direitos de Exportação
+- Direitos de Importação
+- Política Aduaneira
+- Registo de Liquidação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:35Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +101,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Todos os montantes de direitos de importação ou de exportação liquidados pelas alfândegas são registados em livros próprios, denominados «Registo de liquidação», ou em suportes informáticos equivalentes, sendo o respectivo número aposto nos documentos que lhes digam respeito.
+Artigo 1.º Todos os montantes de direitos de importação ou de exportação liquidados pelas alfândegas são registados em livros próprios, denominados «Registo de liquidação», ou em suportes informáticos equivalentes, sendo o respectivo número aposto nos documentos que lhes digam respeito.
 
-###### Art. 2.º Sem prejuízo das normas especiais sobre a matéria relativa aos impostos sobre o consumo cobrados na importação, as disposições relativas ao registo de liquidação e às condições de pagamento previstas no Regulamento (CEE) n.º [1854/89](http://data.europa.eu/eli/reg/1989/1854/oj?locale=pt), do Conselho, de 14 de Junho de 1989, são aplicáveis a todas as imposições cobradas pelas alfândegas.
+Art. 2.º Sem prejuízo das normas especiais sobre a matéria relativa aos impostos sobre o consumo cobrados na importação, as disposições relativas ao registo de liquidação e às condições de pagamento previstas no Regulamento (CEE) n.º [1854/89](http://data.europa.eu/eli/reg/1989/1854/oj?locale=pt), do Conselho, de 14 de Junho de 1989, são aplicáveis a todas as imposições cobradas pelas alfândegas.
 
-###### Art. 3.º São revogados, com efeitos reportados a 1 de Julho de 1990, os Decretos-Leis n.os 504-D/85 e 504-E/85, ambos de 30 de Dezembro, e, com efeitos reportados à data da entrada em vigor do presente diploma, o Decreto-Lei n.º 7/86, de 10 de Janeiro.
+Art. 3.º São revogados, com efeitos reportados a 1 de Julho de 1990, os Decretos-Leis n.os 504-D/85 e 504-E/85, ambos de 30 de Dezembro, e, com efeitos reportados à data da entrada em vigor do presente diploma, o Decreto-Lei n.º 7/86, de 10 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 13 de Setembro de 1990.**
+Promulgado em 13 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Setembro de 1990.**
+Referendado em 17 de Setembro de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16200/29682969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1990-575773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b109823c589a0b06f04ddd53145bd6803357b9bafc75727dd9293280d16a4b3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c38c3774955135652e5b6c874bbb20a8cd2cda61378eef64457b4fa7b532e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autoridade Nacional de Navegação
+- Direcção Geral da Navegação e dos Transportes Marítimos
+- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382401:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:00Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +117,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São conferidos à Direcção-Geral de Navegação e Transportes Marítimos (DGNTM) as funções de Autoridade Nacional de Navegação (ANN).
+Artigo 1.º - 1 - São conferidos à Direcção-Geral de Navegação e Transportes Marítimos (DGNTM) as funções de Autoridade Nacional de Navegação (ANN).
 
 2 - Como ANN, à DGNTM compete o exercício da direcção da navegação mercante nacional, incluindo a de pesca e recreio, em situação de crise ou de guerra, a fim de assegurar a sua eficiente utilização e emprego no esforço conjunto de defesa nacional.
 
 3 - Na qualidade de ANN, a DGNTM é o órgão de representação nacional, quer no plano interno quer no plano externo, ao nível da Defense Shipping Authority (DSA) e da Interallied Insurance Organization (IIO).
 
-###### Art. 2.º No âmbito da competência definida no n.º 2 do artigo anterior, a ANN deve:
+Art. 2.º No âmbito da competência definida no n.º 2 do artigo anterior, a ANN deve:
 
 a) Propor ao Governo a requisição dos navios mercantes nacionais necessários à satisfação das necessidades de defesa nacional e dos compromissos assumidos na Organização do Tratado do Atlântico Norte (OTAN);
 
@@ -131,7 +143,7 @@ h) Recolher e difundir a informação sobre todas as áreas da marinha mercante 
 
 i) Participar nos exercícios nacionais da OTAN que impliquem direcção e controlo da navegação, quando decidido superiormente, activando os respectivos órgãos de harmonia com as circunstâncias e a extensão desses exercícios.
 
-###### Art. 3.º - 1 - Para efeitos do disposto nos artigos anteriores, o director-geral de Navegação e Transportes Marítimos será coadjuvado por um adjunto da ANN e pelo vice-presidente da Comissão Sectorial do Transporte Oceânico.
+Art. 3.º - 1 - Para efeitos do disposto nos artigos anteriores, o director-geral de Navegação e Transportes Marítimos será coadjuvado por um adjunto da ANN e pelo vice-presidente da Comissão Sectorial do Transporte Oceânico.
 
 2 - O adjunto referido no número anterior é designado, de entre oficiais superiores da Armada, por despacho conjunto dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações, depois de ouvido o Chefe do Estado-Maior da Armada.
 
@@ -163,22 +175,22 @@ j) Um representante das associações de navegação de recreio.
 
 6 - Compete ao Ministro das Obras Públicas, Transportes e Comunicações designar, após consulta prévia às associações, os representantes referidos nas alíneas h) e j) do número anterior.
 
-###### Art. 4.º - 1 - Na DGNTM é criado um serviço de apoio à ANN que inclui um secretariado permanente para fazer face às situações correntes e um núcleo de reforço a activar em situações de crise ou de guerra ou durante a realização de exercícios em que a ANN tenha de participar.
+Art. 4.º - 1 - Na DGNTM é criado um serviço de apoio à ANN que inclui um secretariado permanente para fazer face às situações correntes e um núcleo de reforço a activar em situações de crise ou de guerra ou durante a realização de exercícios em que a ANN tenha de participar.
 
 2 - O núcleo de reforço previsto no número anterior, para além de pessoal civil, pode incluir o pessoal militar que se revele necessário.
 
 3 - Quando o núcleo de recforço referido no n.º 2 inclua pessoal militar, a designação dos elementos que o integram é feita por despacho conjunto dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 5.º As normas de execução regulamentar relativas ao funcionamento interno da ANN são estabelecidas por portaria conjunta dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.
+Art. 5.º As normas de execução regulamentar relativas ao funcionamento interno da ANN são estabelecidas por portaria conjunta dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações.
 
 Visto e aprovado em Conselho de Ministros de 10 de Maio de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Oliveira Costa - Arlindo Marques da Cunha - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Junho de 1990.**
+Promulgado em 27 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1990.**
+Referendado em 2 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

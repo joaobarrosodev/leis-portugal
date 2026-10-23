@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10400/21142115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1990-571244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3578f1988795e7a2bf60ff6a90b626a51c00e40b6f90011e62d5cc38bb1b424
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dd55094913850256de5c241de78c86b670f0ad1eb648019f97f594390bceb44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia de Seguros
+- Fundo de Pensões
+- Imposto sobre Sucessões e Doações
+- Isenção Fiscal
+- Plano Poupança-reforma
+- Sociedade Gestora de Fundos de Pensões
+- Transferência de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:142700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:142700:por
+  label: "Revogado o Dec Lei 205/89, de 27-Jun, na redacção do presente diploma, pelo DEC LEI.158/2002.2002.07.02.MF, DR.IS-A\
+    \ [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2002-142700
+  date: '2002-07-02'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:49Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +137,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea e) do n.º 1 do artigo 27.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º e 8.º do [Decreto-Lei n.º 205/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1989-620759), de 27 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º e 8.º do [Decreto-Lei n.º 205/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1989-620759), de 27 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -184,7 +213,7 @@ e) ...
 
 5 - São isentas do imposto sobre sucessões e doações as transmissões, por morte, dos valores acumulados afectos a um PRP, a favor do cônjuge sobrevivo, de filhos ou de adoptados, no caso de adopção plena.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 205/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1989-620759), de 27 de Junho, o artigo 6.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 205/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1989-620759), de 27 de Junho, o artigo 6.º-A, com a seguinte redacção:
 
 ###### Artigo 6.º-A — Transferência de entidade gestora
 
@@ -194,12 +223,12 @@ e) ...
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 18 de Abril de 1990.**
+Promulgado em 18 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Abril de 1990.**
+Referendado em 19 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

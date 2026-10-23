@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18467-1961-169944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db62e58c86ba8e1547b91e4ce8fa406d17a27e3db5f40e83f941a1bef986b51f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ede0c5c1dbc657f83cfe797e860d5154b3b87decc7f6d5c4fef2b86fc4cd70a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,31 @@ relationships:
   target: pt:dre:381103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193654:por
+  label: "Eliminadas as normas 8ª, 9ª e 10ª, pela PORT.19700.12.02.1963.MMAR, DG.IS [36] de 12.02.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19700-1963-193654
+  date: '1963-02-12'
+- type: amended_by
+  target: pt:dre:680600:por
+  label: "Alterado o nº 4º e prorrogado até 31.12.1965, o regime experimental da pesca de crustáceos com artes de arrastar\
+    \ pelo fundo pela PORT.20250.27.12.1963.MMAR, DG.IS [303] de 27.12.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20250-1963-680600
+  date: '1963-12-27'
+- type: cites
+  target: pt:dre:636696:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:36Z'
   warnings: []
   errors: []
 ---

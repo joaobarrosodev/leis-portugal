@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17100/30933094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1990-573100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ab8beda46d752f8c474d3f4a17eebd0f034223f9ea3ba2364cc5eefebb32e70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6798d9c759558a8c36cc823059ad42c3be0c38bd19bd0ab7f9096fbeffa89ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA PIA de Lisboa
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:320736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:843544:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 168/88 de 19-Mar, com as alterações introduzidas pelo presente diploma\
+    \ pela PORT.293/96IIS.1996.10.17.PCM, DR.IIS [291] de 1996.12.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1996-843544
+  date: '1996-10-17'
+- type: cites
+  target: pt:dre:180981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305451:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:320736:por
+  label: "Revogado pelo DEC LEI.50/2001.2001.02.13.MTS DR.IS-A [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2001-320736
+  date: '2001-02-13'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:10Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +127,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 29.º do [Decreto-Lei n.º 335/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1985-180981), de 20 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 29.º do [Decreto-Lei n.º 335/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1985-180981), de 20 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 29.º — [...]
 
@@ -110,20 +137,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - Os lugares de director de estabelecimento de Santa Clara, de Nossa Senhora da Conceição e de Santa Catarina são equiparados, para todos os efeitos legais, a chefe de divisão, fazendo-se o seu provimento nos termos da lei geral.
 
-###### Art. 2.º O mapa do quadro de pessoal dirigente da Casa Pia de Lisboa é substituído pelo mapa anexo a este decreto-lei, que dele faz parte integrante.
+Art. 2.º O mapa do quadro de pessoal dirigente da Casa Pia de Lisboa é substituído pelo mapa anexo a este decreto-lei, que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 28 de Junho de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Peneda - José Augusto Perestrello de Alarcão Troni.
 
-**Promulgado em 12 de Julho de 1990.**
+Promulgado em 12 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
 Referendo em 14 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo ao Decreto - Lei n.º 243/90
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/17100/30933094.pdf))](https://files.diariodarepublica.pt/1s/1990/07/17100/30933094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/17100/30933094.pdf)

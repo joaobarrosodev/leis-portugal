@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 121/1990, 1º Suplemento, Série I de 1990-05-26
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2370-(3) a 2370-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/12101/00030005.pdf
 entry_into_force_dates: []
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-1990-303602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 342723b671c078ec8a5529c27b7f10db714d790c74db86d54bf8061805de00c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5a2544cae53d2379e998ec67fd3ee23068bc61d6050418ff3079dcda6a4eeb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Acções
+- Banco Totta e Açores
+- Capital Social
+- Privatização
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:626215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626215:por
+  label: "Determinado que se mantém, no valor de 25% presentemente em vigor, o limite fixado na al. b) do nº 1 do art. 8º,\
+    \ pelo DEC LEI.261/94.22.10.1994.MF, DR.IS-A [245] de 22.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1994-626215
+  date: '1994-10-22'
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636384:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:293340:por
+  label: Rectificado pela DECL.DD3248.1990.05.31.PCM, DR.IS [125]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293340
+  date: '1990-05-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:29Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +142,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a alienação de acções de que o Estado é titular, correspondentes a 51% do capital da sociedade Banco Totta & Açores, S. A.
+Artigo 1.º - 1 - Nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a alienação de acções de que o Estado é titular, correspondentes a 51% do capital da sociedade Banco Totta & Açores, S. A.
 
 2 - A alienação poderá ser efectuada por fases, não podendo, contudo, a 1.ª fase compreender menos de 31% do capital, salvo nas condições estabelecidas no artigo 4.º
 
@@ -122,7 +150,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - Em aumentos de capital em que o Estado não exerça directamente os correspondentes direitos de subscrição serão estes alienados nas condições previstas neste diploma para a 1.ª fase de alienação das acções, salvaguardados os necessários ajustamentos.
 
-###### Art. 2.º - 1 - É reservado para a aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um lote de acções não inferior a 15% do total a alienar.
+Art. 2.º - 1 - É reservado para a aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um lote de acções não inferior a 15% do total a alienar.
 
 2 - É reservado para a aquisição pelas entidades que já forem accionistas, oito dias após a publicação da resolução do Conselho de Ministros a que se refere o artigo 10.º do presente diploma, exceptuado o Estado, um lote de acções até 40% das alienadas, nos termos do [Decreto-Lei n.º 352/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1988-355687), de 1 de Outubro.
 
@@ -130,7 +158,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - Para os efeitos do n.º 1 deste artigo, entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais, a fixar mediante resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio, em função do número de propostas de aquisição, se disso for caso.
 
@@ -142,13 +170,13 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - As aquisições por entidades estrangeiras serão limitadas, globalmente, por forma a ser respeitado o limite definido na alínea b) do n.º 1 do artigo 8.º
 
-###### Art. 4.º No caso de não ter sido alienada, pelos meios previstos no artigo 2.º, a totalidade das acções a alienar, o Governo poderá:
+Art. 4.º No caso de não ter sido alienada, pelos meios previstos no artigo 2.º, a totalidade das acções a alienar, o Governo poderá:
 
 a) Se o número das acções sobrantes for inferior a 2,5% do capital social, oferecê-las para aquisição por quem seja accionista oito dias após a publicação da resolução do Conselho de Ministros ou aliená-las, quando tenha por conveniente, por oferta pública de transacção em bolsa de valores;
 
 b) Se o número das acções sobrantes for igual ou superior a 2,5% do capital social, proceder nos termos da alínea a) ou ainda reduzir as aquisições propostas pelos actuais accionistas, com respeito pelos lotes mínimos, aumentando até 30% a participação conservada pelo Estado na sociedade, a qual poderá ser vendida, quando o Governo o tenha por conveniente, ou em bloco ou fraccionadamente, por oferta pública de transacção em bolsa de valores.
 
-###### Art. 5.º - 1 - O preço de venda será fixado pelo Governo, ponderando o preço médio de venda em leilão competitivo na 1.ª fase de reprivatização, os factores patrimoniais ou outros que tenham posteriormente influenciado a valia da empresa, as transacções posteriormente efectuadas e a cotação das acções na Bolsa.
+Art. 5.º - 1 - O preço de venda será fixado pelo Governo, ponderando o preço médio de venda em leilão competitivo na 1.ª fase de reprivatização, os factores patrimoniais ou outros que tenham posteriormente influenciado a valia da empresa, as transacções posteriormente efectuadas e a cotação das acções na Bolsa.
 
 2 - Nas modalidades de venda contempladas nos artigos 2.º e 3.º o preço será fixo.
 
@@ -156,7 +184,7 @@ b) Se o número das acções sobrantes for igual ou superior a 2,5% do capital s
 
 4 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções, em condições a fixar na resolução do Conselho de Ministros.
 
-###### Art. 6.º - 1 - Durante o período de um ano a contar da data da aquisição, as acções adquiridas ao abrigo deste diploma nas condições permitidas pelo n.º 3 do artigo 5.º não poderão ser oneradas nem alienadas entre vivos por nenhum título.
+Art. 6.º - 1 - Durante o período de um ano a contar da data da aquisição, as acções adquiridas ao abrigo deste diploma nas condições permitidas pelo n.º 3 do artigo 5.º não poderão ser oneradas nem alienadas entre vivos por nenhum título.
 
 2 - São nulos os contratos-promessa, contratos de opção ou semelhantes pelos quais for convencionada futura alienação das acções, quando celebrados antes de iniciado ou terminado o período referido no n.º 1 deste artigo.
 
@@ -166,7 +194,7 @@ b) Se o número das acções sobrantes for igual ou superior a 2,5% do capital s
 
 5 - As acções adquiridas, ao abrigo do n.º 2 do artigo 3.º, por pequenos subscritores e emigrantes não conferem direito de voto durante o período de indisponibilidade.
 
-###### Art. 7.º - 1 - O direito de aquisição de acções conferido aos que já forem accionistas, nos termos do n.º 2 do artigo 2.º, é inalienável.
+Art. 7.º - 1 - O direito de aquisição de acções conferido aos que já forem accionistas, nos termos do n.º 2 do artigo 2.º, é inalienável.
 
 2 - Durante o período de cinco anos a contar da data da aquisição, as acções adquiridas ao abrigo do n.º 2 do artigo 2.º, quando excederem 0,5% do capital social do Banco Totta & Açores, S. A., não poderão ser oneradas nem alienadas entre vivos por nenhum título.
 
@@ -176,7 +204,7 @@ b) Se o número das acções sobrantes for igual ou superior a 2,5% do capital s
 
 5 - São nulos os acordos pelos quais os titulares das acções sujeitas a indisponibilidade se obriguem a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de cinco anos.
 
-###### Art. 8.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções do Banco Totta & Açores, S. A., observar-se-á o seguinte:
+Art. 8.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções do Banco Totta & Açores, S. A., observar-se-á o seguinte:
 
 a) As acções são nominativas ou ao portador em regime de registo e não podem ser convertidas em acções ao portador;
 
@@ -194,26 +222,26 @@ b) As sociedades constituídas em Portugal com capital maioritariamente detido p
 
 4 - As nulidades cominadas no número anterior podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a sociedade.
 
-###### Art. 9.º - 1 - Se e enquanto se verificar a situação prevista na alínea b) do artigo 4.º, e independentemente do número de acções de que seja titular, o representante do Estado na assembleia geral poderá designar um dos membros do conselho de administração.
+Art. 9.º - 1 - Se e enquanto se verificar a situação prevista na alínea b) do artigo 4.º, e independentemente do número de acções de que seja titular, o representante do Estado na assembleia geral poderá designar um dos membros do conselho de administração.
 
 2 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução e a alteração do contrato, incluindo o aumento e a redução do capital, só se considerarão tomadas se não forem votadas desfavoravelmente pelo representante do Estado.
 
 3 - O administrador nomeado nos termos do n.º 1 tem a competência, direitos e deveres definidos na lei para os administradores por parte do Estado.
 
-###### Art. 10.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+Art. 10.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
 
-###### Art. 11.º O prazo previsto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 352/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1988-355687), de 1 de Outubro, é reduzido para um ano.
+Art. 11.º O prazo previsto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 352/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1988-355687), de 1 de Outubro, é reduzido para um ano.
 
-###### Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 25 de Maio de 1990.**
+Promulgado em 25 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Maio de 1990.**
+Referendado em 25 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

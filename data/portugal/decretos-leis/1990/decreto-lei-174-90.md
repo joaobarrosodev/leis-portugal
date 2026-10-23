@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/12800/24402440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1990-574762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a5f8a5164f6dab2bb2e8454c22ba245a09ab4ddfa8e687155a8bfb60ae18d5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3382908c956c960dd84cb3e23ffd40813dfed9259b488c371fe5207ae5779c93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chiado
+- Financiamento
+- JURO Bonificado
+- Linha de Crédito
+- Prédio Urbano
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:646301:por
+  label: "Dada nova redacção aos arts. 2.º, 3.º do Dec Lei 356/88 de 13-Out, alterado pelo presente diploma, pelo DEC LEI.342/93.01.10.1993.MF,\
+    \ DR.IS-A [231] de 01.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1993-646301
+  date: '1993-10-01'
+- type: amended_by
+  target: pt:dre:463664:por
+  label: "Dada nova redacção aos arts. 2.º, 3.º do Dec Lei 356/88 de 13-Out, alterado pelo presente diploma, pelo DEC LEI.161/95.06.07.1995.MF,\
+    \ DR.IS-A [154] de 06.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1995-463664
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:213800:por
+  label: "Dada nova redacção ao art. 2º do Dec Lei 356/88, de 13-Out, alterado pelo presente diploma, pelo DEC LEI.184/96.27.09.1996.MF,\
+    \ DR.IS-A [225] de 27.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1996-213800
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:229285:por
+  label: "Dada nova redacção aos arts. 2º e 3º do Dec Lei 356/88, de 13-Out, alterados pelo presente diploma, pelo DEC LEI.26/98.1998.02.10.MF,\
+    \ DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1998-229285
+  date: '1998-02-10'
+- type: cites
+  target: pt:dre:355098:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:34Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +140,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º e 3.º do [Decreto-Lei n.º 356/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098), de 13 de Outubro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º e 3.º do [Decreto-Lei n.º 356/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098), de 13 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Objecto e formas de apoio
 
@@ -127,12 +166,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 25 de Maio de 1990.**
+Promulgado em 25 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

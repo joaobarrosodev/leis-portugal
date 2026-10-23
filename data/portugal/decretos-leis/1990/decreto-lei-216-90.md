@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,296 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77de868c8d4270465e4ee8c2c553330c25a98cd15541fcd45edd46a3681e78d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54e603201d3b7fbed92cb7fd8c46259c4ab306ce51eb2b299a0c497d29a5ff36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia das Ciências de Lisboa
+- Academia Internacional da Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
+- Autonomia Administrativa
+- Autonomia Financeira
+- CASA Museu Doutor Anastácio Gonçalves
+- Centro de Documentação
+- Comissão de Fiscalização
+- Conselho Administrativo
+- Conselho Consultivo
+- Convento de Cristo
+- Definição de Competências
+- Depósito Nacional de Espécies Museologicas
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Instituto de JOSÉ de Figueiredo
+- Instituto Português do Património Cultural
+- Instituto Público
+- Mosteiro de Alcobaça
+- Mosteiro dos Jerónimos
+- Museu da Cerâmica
+- Museu da Guarda
+- Museu da Terra de Miranda
+- Museu de Alberto Sampaio
+- Museu de Arte Sacra
+- Museu de Aveiro
+- Museu de Diogo de Sousa
+- Museu de Escultura Comparada
+- Museu de Etnologia do Porto
+- Museu de Évora
+- Museu de Francisco Tavares Proença Junior
+- Museu de Grão Vasco
+- Museu de José Malhoa
+- Museu de Lamego
+- Museu do Abade de Baçal
+- Museu do Mosteiro de Santa Maria da Vitória
+- Museu dos Biscainhos
+- Museu Etnográfico e Arqueológico do Dr Joaquim Manso
+- Museu Monográfico de Conimbriga
+- Museu Nacional da Ciência e da Técnica
+- Museu Nacional de Arqueologia do Dr Leite de Vasconcelos
+- Museu Nacional de Arte Antiga
+- Museu Nacional de Arte Contemporânea
+- Museu Nacional de Etnologia
+- Museu Nacional de Machado de Castro
+- Museu Nacional de Soares dos Reis
+- Museu Nacional do Azulejo
+- Museu Nacional do Desporto
+- Museu Nacional do Teatro
+- Museu Nacional do Traje
+- Museu Nacional dos Coches
+- Orgânica
+- Paço dos Duques
+- Palácio Nacional da Ajuda
+- Palácio Nacional da Pena
+- Palácio Nacional de Mafra
+- Palácio Nacional de Queluz
+- Palácio Nacional de Sintra
+- Panteão Nacional
+- Património Cultural
+- Personalidade Jurídica
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+- Serviço Regional
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:602514:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495320:por
+  label: "Alterado o quadro de pessoal pelo DN.8/91.17.01.1991.PCM, DR.IS-B [14] de 17.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1991-495320
+  date: '1991-01-17'
+- type: amended_by
+  target: pt:dre:463190:por
+  label: "Alterado o quadro de pessoal pelo DN.52/91.01.03.1991.PCM, DR.IS-B [50] de 01.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/52-1991-463190
+  date: '1991-03-01'
+- type: amended_by
+  target: pt:dre:466835:por
+  label: "Alterado o quadro de pessoal pelo DN.54/91.04.03.1991.PCM, DR.IS-B [52] de 04.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/54-1991-466835
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:515446:por
+  label: "Alterados os quadros de pessoal dos mapas anexos ao presente diploma, pela PORT.370-A/91.29.04.1991.PCM, DR.IS-B\
+    \ [98]Supl de 29.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-a-1991-515446
+  date: '1991-04-29'
+- type: amended_by
+  target: pt:dre:629469:por
+  label: "Alterado o quadro de pessoal pela PORT.477/91.04.06.1991.PCM, DR.IS-B [127] de 04.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1991-629469
+  date: '1991-06-04'
+- type: amended_by
+  target: pt:dre:402760:por
+  label: "Alterado o quadro de pessoal pelo DN.170/91.20.08.1991.PCM, DR.IS-B [190] de 20.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/170-1991-402760
+  date: '1991-08-20'
+- type: amended_by
+  target: pt:dre:158577:por
+  label: "Alterado o quadro de pessoal pelo DN.26/92.18.02.1992.PCM, DR.IS-B [41] de 18.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-1992-158577
+  date: '1992-02-18'
+- type: amended_by
+  target: pt:dre:199791:por
+  label: "Alterado o quadro de pessoal pelo DN.45/92.11.04.1992.PCM, DR.IS-B [86] de 11.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/45-1992-199791
+  date: '1992-04-11'
+- type: amended_by
+  target: pt:dre:621725:por
+  label: "Alterado o quadro de pessoal pelo DN.254/92.29.12.1992.PCM, DR.IS-B [299] de 29.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/254-1992-621725
+  date: '1992-12-29'
+- type: amended_by
+  target: pt:dre:602514:por
+  label: "Alterado o quadro de pessoal pelo DN.2/93.20.01.1993.PCM, DR.IS-B [20] de 20.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-1993-602514
+  date: '1993-01-20'
+- type: cites
+  target: pt:dre:176990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:624199:por
+  label: Rectificado o cabeçalho e o anexo I pela DECL.DD3128.1990.10.15.PCM, DR.IS [252]2ºSupl de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624199
+  date: '1990-10-15'
+- type: repealed_by
+  target: pt:dre:679835:por
+  label: "Revogados os n.ºs 11, 12, 13, 14, 15, 18 e 19 do artigo 4.º, a alínea c) e a alínea d), esta na parte correspondente\
+    \ à Divisão de Fotografia, do n.º 1 do artigo 12.º e o artigo 31.º pelo DEC LEI.278/91.09.08.1991.PCM, DR.IS-A [182] de\
+    \ 09.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1991-679835
+  date: '1991-08-09'
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogado pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
 article_structure:
   article_count: 34
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:30Z'
   warnings: []
   errors: []
 ---
@@ -583,25 +839,25 @@ São revogados os seguintes diplomas:
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - José Manuel Nunes Liberato - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 25 de Maio de 1990.**
+Promulgado em 25 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1990.**
+Referendado em 29 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Mapa a que se refere o n.º 1 do artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf)
 
 Mapa a que se refere o n.º 1 do artigo 30.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf)
 
-## Anexo II, a que se refere o n.º 1 do artigo 25.º
+Anexo II, a que se refere o n.º 1 do artigo 25.º
 
 Casa-Museu do Dr. Anastácio Gonçalves.
 
@@ -693,6 +949,6 @@ Palácio Nacional de Sintra.
 
 Panteão Nacional.
 
-## Anexo III, a que se refere o n.º 2 do artigo 25.º
+Anexo III, a que se refere o n.º 2 do artigo 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15100/27902816.pdf)

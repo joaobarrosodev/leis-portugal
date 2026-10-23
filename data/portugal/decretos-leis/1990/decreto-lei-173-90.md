@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1990-574886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edf5ba728952ffc7411c319b424afc9aaf3b0db0568935f24a7f0e814588b709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcbe715842a459cc529173f0c2e31c023e43239eaebd3b0d7bc56d1eb128394b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- Apoio ao Investimento
+- CEE
+- Financiamento
+- Política Agrícola Comum
+- Projeto de Investimento
+- Regulamento CE
+- Suinicultura
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:34Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +101,9 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A atribuição das ajudas aos investimentos nas explorações suinícolas já existentes fica sujeita às condições enunciadas nos artigos seguintes, sem prejuízo do que sobre esta matéria se estipula no Decreto-Lei n.º 79-A/87, de 18 de Fevereiro, e respectiva legislação complementar.
+Artigo 1.º A atribuição das ajudas aos investimentos nas explorações suinícolas já existentes fica sujeita às condições enunciadas nos artigos seguintes, sem prejuízo do que sobre esta matéria se estipula no Decreto-Lei n.º 79-A/87, de 18 de Fevereiro, e respectiva legislação complementar.
 
-###### Art. 2.º A concessão das ajudas aos investimentos efectuados na reconversão de unidades de recria e acabamento, existentes e em funcionamento, obedece às seguintes condições:
+Art. 2.º A concessão das ajudas aos investimentos efectuados na reconversão de unidades de recria e acabamento, existentes e em funcionamento, obedece às seguintes condições:
 
 a) A reconversão deve efectuar-se para unidades de produção em circuito fechado, nos termos do disposto na alínea b) do n.º 1 do artigo 1.º do Regulamento (CEE) n.º [1191/89](https://data.europa.eu/eli/reg/1989/1191/oj?locale=pt), de 27 de Abril;
 
@@ -105,7 +113,7 @@ c) O investimento deve incluir medidas destinadas a adaptar as instalações a u
 
 d) O número de lugares para porcos, após a realização do investimento, não deve exceder o número existente antes da reconversão.
 
-###### Art. 3.º - 1 - A concessão de ajudas à melhoria sanitária das explorações situadas no continente e na Região Autónoma dos Açores está sujeita às seguintes condições:
+Art. 3.º - 1 - A concessão de ajudas à melhoria sanitária das explorações situadas no continente e na Região Autónoma dos Açores está sujeita às seguintes condições:
 
 a) Os investimentos devem respeitar à construção ou renovação de edifícios e ter por finalidade melhorar a situação do efectivo em termos de higiene, qualidade de produção, condições de trabalho e protecção do ambiente;
 
@@ -115,20 +123,20 @@ c) A exploração deve situar-se em municípios onde a dimensão média das expl
 
 2 - A lista dos municípios a que se refere a alínea anterior constará de despacho do Ministro da Agricultura, Pescas e Alimentação, no continente, ou, na Região Autónoma dos Açores, das respectivas entidades competentes.
 
-###### Art. 4.º Nos casos referidos nos artigos 2.º e 3.º, a exploração tem de dispor de, pelo menos, 1 ha de superfície agrícola por fracção equivalente a 100 lugares para porcos de engorda.
+Art. 4.º Nos casos referidos nos artigos 2.º e 3.º, a exploração tem de dispor de, pelo menos, 1 ha de superfície agrícola por fracção equivalente a 100 lugares para porcos de engorda.
 
-###### Art. 5.º Enquanto vigorar o regime de ajudas previsto no presente diploma fica suspenso o n.º 5 do artigo 7.º do Decreto-Lei n.º 79-A/87, de 18 de Fevereiro.
+Art. 5.º Enquanto vigorar o regime de ajudas previsto no presente diploma fica suspenso o n.º 5 do artigo 7.º do Decreto-Lei n.º 79-A/87, de 18 de Fevereiro.
 
-###### Art. 6.º O regime de ajudas previsto no presente diploma cessa em 31 de Dezembro de 1990.
+Art. 6.º O regime de ajudas previsto no presente diploma cessa em 31 de Dezembro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Maio de 1990.**
+Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

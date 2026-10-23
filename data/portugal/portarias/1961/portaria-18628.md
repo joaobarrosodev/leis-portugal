@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18628-1961-173356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b6fc718bb3b39aa7fe9badd751b06c8c311bb4b87a3e7933967e6d64156e714
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76c88bbd57a8ff9a7ec5036863ee2ec3fbe493a2aa50196226aebbb225e842e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:02Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +119,7 @@ b) Reforçar com 30000$00 a verba do capítulo 10.º, artigo 266.º, n.º 2), al
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 267.º «Diversas despesas»:
+Artigo 267.º «Diversas despesas»:
 
 N.º 15) «Para pagamento a um capataz de presos» ... 15000$00
 
@@ -113,7 +137,7 @@ a) Abrir um crédito especial da quantia de 22500$00 destinado a reforçar a ver
 
 Despesas com o pessoal:
 
-###### Artigo 338.º «Remunerações certas ao pessoal em exercício»:
+Artigo 338.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 17000$00
 
@@ -127,7 +151,7 @@ b) Abrir em Macau um crédito especial de 14657$55 destinado a reforçar a verba
 
 Despesas com o pessoal:
 
-###### Artigo 196.º «Remunerações certas ao pessoal em exercício»:
+Artigo 196.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 2) «Pessoal contratado» ... 6799$65
 

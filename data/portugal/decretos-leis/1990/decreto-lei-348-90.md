@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1990-566202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14f9d191498949a071a7104b8f8c8b0b803128ec094b1c3c637cd55e68fcb341
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74330f1ad1fe70b2f0b29e7b72a02f0b0d3925245627376f87dc4d72a158a6db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aliança Seguradora
+- Alienação de Acções
+- Capital Social
+- Companhia de Seguros
+- Participação do Estado
+- Prazo
+- Privatização
+- Setor Empresarial do Estado
+relationships:
+- type: cites
+  target: pt:dre:220374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615457:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:26Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +113,9 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação das acções de que o Estado é titular, correspondentes a 51% do capital social da Aliança Seguradora, S. A.
+Artigo 1.º É aprovada a alienação das acções de que o Estado é titular, correspondentes a 51% do capital social da Aliança Seguradora, S. A.
 
-###### Art. 2.º - 1 - É reservado um lote de acções não inferior a 15% do total das participações sociais a alienar, destinado a aquisição por parte de trabalhadores, pequenos subscritores e, eventualmente, emigrantes.
+Art. 2.º - 1 - É reservado um lote de acções não inferior a 15% do total das participações sociais a alienar, destinado a aquisição por parte de trabalhadores, pequenos subscritores e, eventualmente, emigrantes.
 
 2 - É reservado um lote de acções até 40% do total das participações sociais alienadas nos termos do [Decreto-Lei n.º 109/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1989-615457), de 13 de Abril, e da [Resolução do Conselho de Ministros n.º 28-A/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-a-1989-220374), de 23 de Agosto, destinado a aquisição por parte de titulares de acções do tipo B.
 
@@ -109,7 +129,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 7 - Para efeitos do n.º 2, entendem-se como titulares das acções do tipo B os que o forem no momento em que se perfizerem oito dias após a publicação da resolução do Conselho de Ministros a que se refere o artigo 10.º deste diploma.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais, a fixar por resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades individuais, a fixar por resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar por resolução do Conselho de Ministros, procedendo-se a rateio em função do número de subscritores, se disso for caso.
 
@@ -117,7 +137,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - A aquisição pelo público será feita em leilão competitivo, mediante propostas sujeitas a um mínimo de acções, a fixar por resolução do Conselho de Ministros.
 
-###### Art. 4.º - 1 - Os preços de venda serão fixados por resolução do Conselho de Ministros, ponderando o preço médio de venda em leilão competitivo na primeira fase de reprivatização, os factores patrimoniais ou outros que tenham posteriormente influenciado a valia da empresa, as transacções posteriormente efectuadas e a cotação das acções na bolsa.
+Art. 4.º - 1 - Os preços de venda serão fixados por resolução do Conselho de Ministros, ponderando o preço médio de venda em leilão competitivo na primeira fase de reprivatização, os factores patrimoniais ou outros que tenham posteriormente influenciado a valia da empresa, as transacções posteriormente efectuadas e a cotação das acções na bolsa.
 
 2 - O Conselho de Ministros estabelecerá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes, nos termos do n.º 1 do artigo 2.º
 
@@ -127,7 +147,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - O preço de aquisição das acções reservadas aos titulares das acções do tipo B será fixo e igual ao preço médio da oferta pública de venda a que se refere o n.º 4 do artigo 3.º, diminuído de uma percentagem inferior ou igual a 5%, a fixar por resolução do Conselho de Ministros, sendo as propostas de aquisição satisfeitas desde que tenha sido oferecido um preço não inferior àquele.
 
-###### Art. 5.º - 1 - Se não se verificar a alienação da totalidade das acções, nos termos dos artigos anteriores, o Governo poderá:
+Art. 5.º - 1 - Se não se verificar a alienação da totalidade das acções, nos termos dos artigos anteriores, o Governo poderá:
 
 a) Sujeitar o lote de acções remanescentes a nova oferta pública de transacção em bolsa ou a oferta de venda aos accionistas, no caso de aquele ser inferior a 5% do capital social;
 
@@ -135,7 +155,7 @@ b) Aumentar, até ao limite máximo de 30%, a participação do Estado na socied
 
 2 - O lote das acções detidas pelo Estado ao abrigo da alínea b) do número anterior pode, em qualquer altura, ser alienado, total ou parcialmente, mediante oferta pública de transacção em bolsa de valores.
 
-###### Art. 6.º - 1 - As acções adquiridas ao abrigo do n.º 1 do artigo 2.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+Art. 6.º - 1 - As acções adquiridas ao abrigo do n.º 1 do artigo 2.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
 
 2 - As acções adquiridas por pequenos subscritores ou emigrantes ao abrigo do n.º 1 do artigo 2.º não conferem aos respectivos titulares o direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no número anterior.
 
@@ -143,7 +163,7 @@ b) Aumentar, até ao limite máximo de 30%, a participação do Estado na socied
 
 4 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido acções ao abrigo do n.º 1 do artigo 2.º se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade previsto no n.º 1
 
-###### Art. 7.º - 1 - O direito de aquisição de acções conferido aos titulares de acções de tipo B, nos termos do n.º 2 do artigo 2.º, não pode ser objecto de negócio jurídico que transmita a sua titularidade, sob pena de nulidade do referido negócio.
+Art. 7.º - 1 - O direito de aquisição de acções conferido aos titulares de acções de tipo B, nos termos do n.º 2 do artigo 2.º, não pode ser objecto de negócio jurídico que transmita a sua titularidade, sob pena de nulidade do referido negócio.
 
 2 - Durante o período de cinco anos a contar da data da aquisição, as acções adquiridas ao abrigo do n.º 2 do artigo 2.º, quando excederem 0,5% do capital social, não poderão ser oneradas nem alienadas entre vivos por nenhum título, sob pena de nulidade do respectivo negócio.
 
@@ -153,7 +173,7 @@ b) Aumentar, até ao limite máximo de 30%, a participação do Estado na socied
 
 5 - São nulos os acordos pelos quais os titulares das acções sujeitas a indisponibilidade nos termos do n.º 2 deste artigo se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade nele previsto.
 
-###### Art. 8.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e posse de acções da sociedade, por parte de entidades estrangeiras ou de entidade cujo capital social ou correspondente direito de voto seja maioritariamente detido por entidades estrangeiras, observar-se-á o seguinte:
+Art. 8.º - 1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e posse de acções da sociedade, por parte de entidades estrangeiras ou de entidade cujo capital social ou correspondente direito de voto seja maioritariamente detido por entidades estrangeiras, observar-se-á o seguinte:
 
 a) Todas as acções da sociedade são nominativas ou ao portador em regime de registo, podendo vir a converter-se em acções escriturais, mas sendo insusceptíveis de conversão em acções ao portador;
 
@@ -165,28 +185,28 @@ b) Não podem ser inscritas ou averbadas a favor do conjunto das mesmas entidade
 
 4 - As nulidades cominadas no número anterior podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a sociedade.
 
-###### Art. 9.º - 1 - Se e enquanto se verificar a situação prevista na alínea b) do artigo 5.º, o representante do Estado na assembleia geral poderá sempre designar um dos membros do conselho de administração, independentemente do número de acções de que o Estado seja titular.
+Art. 9.º - 1 - Se e enquanto se verificar a situação prevista na alínea b) do artigo 5.º, o representante do Estado na assembleia geral poderá sempre designar um dos membros do conselho de administração, independentemente do número de acções de que o Estado seja titular.
 
 2 - O administrador nomeado nos termos do número anterior tem a competência, os direitos e os deveres definidos na lei para os administradores por parte do Estado.
 
 3 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução e a alteração de contrato, incluindo o aumento e a redução do capital, carecem de voto favorável do representante do Estado na assembleia geral.
 
-###### Art. 10.º O Conselho de Ministros aprovará, mediante resolução, as condições finais para a concretização das operações de execução do presente diploma.
+Art. 10.º O Conselho de Ministros aprovará, mediante resolução, as condições finais para a concretização das operações de execução do presente diploma.
 
-###### Art. 11.º O prazo previsto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 109/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1989-615457), de 13 de Abril, é reduzido para um ano.
+Art. 11.º O prazo previsto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 109/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1989-615457), de 13 de Abril, é reduzido para um ano.
 
-###### Art. 12.º A sociedade deve, no prazo máximo de 60 dias após a data da conclusão da reprivatização prevista pelo presente diploma, proceder às necessárias adaptações dos respectivos estatutos.
+Art. 12.º A sociedade deve, no prazo máximo de 60 dias após a data da conclusão da reprivatização prevista pelo presente diploma, proceder às necessárias adaptações dos respectivos estatutos.
 
-###### Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 25 de Outubro de 1990.**
+Promulgado em 25 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Mário SOARES.**
+O Presidente da República, Mário SOARES.
 
-**Referendado em 29 de Outubro de 1990.**
+Referendado em 29 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

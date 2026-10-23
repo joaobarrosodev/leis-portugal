@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1990-575498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2036e6dd00bf618269d4825059a3f43be352a74f34d5d9eea47c4e0d2c431b1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc8f0dde487fec6c112dd49fd77a07cc2e09812a56289b1feff72e7f66c5c2d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial para a Emigração e Comunidades Portuguesas
+- Comissão Interministerial para as Migrações e Comunidades Portuguesas
+- Criação de Serviços
+- Emigração
+- Emigrante
+- Extinção de Serviços
+- Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:432176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145860:por
+  label: "Alterado o art 2º pelo DEC LEI.249/96.1996.12.24.MNE\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-1996-145860
+  date: '1996-12-24'
+- type: amended_by
+  target: pt:dre:432176:por
+  label: "Alterados os arts. 2.º e 3.º do presente diploma na redacção dada pelo Dec Lei 249/96, de 24-Dez DR.IS-A [279],\
+    \ pelo DEC LEI.216/2002.2002.10.22.MNE DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2002-432176
+  date: '2002-10-22'
+- type: cites
+  target: pt:dre:599517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662950:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:35Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +136,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada a Comissão Interministerial para as Migrações e Comunidades Portuguesas, adiante designada por Comissão, que se rege pelo disposto no presente diploma.
+Artigo 1.º É criada a Comissão Interministerial para as Migrações e Comunidades Portuguesas, adiante designada por Comissão, que se rege pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - A Comissão é presidida pelo Ministro dos Negócios Estrangeiros, que pode delegar tal competência no membro do Governo responsável pelas comunidades portuguesas, sendo também constituída pelos seguintes membros:
+Art. 2.º - 1 - A Comissão é presidida pelo Ministro dos Negócios Estrangeiros, que pode delegar tal competência no membro do Governo responsável pelas comunidades portuguesas, sendo também constituída pelos seguintes membros:
 
 a) Três representantes da Presidência do Conselho de Ministros (respectivamente das áreas da cultura, da juventude e da comunicação social);
 
@@ -141,19 +168,19 @@ b) Os directores-gerais ou equiparados do Ministério dos Negócios Estrangeiros
 
 4 - Os membros da Comissão referidos no n.º 1 devem ser designados de entre pessoal dirigente, de preferência de categoria não inferior a subdirector-geral.
 
-###### Art. 3.º Compete à Comissão, enquanto órgão de apoio do Ministro dos Negócios Estrangeiros, em matéria de migrações e comunidades portuguesas:
+Art. 3.º Compete à Comissão, enquanto órgão de apoio do Ministro dos Negócios Estrangeiros, em matéria de migrações e comunidades portuguesas:
 
 a) Contribuir para a coordenação de acções interdepartamentais naquele domínio;
 
 b) Dar parecer e prestar informações sobre assuntos que lhe sejam apresentados pelo presidente.
 
-###### Art. 4.º - 1 - A Comissão reúne em plenário e por secções.
+Art. 4.º - 1 - A Comissão reúne em plenário e por secções.
 
 2 - A Comissão reúne em plenário, ordinariamente, uma vez por ano e, extraordinariamente, sempre que convocada pelo seu presidente.
 
 3 - As reuniões por secções realizam-se sempre que convocadas pelo presidente, com a antecedência mínima de 15 dias, por sua iniciativa ou a pedido de algum membro da Comissão.
 
-###### Art. 5.º - 1 - As secções não têm composição fixa, sendo convocados os membros da Comissão em cuja área de competência se insiram os assuntos agendados para a reunião.
+Art. 5.º - 1 - As secções não têm composição fixa, sendo convocados os membros da Comissão em cuja área de competência se insiram os assuntos agendados para a reunião.
 
 2 - Nas reuniões das secções os membros da Comissão podem fazer-se representar ou acompanhar por técnicos cuja participação considerem adequada ao debate dos assuntos constantes da ordem de trabalhos.
 
@@ -161,20 +188,20 @@ b) Dar parecer e prestar informações sobre assuntos que lhe sejam apresentados
 
 4 - As reuniões das secções são presididas por quem o presidente da Comissão mencionar nas respectivas convocatórias.
 
-###### Art. 6.º O exercício das funções de membro da Comissão não é remunerado.
+Art. 6.º O exercício das funções de membro da Comissão não é remunerado.
 
-###### Art. 7.º O apoio administrativo à Comissão é prestado pelo gabinete do membro do Governo responsável pelas comunidades portuguesas.
+Art. 7.º O apoio administrativo à Comissão é prestado pelo gabinete do membro do Governo responsável pelas comunidades portuguesas.
 
-###### Art. 8.º São revogados o [Decreto-Lei n.º 14/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1987-599517), de 9 de Janeiro, e a [Portaria n.º 105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 14 de Fevereiro.
+Art. 8.º São revogados o [Decreto-Lei n.º 14/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1987-599517), de 9 de Janeiro, e a [Portaria n.º 105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 14 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - António Fernando Couto dos Santos.
 
-**Promulgado em 20 de Junho de 1990.**
+Promulgado em 20 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1990.**
+Referendado em 22 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

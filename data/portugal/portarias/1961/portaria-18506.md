@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18506-1961-170333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30020477733cb4769d610423f3296a5f5ad51eec632ddd22a3e39895993671cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13dc806bc8cbdadb0b83246dd93a9f75880ded8f5fb40c5f22bec0bcdfac4d3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:169914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514074:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:22Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +98,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Do artigo 4.º são aplicadas as novas redacções, no todo ou em parte, dadas aos artigos 12.º, 72.º, 87.º, 316.º, 335.º, 370.º, 373.º, 400.º, 402.º, 409.º, 437.º, 447.º, 448.º, 449.º, 451.º, 453.º, 454.º, n.º 2.º do 467.º, 468.º, 469.º, 470.º, 471.º, 472.º, 474.º, 482.º, 484.º, 485.º, 487.º, 497.º, 498.º, 505.º, n.º 2.º do 510.º, e 513.º do Estatuto do Ensino Profissional Industrial e Comercial, e modificadas pela forma que se segue, as que se referem aos seguintes artigos, ou números de artigos:
 
-###### Art. 203.º Não podem ser providos nos lugares de professores os candidatos a cujo serviço tenha sido atribuída a classificação de deficiente num dos dois anos escolares imediatamente anteriores.
+Art. 203.º Não podem ser providos nos lugares de professores os candidatos a cujo serviço tenha sido atribuída a classificação de deficiente num dos dois anos escolares imediatamente anteriores.
 
 ...
 
-###### Art. 467.º ...
+Art. 467.º ...
 
 ...
 
@@ -102,7 +110,7 @@ Do artigo 4.º são aplicadas as novas redacções, no todo ou em parte, dadas a
 
 ...
 
-###### Art. 510.º ...
+Art. 510.º ...
 
 ...
 
@@ -112,7 +120,7 @@ Do artigo 4.º são aplicadas as novas redacções, no todo ou em parte, dadas a
 
 É alterada pela forma que se segue a nova redacção dada ao artigo 192.º do estatuto já referido:
 
-###### Art. 192.º Quando a conveniência do ensino assim o exigir, e mediante determinação do Ministro do Ultramar, podem aos concursos para professores efectivos do 2.º grupo ser exclusivamente admitidos engenheiros mecânicos ou electrotécnicos; aos do 3.º grupo, exclusivamente engenheiros civis ou arquitectos; aos do 4.º grupo, exclusivamente engenheiros ou licenciados em Ciências Físico-Químicas ou, ainda, licenciados em Ciências Económicas e Financeiras; aos do 5.º grupo, exclusivamente pintores ou escultores.
+Art. 192.º Quando a conveniência do ensino assim o exigir, e mediante determinação do Ministro do Ultramar, podem aos concursos para professores efectivos do 2.º grupo ser exclusivamente admitidos engenheiros mecânicos ou electrotécnicos; aos do 3.º grupo, exclusivamente engenheiros civis ou arquitectos; aos do 4.º grupo, exclusivamente engenheiros ou licenciados em Ciências Físico-Químicas ou, ainda, licenciados em Ciências Económicas e Financeiras; aos do 5.º grupo, exclusivamente pintores ou escultores.
 
 3.º É da competência legislativa dos governadores a fixação do período em que se deverão realizar os exames de aptidão profissional a que se refere o artigo 513.º, com a nova redacção, assim como o continua a ser a fixação de prazos, de quantitativos de propinas e forma do seu pagamento.
 

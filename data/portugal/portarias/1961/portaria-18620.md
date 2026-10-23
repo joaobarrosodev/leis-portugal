@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18620-1961-173476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7657c1093188dcdc82f1ce33678c806c756c5ea2fe2d551d7c5137540443bf33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1dac54b973c9cb3d651f59adba3c88ed5728d94a1e4720e1458cf5c0d4bb25f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521842:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:52Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +103,7 @@ Nos termos do artigo 3.º do [Decreto-Lei n.º 31913](https://diariodarepublica.
 
 Manda o Governo da República Portuguesa pelos Ministros das Finanças e da Saúde e Assistência, que o pessoal do Instituto Nacional do Sangue não compreendido no quadro de direcção e chefia seja o constante do seguinte mapa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/07/17200/09140915.pdf))](https://files.diariodarepublica.pt/1s/1961/07/17200/09140915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/17200/09140915.pdf)
 
 Notas
 

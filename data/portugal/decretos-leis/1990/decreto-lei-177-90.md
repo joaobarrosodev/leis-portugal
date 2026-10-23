@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/12900/24442444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1990-574766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0784d43067ccc7cee4a23daebb69500f7876d8a5580a94ba32b42bae40db5ecf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1c8142bbf1a363c0d5937ea2af7f1597ab3cdb6fa0f4f8e41c30457b2e1ed27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Direitos Aduaneiros
+- Importação
+- Isenção Fiscal
+- IVA
+- Pessoal dos Transportes
+- Regulamento CE
+- Transporte Aéreo
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:39Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +113,22 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea d) do artigo 34.º da Lei n.º 101/89, de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É concedida franquia de direitos de importação para as mercadorias contidas na bagagem pessoal dos tripulantes que se desloquem em efectivo exercício das suas funções ou por motivos destas, nos mesmos termos e condições previstos no Decreto-Lei n.º 179/88, de 19 de Maio.
+Artigo 1.º - 1 - É concedida franquia de direitos de importação para as mercadorias contidas na bagagem pessoal dos tripulantes que se desloquem em efectivo exercício das suas funções ou por motivos destas, nos mesmos termos e condições previstos no Decreto-Lei n.º 179/88, de 19 de Maio.
 
 2 - Os direitos de importação compreendem os direitos aduaneiros e encargos de efeito equivalente, bem como os direitos niveladores agrícolas e outras imposições a cobrar na importação, previstos no âmbito da política agrícola comum ou no dos regimes específicos aplicáveis a certas mercadorias resultantes da transformação de produtos agrícolas.
 
 3 - Por tripulantes entende-se todo o pessoal dos meios de transporte utilizados no tráfego internacional em efectivo exercício das suas funções, designadamente o pessoal que presta serviço nos transportes rodoviários de passageiros ou de mercadorias e nos comboios das linhas internacionais, o pessoal de voo das companhias de navegação aérea e o pessoal navegante das companhias de navegação marítima.
 
-###### Art. 2.º É revogado o Decreto-Lei n.º 463/80, de 11 de Outubro.
+Art. 2.º É revogado o Decreto-Lei n.º 463/80, de 11 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Maio de 1990.**
+Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

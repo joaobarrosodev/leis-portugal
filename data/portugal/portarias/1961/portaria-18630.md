@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18630-1961-173487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24cd92f8c3eba3a2583b6f05f848aad70f79e6c5dd786514fe672cf8a8bdf77a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 068b56698b5a187cdb7f2084227a0ebeb11202ab47f00a6086f166b6d87bbd86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:02Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +93,11 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificação para despesas de representação» ... +8200$00
+Artigo 2.º, n.º 3) «Remunerações acidentais - Gratificação para despesas de representação» ... +8200$00
 
 Despesas de serviços e diversos encargos:
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... +7300$00
+Artigo 13.º «Despesas de anos económicos findos» ... +7300$00
 
 ... +15500$00
 
@@ -101,13 +105,13 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Fatos de trabalho e artigos especiais para cozinheiros, motociclistas, serventes de viaturas motorizadas e blindadas, praças hospitalizadas, etc.» ... -5000$00
+Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Fatos de trabalho e artigos especiais para cozinheiros, motociclistas, serventes de viaturas motorizadas e blindadas, praças hospitalizadas, etc.» ... -5000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... -5000$00
+Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... -5000$00
 
-###### Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... -5500$00
+Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... -5500$00
 
 ... -15500$00
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/15800/28972899.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1990-575711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa156d2eb1e8e5c2aeb80e914243a0ba31bca65e5b952ae0ea033de2519f1718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4866bedf4311e44f5303148fdd9542845d4befcd98977263ccec1df171c1f3d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Peixe
+- Peixe Congelado
 relationships:
 - type: amended_by
   target: pt:dre:241411:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615863:por
+  label: "Aditado o artigo 12.º-A pelo DEC LEI.144/91.12.04.1991.MAPA, DR.IS-A [85] de 12.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1991-615863
+  date: '1991-04-12'
+- type: cites
+  target: pt:dre:382246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678654:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241411:por
+  label: "Revogado o presente diploma, na redacção dada pelo Dec Lei 144/91 de 12-Abr, mantendo-se transitoriamente em vigor\
+    \ o nº 1 do art. 1º, os nºs. 1 e 2 do art. 2º, os arts. 4º a 6º, 9º, 10º e 12º, até à publicação de legislação relativa\
+    \ a esta matéria, pelo DEC LEI.288/98.17.09.1998.MADRP, DR.IS-A [215] de 17.09.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1998-241411
+  date: '1998-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:55Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +135,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O disposto no presente decreto-lei aplica-se a todos os produtos da pesca congelados e ultracongelados, destinados à alimentação humana, adiante designados, respectivamente, por pescado congelado e pescado ultracongelado.
+Artigo 1.º - 1 - O disposto no presente decreto-lei aplica-se a todos os produtos da pesca congelados e ultracongelados, destinados à alimentação humana, adiante designados, respectivamente, por pescado congelado e pescado ultracongelado.
 
 2 - Para os efeitos do presente diploma, entende-se por:
 
@@ -127,7 +161,7 @@ j) Pescado pré-embalado: conjunto da embalagem e do pescado nela acondicionado 
 
 l) Lote: conjunto de unidades de venda de pescado congelado ou ultracongelado produzido, fabricado ou acondicionado em condições praticamente idênticas.
 
-###### Art. 2.º - 1 - A preparação do pescado e a sua congelação, ultracongelação e transformação devem ser efectuadas o mais rapidamente possível e com o auxílio de equipamento técnico adequado que permita reduzir ao mínimo as alterações químicas, bioquímicas e microbiológicas.
+Art. 2.º - 1 - A preparação do pescado e a sua congelação, ultracongelação e transformação devem ser efectuadas o mais rapidamente possível e com o auxílio de equipamento técnico adequado que permita reduzir ao mínimo as alterações químicas, bioquímicas e microbiológicas.
 
 2 - Os únicos meios frigorigéneos cuja utilização em contacto directo com o pescado ultracongelado é autorizada são os seguintes:
 
@@ -139,7 +173,7 @@ c) O anidrido carbónico.
 
 3 - No caso do pescado congelado é autorizada, para além dos meios frigorigéneos referidos no número anterior, a utilização de salmoura de cloreto de sódio, seguida de estabilização térmica a níveis iguais ou inferiores a -18ºC.
 
-###### Art. 3.º - 1 - A temperatura do pescado congelado ou ultracongelado deve ser estável e mantida, em todos os pontos do produto, a um nível igual ou inferior a -18ºC, admitindo-se a tolerância máxima de 3ºC durante o transporte.
+Art. 3.º - 1 - A temperatura do pescado congelado ou ultracongelado deve ser estável e mantida, em todos os pontos do produto, a um nível igual ou inferior a -18ºC, admitindo-se a tolerância máxima de 3ºC durante o transporte.
 
 2 - Em conformidade com as boas práticas de conservação e de distribuição, admitem-se ainda as seguintes tolerâncias máximas quanto à temperatura do produto:
 
@@ -147,11 +181,11 @@ a) Na distribuição local: 6ºC até 31 de Dezembro de 1996, diminuindo para 3�
 
 b) Nos expositores de venda a retalho: 6ºC.
 
-###### Art. 4.º - 1 - De acordo com as respectivas atribuições e competências o Instituto Português de Conservas e Pescado, o Instituto de Qualidade Alimentar, a Direcção-Geral da Pecuária e a Direcção-Geral de Inspecção Económica asseguram o cumprimento do disposto no presente diploma.
+Art. 4.º - 1 - De acordo com as respectivas atribuições e competências o Instituto Português de Conservas e Pescado, o Instituto de Qualidade Alimentar, a Direcção-Geral da Pecuária e a Direcção-Geral de Inspecção Económica asseguram o cumprimento do disposto no presente diploma.
 
 2 - Deverão as mesmas entidades efectuar, nos locais onde actuam, por amostragem, um controlo oficial das temperaturas do pescado congelado ou ultracongelado.
 
-###### Art. 5.º - 1 - O pescado congelado ou ultracongelado pode apresentar-se cru, pronto a cozinhar ou pronto a consumir.
+Art. 5.º - 1 - O pescado congelado ou ultracongelado pode apresentar-se cru, pronto a cozinhar ou pronto a consumir.
 
 2 - O pescado congelado ou ultracongelado pode ser comercializado sob as seguintes formas de apresentação:
 
@@ -171,11 +205,11 @@ g) Trancha ou entrancha de peixe: porção muscular ventral de peixe, anterior �
 
 3 - O pescado congelado ou ultracongelado pode ser ainda comercializado sob qualquer outra forma de apresentação, desde que se distinga claramente das formas definidas no número anterior.
 
-###### Art. 6.º - 1 - O pescado congelado ou ultracongelado destinado ao consumidor final e a restaurantes, hospitais, cantinas e outros consumidores colectivos só pode ser comercializado desde que devidamente acondicionado pelo produtor, pelo industial ou pelo acondicionador, em embalagens adequadas, que o proteja contra contaminações externas, microbianas ou outras, e contra a desidratação e as oxidações.
+Art. 6.º - 1 - O pescado congelado ou ultracongelado destinado ao consumidor final e a restaurantes, hospitais, cantinas e outros consumidores colectivos só pode ser comercializado desde que devidamente acondicionado pelo produtor, pelo industial ou pelo acondicionador, em embalagens adequadas, que o proteja contra contaminações externas, microbianas ou outras, e contra a desidratação e as oxidações.
 
 2 - Exceptua-se do disposto no número anterior o pescado congelado apresentado sob as formas referidas nas alíneas a) a c) do n.º 2 do artigo anterior, que pode ser vendido não embalado, nas condições previstas no artigo 9.º
 
-###### Art. 7.º - 1 - Nas embalagens de pescado ultracongelado destinado ao consumidor final e a restaurantes, hospitais, cantinas e outros consumidores colectivos, bem como nas embalagens de pescado congelado que se destine ao consumidor final, mas que não seja comercializado numa fase anterior à da sua venda ao consumidor, e para além de outras indicações exigidas pela lei geral da rotulagem de géneros alimentícios, devem constar:
+Art. 7.º - 1 - Nas embalagens de pescado ultracongelado destinado ao consumidor final e a restaurantes, hospitais, cantinas e outros consumidores colectivos, bem como nas embalagens de pescado congelado que se destine ao consumidor final, mas que não seja comercializado numa fase anterior à da sua venda ao consumidor, e para além de outras indicações exigidas pela lei geral da rotulagem de géneros alimentícios, devem constar:
 
 a) A denominação de venda, constituída pelo nome vulgar da espécie e forma de apresentação ou preparação culinária, completada pela menção «congelado» ou «ultracongelado», consoante os casos;
 
@@ -197,7 +231,7 @@ h) O número de laboração atribuído pelo Instituto Português de Conservas e 
 
 3 - Nas embalagens de pescado congelado destinado ao consumidor final, mas que seja comercializado nas condições previstas no artigo 9.º, bem como nas embalagens de pescado congelado que se destine a ser fornecido a consumidores colectivos para aí ser consumido, deverão constar as indicações previstas no n.º 1, obedecendo às condições estipuladas no n.º 2, podendo, em alternativa, tais indicações figurar apenas nos documentos comerciais referentes a esses géneros, se se puder garantir que os mesmos contêm todas as informações exigidas, quer acompanhem os géneros alimentícios a que dizem respeito quer sejam enviados antes ou durante o fornecimento.
 
-###### Art. 8.º - 1 - A rotulagem do pescado congelado ou ultracongelado não destinado ao consumidor final nem a restaurantes, hospitais, cantinas e outros consumidores colectivos deve apresentar, pelo menos, as seguintes referências:
+Art. 8.º - 1 - A rotulagem do pescado congelado ou ultracongelado não destinado ao consumidor final nem a restaurantes, hospitais, cantinas e outros consumidores colectivos deve apresentar, pelo menos, as seguintes referências:
 
 a) A denominação de venda, constituída pelo nome vulgar da espécie e forma de apresentação, completada pela menção «congelado» ou «ultracongelado», consoante os casos;
 
@@ -211,30 +245,30 @@ d) O número de laboração atribuído pelo Instituto Português de Conservas e 
 
 3 - As referências previstas nos números anteriores devem constar da embalagem ou numa etiqueta ligada a esta.
 
-###### Art. 9.º Nos estabelecimentos de venda ao público que comercializem pescado congelado não embalado é obrigatório a afixação, em local bem visível, de um quadro com a indicação «Pescado congelado não embalado» e onde constem os nomes vulgares das espécies as formas de apresentação referidas nas alinhas a) a c) do n.º 2 do artigo 5.º, os tipos comerciais e os respectivos preços por quilograma.
+Art. 9.º Nos estabelecimentos de venda ao público que comercializem pescado congelado não embalado é obrigatório a afixação, em local bem visível, de um quadro com a indicação «Pescado congelado não embalado» e onde constem os nomes vulgares das espécies as formas de apresentação referidas nas alinhas a) a c) do n.º 2 do artigo 5.º, os tipos comerciais e os respectivos preços por quilograma.
 
-###### Art. 10.º - 1 - Na comercialização do pescado congelado ou ultracongelado é obrigatório para o vendedor, com excepção do retalhista, passar documento de venda devidamente datado e onde constem os nomes e moradas do vendedor e do comprador, a indicação da quantidade, o nome vulgar da espécie, o tipo comercial do pescado, a forma de apresentação ou preparação culinária e o preço por quilograma, documento esse que o comprador terá de apresentar sempre que lhe for exigido pela autoridade competente.
+Art. 10.º - 1 - Na comercialização do pescado congelado ou ultracongelado é obrigatório para o vendedor, com excepção do retalhista, passar documento de venda devidamente datado e onde constem os nomes e moradas do vendedor e do comprador, a indicação da quantidade, o nome vulgar da espécie, o tipo comercial do pescado, a forma de apresentação ou preparação culinária e o preço por quilograma, documento esse que o comprador terá de apresentar sempre que lhe for exigido pela autoridade competente.
 
 2 - Considera-se como inexistente o documento de venda que não contenha todos os elementos mencionados no número anterior.
 
 3 - A não apresentação pelo comprador do documento de venda a que se refere o n.º 1, designadamente por não lhe ter sido passado pelo vendedor ou se ter extraviado, não constitui para aquele circunstância de exclusão da sua responsabilidade.
 
-###### Art. 11.º Os produtores, os industriais, os acondicionadores, os importadores e os exportadores de pescado congelado ou ultracongelado só poderão intervir nos circuitos de comercialização depois de inscritos no Instituto Português de Conservas e Pescado.
+Art. 11.º Os produtores, os industriais, os acondicionadores, os importadores e os exportadores de pescado congelado ou ultracongelado só poderão intervir nos circuitos de comercialização depois de inscritos no Instituto Português de Conservas e Pescado.
 
-###### Art. 12.º As infracções ao presente diploma são punidas nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, se sanção mais grave lhes não couber.
+Art. 12.º As infracções ao presente diploma são punidas nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, se sanção mais grave lhes não couber.
 
-###### Art. 13.º É revogada a [Portaria n.º 171/79](https://diariodarepublica.pt/dr/detalhe/portaria/171-1979-515849), de 11 de Abril, com as alterações que lhe foram introduzidas pelas Portarias n.os [87/80](https://diariodarepublica.pt/dr/detalhe/portaria/87-1980-678654), de 4 de Março, e [580/84](https://diariodarepublica.pt/dr/detalhe/portaria/580-1984-382246), de 8 de Agosto.
+Art. 13.º É revogada a [Portaria n.º 171/79](https://diariodarepublica.pt/dr/detalhe/portaria/171-1979-515849), de 11 de Abril, com as alterações que lhe foram introduzidas pelas Portarias n.os [87/80](https://diariodarepublica.pt/dr/detalhe/portaria/87-1980-678654), de 4 de Março, e [580/84](https://diariodarepublica.pt/dr/detalhe/portaria/580-1984-382246), de 8 de Agosto.
 
-###### Art. 14.º O presente decreto-lei entra em vigor 120 dias após a sua publicação.
+Art. 14.º O presente decreto-lei entra em vigor 120 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Alfredo César Torres.
 
-**Promulgado em 27 de Junho de 1990.**
+Promulgado em 27 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1990.**
+Referendado em 29 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

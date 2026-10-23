@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1990-574952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d26472e43703e1d9dd79a70f822d519b2c029746afb24d4af6ef77336df9bff7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c944cb7a5c30da1e60371525853a93a4cff9cd06db7a3b24d65d0606a307185d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Custas Judiciais
+- Direcção Geral das Contribuições e Impostos
+- Emolumento
+- Execução Fiscal
+- Processo Tributário
+- Receita Própria
+- Regulamento
+- Tribunal Tributário
 relationships:
 - type: amended_by
   target: pt:dre:229484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661111:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229484:por
+  label: "Revogado pelo DEC LEI.29/98.1998.02.11.MF, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1998-229484
+  date: '1998-02-11'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:05Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +139,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 20.º, 21.º, 21.º-A e 22.º do Regulamento das Custas dos Processos das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938), de 26 de Outubro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [217/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1976-500937), de 25 de Março, [500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), de 22 de Dezembro, e [160/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1984-384032), de 18 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 4.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 20.º, 21.º, 21.º-A e 22.º do Regulamento das Custas dos Processos das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938), de 26 de Outubro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [217/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1976-500937), de 25 de Março, [500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), de 22 de Dezembro, e [160/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1984-384032), de 18 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
 2 - As custas compreendem a taxa de justiça e os encargos.
 
-###### Art. 4.º As regras do presente diploma só se aplicam na parte em que o processo correr seus termos nos tribunais tributários, compreendendo os juízos auxiliares.
+Art. 4.º As regras do presente diploma só se aplicam na parte em que o processo correr seus termos nos tribunais tributários, compreendendo os juízos auxiliares.
 
-###### Art. 5.º - 1 - São isentos de custas:
+Art. 5.º - 1 - São isentos de custas:
 
 a) O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;
 
@@ -121,7 +159,7 @@ c) ...
 
 3 - ...
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 No processo de impugnação:
 
@@ -131,9 +169,9 @@ b) Quando o valor for indeterminado, por não se verificar nenhum dos casos refe
 
 ...
 
-###### Art. 8.º Na 1.ª instância a taxa de justiça devida pelos processos de impugnação, transgressão e execução fiscal é a constante da tabela I anexa, calculada sobre o valor do processo.
+Art. 8.º Na 1.ª instância a taxa de justiça devida pelos processos de impugnação, transgressão e execução fiscal é a constante da tabela I anexa, calculada sobre o valor do processo.
 
-###### Art. 9.º No processo de impugnação a taxa de justiça é reduzida:
+Art. 9.º No processo de impugnação a taxa de justiça é reduzida:
 
 a) A uma quarta parte, se se verificar a desistência antes da remessa do processo ao tribunal tributário de 1.ª instância;
 
@@ -141,9 +179,9 @@ b) A dois terços, quando o processo termine por desistência antes do julgament
 
 c) A cinco sextos, quando o processo termine por desistência depois da prova e antes do julgamento, nos termos do artigo 102.º do Código de Processo das Contribuições e Impostos.
 
-###### Art. 10.º No processo de transgressão a taxa de justiça é reduzida a cinco sextos se o pagamento for efectuado antes do julgamento.
+Art. 10.º No processo de transgressão a taxa de justiça é reduzida a cinco sextos se o pagamento for efectuado antes do julgamento.
 
-###### Art. 11.º - 1 - No processo de execução a taxa de justiça é reduzida:
+Art. 11.º - 1 - No processo de execução a taxa de justiça é reduzida:
 
 a) A três quintos, quando o pagamento se efectuar antes da citação pessoal ou edital, salvo o caso de ter havido arresto;
 
@@ -157,7 +195,7 @@ c) ...
 
 4 - Na hipótese prevista no § 2.º do artigo 160.º do Código de Processo das Contribuições e Impostos, se a dívida for totalmente anulada, as custas a cargo do executado são as correspondentes a uma quarta parte das que seriam devidas a final.
 
-###### Art. 12.º - 1 - A taxa de justiça devida pelos actos e incidentes adiante indicados é a que resultar da quarta parte das importâncias constantes da tabela I anexa:
+Art. 12.º - 1 - A taxa de justiça devida pelos actos e incidentes adiante indicados é a que resultar da quarta parte das importâncias constantes da tabela I anexa:
 
 a) No concurso de credores, quando as custas fiquem a cargo do executado, e no levantamento da penhora a requerimento do executado ou de qualquer credor;
 
@@ -169,21 +207,21 @@ c) No levantamento de quaisquer valores, não podendo, no entanto, a taxa de jus
 
 3 - As fracções indicadas na alínea b) do n.º 1 e as do número anterior são reduzidas a metade quando haja desistência.
 
-###### Art. 13.º Quando tenha havido destrinça da dívida exequenda, a taxa de justiça e os encargos são calculados em relação ao valor total do processo e divididos proporcionalmente por cada responsável.
+Art. 13.º Quando tenha havido destrinça da dívida exequenda, a taxa de justiça e os encargos são calculados em relação ao valor total do processo e divididos proporcionalmente por cada responsável.
 
-###### Art. 14.º Na 2.ª instância a taxa de justiça a aplicar nos recursos de decisões finais nos processos de impugnação, transgressão ou execução fiscal é a constante da tabela II anexa, calculada sobre o valor do processo.
+Art. 14.º Na 2.ª instância a taxa de justiça a aplicar nos recursos de decisões finais nos processos de impugnação, transgressão ou execução fiscal é a constante da tabela II anexa, calculada sobre o valor do processo.
 
-###### Art. 15.º Se o recurso for julgado deserto, preliminarmente rejeitado ou se, por qualquer motivo, o processo devesse terminar antes de entrar em fase do julgamento, a taxa de justiça é reduzida a metade.
+Art. 15.º Se o recurso for julgado deserto, preliminarmente rejeitado ou se, por qualquer motivo, o processo devesse terminar antes de entrar em fase do julgamento, a taxa de justiça é reduzida a metade.
 
-###### Art. 16.º - 1 - A taxa de justiça pode ser excepcionalmente agravada até mais 20%, por decisão judicial, quando o grande volume do processado, a especial complexidade dos seus termos ou a contumaz actividade da parte vencida o justifiquem.
+Art. 16.º - 1 - A taxa de justiça pode ser excepcionalmente agravada até mais 20%, por decisão judicial, quando o grande volume do processado, a especial complexidade dos seus termos ou a contumaz actividade da parte vencida o justifiquem.
 
 2 - As cartas precatórias e as comunicações equivalentes expedidas para diligências que não sejam simples citações, notificações ou afixações de editais agravam em 12% a taxa de justiça que a final seja devida pelo processo, podendo a taxa ser elevada, por determinação do juiz, até 25%, conforme a extensão do serviço efectuado.
 
-###### Art. 18.º - 1 - As custas não podem execeder em qualquer processo três quartas partes do respectivo valor, procedendo-se, sempre que ultrapassar esse limite, ao pagamento, em primeiro lugar, dos encargos suportados pelo Estado.
+Art. 18.º - 1 - As custas não podem execeder em qualquer processo três quartas partes do respectivo valor, procedendo-se, sempre que ultrapassar esse limite, ao pagamento, em primeiro lugar, dos encargos suportados pelo Estado.
 
 2 - O excedente, se o houver, será rateado proporcionalmente pelos restantes encargos e taxa de justiça.
 
-###### Art. 20.º As custas compreendem os seguintes encargos:
+Art. 20.º As custas compreendem os seguintes encargos:
 
 a) Os reembolsos por gastos com papel comum, fotocópias de despachos e sentenças enviadas às partes com a respectiva notificação são contados à taxa de 300$00 por cada 30 folhas ou fracção do processado e nas execuções até 5 folhas são contados à taxa de 100$00;
 
@@ -197,25 +235,25 @@ e) ...
 
 f) ...
 
-###### Art. 21.º - 1 - Nos embargos de terceiro há lugar a um preparo de montante igual a 20% da taxa de justiça que seja devida a final.
+Art. 21.º - 1 - Nos embargos de terceiro há lugar a um preparo de montante igual a 20% da taxa de justiça que seja devida a final.
 
 2 - ...
 
 3 - ...
 
-###### Art. 21.º-A. Pela confiança de cada processo será cobrada a importância de 500$00 para o Estado.
+Art. 21.º-A. Pela confiança de cada processo será cobrada a importância de 500$00 para o Estado.
 
-###### Art. 22.º A taxa de justiça devida nos termos deste diploma tem o seguinte destino:
+Art. 22.º A taxa de justiça devida nos termos deste diploma tem o seguinte destino:
 
 a) Para o Estado - 25%;
 
 b) Para o serviço onde foi cobrada - 75%.
 
-###### Art. 2.º É revogado o artigo 19.º do Regulamento das Custas dos Processos das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938) de 26 de Outubro.
+Art. 2.º É revogado o artigo 19.º do Regulamento das Custas dos Processos das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 449/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1971-633938) de 26 de Outubro.
 
-###### Art. 3.º As tabelas das custas dos tribunais tributários e a tabela dos emolumentos dos serviços das Contribuições e impostos, na redacção do [Decreto-Lei n.º 160/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1984-384032), de 18 de Maio, são substituídas pelas correspondentes tabelas publicadas em anexo ao presente diploma.
+Art. 3.º As tabelas das custas dos tribunais tributários e a tabela dos emolumentos dos serviços das Contribuições e impostos, na redacção do [Decreto-Lei n.º 160/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1984-384032), de 18 de Maio, são substituídas pelas correspondentes tabelas publicadas em anexo ao presente diploma.
 
-###### Art. 4.º Os reembolsos das despesas com o papel ou fotocópias, correio e cadernetas prediais ficam a cargo dos interessados, mediante o pagamento dos seguintes valores:
+Art. 4.º Os reembolsos das despesas com o papel ou fotocópias, correio e cadernetas prediais ficam a cargo dos interessados, mediante o pagamento dos seguintes valores:
 
 1) Papel dactilografado, manuscrito ou fotocopiado numa ou nas duas faces:
 
@@ -231,9 +269,9 @@ a) Urbanas, cada uma - 50$00;
 
 b) Cadastrais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
 
-###### Art. 5.º - 1 - Os emolumentos e as importâncias referidos no artigo anterior são arrecadados no acto do pedido, processando-se em triplicado o respectivo recibo, devidamente autenticado, discriminado e numerado.
+Art. 5.º - 1 - Os emolumentos e as importâncias referidos no artigo anterior são arrecadados no acto do pedido, processando-se em triplicado o respectivo recibo, devidamente autenticado, discriminado e numerado.
 
 2 - O original destina-se ao interessado, o duplicado acompanha a petição para despacho e o triplicado documenta o lançamento no livro de registo das importâncias arrecadadas.
 
@@ -243,40 +281,40 @@ a) As resultantes da tabela de emolumentos a que se refere o artigo 3.º, em «O
 
 b) As resultantes do artigo 4.º, em «Receitas do Estado».
 
-###### Art. 6.º As instruções necessárias à execução do disposto nos artigos 4.º e 5.º do presente diploma e, bem assim, os modelos de impressos e livros a fornecer são aprovados por despacho do Ministro das Finanças.
+Art. 6.º As instruções necessárias à execução do disposto nos artigos 4.º e 5.º do presente diploma e, bem assim, os modelos de impressos e livros a fornecer são aprovados por despacho do Ministro das Finanças.
 
-###### Art. 7.º Os montantes da taxa de justiça a que se refere a alínea b) do artigo 22.º do Regulamento das Custas dos Processos das Contribuições e Impostos e dos emolumentos apurados conforme a tabela dos emolumentos dos serviços das Contribuições e impostos revertem, a partir de 1 de Outubro de 1989, a favor da Direcção-Geral das Contribuições e Impostos.
+Art. 7.º Os montantes da taxa de justiça a que se refere a alínea b) do artigo 22.º do Regulamento das Custas dos Processos das Contribuições e Impostos e dos emolumentos apurados conforme a tabela dos emolumentos dos serviços das Contribuições e impostos revertem, a partir de 1 de Outubro de 1989, a favor da Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 8.º São revogados os Decretos-Leis n.os [18/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1976-506074), de 14 de Janeiro, [75/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1984-661111), de 5 de Março, e [160/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1984-384032), de 18 de Maio.
+Art. 8.º São revogados os Decretos-Leis n.os [18/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1976-506074), de 14 de Janeiro, [75/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1984-661111), de 5 de Março, e [160/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1984-384032), de 18 de Maio.
 
-###### Art. 9.º O presente diploma entra em vigor no dia 1 de Agosto de 1990, aplicando-se também aos casos pendentes.
+Art. 9.º O presente diploma entra em vigor no dia 1 de Agosto de 1990, aplicando-se também aos casos pendentes.
 
 Visto e aprovado em Conselho de Ministros de 10 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 31 de Maio de 1990.**
+Promulgado em 31 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Junho de 1990.**
+Referendado em 4 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 TABELA I
 
 1.ª instância
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
 
 TABELA II
 
 Recursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
 
 Tabela dos emolumentos dos serviços das contribuições e impostos
 
 Serviços centrais, distritais e locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13900/25682571.pdf)

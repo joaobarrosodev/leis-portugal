@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 20/1990, 1º Suplemento, Série I de 1990-01-24
   number: '20'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 342-(2) a 342-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf
 entry_into_force_dates: []
@@ -46,40 +46,1712 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c745d0522e377a448b3a64b685de72e4c3f1fafadf2b5f34fdc2e4dcf436a01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465231388bb268bc571de6a9cbddfe9f0aac0026aae98e55d93d7c97b527994d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Militares das Forças Armadas
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
+- Militar
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:1028941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662958:por
+  label: "Alterados os artigos 3.º, 4.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 26.º, 28.º, 36.º, 41.º, 43.º, 45.º, 46.º,\
+    \ 47.º, 56.º, 57.º, 62.º, 64.º, 66.º, 67.º, 70.º, 85.º, 87.º, 89.º, 93.º, 99.º, 108.º, 109.º, eliminado o artigo 110º\
+    \ e renumerados os artigos 111º e seguintes para artigos 110º e seguintes, alterados os artigos 111.º, 112.º, 116.º, 117.º,\
+    \ 119.º, 120.º, 121.º, 124.º, 126.º, 127.º, 130.º, 139.º, 142.º, 145.º, 153.º, 162.º, 174.º, 180.º, 184.º, 202.º, 205.º,\
+    \ 206.º, 207.º, 209.º, 246º, 249.º, nºs 1 e 2 do art. 276º, 284º, 286.º, 310.º, 342.º, 346.º, 352.º, 376.º, 384.º, 391.º,\
+    \ 395.º, 396.º, 410.º, 415.º, 424.º, 431.º e 438.º, aditado na nova numeração o artigo 440º, alterada a epígrafe do Título\
+    \ IX passando a designar-se \"Reclamações e recursos em matéria administrativa\", todos dodo Estatuto dos Militares das\
+    \ Forças Armadas, aprovado pelo presente diploma, pela LEI 27/91.1991.07.17.AR, DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-1991-662958
+  date: '1991-07-17'
+- type: amended_by
+  target: pt:dre:274443:por
+  label: "Alterada a al. c) do art. 175.&#186; do Estatuto, pela LEI.15/92.1992.07.14.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-1992-274443
+  date: '1992-07-14'
+- type: amended_by
+  target: pt:dre:275443:por
+  label: Alterados OS ARTIGOS 3, 5, 7, 31, 45, 106, 145, 204, 296, 304 E 338 E OS LIVROS III E IV DO PRESENTE DIPLOMA, COM
+    AS ALTERAÇÕES INTRODUZIDAS PELA LEI 27/91, PUBLICADA NO DR.IS-A, 162, DE 91-0717. ADITA O ARTIGO 5-A, AO REFERIDO DIPLOMA
+    E REVOGA OS ARTIGOS 409 E SEGUINTES, COM EXCEPÇÃO DO ARTIGO 440 pelo(a) Decreto-Lei n.º 157/92 - Diário da República n.º
+    175/1992, Série I-A de 1992-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1992-275443
+  date: '1992-07-31'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o art 23º pelo Dec-Lei 224-A/96,DR.IS-A [274]2ºSuplI\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:149645:por
+  label: "Alterados os art 101º e 105º do Estatuto, pelo DEC LEI.175/97.1997.07.22.MDN, DR.IS-A [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-1997-149645
+  date: '1997-07-22'
+- type: amended_by
+  target: pt:dre:324143:por
+  label: "Repristinado, até se esgotarem os respectivos efeitos jurídicos, o regime previsto nos arts. 12.º a 15.º do presente\
+    \ diploma, pela LEI.25/2000.2000.08.23.AR DR.IS-A [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/25-2000-324143
+  date: '2000-08-23'
+- type: amended_by
+  target: pt:dre:490690:por
+  label: "Suspensa, a partir de 01.01.2010 e até 31.12.2014, a aplicação do disposto no nº 3 do art. 174º do Estatuto dos\
+    \ Militares das Forças Armadas pelo DEC LEI.261/2009.28.09.2009.MDN, DR.IS [188] de 28.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-2009-490690
+  date: '2009-09-28'
+- type: cites
+  target: pt:dre:138278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692822:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182439:por
+  label: 'Rectificado o presente diploma pela DECL.DD3339.1990.06.04.PCM DR.IS [99]2ºSupl de 30.04.1990, relativamente: ao
+    preâmbulo, aos arts. 14º, 16º, 17º, 18º, 23º, 31º, 32º, 44º, 45º, 46º, 47º e 48º - Disposições Finais (na parte em que
+    procede à revogação: do Dec Lei 44883 de 18-Fev de 1963, que passa a ler-se Dec Lei 44884 de 18-Fev de 1963; do Dec Lei
+    46861 de 24-Fev de 1966, que passa a ler-se Dec Lei 46881 de 24-Fev de 1966; do Dec Lei 349/77 de 08-Jun, que passa a
+    ler-se Dec Lei 309/77 de 05-Ago; do Dec Lei 388/77 de 15-Ago, que passa a ler-se Dec Lei 388/77 de 15-Set; do Dec Lei
+    462/77 de 19-Ago, que passa a ler-se Dec Lei 462/77 de 09-Nov; do Dec Lei 288/81 de 01-Out, que passa a ler-se Dec Lei
+    288/81 de 10-Out; do Dec Lei 105/78 de 29-Mai, que passa a ler-se Dec Lei 105/78 de 29-Set; da Port 196/72 de 16-Abr,
+    que passa a ler-se Port 196/72 de 10-Abr; da Port 623/76 de 02-Out, que passa a ler-se Port 623/76 de 20-Out; da Port
+    218/79 de 07-Mar, que passa a ler-se Port 218/79 de 07-Mai; e da Port 483/84 de 20-Jun, que passa a ler-se Port 483/84
+    de 20-Jul), bem como ao texto do Estatuto dos Militares das Forças Armadas, publicado em anexo, designadamente no referente
+    aos seus arts. 7º, 14º, 28º, 36º, 47º, 52º, 55º, 60º, 74º, 99º, 112º, 117º, 118º, 126º, 131º, 139º, 140º, 145º, 162º,
+    163º, 170º, 180º, 187º, 194º, 199º, 200º, 247º, 263º, 264º, 265º, 273º, 278º, 281º, 284º, 289º, 290º, 308º, 317º, 329º,
+    333º, 347º, 355º, 385º e 424º.'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182439
+  date: '1990-06-04'
+- type: repealed_by
+  target: pt:dre:522853:por
+  label: "Revogados os arts. 275º, 277º, 282º, 283º, 284º, 287º, 289º, 291º, 326º, 327º, 328º e 331 do EMFAR, na parte em\
+    \ que se referem a pára-quesdistas, pelo DEC LEI.27/94.1994.02.05.MDN, DR.IS-A [30]\0 [30]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1994-522853
+  date: '1994-02-05'
+- type: repealed_by
+  target: pt:dre:393000:por
+  label: "Revogado, à excepção dos arts. 3º, 5º, 5º-A, 6º, 7º, 31º, 45º e 106º do Livro I e dos Livros III e IV do Estatuto\
+    \ aprovado pelo presente diploma, pelo DEC LEI.236/99.1999.06.25.MDN,DR.IS-A [146]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1999-393000
+  date: '1999-06-25'
+- type: repealed_by
+  target: pt:dre:426744:por
+  label: "Revogados os artigos 3.&#186; e 7.&#186; (na redac&#231;&#227;o da Lei n.&#186; 27/91, de 17 de Julho e do Decreto-Lei\
+    \ n.&#186; 157/92, de 31 de Julho), os artigos 5.&#186;, 5.&#186;-A, 31.&#186;, 45.&#186;, 106.&#186;, os T&#237;tulos\
+    \ III e IV (na redac&#231;&#227;o do Decreto-Lei 157/92, de 31 de Julho) e o artigo 6&#186; do presente Estatuto, pelo\
+    \ DEC LEI.197-A/2003.2003.08.30.MDN, DR.IS-A [200]2&#186;Supl, nos termos do seu artigo 5.&#186;\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-a-2003-426744
+  date: '2003-08-30'
 article_structure:
-  article_count: 441
-  section_count: 67
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 440
+  section_count: 77
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:15Z'
   warnings: []
   errors: []
 ---
@@ -258,27 +1930,27 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/89](https:
 
 ### CAPÍTULO I — Objectivo
 
-###### Artigo 1.º É aprovado o Estatuto dos Militares das Forças Armadas, adiante designado por Estatuto, cujo texto se publica em anexo ao presente decreto-lei e que dele faz parte integrante.
+Artigo 1.º É aprovado o Estatuto dos Militares das Forças Armadas, adiante designado por Estatuto, cujo texto se publica em anexo ao presente decreto-lei e que dele faz parte integrante.
 
 ### CAPÍTULO II — Disposições comuns
 
-###### Art. 2.º O militar dos quadros permanentes (QP) que à data da entrada em vigor do presente diploma se encontre na situação de adido ao quadro por limite de idade mantém-se nessa situação, sem possibilidade de ser promovido, até atingir o limite de idade para a passagem à situação de reserva fixado no Estatuto.
+Art. 2.º O militar dos quadros permanentes (QP) que à data da entrada em vigor do presente diploma se encontre na situação de adido ao quadro por limite de idade mantém-se nessa situação, sem possibilidade de ser promovido, até atingir o limite de idade para a passagem à situação de reserva fixado no Estatuto.
 
-###### Art. 3.º O militar dos QP que à data da entrada em vigor do presente diploma tenha transitado para a situação de reserva mantém-se nessa situação, independentemente de se encontrar ou não em efectividade de serviço.
+Art. 3.º O militar dos QP que à data da entrada em vigor do presente diploma tenha transitado para a situação de reserva mantém-se nessa situação, independentemente de se encontrar ou não em efectividade de serviço.
 
-###### Art. 4.º O militar dos QP que à data da entrada em vigor do presente diploma já tenha cumprido 15 anos de serviço militar mantém a faculdade de requerer a passagem à situação de reserva.
+Art. 4.º O militar dos QP que à data da entrada em vigor do presente diploma já tenha cumprido 15 anos de serviço militar mantém a faculdade de requerer a passagem à situação de reserva.
 
-###### Art. 5.º O militar dos QP que à data da entrada em vigor do presente diploma se encontre na situação de supranumerário permanente mantém-se na mesma situação e condições, em conformidade com a legislação que lhe deu origem.
+Art. 5.º O militar dos QP que à data da entrada em vigor do presente diploma se encontre na situação de supranumerário permanente mantém-se na mesma situação e condições, em conformidade com a legislação que lhe deu origem.
 
-###### Art. 6.º As instruções previstas no artigo 86.º do Estatuto serão publicadas no prazo de um ano.
+Art. 6.º As instruções previstas no artigo 86.º do Estatuto serão publicadas no prazo de um ano.
 
-###### Art. 7.º Aos militares dos QP que à data da entrada em vigor deste diploma se encontrem na situação de adido ao quadro em licença ilimitada é concedido um prazo de 120 dias para regressarem à efectividade de serviço, findo o qual se lhes aplicarão as normas estatutárias referentes àquela licença.
+Art. 7.º Aos militares dos QP que à data da entrada em vigor deste diploma se encontrem na situação de adido ao quadro em licença ilimitada é concedido um prazo de 120 dias para regressarem à efectividade de serviço, findo o qual se lhes aplicarão as normas estatutárias referentes àquela licença.
 
-###### Art. 8.º Os aspectos específicos relativos ao ingresso nos QP e promoção aplicáveis aos militares músicos, clarins e corneteiros serão regulados em decreto-lei.
+Art. 8.º Os aspectos específicos relativos ao ingresso nos QP e promoção aplicáveis aos militares músicos, clarins e corneteiros serão regulados em decreto-lei.
 
-###### Art. 9.º A prestação de serviço no serviço de assistência religiosa das forças armadas é regulada em decreto-lei.
+Art. 9.º A prestação de serviço no serviço de assistência religiosa das forças armadas é regulada em decreto-lei.
 
-###### Art. 10.º - 1 - O militar dos QP que à data de entrada em vigor deste diploma se encontre na situação de adido ao quadro por ter completado seis anos de permanência no posto mantém-se nessa situação até atingir o limite de idade da passagem à situação de reserva ou ser promovido ao posto imediato.
+Art. 10.º - 1 - O militar dos QP que à data de entrada em vigor deste diploma se encontre na situação de adido ao quadro por ter completado seis anos de permanência no posto mantém-se nessa situação até atingir o limite de idade da passagem à situação de reserva ou ser promovido ao posto imediato.
 
 2 - O militar dos QP no activo passa à situação de adido ao respectivo quadro especial, situação em que se mantém até passar à reserva, ou ser promovido ao posto imediato, se até 1 de Janeiro de 1993 vier a completar:
 
@@ -288,7 +1960,7 @@ b) Seis anos de permanência nos postos de capitão-de-mar-e-guerra ou coronel e
 
 c) Seis anos de permanência no posto de sargento-mor.
 
-###### Art. 11.º - 1 - A aplicação do disposto na alínea b) do artigo 175.º do Estatuto far-se-á gradualmente, mediante a passagem automática à situação de reforma dos militares que:
+Art. 11.º - 1 - A aplicação do disposto na alínea b) do artigo 175.º do Estatuto far-se-á gradualmente, mediante a passagem automática à situação de reforma dos militares que:
 
 a) Em 1990 - atinjam 70 anos de idade, no próprio dia em que os completarem, ou atinjam 69 anos, no dia 31 de Dezembro;
 
@@ -306,17 +1978,17 @@ a) Em 1 de Julho de 1990, todos os militares que nessa data contem 10 ou mais an
 
 b) Em 1 de Janeiro de 1991, todos os militares que nessa data contem 9 ou mais anos na reserva fora da efectividade de serviço, independentemente da situação em que então se encontrem.
 
-###### Art. 12.º - 1 - Sempre que a pensão de reforma dos militares a que se refere o artigo 11.º resulte inferior à remuneração da reserva a que teriam direito caso não lhes fosse aplicado o calendário de transição, ser-lhes-á abonado, a título de complemento de pensão, o diferencial verificado.
+Art. 12.º - 1 - Sempre que a pensão de reforma dos militares a que se refere o artigo 11.º resulte inferior à remuneração da reserva a que teriam direito caso não lhes fosse aplicado o calendário de transição, ser-lhes-á abonado, a título de complemento de pensão, o diferencial verificado.
 
 2 - As verbas eventualmente necessárias para fazer face ao abono previsto no número anterior serão anualmente inscritas no orçamento do Ministério da Defesa Nacional.
 
 3 - O direito ao abono do complemento de pensão manter-se-á até ao mês em que o militar complete 70 anos de idade.
 
-###### Art. 13.º - 1 - Atingida a idade prevista no n.º 3 do artigo 12.º, os serviços competentes do Ministério da Defesa Nacional procederão a novo cálculo de pensão de reforma com base na remuneração da reserva a que o militar teria direito se não lhe tivesse sido aplicado o calendário de transição.
+Art. 13.º - 1 - Atingida a idade prevista no n.º 3 do artigo 12.º, os serviços competentes do Ministério da Defesa Nacional procederão a novo cálculo de pensão de reforma com base na remuneração da reserva a que o militar teria direito se não lhe tivesse sido aplicado o calendário de transição.
 
 2 - Caso a pensão de reforma auferida pelo militar seja inferior à resultante do novo cálculo, ser-lhe-á abonado, a título de complemento de pensão, o diferencial verificado.
 
-###### Art. 14.º - 1 - O complemento de pensão a que se refere o artigo anterior será pago por recurso a um fundo especial, a criar no âmbito do Ministério da Defesa Nacional, o qual será dotado de autonomia e objecto de regulamentação administrativa e financeira por decreto-lei.
+Art. 14.º - 1 - O complemento de pensão a que se refere o artigo anterior será pago por recurso a um fundo especial, a criar no âmbito do Ministério da Defesa Nacional, o qual será dotado de autonomia e objecto de regulamentação administrativa e financeira por decreto-lei.
 
 2 - O fundo previsto no número anterior poderá ainda ser destinado a suportar, em condições a definir, o pagamento de complementos de pensão a todos os reformados militares.
 
@@ -332,7 +2004,7 @@ c) As fontes de financiamento, nelas se incluindo expressamente contribuições 
 
 5 - A entrada em vigor do disposto nas alíneas b) e c) do artigo 175.º do Estatuto fica dependente da criação e regulamentação do fundo a que se refere o presente artigo.
 
-###### Art. 15.º - 1 - Durante o período de condicionamento da progressão nos escalões é facultada a passagem à situação de reforma, mediante declaração escrita, aos militares na situação de activo que satisfaçam de imediato ou venham a satisfazer, cumulativamente, durante aquele período os seguintes requisitos:
+Art. 15.º - 1 - Durante o período de condicionamento da progressão nos escalões é facultada a passagem à situação de reforma, mediante declaração escrita, aos militares na situação de activo que satisfaçam de imediato ou venham a satisfazer, cumulativamente, durante aquele período os seguintes requisitos:
 
 a) Tenham atingido os 53 anos de idade;
 
@@ -340,11 +2012,11 @@ b) Tenham 36 ou mais anos de serviço prestado ao Estado.
 
 2 - Aos militares reformados ao abrigo do disposto no n.º 1 aplica-se o regime previsto nos artigos 12.º e 13.º
 
-###### Art. 16.º Durante o período que mediar até à revisão dos quadros decorrentes da reorganização das forças armadas, a concretizar no prazo de dois anos contados a partir da entrada em vigor do Estatuto, o preenchimento das vagas não é obrigatório.
+Art. 16.º Durante o período que mediar até à revisão dos quadros decorrentes da reorganização das forças armadas, a concretizar no prazo de dois anos contados a partir da entrada em vigor do Estatuto, o preenchimento das vagas não é obrigatório.
 
 ### CAPÍTULO III — Da Marinha
 
-###### Art. 17.º Os limites de idade de passagem à situação de reserva fixados no Estatuto entram em vigor no dia 1 de Janeiro de 1990, com as seguintes excepções:
+Art. 17.º Os limites de idade de passagem à situação de reserva fixados no Estatuto entram em vigor no dia 1 de Janeiro de 1990, com as seguintes excepções:
 
 a) Vice-almirante:
 
@@ -428,7 +2100,7 @@ i) Capitão-tenente das classes de oficiais técnicos e do serviço geral:
 
 2 - Aos oficiais que ingressarem na classe de fuzileiros antes da entrada em vigor do presente diploma aplicam-se os limites de idade de passagem à situação de reserva fixados para os oficiais cuja formação de base é equiparada ao ensino superior de curta duração.
 
-###### Art. 18.º - 1 - Os tempos mínimos de permanência nos postos de primeiro-tenente, segundo-tenente e primeiro-sargento fixados no Estatuto aprovado pelo presente diploma e que constituem condição especial de promoção aos postos imediatos só se aplicarão aos militares que forem promovidos àqueles postos depois da entrada em vigor do novo regime estatutário.
+Art. 18.º - 1 - Os tempos mínimos de permanência nos postos de primeiro-tenente, segundo-tenente e primeiro-sargento fixados no Estatuto aprovado pelo presente diploma e que constituem condição especial de promoção aos postos imediatos só se aplicarão aos militares que forem promovidos àqueles postos depois da entrada em vigor do novo regime estatutário.
 
 2 - Os tempos mínimos de permanência nos postos de sargento-chefe e sargento-ajudante tidos como condição especial para promoção aos postos imediatos são gradualmente aumentados, de acordos com o seguinte:
 
@@ -456,27 +2128,27 @@ Quatro anos em 1996.
 
 4 - Aos oficiais das classes de engenheiros construtores navais e engenheiros de material naval aplicam-se, até à extinção das classes, os tempos mínimos de permanência nos postos de primeiro-tenente e segundo-tenente que vigoravam à data da publicação do presente diploma.
 
-###### Art. 19.º - 1 - A frequência, com aproveitamento, do curso de promoção a oficial superior não constitui condição especial de promoção a capitão-tenente para os oficiais promovidos a primeiro-tenente antes da data de entrada em vigor do presente diploma, desde que, por dificuldades de gestão de pessoal, não tenha sido possível assegurar a sua oportuna nomeação para o referido curso.
+Art. 19.º - 1 - A frequência, com aproveitamento, do curso de promoção a oficial superior não constitui condição especial de promoção a capitão-tenente para os oficiais promovidos a primeiro-tenente antes da data de entrada em vigor do presente diploma, desde que, por dificuldades de gestão de pessoal, não tenha sido possível assegurar a sua oportuna nomeação para o referido curso.
 
 2 - Os oficiais que, ao abrigo do disposto no número anterior, tenham sido promovidos ao posto de capitão-tenente sem terem frequentado o respectivo curso de promoção devem frequentá-lo neste posto, constituindo a habilitação com curso, nestes casos, condição especial de promoção a capitão-de-fragata.
 
-###### Art. 20.º Enquanto não forem produzidos os efeitos de rejuvenescimento nos quadros especiais da categoria de sargentos decorrentes da criação do regime de contrato na categoria de praças, constituem condições especiais de promoção a sargento-mor e sargento-chefe nas classes alimentadas exclusivamente por praças dos QP os seguintes tempos mínimos nos postos:
+Art. 20.º Enquanto não forem produzidos os efeitos de rejuvenescimento nos quadros especiais da categoria de sargentos decorrentes da criação do regime de contrato na categoria de praças, constituem condições especiais de promoção a sargento-mor e sargento-chefe nas classes alimentadas exclusivamente por praças dos QP os seguintes tempos mínimos nos postos:
 
 a) Sargento-mor, 1 ano no posto de sargento-chefe e 17 anos de serviço efectivo na categoria de sargentos;
 
 b) Sargento-chefe, 2 anos no posto de sargento-ajudante e 13 anos de serviço efectivo na categoria de sargentos.
 
-###### Art. 21.º Até à completa extinção das classes de engenheiros construtores navais, engenheiros maquinistas navais, engenheiros de material naval, serviço especial, serviço geral/oficiais técnicos, técnicos de electricidade, técnicos radioelectricistas, radiotelegrafistas, sinaleiros, carpinteiros e mestres clarins, mantêm-se em vigor as normas aplicáveis a estas classes pelo anterior quadro estatutário e que não contrariem o estabelecido no Estatuto aprovado pelo presente diploma.
+Art. 21.º Até à completa extinção das classes de engenheiros construtores navais, engenheiros maquinistas navais, engenheiros de material naval, serviço especial, serviço geral/oficiais técnicos, técnicos de electricidade, técnicos radioelectricistas, radiotelegrafistas, sinaleiros, carpinteiros e mestres clarins, mantêm-se em vigor as normas aplicáveis a estas classes pelo anterior quadro estatutário e que não contrariem o estabelecido no Estatuto aprovado pelo presente diploma.
 
-###### Art. 22.º Os níveis académicos requeridos para a frequência dos cursos de formação de oficiais e sargentos serão, progressivamente, elevados até 1996, ano em que se situarão, respectivamente, no 12.º e 9.º anos de escolaridade, ou provas de nível equivalente, sendo o faseamento estabelecido anualmente, durante este período por despacho do Chefe do Estado-Maior da Armada (CEMA).
+Art. 22.º Os níveis académicos requeridos para a frequência dos cursos de formação de oficiais e sargentos serão, progressivamente, elevados até 1996, ano em que se situarão, respectivamente, no 12.º e 9.º anos de escolaridade, ou provas de nível equivalente, sendo o faseamento estabelecido anualmente, durante este período por despacho do Chefe do Estado-Maior da Armada (CEMA).
 
-###### Art. 23.º - 1 - Cessam a prestação de serviço efectivo no termo do período de recondução a que estão obrigados os sargentos e praças que à data da entrada em vigor do presente diploma se encontrem ainda ao abrigo daquele regime e que no prazo de 90 dias o declarem por escrito ao superintendente dos Serviços do Pessoal da Armada.
+Art. 23.º - 1 - Cessam a prestação de serviço efectivo no termo do período de recondução a que estão obrigados os sargentos e praças que à data da entrada em vigor do presente diploma se encontrem ainda ao abrigo daquele regime e que no prazo de 90 dias o declarem por escrito ao superintendente dos Serviços do Pessoal da Armada.
 
 2 - Os militares abrangidos pelo disposto no número anterior transitarão para a situação de reserva, se no termo do prazo de 90 dias previsto tiverem cumprido 15 ou mais anos de serviço militar, ou à reserva da disponibilidade e licenciamento.
 
-###### Art. 24.º Os cargos de comandante das unidades de apoio e instalações navais classificadas como unidades da Armada podem ser desempenhados por oficiais da Armada de qualquer classe até à entrada em vigor de novo dispositivo legal regulador do enquadramento orgânico das estruturas da Marinha.
+Art. 24.º Os cargos de comandante das unidades de apoio e instalações navais classificadas como unidades da Armada podem ser desempenhados por oficiais da Armada de qualquer classe até à entrada em vigor de novo dispositivo legal regulador do enquadramento orgânico das estruturas da Marinha.
 
-###### Art. 25.º - 1 - Entram em extinção, nos termos e data que forem fixados por portaria do Ministro da Defesa Nacional (MDN), as seguintes classes:
+Art. 25.º - 1 - Entram em extinção, nos termos e data que forem fixados por portaria do Ministro da Defesa Nacional (MDN), as seguintes classes:
 
 a) Engenheiros construtores navais;
 
@@ -498,13 +2170,13 @@ a) Engenheiros navais;
 
 b) Serviço técnico.
 
-###### Art. 26.º - 1 - Até à criação do curso de engenheiros navais da Escola Naval o ingresso na classe de engenheiros navais é feito por promoção a guarda-marinha dos alunos da Escola Naval que tenham concluído os cursos de engenheiros maquinistas navais ou de armas e electrónica.
+Art. 26.º - 1 - Até à criação do curso de engenheiros navais da Escola Naval o ingresso na classe de engenheiros navais é feito por promoção a guarda-marinha dos alunos da Escola Naval que tenham concluído os cursos de engenheiros maquinistas navais ou de armas e electrónica.
 
 2 - Têm acesso ao posto de contra-almirante da classe de fuzileiros os oficiais ingressados na classe nos termos do artigo 243.º do Estatuto.
 
 ### CAPÍTULO IV — Do Exército
 
-###### Art. 27.º Os limites de idade de passagem à situação de reserva fixados no Estatuto entram em vigor no dia 1 de Janeiro de 1990, com as seguintes excepções:
+Art. 27.º Os limites de idade de passagem à situação de reserva fixados no Estatuto entram em vigor no dia 1 de Janeiro de 1990, com as seguintes excepções:
 
 a) General:
 
@@ -574,11 +2246,11 @@ d) Serviço geral do Exército, serviço postal militar e chefes de banda de mú
 
 58 anos em 1 de Janeiro de 1992.
 
-###### Art. 28.º - 1 - Os tempos mínimos de permanência nos postos tidos como condição especial de promoção fixados no Estatuto só se aplicarão aos actuais militares dos QP após a promoção ao posto imediato ocorrida depois da entrada em vigor do novo regime estatutário.
+Art. 28.º - 1 - Os tempos mínimos de permanência nos postos tidos como condição especial de promoção fixados no Estatuto só se aplicarão aos actuais militares dos QP após a promoção ao posto imediato ocorrida depois da entrada em vigor do novo regime estatutário.
 
 2 - As modalidades de promoção fixadas no Estatuto entram em vigor em 1 de Janeiro de 1992.
 
-###### Art. 29.º Os cursos de formação e os cursos e estágio de promoção estabelecidos no Estatuto têm início nos anos lectivos que se indicam:
+Art. 29.º Os cursos de formação e os cursos e estágio de promoção estabelecidos no Estatuto têm início nos anos lectivos que se indicam:
 
 a) Curso de formação de oficiais dos quadros técnicos 1991-1992;
 
@@ -588,29 +2260,29 @@ c) Curso de promoção a sargento-chefe (CPSC) - a partir de 1991-1992;
 
 d) Estágio de promoção a sargento-ajudante (EPSAJ) - 1991-1992.
 
-###### Art. 30.º - 1 - O quadro especial de oficiais mantém-se em progressiva extinção, pela continuação do cancelamento de admissões, sendo aplicadas aos elementos que o integram as disposições do [Decreto-Lei n.º 296/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1984-373625), de 31 de Agosto, na parte em que não contrariem o disposto no Estatuto.
+Art. 30.º - 1 - O quadro especial de oficiais mantém-se em progressiva extinção, pela continuação do cancelamento de admissões, sendo aplicadas aos elementos que o integram as disposições do [Decreto-Lei n.º 296/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1984-373625), de 31 de Agosto, na parte em que não contrariem o disposto no Estatuto.
 
 2 - O quadro do serviço postal militar mantém-se em extinção, pela continuação do cancelamento de admissões, sendo aplicadas aos elementos que o integram as disposições do presente Estatuto.
 
 3 - O quadro do serviço geral do Exército entra em extinção progressiva, por cancelamento de novas admissões, no final do curso de formação do ano lectivo de 1990-1991.
 
-###### Art. 31.º - 1 - Os oficiais abrangidos pelo [Decreto-Lei n.º 112/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1979-382831), de 4 de Maio, e pelo [Decreto-Lei n.º 90/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1978-295825), de 7 de Maio, ingressam nos QP e são integrados no quadro técnico de secretariado, no qual são inscritos de acordo com a sua antiguidade relativa.
+Art. 31.º - 1 - Os oficiais abrangidos pelo [Decreto-Lei n.º 112/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1979-382831), de 4 de Maio, e pelo [Decreto-Lei n.º 90/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1978-295825), de 7 de Maio, ingressam nos QP e são integrados no quadro técnico de secretariado, no qual são inscritos de acordo com a sua antiguidade relativa.
 
 2 - Aos oficiais referidos no número anterior aplicam-se todas as disposições do presente Estatuto referentes à carreira, cuja formação de base é equiparada a curso superior de curta duração, com excepção da modalidade de promoção a tenente-coronel, que é por escolha, e do tempo mínimo de permanência no posto em que são integrados, por dele poderem ser dispensados por despacho do Chefe do Estado-Maior do Exército (CEME).
 
 3 - O quadro técnico de secretariado entra em extinção, por cancelamento de novas admissões.
 
-###### Art. 32.º - 1 - Os sargentos abrangidos pelo [Decreto-Lei n.º 434-V/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-v-1982-243517), de 29 de Outubro, e pela [Portaria n.º 1069/83](https://diariodarepublica.pt/dr/detalhe/portaria/1069-1983-444397), de 29 de Dezembro, ingressam nos QP e são integrados no quadro de amanuenses, no qual são inscritos de acordo com a sua antiguidade relativa.
+Art. 32.º - 1 - Os sargentos abrangidos pelo [Decreto-Lei n.º 434-V/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-v-1982-243517), de 29 de Outubro, e pela [Portaria n.º 1069/83](https://diariodarepublica.pt/dr/detalhe/portaria/1069-1983-444397), de 29 de Dezembro, ingressam nos QP e são integrados no quadro de amanuenses, no qual são inscritos de acordo com a sua antiguidade relativa.
 
 2 - Aos sargentos referidos no número anterior, para todos os efeitos considerados sargentos dos QP, aplicam-se as disposições do Estatuto, com excepção dos tempos mínimos de permanência nos postos em que são integrados, por dele poderem ser dispensados por despacho do CEME.
 
 3 - O quadro de amanuenses entra em extinção progressiva, por cancelamento de novas admissões, após a realização do último curso especial de promoção a segundo-sargento.
 
-###### Art. 33.º Os sargentos habilitados com o curso de promoção a sargento-ajudante (CPSAJ) são dispensados, para efeitos de promoção, da frequência do curso de promoção a sargento-chefe (CPSC).
+Art. 33.º Os sargentos habilitados com o curso de promoção a sargento-ajudante (CPSAJ) são dispensados, para efeitos de promoção, da frequência do curso de promoção a sargento-chefe (CPSC).
 
-###### Art. 34.º Os primeiros-sargentos habilitados com o curso de formação de sargentos (CFS) - 1.º ao 10.º curso, exclusive -, promovidos a este posto a título excepcional, ao abrigo do [Decreto-Lei n.º 176/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1981-578477), de 26 de Junho, poderão ser nomeados para a frequência do curso ou estágio de promoção a sargentos-ajudantes desde que possuam as habilitações exigidas pelo Estatuto para ingresso na categoria de sargento.
+Art. 34.º Os primeiros-sargentos habilitados com o curso de formação de sargentos (CFS) - 1.º ao 10.º curso, exclusive -, promovidos a este posto a título excepcional, ao abrigo do [Decreto-Lei n.º 176/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1981-578477), de 26 de Junho, poderão ser nomeados para a frequência do curso ou estágio de promoção a sargentos-ajudantes desde que possuam as habilitações exigidas pelo Estatuto para ingresso na categoria de sargento.
 
-###### Art. 35.º - 1 - Ingressam no quadro permanente de praças do Exército (QPPE), com o posto de cabo-adjunto, de acordo com a sua antiguidade relativa, à esquerda do 2.º curso de formação de praças do QPPE, as praças readmitidas actualmente existentes.
+Art. 35.º - 1 - Ingressam no quadro permanente de praças do Exército (QPPE), com o posto de cabo-adjunto, de acordo com a sua antiguidade relativa, à esquerda do 2.º curso de formação de praças do QPPE, as praças readmitidas actualmente existentes.
 
 2 - O QPPE, após o ingresso previsto no número anterior, entra em extinção progressiva, por cancelamento de admissões.
 
@@ -620,11 +2292,11 @@ d) Estágio de promoção a sargento-ajudante (EPSAJ) - 1991-1992.
 
 5 - Mantém-se em vigor o [Decreto-Lei n.º 123/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1987-662147), de 17 de Março, naquilo em que não contrarie o Estatuto.
 
-###### Art. 36.º Os sargentos que foram abrangidos pelo disposto no artigo 37.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, mantêm-se neste posto sem possibilidade de promoção.
+Art. 36.º Os sargentos que foram abrangidos pelo disposto no artigo 37.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, mantêm-se neste posto sem possibilidade de promoção.
 
-###### Art. 37.º Para os sargentos ingressados nos QP antes de 1 de Janeiro de 1977 mantém-se em vigor o disposto no artigo 2.º do [Decreto-Lei n.º 382/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1984-401476), de 4 de Dezembro.
+Art. 37.º Para os sargentos ingressados nos QP antes de 1 de Janeiro de 1977 mantém-se em vigor o disposto no artigo 2.º do [Decreto-Lei n.º 382/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1984-401476), de 4 de Dezembro.
 
-###### Art. 38.º - 1 - Os sargentos dos QP do Exército em serviço nas tropas pára-quedistas da Força Aérea serão considerados, para efeitos de promoção no quadro especial de origem do Exército, como mantendo a posição inicial no curso de origem da respectiva arma ou serviço.
+Art. 38.º - 1 - Os sargentos dos QP do Exército em serviço nas tropas pára-quedistas da Força Aérea serão considerados, para efeitos de promoção no quadro especial de origem do Exército, como mantendo a posição inicial no curso de origem da respectiva arma ou serviço.
 
 2 - Os sargentos dos QP do Exército regressados das tropas páraquedistas são intercalados nas listas de antiguidade das armas ou serviços de origem, mantendo os actuais postos e a antiguidade dos mesmos.
 
@@ -634,15 +2306,15 @@ d) Estágio de promoção a sargento-ajudante (EPSAJ) - 1991-1992.
 
 ### CAPÍTULO V — Da Força Aérea
 
-###### Art. 39.º Os tempos mínimos de permanência nos postos tidos como condição especial de promoção fixados no Estatuto só se aplicarão aos actuais militares dos QP após a primeira promoção ao posto imediato ocorrida depois da entrada em vigor do Estatuto.
+Art. 39.º Os tempos mínimos de permanência nos postos tidos como condição especial de promoção fixados no Estatuto só se aplicarão aos actuais militares dos QP após a primeira promoção ao posto imediato ocorrida depois da entrada em vigor do Estatuto.
 
-###### Art. 40.º Os limites de idade previstos para efeito de passagem à situação de reserva não se aplicarão aos actuais militares dos QP, enquanto se mantiverem nos postos que agora detêm, desde que o requeiram no prazo de 60 dias, contados a partir da data da entrada em vigor do Estatuto, e tal lhes seja autorizado.
+Art. 40.º Os limites de idade previstos para efeito de passagem à situação de reserva não se aplicarão aos actuais militares dos QP, enquanto se mantiverem nos postos que agora detêm, desde que o requeiram no prazo de 60 dias, contados a partir da data da entrada em vigor do Estatuto, e tal lhes seja autorizado.
 
-###### Art. 41.º Os regimes de admissão, organização e funcionamento escolar dos novos cursos de formação de oficiais e de sargentos para ingresso nos QP, a que se refere o artigo 205.º, entrarão em vigor no ano lectivo de 1991-1992.
+Art. 41.º Os regimes de admissão, organização e funcionamento escolar dos novos cursos de formação de oficiais e de sargentos para ingresso nos QP, a que se refere o artigo 205.º, entrarão em vigor no ano lectivo de 1991-1992.
 
-###### Art. 42.º O curso básico de comando só passará a constituir condição especial de promoção ao posto de capitão a partir de 1 de Janeiro de 1992.
+Art. 42.º O curso básico de comando só passará a constituir condição especial de promoção ao posto de capitão a partir de 1 de Janeiro de 1992.
 
-###### Art. 43.º - 1 - Na categoria de oficial as especialidades de intendência e contabilidade (IC) e técnico de mecanografia e estatística (TMEST) passam a designar-se, respectivamente, por administração aeronáutica (ADMAER) e técnico de informática (TINF).
+Art. 43.º - 1 - Na categoria de oficial as especialidades de intendência e contabilidade (IC) e técnico de mecanografia e estatística (TMEST) passam a designar-se, respectivamente, por administração aeronáutica (ADMAER) e técnico de informática (TINF).
 
 2 - Na categoria de sargento as especialidades de:
 
@@ -664,21 +2336,21 @@ c) Serviço de saúde (SS);
 
 d) Secretariado e apoio dos serviços (SAS).
 
-###### Art. 44.º Mantêm-se em regime de extinção progressiva, não admitindo novos ingressos, as seguintes especialidades:
+Art. 44.º Mantêm-se em regime de extinção progressiva, não admitindo novos ingressos, as seguintes especialidades:
 
 a) Na categoria de oficial, serviço geral e enfermeira pára-quedista;
 
 b) Na categoria de sargento, mecânico electricista, mecânico de rádio, mecânico de radar e condutor auto.
 
-###### Art. 45.º Os oficiais farmacêuticos ingressados na Força Aérea ao abrigo da [Portaria n.º 439/72](https://diariodarepublica.pt/dr/detalhe/portaria/439-1972-676229), de 8 de Agosto, permanecem ao serviço em regime de contrato, automaticamente prorrogável, aplicando-se-lhes os regimes de passagem às situações de reserva e de reforma previstos e o sistema retributivo para os militares dos QP de igual categoria e posto e, em matéria de promoções o regime fixado no n.º 9.º daquela citada [Portaria n.º 439/72](https://diariodarepublica.pt/dr/detalhe/portaria/439-1972-676229).
+Art. 45.º Os oficiais farmacêuticos ingressados na Força Aérea ao abrigo da [Portaria n.º 439/72](https://diariodarepublica.pt/dr/detalhe/portaria/439-1972-676229), de 8 de Agosto, permanecem ao serviço em regime de contrato, automaticamente prorrogável, aplicando-se-lhes os regimes de passagem às situações de reserva e de reforma previstos e o sistema retributivo para os militares dos QP de igual categoria e posto e, em matéria de promoções o regime fixado no n.º 9.º daquela citada [Portaria n.º 439/72](https://diariodarepublica.pt/dr/detalhe/portaria/439-1972-676229).
 
-###### Art. 46.º Sempre que ocorram vagas nos postos de sargento-chefe e sargento-mor que não possam ser preenchidas por não haver sargentos-ajudantes (SAJU) e sargentos-chefes (SCHEFE) com tempos mínimos de permanência nestes postos para efeitos de promoção, e enquanto não forem revistos os respectivos quadros especiais, o Chefe do Estado-Maior da Força Aérea poderá autorizar a dispensa de tal condição, nos seguintes termos:
+Art. 46.º Sempre que ocorram vagas nos postos de sargento-chefe e sargento-mor que não possam ser preenchidas por não haver sargentos-ajudantes (SAJU) e sargentos-chefes (SCHEFE) com tempos mínimos de permanência nestes postos para efeitos de promoção, e enquanto não forem revistos os respectivos quadros especiais, o Chefe do Estado-Maior da Força Aérea poderá autorizar a dispensa de tal condição, nos seguintes termos:
 
 a) SAJU com 13 anos de serviço efectivo na categoria de sargento e 2 no posto actual;
 
 b) SCHEFE com 17 anos de serviço efectivo na categoria de sargento e 1 no posto actual.
 
-###### Art. 47.º - 1 - Os primeiros-cabos readmitidos (PCAB/RD) graduados no posto de furriel, de acordo com o disposto no [Decreto-Lei n.º 314/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1981-568500), de 20 de Novembro, permanecem ao serviço em regime de contrato, automaticamente prorrogável, com o posto de segundo-sargento, aplicando-se-lhes os regimes de passagem às situações de reserva e de reforma previstos para os militares dos QP de igual categoria.
+Art. 47.º - 1 - Os primeiros-cabos readmitidos (PCAB/RD) graduados no posto de furriel, de acordo com o disposto no [Decreto-Lei n.º 314/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1981-568500), de 20 de Novembro, permanecem ao serviço em regime de contrato, automaticamente prorrogável, com o posto de segundo-sargento, aplicando-se-lhes os regimes de passagem às situações de reserva e de reforma previstos para os militares dos QP de igual categoria.
 
 2 - Os PCAB/RD que foram abrangidos pelo disposto nos n.os 2 e 3 do artigo 8.º do [Decreto n.º 69/82](https://diariodarepublica.pt/dr/detalhe/decreto/69-1982-395701), de 9 de Junho, permanecem ao serviço em regime de contrato, automaticamente prorrogável, com o posto de furriel, aplicando-se-lhes os regimes de passagem às situações de reserva e de reforma previstos para os militares dos QP de igual categoria.
 
@@ -686,7 +2358,7 @@ b) SCHEFE com 17 anos de serviço efectivo na categoria de sargento e 1 no posto
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 48.º Fica revogada toda a legislação que contrarie o disposto no presente decreto-lei, designadamente:
+Art. 48.º Fica revogada toda a legislação que contrarie o disposto no presente decreto-lei, designadamente:
 
 [Decreto-Lei n.º 36304](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36304-1947-177461), de 24 de Maio de 1947;
 
@@ -1472,25 +3144,27 @@ Portaria n.º 186-A/81, de 16 de Fevereiro;
 
 [Portaria n.º 269/88](https://diariodarepublica.pt/dr/detalhe/portaria/269-1988-373615), de 4 de Maio.
 
-###### Art. 49.º - 1 - O presente decreto-lei produz efeitos desde o dia 1 de Janeiro de 1990.
+Art. 49.º - 1 - O presente decreto-lei produz efeitos desde o dia 1 de Janeiro de 1990.
 
 2 - Enquanto não for publicada a legislação complementar prevista no Estatuto, aplicam-se os correspondentes diplomas que actualmente se encontram em vigor.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Rui Carlos Alvarez Carp.
 
-**Promulgado em 24 de Janeiro de 1990.**
+Promulgado em 24 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1990.**
+Referendado em 24 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS
 
-# LIVRO I — Parte geral
+## LIVRO I
+
+## Parte geral
 
 ## TÍTULO I — Disposições gerais
 
@@ -2404,9 +4078,11 @@ O recurso contencioso deve ser interposto nos prazos e termos fixados na Lei de 
 
 Quando decorridos 45 dias sobre a apresentação de recurso hierárquico para o CEMGFA ou para os CEM, consoante os casos, não seja obtida decisão, assiste ao recorrente o direito de recurso contencioso, nos termos do artigo anterior, contando-se o prazo para a interposição de recurso a partir do termo dos referidos 45 dias.
 
-# LIVRO II — Dos militares dos quadros permanentes
+## LIVRO II — Dos militares dos quadros permanentes
 
-## TÍTULO I — Parte comum
+## TÍTULO I
+
+## Parte comum
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -3394,7 +5070,9 @@ b) Em estado de sítio ou guerra, ao militar dos QP na situação de reserva.
 
 ## TÍTULO II — Oficiais
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 ###### Artigo 222.º — Carta-patente
 
@@ -3408,15 +5086,15 @@ A carta-patente é o documento de encarte dos oficiais dos QP, conferido no acto
 
 ###### Artigo 224.º — Chefe do Estado-Maior-General das Forças Armadas
 
-**O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) tem a patente de almirante ou general de quatro estrelas e é hierarquicamente superior a todos os oficiais generais, sendo nomeado e exonerado nos termos da Lei de Defesa Nacional e das Forças Armadas.**
+O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) tem a patente de almirante ou general de quatro estrelas e é hierarquicamente superior a todos os oficiais generais, sendo nomeado e exonerado nos termos da Lei de Defesa Nacional e das Forças Armadas.
 
 ###### Artigo 225.º — Chefe de estado-maior do ramo
 
-**O chefe de estado-maior do ramo tem a patente de almirante ou general de quatro estrelas, segue em precedência os almirantes da Armada e marechais, é hierarquicamente superior a todos os oficiais generais, com excepção do CEMGFA, e é nomeado e exonerado nos termos da LDNFA.**
+O chefe de estado-maior do ramo tem a patente de almirante ou general de quatro estrelas, segue em precedência os almirantes da Armada e marechais, é hierarquicamente superior a todos os oficiais generais, com excepção do CEMGFA, e é nomeado e exonerado nos termos da LDNFA.
 
 ###### Artigo 226.º — Presidente do Supremo Tribunal Militar
 
-**O presidente do Supremo Tribunal Militar (STM) tem a patente de almirante ou general de quatro estrelas, segue em precedência hierárquica os CEM dos ramos e é nomeado e exonerado nos termos da LDNFA.**
+O presidente do Supremo Tribunal Militar (STM) tem a patente de almirante ou general de quatro estrelas, segue em precedência hierárquica os CEM dos ramos e é nomeado e exonerado nos termos da LDNFA.
 
 ###### Artigo 227.º — Vice-Chefe do Estado-Maior-General das Forças Armadas
 
@@ -3524,7 +5202,7 @@ b) Curso de promoção a oficial superior, para acesso a capitão-tenente ou maj
 
 Os oficiais dos QP da Armada distribuem-se pelas seguintes classes e postos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf))](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
 
 ###### Artigo 243.º — Ingresso nas classes
 
@@ -3936,7 +5614,7 @@ b) Curso geral naval de guerra (CGNG), ou equiparado, para a promoção a oficia
 
 1 - Os oficiais dos QP do Exército no activo distribuem-se pelo corpo de oficiais generais, armas e serviços e inscrevem-se em quadros especiais, de acordo com os seguintes postos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf))](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
 
 2 - A alimentação do corpo de oficiais generais é feita tendo em atenção as condições de promoção:
 
@@ -4116,7 +5794,7 @@ d) Curso de promoção a capitão (CPC).
 
 1 - Os oficiais dos QP da Força Aérea distribuem-se pelas seguintes especialidades e postos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf))](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
 
 2- Os oficiais pilotos, navegadores, técnicos, de polícia aérea e serviço geral pára-quedista poderão ter acesso ao posto de coronel para prover cargos de comando, direcção ou chefia cujas funções não sejam consideradas obrigatoriamente privativas de certas especialidades.
 
@@ -4614,7 +6292,9 @@ c) Curso básico de comando (CBC), para a promoção a capitão.
 
 ## TÍTULO III — Sargentos
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 ###### Artigo 296.º — Diploma de encarte
 
@@ -5170,9 +6850,11 @@ b) Ter efectuado no posto de primeiro-marinheiro 18 meses de embarque, salvo se 
 
 3 - Às praças na situação de reserva ou de reforma é incluída na sua designação, respectivamente, a indicação RES ou REF a seguir à classe.
 
-# LIVRO III — Do serviço militar obrigatório
+## LIVRO III — Do serviço militar obrigatório
 
-## TÍTULO I — Parte comum
+## TÍTULO I
+
+## Parte comum
 
 ###### Artigo 350.º — Militar em SMO
 
@@ -5530,9 +7212,11 @@ b) Soldados alunos (SOLAL), instruendos destinados a sargentos ou instruendos do
 
 c) Soldados recrutas (SOLREC), instruendos provenientes do recrutamento geral destinados a praças.
 
-# LIVRO IV — Do regime de contrato
+## LIVRO IV — Do regime de contrato
 
-## TÍTULO I — Parte comum
+## TÍTULO I
+
+## Parte comum
 
 ###### Artigo 395.º — Deveres específicos
 
@@ -5840,8 +7524,8 @@ A preparação militar e técnica dos militares do recrutamento especial destina
 
 Os militares em RC são designados pelo posto, seguido da especialidade, regime em que se encontram, sob a forma abreviada, número de identificação e nome.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.
 
 Do ANEXO I ao ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf))](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02001/00020061.pdf)

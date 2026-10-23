@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11100/22322242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1990-571408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7633c5d140504edffbe519a528306b03c2ac63b6776e3657cb2f525df45cff47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9044f960516ea8966119fdb21d70374a7afd681f28237b5bc219c36da672025a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Comissão de Fiscalização
+- Conselho Diretivo
+- Contra-ordenação
+- Definição de Competências
+- Exploração Portuária
+- Fiscalização
+- Gestão Financeira
+- Instituto do Trabalho Portuário
+- Junta Autónoma dos Portos
+- Licenciamento
+- Multa
+- Operador Portuário
+- Orgânica
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Regime Jurídico
+- TAXA de Prestação de Serviços
+- Trabalhador Portuário
+- Trabalho Portuário
 relationships:
 - type: amended_by
   target: pt:dre:356105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666307:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:356105:por
+  label: Revogado, a partir de 01.11.1993, pelo DEC LEI.280/93.13.08.1993.MM, DR.IS-A [189] de 13.08.1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1993-356105
+  date: '1993-08-13'
 article_structure:
   article_count: 53
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:59Z'
   warnings: []
   errors: []
 ---
@@ -338,7 +408,9 @@ As operações portuárias só podem ser exercidas por trabalhadores portuários
 
 3 - Será considerada nula e de nenhum efeito qualquer inscrição de trabalhador portuário admitido com violação das condições fixadas no artigo anterior, bem como a que não conste do RONTPI.
 
-###### Artigo 26.º — Título de qualificação profissional
+###### Artigo 26.º
+
+## Título de qualificação profissional
 
 O título de qualificação profissional dos trabalhadores portuários será visado pelos organismos previstos no capítulo IV, em termos a definir por portaria conjunta dos Ministros das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
 
@@ -488,7 +560,9 @@ a) Fiscalizar a sua actuação nos termos do artigo 36.º;
 
 b) Emitir parecer sobre os projectos de estatutos.
 
-###### Artigo 41.º — Secção especializada nos conselhos consultivos
+###### Artigo 41.º
+
+#### Secção especializada nos conselhos consultivos
 
 1 - Em casa porto é constituída uma secção especializada nos respectivos conselhos consultivos para assuntos relativos ao trabalho portuário.
 
@@ -624,7 +698,7 @@ São revogados os Decretos-Leis n.os [282-A/84](https://diariodarepublica.pt/dr/
 
 Os artigos 4.º, 5.º, 6.º, 9.º, 11.º, 13.º e 15.º do [Decreto-Lei n.º 282-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-c-1984-579346), de 20 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 4.º São atribuições do ITP:
+Art. 4.º São atribuições do ITP:
 
 a) Estudar linhas de orientação e de política do trabalho portuário a nível nacional, com vista à unificação, tanto quanto possível, do tratamento dos respectivos problemas em todos os portos nacionais, a solicitação da tutela;
 
@@ -644,9 +718,9 @@ h) Contactar quaisquer entidades nacionais, estrangeiras ou internacionais ligad
 
 i) Obter dos organismos de gestão de mão-de-obra, autoridades portuárias e outras organizações ou estruturas de gestão do trabalho portuário todos os elementos estatísticos e outros elementos necessários ao conhecimento permanentemente actualizado da situação do sector portuário.
 
-###### Art. 5.º No exercício da suas atribuições, o ITP cooperará com as organizações sindicais e as entidades empregadoras.
+Art. 5.º No exercício da suas atribuições, o ITP cooperará com as organizações sindicais e as entidades empregadoras.
 
-###### Art. 6.º São órgãos do ITP:
+Art. 6.º São órgãos do ITP:
 
 a) O presidente do conselho directivo;
 
@@ -654,7 +728,7 @@ b) O conselho directivo;
 
 c) A comissão de fiscalização.
 
-###### Art. 9.º - 1 - Compete ao presidente do conselho directivo:
+Art. 9.º - 1 - Compete ao presidente do conselho directivo:
 
 a) Estruturar, organizar e dirigir os serviços do ITP e tomar as medidas necessárias à prossecução dos seus fins;
 
@@ -688,9 +762,9 @@ e) Resolver, com carácter vinculativo, todos os conflitos de ordem técnica ou 
 
 8 - (Antigo n.º 7.)
 
-###### Art. 11.º As deliberações do conselho directivo, tomadas no exercício da competência prevista na alínea e) do n.º 2 do artigo 9.º, são equiparadas, para todos os efeitos legais, às decisões referidas no artigo 26.º, n.º 2, da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto.
+Art. 11.º As deliberações do conselho directivo, tomadas no exercício da competência prevista na alínea e) do n.º 2 do artigo 9.º, são equiparadas, para todos os efeitos legais, às decisões referidas no artigo 26.º, n.º 2, da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - ...
 
@@ -698,7 +772,7 @@ e) Resolver, com carácter vinculativo, todos os conflitos de ordem técnica ou 
 
 4 - O conselho directivo e o seu presidente serão sempre informados dos resultados dos exames e verificações a que proceda a comissão de fiscalização.
 
-###### Art. 15.º - 1 - Constituem receitas do ITP:
+Art. 15.º - 1 - Constituem receitas do ITP:
 
 a) As comparticipações para o efeito inscritas nos orçamentos dos organismos de gestão de mão-de-obra;
 
@@ -720,12 +794,12 @@ O presente diploma produz efeitos desde 1 de Março de 1990.
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 1990. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Arlindo Marques da Cunha - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Abril de 1990.**
+Promulgado em 11 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Abril de 1990.**
+Referendado em 19 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

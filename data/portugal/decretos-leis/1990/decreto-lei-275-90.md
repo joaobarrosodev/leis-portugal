@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1990-556417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9fbd06316ae48b05fa507a093dce8b341f53fc72c990e0c6a96b2ca49d76772
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cf03500a232f3b6a425a4991b7dbddd585e8d62fedc59a2091a30e190908daf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de BENS
+- Companhia de Seguros Império
+- Estatuto
+- Instituto de Seguros de Portugal
+- Privatização
+- Sociedade Anónima
+- Vistoria
+relationships:
+- type: cites
+  target: pt:dre:231144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:50Z'
   warnings: []
   errors: []
 ---
@@ -92,33 +111,33 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Companhia de Seguros Império, E. P., criada pelo [Decreto-Lei n.º 528/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1979-231144), de 31 de Dezembro, como resultante da fusão de seguradoras nacionalizadas pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada pelo presente diploma em sociedade anónima, com a denominação de Companhia de Seguros Império, S. A.
+Artigo 1.º - 1 - A empresa pública Companhia de Seguros Império, E. P., criada pelo [Decreto-Lei n.º 528/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1979-231144), de 31 de Dezembro, como resultante da fusão de seguradoras nacionalizadas pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada pelo presente diploma em sociedade anónima, com a denominação de Companhia de Seguros Império, S. A.
 
 2 - A Companhia de Seguros Império, S. A., rege-se pelo presente diploma, pelas normas especiais cuja aplicação decorra do objecto da sociedade, pelas normas reguladoras das sociedades anónimas e pelos seus Estatutos.
 
-###### Art. 2.º - 1 - A Companhia de Seguros Império, S. A., sucede automática e globalmente à empresa Companhia de Seguros Império, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - A Companhia de Seguros Império, S. A., sucede automática e globalmente à empresa Companhia de Seguros Império, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo 1.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Companhia de Seguros Império, S. A.
 
-###### Art. 3.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.
+Art. 3.º - 1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.
 
 2 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho do Ministro das Finanças.
 
-###### Art. 4.º O capital inicial da Companhia de Seguros Império, S. A., é de 4250000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+Art. 4.º O capital inicial da Companhia de Seguros Império, S. A., é de 4250000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
-###### Art. 5.º - 1 - São aprovados os Estatutos da Companhia de Seguros Império, S. A., anexos a este diploma.
+Art. 5.º - 1 - São aprovados os Estatutos da Companhia de Seguros Império, S. A., anexos a este diploma.
 
 2 - A transformação efectuada pelo artigo 1.º deste diploma, bem como os Estatutos da Companhia de Seguros Império, S. A., agora aprovados, produz efeitos relativamente a terceiros independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.
 
 3 - As futuras alterações dos Estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 6.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gestão e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
+Art. 6.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gestão e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
 
 2 - Nos 30 dias seguintes à publicação do presente diploma, o conselho de administração convocará a assembleia geral para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 3 - A assembleia geral referida no n.º 2 será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário uma pessoa por aquele designada.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -128,25 +147,25 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 3 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 8.º - 1 - Os trabalhadores ao serviço e os pensionistas da Companhia de Seguros Império, E. P., mantêm perante a Companhia de Seguros Império, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 8.º - 1 - Os trabalhadores ao serviço e os pensionistas da Companhia de Seguros Império, E. P., mantêm perante a Companhia de Seguros Império, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na Companhia de Seguros Império, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.
 
 3 - A situação dos trabalhadores da Companhia de Seguros Império, S. A., que, chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 9.º A alienação das acções, quando o Estado o entenda conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
+Art. 9.º A alienação das acções, quando o Estado o entenda conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
 
-###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 22 de Agosto de 1990.**
+Promulgado em 22 de Agosto de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Agosto de 1990.**
+Referendado em 27 de Agosto de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 

@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1990-335238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 712ef4d0ca70b9c5fb22e49d086af753ee9f3e1930bc19eeb30000fe3d19d2eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b163b920d91f9c51b9de0e4ac30ea7eee2567c1892075c431bd8a5cd4f78f71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Junta de Energia Nuclear
+- Regime Jurídico
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:141025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:35Z'
   warnings: []
   errors: []
 ---
@@ -95,34 +106,34 @@ Tornando-se, por isso, conveniente uma definição ajustada do regime a que fica
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Constitui direito da Empresa Nacional de Urânio, E. P., a exploração dos jazigos ou ocorrências de urânio descobertos pela Junta de Energia Nuclear e que constam do cadastro entregue na Direcção-Geral de Geologia e Minas.
+Artigo 1.º Constitui direito da Empresa Nacional de Urânio, E. P., a exploração dos jazigos ou ocorrências de urânio descobertos pela Junta de Energia Nuclear e que constam do cadastro entregue na Direcção-Geral de Geologia e Minas.
 
-###### Art. 2.º - 1 - A Empresa Nacional de Urânio, E. P., fica obrigada, relativamente aos jazigos e ocorrências referidos no artigo anterior, cuja exploração seja economicamente relevante, a iniciar os trabalhos de lavra de acordo com o plano ou planos de exploração que serão função da evolução do mercado nacional e internacional de urânio.
+Art. 2.º - 1 - A Empresa Nacional de Urânio, E. P., fica obrigada, relativamente aos jazigos e ocorrências referidos no artigo anterior, cuja exploração seja economicamente relevante, a iniciar os trabalhos de lavra de acordo com o plano ou planos de exploração que serão função da evolução do mercado nacional e internacional de urânio.
 
 2 - Os planos referidos no número anterior ficarão sujeitos a aprovação pela Direcção-Geral de Geologia e Minas.
 
-###### Art. 3.º - 1 - O início dos trabalhos de lavra fica dependente da conclusão do processo a que se refere o artigo 31.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930.
+Art. 3.º - 1 - O início dos trabalhos de lavra fica dependente da conclusão do processo a que se refere o artigo 31.º do [Decreto n.º 18713](https://diariodarepublica.pt/dr/detalhe/decreto/18713-1930-224619), de 1 de Agosto de 1930.
 
 2 - De acordo com o que fica estabelecido no presente diploma, a demarcação dos jazigos será feita com base em proposta a apresentar pela Empresa Nacional de Urânio, E. P.
 
 3 - A proposta mencionada no número anterior será elaborada tendo em atenção o valor económico dos jazigos e ocorrências a integrar na mesma.
 
-###### Art. 4.º A exploração dos jazigos e ocorrências a que se refere o presente diploma fica sujeita a fiscalização da Direcção-Geral de Geologia e Minas.
+Art. 4.º A exploração dos jazigos e ocorrências a que se refere o presente diploma fica sujeita a fiscalização da Direcção-Geral de Geologia e Minas.
 
-###### Art. 5.º - 1 - Sem prejuízo dos direitos adquiridos pela Empresa Nacional de Urânio, E. P., em virtude da transferência operada pelo [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, os direitos sobre os jazigos ou ocorrências, a que se refere o presente diploma, que não tiverem sido objecto de demarcação até à publicação de nova legislação sobre recursos geológicos regular-se-ão pelo regime que nela vier a ser consagrado.
+Art. 5.º - 1 - Sem prejuízo dos direitos adquiridos pela Empresa Nacional de Urânio, E. P., em virtude da transferência operada pelo [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, os direitos sobre os jazigos ou ocorrências, a que se refere o presente diploma, que não tiverem sido objecto de demarcação até à publicação de nova legislação sobre recursos geológicos regular-se-ão pelo regime que nela vier a ser consagrado.
 
 2 - De acordo com o disposto no número anterior, aos recursos já demarcados à data da publicação de nova legislação sobre recursos geológicos será aplicável o regime transitório que nela vier a ser definido para os direitos constituídos.
 
-###### Art. 6.º Exceptuados os casos específicos abrangidos na transferência determinada pelo Decrto-Lei n.º 105/77, de 22 de Março, é aplicável à exploração de jazigos ou ocorrências de urânio a demais legislação mineira em vigor.
+Art. 6.º Exceptuados os casos específicos abrangidos na transferência determinada pelo Decrto-Lei n.º 105/77, de 22 de Março, é aplicável à exploração de jazigos ou ocorrências de urânio a demais legislação mineira em vigor.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernandes Mira Amaral.
 
-**Promulgado em 13 de Janeiro de 1990.**
+Promulgado em 13 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Janeiro de 1990.**
+Referendado em 15 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

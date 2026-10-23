@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1990-557466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4e33e3ee05d3185499b94c914a5c5bd8da99af5d9392efd08bd13282a992792
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e20e42bc6abeae9c157027484ba2eb126655e55b02f1a3ec517eb5336c22014b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Aproximação das Legislações
+- Política Fiscal
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:10Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +98,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 62.º do Decreto-Lei n.º 507/85, de 31 de Dezembro, na redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 291/88, de 24 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 62.º do Decreto-Lei n.º 507/85, de 31 de Dezembro, na redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 291/88, de 24 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 62.º - 1 - Com ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral, as seguintes:
+Art. 62.º - 1 - Com ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral, as seguintes:
 
 a) Entrega da declaração;
 
@@ -108,22 +114,22 @@ e) Saída.
 
 2 - A conferência da declaração, nos casos em que tenha lugar, em conformidade com os critérios de amostragem definidos por despacho do Ministro das Finanças, pode ser efectuada após ter sido dada a autorização de saída das mercadorias.
 
-###### Art. 2.º O artigo 261.º-A do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 291/88, de 24 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º O artigo 261.º-A do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 291/88, de 24 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 261.º-A ...
+Art. 261.º-A ...
 
 § 1.º O desalfandegamento das mercadorias dispensadas de verificação e reverificação poderá ter lugar antes da conferência da declaração, efectuando-se esta operação, nos casos em que os critérios de amostragem definidos por despacho do Ministro das Finanças a determinem, após a autorização da saída das mercadorias.
 
-###### Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 6 de Setembro de 1990.**
+Promulgado em 6 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

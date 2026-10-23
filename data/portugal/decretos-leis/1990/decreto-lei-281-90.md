@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21100/37313731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1990-557816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 218a6262caaac1c5117010a1739965247b0b7df5a5618a3a87a56bbb031cfa0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc1d6e23075b23c56402672c7a5e67bc056a3a191850ad13329cd55c68d76ac1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação por Concurso Público
+- Auto-estrada
+- Contrato de Construção
+- CRIL
+- Junta Autónoma das Estradas
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:00Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As obras de construção da Circular Regional Interior de Lisboa (CRIL), no lanço Algés-nó da Buraca, serão executadas em três sublanços aos quais corresponderão três fases de execução assim ordenadas:
+Artigo 1.º As obras de construção da Circular Regional Interior de Lisboa (CRIL), no lanço Algés-nó da Buraca, serão executadas em três sublanços aos quais corresponderão três fases de execução assim ordenadas:
 
 a) 1.ª fase - nó do Alto do Duque-nó da Buraca (exclusive);
 
@@ -117,30 +127,30 @@ b) 2.ª fase - nó da Buraca;
 
 c) 3.ª fase - Algés-nó do Alto do Duque.
 
-###### Art. 2.º O acto de adjudicação da obra correspondente ao sublanço nó do Alto do Duque-nó da Buraca, em razão do interesse público do início imediato dos trabalhos, será praticado sem precedência de concurso, público ou limitado, e com dispensa de quaisquer formalidades que não derivem do presente diploma.
+Art. 2.º O acto de adjudicação da obra correspondente ao sublanço nó do Alto do Duque-nó da Buraca, em razão do interesse público do início imediato dos trabalhos, será praticado sem precedência de concurso, público ou limitado, e com dispensa de quaisquer formalidades que não derivem do presente diploma.
 
-###### Art. 3.º - 1 - A adjudicação será precedida de consulta para apresentação de propostas junto de, pelo menos, cinco entidades cujos currículos garantam a boa execução da obra.
+Art. 3.º - 1 - A adjudicação será precedida de consulta para apresentação de propostas junto de, pelo menos, cinco entidades cujos currículos garantam a boa execução da obra.
 
 2 - A consulta será feita com base na apresentação a todas as entidades, no mesmo dia, dos elementos necessários à apresentação de propostas, designadamente os projectos e o caderno de encargos, onde se determinem as cláusulas técnicas, financeiras e jurídicas que condicionam as propostas ou a que ficará especialmente sujeita a empreitada, podendo os interessados requerer cópias nos termos gerais.
 
 3 - Conjuntamente com a consulta, será indicada a data limite, a forma de apresentação e as condições a que devem obedecer as propostas.
 
-###### Art. 4.º As entidades às quais forem dirigidas as consultas podem apresentar as suas propostas em conjunto com outras entidades, indicando, neste caso, a modalidade jurídica que adoptará a associação de empresas na eventualidade de lhes ser adjudicada a obra.
+Art. 4.º As entidades às quais forem dirigidas as consultas podem apresentar as suas propostas em conjunto com outras entidades, indicando, neste caso, a modalidade jurídica que adoptará a associação de empresas na eventualidade de lhes ser adjudicada a obra.
 
-###### Art. 5.º A execução da obra fica sujeita ao disposto no Decreto-Lei n.º 235/86, de 18 de Agosto.
+Art. 5.º A execução da obra fica sujeita ao disposto no Decreto-Lei n.º 235/86, de 18 de Agosto.
 
-###### Art. 6.º - 1 - Compete à Junta Autónoma de Estradas promover as consultas previstas no artigo 3.º, nos termos do presente diploma, bem como apreciar as propostas e propor, fundamentadamente, a adjudicação.
+Art. 6.º - 1 - Compete à Junta Autónoma de Estradas promover as consultas previstas no artigo 3.º, nos termos do presente diploma, bem como apreciar as propostas e propor, fundamentadamente, a adjudicação.
 
 2 - Após a entrada em vigor do presente diploma, a Junta Autónoma de Estradas procederá, com carácter de urgência, à preparação dos concursos públicos para a execução das obras correspondentes aos restantes sublanços, de acordo com o ritmo das expropriações e com a programação dos realojamentos.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 22 de Agosto de 1990.**
+Promulgado em 22 de Agosto de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Agosto de 1990.**
+Referendado em 27 de Agosto de 1990.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

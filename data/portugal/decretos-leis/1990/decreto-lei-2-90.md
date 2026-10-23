@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00200/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1990-313831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 545b0396053cc38c735205bfd46bbfa273c197f2dbbe195f433dcb2ab6a8df87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f91e65ccff3248f5a298cae7c9d8a650c5c1adce0a8fe82b0b0bb23d4739b4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gestão do Património
+- Regime Jurídico
+- Sociedade de Gestão e Investimento Imobiliário
+- Sociedade de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:687016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183251:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:622128:por
+  label: Revogado, a partir de 09.04.1991, pelo DEC LEI.135/91.04.04.1991.MF, DR.IS-A [78] de 04.04.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1991-622128
+  date: '1991-04-04'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:05Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +111,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As sociedades de gestão e investimento imobiliário, abreviadamente designadas por SGII, que forem autorizadas, nos termos do artigo 3.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, a partir da entrada em vigor do presente diploma devem ter, no prazo de três anos a contar do início da sua actividade, mais de um terço do seu património imobiliário constituído por aplicações em imóveis destinados a arrendamento para habitação, devendo esse valor ser superior a 15% e 25%, respectivamente, no final dos 1.º e 2.º anos de actividade.
+Artigo 1.º - 1 - As sociedades de gestão e investimento imobiliário, abreviadamente designadas por SGII, que forem autorizadas, nos termos do artigo 3.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, a partir da entrada em vigor do presente diploma devem ter, no prazo de três anos a contar do início da sua actividade, mais de um terço do seu património imobiliário constituído por aplicações em imóveis destinados a arrendamento para habitação, devendo esse valor ser superior a 15% e 25%, respectivamente, no final dos 1.º e 2.º anos de actividade.
 
 2 - As SGII já constituídas ou que venham a constituir-se por já haverem sido autorizadas à data da entrada em vigor do presente diploma, nos casos em que as suas aplicações em imóveis destinados a arrendamento para habitação não respeitem o limite de um terço estabelecido no número anterior, devem aproximar-se gradualmente daquele objectivo, mediante acréscimos anuais mínimos de cinco pontos percentuais no rácio «habitações para arrendamento/património imobiliário», até que aquele limite seja alcançado.
 
-###### Art. 2.º O artigo 6.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 6.º do [Decreto-Lei n.º 291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 6.º — [...]
 
@@ -112,12 +125,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 14 de Dezembro de 1989.**
+Promulgado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Dezembro de 1989.**
+Referendado em 21 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

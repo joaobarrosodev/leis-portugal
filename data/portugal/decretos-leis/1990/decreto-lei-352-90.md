@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25900/46344642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56676fe84a95319939407b43b3b6bff7761a99f32c83f19aa50b347cc808bde7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0632b458c6c7045415f3b4dc2b2d8e9b6e46550a205983108f36b338daf8c5ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Controlo de Qualidade
+- Definição de Competências
+- Direcção Geral da Qualidade do Ambiente
+- Política do Ambiente
+- Poluição
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:218329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:352526:por
+  label: "Revogados os arts. 3º, 6º, 26º, 27º e 29º pelo DEC LEI.276/99.1999.07.23.MAM,DR.IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1999-352526
+  date: '1999-07-23'
+- type: repealed_by
+  target: pt:dre:653499:por
+  label: "Revogados os nºs 5, 6 e 7 do art 13º e os nºs 2 e 3 do art 17º pelo DEC LEI.178/2003.2003.08.05.MCOTA, DR.IS-A [179],\
+    \ mantendo em vigor, até 31 de Dezembro de 2003, o Programa Nacional de Redução de Emissões das Grandes Instalações de\
+    \ Combustão.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2003-653499
+  date: '2003-08-05'
+- type: repealed_by
+  target: pt:dre:218329:por
+  label: "Revogado, a partir da entrada em vigor do DEC LEI.78/2004.03.04.2004.MCOTA, DR.IS-A [80] de 03.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2004-218329
+  date: '2004-04-03'
 article_structure:
   article_count: 37
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:31Z'
   warnings: []
   errors: []
 ---
@@ -601,12 +625,12 @@ As normas da qualidade do ar a estabelecer nos termos do artigo 5.º entram em v
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - José Manuel Branquinho de Oliveira Lobo - Álvaro José Brilhante Laborinho Lúcio - Jorge Manuel de Oliveira Godinho - Nuno Manuel Franco Ribeiro da Silva - Albino Aroso Ramos - Fernando Nunes Ferreira Real.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

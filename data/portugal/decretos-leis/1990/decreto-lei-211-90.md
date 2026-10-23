@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14600/27092710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1990-575357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d554806ab7d45696c90743b93e503b2e74bbc701e11ee746166bf4041e7f269e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a7fb1b774ca6579e73811f84a8594bd5fbeae11a0b77073200475b8cbdcdc1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Impostos
+- Código da Contribuição Autárquica
+- Contribuição Autárquica
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Habitação
+- Isenção Fiscal
+- Política Fiscal
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663340:por
+  label: "Alterado o art. 12º do Dec Lei 442-C/88 de 30-Nov, na redacção do presente diploma, pelo DEC LEI.254/91.18.07.1991.MF,\
+    \ DR.IS-A 163 de 18.07.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1991-663340
+  date: '1991-07-18'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:25Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +127,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas a), b) e d) do artigo 26.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 10.º, 12.º, 17.º e 22.º do Código da Contribuição Autárquica, aprovado pelo [Decreto-Lei n.º 442-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024), de 30 de Novembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 10.º, 12.º, 17.º e 22.º do Código da Contribuição Autárquica, aprovado pelo [Decreto-Lei n.º 442-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024), de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 10.º — Início da sujeição a imposto
 
@@ -164,12 +193,12 @@ c) Nos casos não contemplados na alínea anterior, no ano, inclusive, da aquisi
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 11 de Junho de 1990.**
+Promulgado em 11 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1990.**
+Referendado em 18 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

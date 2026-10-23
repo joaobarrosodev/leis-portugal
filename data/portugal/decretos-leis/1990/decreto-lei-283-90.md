@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21600/38303833.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1990-557621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684aa7b2cf888f215a6e85e65bfeed60575edaa5db8f026095ff54a1b20d9bdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9992edc5f48b5d662b6e4cbe0f6049829e690521aca7de904543191d6e4af68b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultor
+- Agricultura
+- Fundo de Compensação do Seguro de Colheitas
+- Regime Jurídico
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:1843017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663342:por
+  label: "Alterado o artigo 10.º, pelo DEC LEI.253/91.18.07.1991.MF, DR.IS-A [163] de 18.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1991-663342
+  date: '1991-07-18'
+- type: amended_by
+  target: pt:dre:1843017:por
+  label: "Efectivada a extinção do Fundo de Compensação do Seguro de Colheitas, pela PORT.701/99(2ªSÉRIE).1999.06.25.MF e\
+    \ MADRP, DR.IIS [161] de 13/Jul/1999.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1999-1843017
+  date: '1999-07-13'
+- type: cites
+  target: pt:dre:227455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369783:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633725:por
+  label: "Revogado pelo DEC LEI.326/95.1995.12.05.MA, DR.IS-A [280] (este diploma não chegou a entrar em vigor)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-1995-633725
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:535012:por
+  label: "Revogado pelo DEC LEI.20/96.1996.03.19.MADRP DR.IS-A [67], na data da entrada em vigor deste diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1996-535012
+  date: '1996-03-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:05Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +138,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O seguro agrícola de colheitas, adiante designado por seguro de colheitas, rege-se pelas disposições do presente diploma, constitui um incentivo ao investimento agrícola e contribui para garantir a estabilidade dos rendimentos dos agricultores, servindo ainda, de instrumento capaz de conduzir a um adequado ordenamento das culturas.
+Artigo 1.º O seguro agrícola de colheitas, adiante designado por seguro de colheitas, rege-se pelas disposições do presente diploma, constitui um incentivo ao investimento agrícola e contribui para garantir a estabilidade dos rendimentos dos agricultores, servindo ainda, de instrumento capaz de conduzir a um adequado ordenamento das culturas.
 
-###### Art. 2.º O presente diploma aplica-se, apenas, ao território do continente, sem prejuízo do sistema agora adoptado poder vir a ser alargado às Regiões Autónomas dos Açores e da Madeira, mediante diploma dos órgãos de governo próprio.
+Art. 2.º O presente diploma aplica-se, apenas, ao território do continente, sem prejuízo do sistema agora adoptado poder vir a ser alargado às Regiões Autónomas dos Açores e da Madeira, mediante diploma dos órgãos de governo próprio.
 
-###### Art. 3.º O seguro de colheitas tem carácter voluntário, excepto nos casos expressamente previstos na lei.
+Art. 3.º O seguro de colheitas tem carácter voluntário, excepto nos casos expressamente previstos na lei.
 
-###### Art. 4.º - 1 - O seguro de colheitas garante a cobertura dos seguintes riscos:
+Art. 4.º - 1 - O seguro de colheitas garante a cobertura dos seguintes riscos:
 
 a) Cobertura base - os riscos de incêndio, raio, explosão e granizo;
 
@@ -120,7 +154,7 @@ b) Coberturas complementares - os riscos de tornado, tromba-d'água, geada e que
 
 3 - Sem prejuízo do disposto no número anterior, podem, por acordo entre a seguradora e o segurado, ser cobertos outros riscos a que as culturas podem estar sujeitas, nos termos definidos na apólice.
 
-###### Art. 5.º - 1 - O seguro de colheitas garante ao agricultor a indemnização do montante dos prejuízos sofridos pelas culturas, que tenham origem em qualquer dos riscos abrangidos pela apólice, calculados nos termos dos números seguintes.
+Art. 5.º - 1 - O seguro de colheitas garante ao agricultor a indemnização do montante dos prejuízos sofridos pelas culturas, que tenham origem em qualquer dos riscos abrangidos pela apólice, calculados nos termos dos números seguintes.
 
 2 - O montante a indemnizar é o correspondente ao valor da produção final, deduzido dos encargos inerentes às operações de cultura não efectuadas, tendo em conta o disposto no n.º 4.
 
@@ -128,17 +162,17 @@ b) Coberturas complementares - os riscos de tornado, tromba-d'água, geada e que
 
 4 - Em caso de sinistro apenas são indemnizáveis 80% dos prejuízos realmente sofridos.
 
-###### Art. 6.º - 1 - Para efeitos do cálculo do valor a segurar, são consideradas as produções efectivamente esperadas e os preços de garantia ou de intervenção, acrescidos de eventuais subsídios, ou, na ausência destes preços, os praticados na região.
+Art. 6.º - 1 - Para efeitos do cálculo do valor a segurar, são consideradas as produções efectivamente esperadas e os preços de garantia ou de intervenção, acrescidos de eventuais subsídios, ou, na ausência destes preços, os praticados na região.
 
 2 - Se as produções declaradas na proposta se afastaram significativamente das produções unitárias médias regionais dos últimos cinco anos, o segurado deve fazer adequada comprovação.
 
-###### Art. 7.º O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar a modalidade agrícola-colheitas do ramo classificado na alínea 9) do artigo 1.º do [Decreto-Lei n.º 85/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1986-227455), de 7 de Maio, e contratado individual ou colectivamente.
+Art. 7.º O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar a modalidade agrícola-colheitas do ramo classificado na alínea 9) do artigo 1.º do [Decreto-Lei n.º 85/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1986-227455), de 7 de Maio, e contratado individual ou colectivamente.
 
-###### Art. 8.º - 1 - O seguro de colheitas é contratado nos termos de uma apólice uniforme, para o efeito elaborada pelo Instituto de Seguros de Portugal.
+Art. 8.º - 1 - O seguro de colheitas é contratado nos termos de uma apólice uniforme, para o efeito elaborada pelo Instituto de Seguros de Portugal.
 
 2 - Os prémios a aplicar a este seguro são livremente estabelecidos pelas seguradoras, uma vez cumpridas as disposições regulamentares em vigor, tendo em consideração os indicadores estatísticos disponíveis.
 
-###### Art. 9.º - 1 - O Estado, por intermédio do Fundo previsto no artigo 10.º, bonifica os prémios do seguro de colheitas tomando em consideração os seguintes parâmetros:
+Art. 9.º - 1 - O Estado, por intermédio do Fundo previsto no artigo 10.º, bonifica os prémios do seguro de colheitas tomando em consideração os seguintes parâmetros:
 
 a) Compatibilização do custo do seguro com a rendibilidade das culturas e a estrutura produtiva da região;
 
@@ -150,7 +184,7 @@ b) Fomento da utilização do seguro como instrumento de orientação agrícola,
 
 4 - O recibo do prémio de seguro deve indicar, se for o caso, o valor da bonificação atribuída pelo Estado.
 
-###### Art. 10.º - 1 - O Fundo de Compensação do Seguro de Colheitas, designado abreviadamente por Fundo, goza de autonomia administrativa, funciona junto do Instituto de Seguros de Portugal e destina-se a:
+Art. 10.º - 1 - O Fundo de Compensação do Seguro de Colheitas, designado abreviadamente por Fundo, goza de autonomia administrativa, funciona junto do Instituto de Seguros de Portugal e destina-se a:
 
 a) Bonificar os prémios do seguro de colheitas, nos termos definidos no despacho conjunto a que se refere o n.º 2 do artigo anterior;
 
@@ -172,7 +206,7 @@ c) Os cálculos são feitos em relação a cada seguradora.
 
 4 - O Fundo sucede ao Fundo de Compensação do Seguro de Colheitas criado pelo [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, assumindo a universalidade dos seus direitos e obrigações.
 
-###### Art. 11.º - 1 - A gestão do Fundo é assegurada por uma comissão de gestão composta por:
+Art. 11.º - 1 - A gestão do Fundo é assegurada por uma comissão de gestão composta por:
 
 a) Um representante do Ministério da Agricultura, Pescas e Alimentação;
 
@@ -184,7 +218,7 @@ c) Um representante do Instituto de Seguros de Portugal.
 
 3 - As entidades representadas devem nomear os seus representantes no prazo de 15 dias a contar da data da publicação do presente diploma.
 
-###### Art. 12.º - 1 - No âmbito da gestão do Fundo, compete à comissão de gestão, nomeadamente:
+Art. 12.º - 1 - No âmbito da gestão do Fundo, compete à comissão de gestão, nomeadamente:
 
 a) Propor e fundamentar a dotação a inscrever no Orçamento do Estado, nos termos da alínea a) do n.º 1 e do n.º 3 do artigo 13.º;
 
@@ -198,7 +232,7 @@ e) Elaborar, anualmente, o relatório da actividade e a conta de gerência do Fu
 
 2 - A comissão de gestão pode recorrer, sempre que entenda necessário, aos serviços do Ministério da Agricultura, Pescas e Alimentação, do Instituto Nacional de Estatística e do Instituto Nacional de Meteorologia e Geofísica.
 
-###### Art. 13.º - 1 - Constituem receitas do Fundo:
+Art. 13.º - 1 - Constituem receitas do Fundo:
 
 a) Uma dotação do Orçamento do Estado;
 
@@ -212,7 +246,7 @@ d) Quaisquer outras dotações ou receitas que lhe sejam atribuídas.
 
 3 - A dotação orçamental prevista na alínea a) do n.º 1 é fixada anualmente sob proposta da comissão de gestão do Fundo.
 
-###### Art. 14.º Para além das despesas inerentes ao seu próprio funcionamento, o Fundo suporta os encargos correspondentes a:
+Art. 14.º Para além das despesas inerentes ao seu próprio funcionamento, o Fundo suporta os encargos correspondentes a:
 
 a) Bonificação dos prémios;
 
@@ -220,7 +254,7 @@ b) Compensação das seguradoras por sinistralidade do seguro de colheitas, nos 
 
 c) Divulgação do seguro de colheitas e elaboração de estudos de carácter técnico, em especial no que se refere à prevenção de sinistros.
 
-###### Art. 15.º - 1 - No âmbito do presente diploma compete ao Ministério da Agricultura, Pescas e Alimentação:
+Art. 15.º - 1 - No âmbito do presente diploma compete ao Ministério da Agricultura, Pescas e Alimentação:
 
 a) Prestar ao Fundo o necessário apoio técnico, nomeadamente na caracterização das culturas e actividades respeitantes a este seguro;
 
@@ -240,24 +274,24 @@ d) Efectuar estudos estatísticos e actuariais;
 
 e) Dar apoio administrativo ao Fundo.
 
-###### Art. 16.º - A comissão de gestão do Fundo deverá, no prazo de 60 dias após a data da sua constituição, elaborar o respectivo regulamento de organização e funcionamento, remetendo-o, para homologação, aos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 16.º - A comissão de gestão do Fundo deverá, no prazo de 60 dias após a data da sua constituição, elaborar o respectivo regulamento de organização e funcionamento, remetendo-o, para homologação, aos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 17.º - 1 - As normas técnicas de execução necessárias à regulamentação do presente diploma são fixadas por portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 17.º - 1 - As normas técnicas de execução necessárias à regulamentação do presente diploma são fixadas por portaria conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
 2 - No diploma referido no número anterior, serão definidas as culturas e abranger pelo seguro de colheitas.
 
-###### Art. 18.º É revogado o [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, bem como a respectiva legislação regulamentar.
+Art. 18.º É revogado o [Decreto-Lei n.º 395/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1979-369783), de 21 de Setembro, bem como a respectiva legislação regulamentar.
 
-###### Art. 19.º O presente diploma entra em vigor no dia 1 de Outubro de 1990.
+Art. 19.º O presente diploma entra em vigor no dia 1 de Outubro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 6 de Setembro de 1990.**
+Promulgado em 6 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

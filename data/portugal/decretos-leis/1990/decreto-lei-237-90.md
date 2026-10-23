@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16900/30673068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1990-572646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e192991c564ed5d7fb8de38cd8f7db9213096f9cf008fd9fde16df1d68a884a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41dea5fc56f8d0ae34b8a38fe6cedf3b04dcf93ffeae64b694e091d1cb598db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Lota
+- Peixe
+- Pesca
+- Venda
 relationships:
 - type: amended_by
   target: pt:dre:547844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:417175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:547844:por
+  label: "Revogado a partir de 21.04.2005 o Dec Lei 304/87, de 04-Ago, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DEC LEI.81/2005.20.04.2005.MAPF, DR.IS-A [77] de 20.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2005-547844
+  date: '2005-04-20'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:05Z'
   warnings: []
   errors: []
 ---
@@ -100,20 +115,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto-Lei n.º 304/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1987-417175), de 4 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto-Lei n.º 304/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1987-417175), de 4 de Agosto, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - A primeira venda de todo o pescado fresco será obrigatoriamente efectuada pelo sistema de leilão, a realizar em lota, sem prejuízo do disposto no artigo 4.º
+Artigo 1.º - 1 - A primeira venda de todo o pescado fresco será obrigatoriamente efectuada pelo sistema de leilão, a realizar em lota, sem prejuízo do disposto no artigo 4.º
 
 2 - Sempre que se torne necessário efectuar o controlo específico do esforço de pesca exercido em determinadas zonas, sobre certas espécies ou com a utilização de artes com características diferentes das genericamente impostas, pode o Ministro da Agricultura, Pescas e Alimentação, por portaria, circunscrever os desembarques e primeira venda do pescado em lota proveniente das embarcações que exerçam aquele esforço de pesca a determinados portos e lotas do continente.
 
 Visto e aprovado em Conselho de Ministros de 28 de Junho de 1990. - Aníbal António Cavaco Silva - Luís António Damásio Capoulas.
 
-**Promulgado em 10 de Julho de 1990.**
+Promulgado em 10 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1990.**
+Referendado em 12 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

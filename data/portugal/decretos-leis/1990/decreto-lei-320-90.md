@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23800/42814283.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1990-555423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b19e56e9844ee0ec09f4c2159b0cf5a53525bcd3bf3786995f2555330fd64dcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 793b314a943d9b66e47db001c06030bbeb8a6abecaf8d43c55a89801863a403b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação de Obras Públicas
+- Administração Pública
+- Alvará
+- Aproximação das Legislações
+- Aquisição de Bens e Serviços
+- Concurso
+- Construção Civil
+- Empreitada de Obras Públicas
+- Obras Públicas
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:553397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:689264:por
+  label: Rectificado pela DECL.DD3099.1990.11.07.PCM, DR.IS [277]3ºSupl de 30/Nov/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689264
+  date: '1990-11-07'
+- type: repealed_by
+  target: pt:dre:553397:por
+  label: "Revogado pelo DEC LEI.405/93.1993.12.10.MOPTC, DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/405-1993-553397
+  date: '1993-12-10'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:50Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +118,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditado ao Decreto-Lei n.º 235/86, de 18 de Agosto, o artigo 27.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao Decreto-Lei n.º 235/86, de 18 de Agosto, o artigo 27.º-A, com a seguinte redacção:
 
 ###### Artigo 27.º-A — Execução de obras complementares
 
@@ -114,7 +134,7 @@ b) Quando essas obras, ainda que separáveis da execução do contrato inicial, 
 
 4 - O montante referido no número anterior será publicado na 2.ª série do Diário da República mediante despacho do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º Os artigos 28.º, 36.º, 51.º, 63.º, 68.º, 69.º, 70.º, 80.º, 93.º, 111.º e 213.º do Decreto-Lei n.º 235/86, de 18 de Agosto, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 28.º, 36.º, 51.º, 63.º, 68.º, 69.º, 70.º, 80.º, 93.º, 111.º e 213.º do Decreto-Lei n.º 235/86, de 18 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 28.º — Supressão de trabalhos
 
@@ -258,16 +278,16 @@ f) ...
 
 8 - ...
 
-###### Art. 3.º É revogado o n.º 4 do artigo 66.º do Decreto-Lei n.º 235/86, de 18 de Agosto.
+Art. 3.º É revogado o n.º 4 do artigo 66.º do Decreto-Lei n.º 235/86, de 18 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Alberto José Nunes Correia Ralha - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho.
 
-**Promulgado em 28 de Setembro de 1990.**
+Promulgado em 28 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SARES.**
+O Presidente da República, MÁRIO SARES.
 
-**Referendado em 3 de Outubro de 1990.**
+Referendado em 3 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

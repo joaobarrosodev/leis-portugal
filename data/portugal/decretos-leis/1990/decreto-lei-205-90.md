@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14400/26402641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1990-575296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90bba656336e5216adc98a6079e502b533673808b3d755e0480bd64919985c2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fa8117eca382c22eca89bb15769be9d8cab2f24589f2e9ce8e3f514fc71c62d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- Cobrança de Impostos
+- Contrato de Seguro
+- Contribuições e Impostos
+- Crédito ao Consumo
+- Emparcelamento
+- Fundo de Compensação
+- Garantia
+- Habitação
+- Imposto do SELO
+- Instituição de Crédito
+- Isenção Fiscal
+- Obras Particulares
+- Prédio Rústico
+- Proteção ao Deficiente
+- Regulamento do Imposto do SELO
+- SGPS
+- Tabela Geral do Imposto do SELO
+- Veículo
+- Venda a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:397146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:15Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +134,11 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 28.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os quantitativos constantes das alíneas a), b) e c) do artigo 32.º do Regulamento do Imposto do Selo, bem como do seu § 2.º, passam a ser, respectivamente, de 500000$00, 2000000$00, 2000000$00 e 50000$00.
+Artigo 1.º Os quantitativos constantes das alíneas a), b) e c) do artigo 32.º do Regulamento do Imposto do Selo, bem como do seu § 2.º, passam a ser, respectivamente, de 500000$00, 2000000$00, 2000000$00 e 50000$00.
 
-###### Art. 2.º Os artigos 1, 5, 61-A, 120-A, 155 e 163 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1, 5, 61-A, 120-A, 155 e 163 da Tabela Geral do Imposto do Selo passam a ter a seguinte redacção:
 
-###### Artigo 1 - Abertura de crédito, sobre o seu valor e a pagar por meio de verba (1) - 6(por mil)(selo de verba).
+Artigo 1 - Abertura de crédito, sobre o seu valor e a pagar por meio de verba (1) - 6(por mil)(selo de verba).
 
 Para os efeitos deste artigo, entende-se por abertura de crédito a obrigação que alguém assume, por meio de instrumento público, escrito particular ou correspondência, de fornecer a outrem fundos, mercadorias ou outros valores, quer seja para utilizar no País, quer no estrangeiro.
 
@@ -118,9 +152,9 @@ As guias serão processadas em presença do livro de registo criado pelo [Decret
 
 Acresce o imposto do selo fixado nos artigos 92, 93 e 100, um ou outro, conforme a natureza do título.
 
-###### Art. 5 - Aluguer de bens de consumo duradouro, sendo o montante do imposto determinado com base na taxa anual de 7% sobre o valor do contrato e proporcional ao respectivo prazo, excluindo-se de sujeição o aluguer sem condutor, de viaturas ligeiras de passageiros ou mistos, quando o respectivo contrato não ultrapasse o período de 31 dias, nem for renovado no prazo de um ano.
+Art. 5 - Aluguer de bens de consumo duradouro, sendo o montante do imposto determinado com base na taxa anual de 7% sobre o valor do contrato e proporcional ao respectivo prazo, excluindo-se de sujeição o aluguer sem condutor, de viaturas ligeiras de passageiros ou mistos, quando o respectivo contrato não ultrapasse o período de 31 dias, nem for renovado no prazo de um ano.
 
-###### Art. 61-A - ...
+Art. 61-A - ...
 
 1 - ...
 
@@ -138,7 +172,7 @@ b) ...
 
 4 - O pagamento do imposto compete ao empreiteiro, fornecedor ou concessionário.
 
-###### Art. 120-A - ...
+Art. 120-A - ...
 
 a) ...
 
@@ -160,7 +194,7 @@ d) ...
 
 6 - O imposto será cobrado pelas instituições de crédito e entregue nos cofres do Estado, por meio de guia, nos termos do artigo 23.º do Regulamento do Imposto do Selo.
 
-###### Art. 155 - ...
+Art. 155 - ...
 
 a) ...
 
@@ -170,15 +204,15 @@ b) Outras sociedades - 10,5(por mil) (selo de verba).
 
 2 - Acresce o selo dos artigos 92, 93 e 100, um ou outro, segundo a natureza do título, com exclusão das sociedades referidas no número anterior.
 
-###### Art. 163 - Títulos de dívida pública emitidos por governos estrangeiros, com exclusão dos títulos de dívida pública emitidos por Estados membros da Comunidade Económica Europeia (CEE), quando existentes ou expostos à venda no continente e nos arquipélagos dos Açores e da Madeira, sobre o valor nominal - 9(por mil) (selo a tinta de óleo).
+Art. 163 - Títulos de dívida pública emitidos por governos estrangeiros, com exclusão dos títulos de dívida pública emitidos por Estados membros da Comunidade Económica Europeia (CEE), quando existentes ou expostos à venda no continente e nos arquipélagos dos Açores e da Madeira, sobre o valor nominal - 9(por mil) (selo a tinta de óleo).
 
 A taxa deste artigo será reduzida a 1,5(por mil), quando se trate de títulos respeitantes a empréstimos cujas condições de emissão tenham sido definitivamente modificadas, em termos de ficarem reduzidos os respectivos encargos e, consequentemente, os títulos passarem a ter cotação inferior ao seu valor nominal.
 
-###### Art. 3.º É revogado o artigo 134-A da Tabela Geral do Imposto do Selo.
+Art. 3.º É revogado o artigo 134-A da Tabela Geral do Imposto do Selo.
 
-###### Art. 4.º É aditado o § único ao artigo 4 e o artigo 120-B à Tabela Geral do Imposto do Selo, com a seguinte redacção:
+Art. 4.º É aditado o § único ao artigo 4 e o artigo 120-B à Tabela Geral do Imposto do Selo, com a seguinte redacção:
 
-###### Art. 4 - ...
+Art. 4 - ...
 
 ...
 
@@ -214,24 +248,24 @@ Reparação de danos ocasionados por catástrofes naturais.
 
 6 - O imposto será cobrado pelas entidades credoras e entregue nos cofres do Estado, por meio de guia, nos termos do artigo 23.º do Regulamento do Imposto do Selo.
 
-###### Art. 5.º É aditada ao capítulo «Outras isenções», anexo à Tabela Geral do Imposto do Selo, a verba XLVI, com a seguinte redacção:
+Art. 5.º É aditada ao capítulo «Outras isenções», anexo à Tabela Geral do Imposto do Selo, a verba XLVI, com a seguinte redacção:
 
 XLVI - As operações de parcelamento e emparcelamento de prédios rústicos.
 
-###### Art. 6.º Fica isento de imposto do selo, durante o ano de 1990, o reforço ou aumento de capital social das sociedades por incorporação de reservas.
+Art. 6.º Fica isento de imposto do selo, durante o ano de 1990, o reforço ou aumento de capital social das sociedades por incorporação de reservas.
 
-###### Art. 7.º Ficam isentos de imposto do selo, até 31 de Dezembro de 1992, a constituição e o reforço ou aumento de capital social das sociedades gestoras de participações sociais sempre que as entradas dos sócios sejam em quotas ou acções.
+Art. 7.º Ficam isentos de imposto do selo, até 31 de Dezembro de 1992, a constituição e o reforço ou aumento de capital social das sociedades gestoras de participações sociais sempre que as entradas dos sócios sejam em quotas ou acções.
 
-###### Art. 8.º É abolida a sobretaxa para o ex-Fundo de Compensação.
+Art. 8.º É abolida a sobretaxa para o ex-Fundo de Compensação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 11 de Junho de 1990.**
+Promulgado em 11 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1990.**
+Referendado em 18 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

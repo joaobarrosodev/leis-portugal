@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1990-571461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 636c95f0e8c32ddba10697dc16c46c0f8d1d675ec0ba5c6bf1605d7d2f1787db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f841f29650354d5d8e654636c65ebf284199e34e4e06eaae8a2a862d1e9cf21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bebida Alcoólica
+- Cerveja
+- Cobrança de Impostos
+- Código do IVA
+- Comércio
+- Contribuições e Impostos
+- Imposto Especial sobre o Consumo da Cerveja
+- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
+- IVA
 relationships:
 - type: amended_by
   target: pt:dre:648745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:648745:por
+  label: Alterado o art. 2.º do Dec Lei 343/85, de 22-Ago, na redacção do presente diploma, pelo DEC LEI.228/91.21.06.1991.MF,
+    DR.IS-A [140] de 21.06.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1991-648745
+  date: '1991-06-21'
+- type: cites
+  target: pt:dre:181030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625670:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528469:por
+  label: Rectificado o art. 2.º do presente diploma, na parte em que alterou o art. 11.º-B do Dec Lei 342/85 de 22-Ago, aditado
+    pelo Dec Lei 135/89 de 27-Abr, pelo(a) Declaração - Diário da República n.º 149/1990, 1º Suplemento, Série I de 1990-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528469
+  date: '1990-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:19Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +138,26 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 30.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º e 6.º-B do [Decreto-Lei n.º 343/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1985-181031), de 22 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 164/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1989-611104), de 15 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º e 6.º-B do [Decreto-Lei n.º 343/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1985-181031), de 22 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 164/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1989-611104), de 15 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 2.º A taxa do imposto é de 18$00 por litro.
+Art. 2.º A taxa do imposto é de 18$00 por litro.
 
-###### Art. 6.º-B. É aplicável ao imposto especial sobre o consumo de cerveja o disposto nos artigos 82.º, 83.º-A, 84.º, 85.º, 86.º, 88.º, 89.º, 91.º e 92.º do Código do Imposto sobre o Valor Acrescentado, com as necessárias adaptações.
+Art. 6.º-B. É aplicável ao imposto especial sobre o consumo de cerveja o disposto nos artigos 82.º, 83.º-A, 84.º, 85.º, 86.º, 88.º, 89.º, 91.º e 92.º do Código do Imposto sobre o Valor Acrescentado, com as necessárias adaptações.
 
-###### Art. 2.º O artigo 11.º-B do [Decreto-Lei n.º 342/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1985-181030), de 22 de Agosto, aditado pelo [Decreto-Lei n.º 135/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1989-625670), de 27 de Abril, passa a ter a seguinte redacção:
+Art. 2.º O artigo 11.º-B do [Decreto-Lei n.º 342/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1985-181030), de 22 de Agosto, aditado pelo [Decreto-Lei n.º 135/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1989-625670), de 27 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 11.º-B. É aplicável ao imposto especial sobre o consumo de bebidas alcoólicas o disposto nos artigos 82.º, 83.º-A, 84.º, 85.º, 86.º, 88.º, 89.º, 91.º e 92.º do Código do Imposto sobre o Valor Acrescentado, com as necessárias adaptações.
+Art. 11.º-B. É aplicável ao imposto especial sobre o consumo de bebidas alcoólicas o disposto nos artigos 82.º, 83.º-A, 84.º, 85.º, 86.º, 88.º, 89.º, 91.º e 92.º do Código do Imposto sobre o Valor Acrescentado, com as necessárias adaptações.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 10 de Maio de 1990.**
+Promulgado em 10 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Maio de 1990.**
+Referendado em 14 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

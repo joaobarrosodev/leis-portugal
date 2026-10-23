@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/17900/31943195.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1990-573134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 680c2f8b57bd8187c8c1a7dc9318087efd686c50a1786e959e1fe038e7db9260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7d5406f80bd12ad990f857079767389e30e33467bff4206f98318581df65c9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador Liquidatário
+- Comissão Liquidatária
+- Empresa Pública de Parques Industriais
+- Extinção de Empresas
+- Liquidação de Sociedades
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:20Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +125,15 @@ Tendo em conta o disposto nos artigos 37.º, 38.º e 41.º a 45.º do [Decreto-L
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É renovado, com as modificações resultantes do presente diploma, o acto de extinção da EPPI - Empresa Pública do Parques Industriais, E. P., que foi objecto do [Decreto-Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1986-193621), de 4 de Março, alterado pela [Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/lei/39-1986-220136), de 8 de Setembro.
+Artigo 1.º É renovado, com as modificações resultantes do presente diploma, o acto de extinção da EPPI - Empresa Pública do Parques Industriais, E. P., que foi objecto do [Decreto-Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1986-193621), de 4 de Março, alterado pela [Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/lei/39-1986-220136), de 8 de Setembro.
 
-###### Art. 2.º - 1 - A extinção da EPPI é reportada à data de 5 de Março de 1986, sem prejuízo dos direitos que sejam reconhecidos no processo legal de execução do acórdão do Supremo Tribunal Administrativo que anulou o acto de extinção renovado pelo presente diploma.
+Art. 2.º - 1 - A extinção da EPPI é reportada à data de 5 de Março de 1986, sem prejuízo dos direitos que sejam reconhecidos no processo legal de execução do acórdão do Supremo Tribunal Administrativo que anulou o acto de extinção renovado pelo presente diploma.
 
 2 - Quanto aos efeitos previstos na [Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/lei/39-1986-220136), a renovação da medida extintiva, com a ressalva constante do número anterior, reporta-se ao dia subsequente ao da sua publicação.
 
-###### Art. 3.º A EPPI mantém a sua personalidade jurídica até à conclusão, com aprovação final das contas, do processo de liquidação iniciado ao abrigo do [Decreto-Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1986-193621), aproveitando-se, nos seus precisos termos, todos os actos e negócios que tiverem lugar no âmbito do referido processo de liquidação, incluindo os acordos de rescisão dos contratos de trabalho e as compensações neles atribuídas aos trabalhadores da EPPI.
+Art. 3.º A EPPI mantém a sua personalidade jurídica até à conclusão, com aprovação final das contas, do processo de liquidação iniciado ao abrigo do [Decreto-Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1986-193621), aproveitando-se, nos seus precisos termos, todos os actos e negócios que tiverem lugar no âmbito do referido processo de liquidação, incluindo os acordos de rescisão dos contratos de trabalho e as compensações neles atribuídas aos trabalhadores da EPPI.
 
-###### Art. 4.º Ficam salvaguardados, tanto no que respeita ao exercício das competências que lhe forem conferidas e correspondente responsabilidade como no que se refere aos direitos adquiridos pela titularidade dos seus cargos e pelo desempenho das funções respectivas, os efeitos decorrentes das nomeações, que para tanto se renovam, dos anteriores liquidatários relativamente aos seguintes períodos:
+Art. 4.º Ficam salvaguardados, tanto no que respeita ao exercício das competências que lhe forem conferidas e correspondente responsabilidade como no que se refere aos direitos adquiridos pela titularidade dos seus cargos e pelo desempenho das funções respectivas, os efeitos decorrentes das nomeações, que para tanto se renovam, dos anteriores liquidatários relativamente aos seguintes períodos:
 
 a) Entre 5 de Março de 1986 e até 23 de Janeiro de 1990, o licenciado Marcelino Walter Guerreiro;
 
@@ -122,18 +145,18 @@ d) Entre 23 de Setembro de 1986 e 20 de Setembro de 1988, como vogal, a licencia
 
 e) Entre 19 de Janeiro de 1990 e até 23 de Janeiro de 1990, como vogal, o licenciado António Dias Nabais.
 
-###### Art. 5.º - 1 - É nomeado administrador liquidatário o licenciado António Dias Nabais, com efeitos reprotados a 23 de Janeiro de 1990.
+Art. 5.º - 1 - É nomeado administrador liquidatário o licenciado António Dias Nabais, com efeitos reprotados a 23 de Janeiro de 1990.
 
 2 - O administrador liquidatário exerce as competências previstas no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e, bem assim, aquelas que foram conferidas pelo [Decreto-Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1986-193621), com as alterações introduzidas pela [Lei n.º 39/86](https://diariodarepublica.pt/dr/detalhe/lei/39-1986-220136).
 
 Visto e aprovado em Conselho de Ministros de 10 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 24 de Julho de 1990.**
+Promulgado em 24 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Julho de 1990.**
+Referendado em 26 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

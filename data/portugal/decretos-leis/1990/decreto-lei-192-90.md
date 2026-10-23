@@ -46,40 +46,250 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1990-575148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d147ec4af3288cba74b13c4f2f659383d12e48259f3f353bb57e78a06789fb85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c5e621ddcc5328ea8b44be9e682607549c7583f5ab7dec860bb66db70dbb8e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Cobrança de Impostos
+- Código do IRC
+- Depósito Bancário
+- Divisa
+- Doação
+- Empresa Estrangeira
+- Estatuto dos Benefícios Fiscais
+- Indústria da Construção
+- Instituição de Crédito
+- IRC
+- Isenção Fiscal
+- Pessoa Coletiva de Utilidade Pública
+- Retenção na Fonte
+- SGPS
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:66022084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:691432:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.34/91.27.07.1991.AR, DR.IS-A [171] de 27.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-1991-691432
+  date: '1991-07-27'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.2/92.09.03.1992.AR, DR.IS-A [57-Supl] de 09.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:628039:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.65/93.10.03.1993.PCM, DR.IS-A [58] de 10.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1993-628039
+  date: '1993-03-10'
+- type: amended_by
+  target: pt:dre:302276:por
+  label: "Alterado o art. 102º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.166/94.09.06.1994.MF, DR.IS-A [133] de 09.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1994-302276
+  date: '1994-06-09'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os art.s 9º, 88º e 95º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.39-B/94.27.12.1994.AR, DR.IS-A [298-2ºSupl] de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os art.s 9º e 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.10-B/96.23.03.1996.AR, DR.IS-A [71-2ºSupl] de 23.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Altera a redacção do art. 4.º, pela LEI.52-C/96.1996.12.27.AR DR.IS-A [299] 3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:276219:por
+  label: "Alterado o art. 36º-A do Estatuto dos Benefícios Fiscais, aprovado pelo Dec-Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.257-B/96.31.12.1996.MF, DR.IS-A [302-Supl] de 31.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-b-1996-276219
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.127-B/97.20.12.1997.AR, DR.IS-A [293-2ºSupl] de 20.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:229284:por
+  label: "Alterado o art. 76º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.25/98.10.02.1998.MF, DR.IS-A [34] de 10.02.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterada a redacção do art. 4.º, pela LEI.87-B/98.1998.12.31.AR DR.IS-A [301]5.ºSUPL (OE 1999 - Art. 31.º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 4º pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 9º e 76º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 40º e 88º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os art.s 88º e 102º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterado o art. 88º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.80/2003.23.04.2003.MF, DR.IS-A [95] de 23.04.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 40.º do Código do IRC, aprovado pelo Dec Lei n.º 442-B/88, de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, e com a redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, revisto e republicado pelo Dec\
+    \ Lei 198/2001, de 03-Jul, na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:456221:por
+  label: Alterado o art. 40º-A do Dec Lei 215/89, de 01-Jul, na redacção do presente diploma, pelo DEC LEI.108/2008.26.06.2008.MFAP,
+    DR.IS [122] de 26.06.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2008-456221
+  date: '2008-06-26'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 9.º, 40.º e 88.º, do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl]\
+    \ de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 18.º, 28.º e 40.º do Código do IRC, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 88.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 76º, 88º e 95º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo\
+    \ Dec Lei 442-B/88, de 30-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, e republicado pelo Dec Lei 159/2009,\
+    \ de 13-Jul, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 88º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 18.º, 28.º, 40.º, 76.º, 88.º e 95.º do Código do IRC, aprovado pelo Dec Lei 442-B/88
+    de 30-nov, alterado pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Dada nova redação ao art. 45.º - anterior art. 40.º-A, renumerado de acordo à tabela de correspondência anexa ao
+    Dec Lei 108/2008 de 26-jun, do Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Dec lei 215/89 de 01-jul, alterado
+    pelo presente diploma, pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:644091:por
+  label: Rectificado o art. 2º do presente diploma, na parte que altera os art.s 76º e 102º do Código do IRC aprovado pelo
+    Dec Lei 442-B/88, de 30-Nov, pela DECL.DD3213.1990.07.11.PCM, DR.IS [175]Supl de 31/Jul/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-644091
+  date: '1990-07-11'
+- type: repealed_by
+  target: pt:dre:212015:por
+  label: "Revogado o art. 4º pela LEI.30-G/2000.2000.12.29.AR DR.IS-A [299]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:00Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +310,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelos n.os 2 a 5 do artigo 25.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 9.º do [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 9.º do [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 9.º — Obras de carácter plurianual
 
@@ -108,7 +318,7 @@ No uso da autorização legislativa concedida pelos n.os 2 a 5 do artigo 25.º d
 
 2 - Relativamente às obras plurianuais mencionadas na alínea a) do n.º 2 do artigo 19.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas em curso à data da entrada em vigor do mesmo Código, pode continuar a aplicar-se, até à sua conclusão, ou durante os primeiros cinco anos de vigência do Código, se aquela conclusão, ocorrer posteriormente, o critério do encerramento da obra, nos termos definidos naquele artigo.
 
-###### Art. 2.º Os artigos 9.º, 18.º, 28.º, 35.º, 40.º, 76.º, 88.º, 95.º e 102.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 9.º, 18.º, 28.º, 35.º, 40.º, 76.º, 88.º, 95.º e 102.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 9.º — Pessoas colectivas de utilidade pública e de solidariedade social
 
@@ -216,7 +426,7 @@ Não haverá lugar a cobrança de imposto liquidado pelo serviço fiscal compete
 
 Os serviços, estabelecimentos e organismos do Estado, das regiões autónomas e das autarquias locais, incluindo os dotados de autonomia administrativa ou financeira e ainda que personalizados, as associações e federações de municípios, bem como outras pessoas colectivas de direito público, as pessoas colectivas de utilidade pública, as instituições particulares de solidariedade social e as empresas públicas deverão, por força do dever público de cooperação com a administração fiscal, remeter à direcção de finanças da respectiva área, até ao último dia do mês de Fevereiro de cada ano, em impresso de modelo aprovado pelo Ministério das Finanças, informação sobre a adjudicação de obras ou fornecimentos e aquisição de qualquer bem ou serviços a pessoas ou entidades sujeitas a IRC.
 
-###### Art. 3.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os artigos 36.º-A e 40.º-A, com a seguinte redacção:
+Art. 3.º São aditados ao Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, os artigos 36.º-A e 40.º-A, com a seguinte redacção:
 
 ###### Artigo 36.º-A — Empréstimos de instituições financeiras não residentes
 
@@ -226,16 +436,16 @@ Ficam isentos de IRC os juros de empréstimos concedidos por instituições fina
 
 Ficam isentos de IRC os juros de depósitos a prazo em moeda estrangeira efectuados em estabelecimentos legalmente autorizados a recebê-los, por instituições de crédito não residentes.
 
-###### Art. 4.º As despesas confidenciais ou não documentadas efectuadas no âmbito do exercício de actividades comerciais, industriais ou agrícolas por sujeitos passivos de IRS que possuam ou devam possuir contabilidade organizada ou por sujeitos passivos de IRC não enquadrados nos artigos 8.º e 9.º do respectivo Código são tributadas autonomamente em IRS ou IRC, conforme os casos, a uma taxa de 10% sem prejuízo do disposto na alínea h) do n.º 1 do artigo 41.º do CIRC.
+Art. 4.º As despesas confidenciais ou não documentadas efectuadas no âmbito do exercício de actividades comerciais, industriais ou agrícolas por sujeitos passivos de IRS que possuam ou devam possuir contabilidade organizada ou por sujeitos passivos de IRC não enquadrados nos artigos 8.º e 9.º do respectivo Código são tributadas autonomamente em IRS ou IRC, conforme os casos, a uma taxa de 10% sem prejuízo do disposto na alínea h) do n.º 1 do artigo 41.º do CIRC.
 
 Visto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 25 de Maio de 1990.**
+Promulgado em 25 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1990.**
+Referendado em 31 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

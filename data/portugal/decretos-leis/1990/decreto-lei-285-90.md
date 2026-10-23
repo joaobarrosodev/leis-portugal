@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21600/38413847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1990-557627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0f6b385f80e60cdfdf113e8a715ab8a6f1a49362e8c969c5f750904278d2c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 867cd6528799c5b8e2e31b30bd183ee7a824660d91d9ba2d96cee58e7510973e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Combustível
+- Concurso Público
 relationships:
 - type: amended_by
   target: pt:dre:217373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658906:por
+  label: "Aditado o anexo I, pelo DEC LEI.219/91.17.06.1991.MIE, DR.IS-A [136] de 17.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1991-658906
+  date: '1991-06-17'
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557626:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:247181:por
+  label: Rectificado pela DECL.DD3060.1990.12.11.PCM, DR.IS [300]5ºSupl de 31/Dez/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-247181
+  date: '1990-12-06'
+- type: repealed_by
+  target: pt:dre:217373:por
+  label: "REVOGADO PELO DEC LEI 274-C/93 DE 04-AGO DR.IS-A [181]2SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-c-1993-217373
+  date: '1993-08-04'
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:05Z'
   warnings: []
   errors: []
 ---
@@ -101,23 +126,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovadas as bases da concessão de exploração, em regime de serviço público, do terminal de gás natural liquefeito (GNL) e gasoduto, anexas ao presente diploma e que dele fazem parte integrante.
+Artigo 1.º São aprovadas as bases da concessão de exploração, em regime de serviço público, do terminal de gás natural liquefeito (GNL) e gasoduto, anexas ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 2.º Fica o Ministro da Indústria e Energia autorizado a determinar a abertura do concurso público para a adjudicação da concessão referida no artigo 1.º
+Art. 2.º Fica o Ministro da Indústria e Energia autorizado a determinar a abertura do concurso público para a adjudicação da concessão referida no artigo 1.º
 
-###### Art. 3.º A concessão rege-se pelo presente diploma, pelo que regulamenta o respectivo processo de concurso, e pelo [Decreto-Lei n.º 374/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1989-549405), de 25 de Outubro.
+Art. 3.º A concessão rege-se pelo presente diploma, pelo que regulamenta o respectivo processo de concurso, e pelo [Decreto-Lei n.º 374/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1989-549405), de 25 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1990. - Joaquim Fernando Nogueira - José Oliveira Costa - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral.
 
-**Promulgado em 6 de Agosto de 1990.**
+Promulgado em 6 de Agosto de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Bases da concessão de exploração, em regime de serviço público, do terminal de gás natural liquefeito e gasoduto (anexas ao Decreto-Lei n.º 285/90, de 18 de Setembro).
 
@@ -125,7 +150,9 @@ Bases da concessão de exploração, em regime de serviço público, do terminal
 
 #### SECÇÃO I — Objecto, âmbito, regime e prazo
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 1 - A concessão tem por objecto a exploração, em regime de serviço público, de um terminal de recepção e regasificação de gás natural liquefeito (GNL) e de um gasoduto de transporte em alta pressão de gás natural (GN) entre Setúbal e Braga, designados abreviadamente por «Terminal de GNL» e «Gasoduto» tendo em vista o abastecimento de GN nas áreas adiante definidas, nos termos das presentes bases e demais legislação aplicável.
 
@@ -143,7 +170,9 @@ c) A manutenção e a reparação das instalações do terminal do GNL e gasodut
 
 5 - A atribuição da concessão determina a obrigação para a concessionária da construção das infra-estruturas necessárias à exploração, nos termos do presente diploma e do [Decreto-Lei n.º 284/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1990-557626), de 18 de Setembro.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - O exercício da concessão compreende o fornecimento de GN às entidades concessionárias das redes de distribuição regional e aos grandes consumidores directos, nas áreas abrangidas pela concessão e conforme o estipulado nos respectivos contratos de fornecimento.
 
@@ -189,13 +218,17 @@ b) Aqueles que consumam quantidades de GN superiores a 2 milhões de normais met
 
 7 - A concessionária poderá exercer actividades complementares das que constituem o objecto da concessão, mediante autorização do Governo.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A actividade que constitui o objecto da concessão é exercida em regime de exclusivo.
 
 2 - O regime de exclusivo, no que diz respeito ao aprovisionamento, não exclui a possibilidade, prevista no n.º 3 da base I, de utilização das infra-estruturas, mediante o pagamento de um preço, por importação directa de gás pelas entidades referidas no n.º 1 da base II, nas condições definidas no contrato ou impostas por lei.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - A concessão durará pelo prazo de 35 anos contados da data da celebração do respectivo contrato, nele se incluindo o tempo dispendido com a construção das infra-estruturas.
 
@@ -207,7 +240,9 @@ b) Aqueles que consumam quantidades de GN superiores a 2 milhões de normais met
 
 #### SECÇÃO II — Infra-estruturas
 
-###### Base V — Caracterização das infra-estruturas
+Base V
+
+Caracterização das infra-estruturas
 
 As infra-estruturas relativas à exploração compreendem:
 
@@ -215,27 +250,37 @@ a) O Terminal de GNL, situado na península da Mitrena, Município de Setúbal, 
 
 b) O Gasoduto, integrado pelo conjunto de todas as tubagens, respectivas antenas, estações de compressão e equipamentos de controlo, regulação e medida, necessários à operação do sistema de transporte de GN em alta pressão, a montante dos postos de redução de pressão de 1.ª classe nos quais se concretiza o fornecimento de GN aos consumidores referidos na base II.
 
-###### Base VI — Dimensionamento das infra-estruturas
+Base VI
+
+Dimensionamento das infra-estruturas
 
 A concessionária dimensionará as infra-estruturas tendo em conta as condições exigíveis à satisfação dos consumos nas áreas abrangidas pela concessão, com consideração da expansão previsional do mercado de gás.
 
 #### SECÇÃO II — Disposições genéricas
 
-###### Base VII — Realização dos projectos
+Base VII
+
+Realização dos projectos
 
 1 - Compete à concessionária realizar os estudos e projectos de engenharia necessários à definição detalhada de todos os aspectos técnicos relativos à realização do empreendimento.
 
 2 - Os custos resultantes do eventual recurso à utilização de tecnologias, direitos e serviços de terceiros serão integralmente suportados pela concessionária.
 
-###### Base VIII — Financiamento do empreendimento
+Base VIII
+
+Financiamento do empreendimento
 
 A concessionária adoptará e executará, tanto na construção das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do contrato celebrado nos termos do artigo 36.º do [Decreto-Lei n.º 284/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1990-557626), de 18 de Setembro.
 
-###### Base IX — Prestação de dados
+Base IX
+
+Prestação de dados
 
 A concessionária fornecerá prontamente ao Estado os elementos necessários à resposta adequada a quaisquer solicitações da CEE no âmbito do projecto em que se enquadra a presente concessão.
 
-###### Base X — Características do gás
+Base X
+
+Características do gás
 
 1 - O gás a enviar à rede de transporte em alta pressão deve pertencer à 2.ª família, ser intermutável com o da rede europeia de GN e apresentar um índice de Wobbe compreendido entre 43,4MJ/m3 e 52,4MJ/m3, calculado, nas condições de referência, em relação ao poder calorífico inferior.
 
@@ -271,19 +316,25 @@ d) Ser odorizado por forma que qualquer fuga possa ser detectada com facilidade 
 
 e) Manter um grau de humidade adequado à obtenção de uma estanquidade perfeita quando nas tubagens existam juntas sensíveis à humidade.
 
-###### Base XI — Título
+Base XI
+
+## Título
 
 1 - A concessionária detém a propriedade das infra-estruturas necessárias a prestação do serviço público concedido até ao termo do prazo da concessão.
 
 2 - A concessionária não pode, sem prévia autorização do Governo, onerar, por qualquer forma, a concessão ou qualquer dos bens e direitos que a integram.
 
-###### Base XII — Fiscalização
+Base XII
+
+Fiscalização
 
 1 - O Estado poderá, através da Direcção-Geral de Energia, fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
 2 - O pessoal da fiscalização dispõe de livre acesso, no exercício das suas funções, a todas as infra-estruturas da concessão e fica coberto por seguro a constituir pela concessionária.
 
-###### Base XIII — Regime de preços
+Base XIII
+
+Regime de preços
 
 1 - Os preços de venda do GN a praticar pela concessionária ficam submetidos ao regime especial estabelecido nos números seguintes.
 
@@ -299,7 +350,9 @@ e) Manter um grau de humidade adequado à obtenção de uma estanquidade perfeit
 
 7 - O preço, bem como as suas ulteriores alterações, pela utilização das infra-estruturas por importadores directos de gás, previstas nas presentes bases, será negociado entre a concessionária e o importador e apresentado ao director-geral de Energia, o qual, em caso de desacordo ou de o preço proposto se afastar sensivelmente dos preços correntes praticados pela concessionária, submeterá a matéria ao Ministro da Indústria e Energia para fixação do preço ou homologará o preço proposto se tais circunstâncias se não verificarem.
 
-###### Base XIV — Revisão dos preços
+Base XIV
+
+Revisão dos preços
 
 1 - Os preços serão revistos de acordo com um mecanismo que contemplará:
 
@@ -321,11 +374,15 @@ III) A variação do preço do GNL CIF Setúbal.
 
 3 - As revisões dos preços de venda, bem como os elementos justificativos para eventuais alterações, devem ser previamente comunicados à Direcção-Geral de Energia, reservando-se a esta a faculdade de se opor a essas alterações se os não considerar justificados perante os elementos de que dispõe.
 
-###### Base XV — Suspensão de fornecimentos
+Base XV
+
+Suspensão de fornecimentos
 
 Em caso de mora nos pagamentos pelos consumidores que se prolongue para além de 60 dias, poderá a concessionária suspender o respectivo fornecimento até que se encontre pago o débito correspondente.
 
-###### Base XVI — Responsabilidade civil
+Base XVI
+
+Responsabilidade civil
 
 1 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão são utilizadas no exclusivo interesse da concessionária.
 
@@ -335,35 +392,49 @@ Em caso de mora nos pagamentos pelos consumidores que se prolongue para além de
 
 ##### SUBSECÇÃO I — Direitos
 
-###### Base XVII — Utilização do domínio público
+Base XVII
+
+Utilização do domínio público
 
 A concessionária terá o direito de utilizar o domínio público para efeitos de implantação e exploração das infra-estruturas da concessão, com respeito da legislação aplicável.
 
-###### Base XVIII — Servidões e expropriações
+Base XVIII
+
+Servidões e expropriações
 
 A concessionária poderá constituir as servidões e requerer as expropriações necessárias a implantação e exploração das infra-estruturas, nos termos do [Decreto-Lei n.º 374/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1989-549405), de 25 de Outubro, e da demais legislação aplicável.
 
-###### Base XIX — Gestão das instalações
+Base XIX
+
+Gestão das instalações
 
 1 - Compete exclusivamente à concessionária a gestão de todas as infra-estruturas necessárias à prestação do serviço público concedido.
 
 2 - A gestão das instalações deverá ser realizada com observância das melhores condições de segurança, tendo em vista a garantia do seu eficiente funcionamento e o abastecimento contínuo da área geográfica abrangida pela concessão.
 
-###### Base XX — Incumprimento pelo concedente
+Base XX
+
+Incumprimento pelo concedente
 
 A violação pelo concedente das obrigações decorrentes do presente contrato de concessão conferirá à concessionária direito a indemnização e rescisão.
 
 ##### SUBSECÇÃO II — Limitações ao exercício de direitos
 
-###### Base XXI — Aprovisionamento
+Base XXI
+
+Aprovisionamento
 
 O Governo, pelo Conselho de Ministros, reserva-se o direito de, mediante justa indemnização à concessionária pelos prejuízos que lhe cause, impor condicionantes em matéria de aprovisionamento por razões de interesse nacional.
 
-###### Base XXII — Participação da concessionária no capital das entidades concessionárias de redes de distribuição regional
+Base XXII
+
+Participação da concessionária no capital das entidades concessionárias de redes de distribuição regional
 
 A concessionária, bem como os seus sócios, poderão participar no capital social de qualquer das entidades concessionárias das redes de distribuição regional atribuídas por concurso, não podendo, porém, a participação total exceder 24% nem conferir nunca uma posição dominante nesse capital social.
 
-###### Base XXIII — Transmissão da concessão
+Base XXIII
+
+Transmissão da concessão
 
 1 - A concessionária não pode, sem prévia autorização do Governo, transmitir, por qualquer forma, ou subconceder a concessão.
 
@@ -371,7 +442,9 @@ A concessionária, bem como os seus sócios, poderão participar no capital soci
 
 #### SECÇÃO V — Obrigações da concessionária
 
-###### Base XXIV — Caução
+Base XXIV
+
+Caução
 
 1 - Para garantia do cumprimento dos deveres contratuais emergentes da concessão deverá a concessionária prestar uma caução, que compreenderá duas partes:
 
@@ -385,7 +458,9 @@ b) Um montante variável, devido a partir do início da exploração, correspond
 
 4 - A caução só poderá ser levantada após o decurso de um ano sobre o termo da concessão.
 
-###### Base XXV — Manutenção das infra-estruturas
+Base XXV
+
+Manutenção das infra-estruturas
 
 1 - A concessionária obriga-se a manter, a expensas suas e durante todo o prazo de vigência da concessão, as infra-estruturas necessárias à exploração em bom estado de funcionamento, conservação e segurança, efectuando, para tanto, as necessárias reparações e renovações, por forma que as mesmas possam reverter para o Estado, no termo da concessão, em adequadas condições de funcionamento.
 
@@ -393,29 +468,39 @@ b) Um montante variável, devido a partir do início da exploração, correspond
 
 3 - Mediante prévia autorização do Ministro da Indústria e Energia, poderá o fundo ser investido em novas aquisições ou ter outra aplicação reputada útil para o objecto da concessão.
 
-###### Base XXVI — Reserva estratégica
+Base XXVI
+
+Reserva estratégica
 
 1 - A concessionária obriga-se a manter armazenado permanentemente em território nacional, como reserva estratégica, um quantitativo de GN, ou o equivalente em GNL, igual a 20 vezes o consumo médio diário nas áreas abrangidas pela concessão no ano anterior.
 
 2 - O Governo, mediante justa indemnização à concessionária, poderá exigir-lhe a constituição de uma reserva estratégica quantitativamente superior à referida no número anterior.
 
-###### Base XXVII — Informações sobre quantidades e preços
+Base XXVII
+
+Informações sobre quantidades e preços
 
 1 - A concessionária deverá enviar trimestralmente ao director-geral de Energia os elementos estatísticos referentes a quantidades e preços do gás que tiver adquirido no trimestre anterior.
 
 2 - Até ao fim dos meses de Junho e Dezembro de cada ano civil, a concessionária deverá enviar ao mesmo departamento uma previsão das quantidades e preços do gás que irá adquirir no semestre seguinte.
 
-###### Base XXVIII — Direitos privativos de propriedade industrial
+Base XXVIII
+
+Direitos privativos de propriedade industrial
 
 A concessionária deverá respeitar, no exercício da sua actividade, as normas nacionais e internacionais relativas à tutela e salvaguarda dos direitos privativos de propriedade industrial, sendo da sua exclusiva responsabilidade os efeitos decorrentes da violação desses preceitos.
 
-###### Base XXIX — Instituição de centros de formação
+Base XXIX
+
+Instituição de centros de formação
 
 A concessionária instituirá em Portugal centros de formação especialmente dedicados às tecnologias de liquefacção, armazenagem, transporte e utilização final do GN, destinados à investigação e à formação de pessoal.
 
 #### SECÇÃO VI — Sanções
 
-###### Base XXX — Multas contratuais
+Base XXX
+
+Multas contratuais
 
 1 - Pelo incumprimento de obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de 5000000$00 a 100000000$00, segundo a sua gravidade, a qual será aferida em função dos riscos para a segurança do sistema e de terceiros e dos prejuízos resultantes.
 
@@ -429,7 +514,9 @@ A concessionária instituirá em Portugal centros de formação especialmente de
 
 6 - O pagamento das multas previstas na presente base não isenta a concessionária da responsabilidade criminal, contra-ordenacional e civil em que incorrer.
 
-###### Base XXXI — Sequestro
+Base XXXI
+
+Sequestro
 
 1 - O Estado poderá tomar conta da exploração do serviço concedido quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento, susceptíveis de comprometer a regularidade da exploração.
 
@@ -441,11 +528,15 @@ A concessionária instituirá em Portugal centros de formação especialmente de
 
 #### SECÇÃO VII — Modificação e extinção da concessão
 
-###### Base XXXII — Efeitos da subconcessão
+Base XXXII
+
+Efeitos da subconcessão
 
 No caso de subconcessão, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXXIII — Rescisão do contrato
+Base XXXIII
+
+Rescisão do contrato
 
 1 - O Ministro da Indústria e Energia poderá dar por finda a concessão, mediante a rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -473,13 +564,17 @@ h) Violação grave das cláusulas do respectivo contrato.
 
 5 - Em caso de rescisão, bens integrantes da concessão revertem a favor do Estado, sem direito a qualquer indemnização.
 
-###### Base XXXIV — Termo do prazo de concessão
+Base XXXIV
+
+Termo do prazo de concessão
 
 1 - No termo da concessão, as infra-estruturas revertem para o Estado, livres de quaisquer ónus ou encargos, salvo aqueles que o Governo tenha autorizado, e o concessionário terá direito a indemnização nos termos do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 374/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1989-549405), de 25 de Outubro.
 
 2 - O Estado entrará na posse dos respectivos bens, sem dependência de qualquer outra formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados também os representantes da concessionária.
 
-###### Base XXXV — Resgate da concessão
+Base XXXV
+
+Resgate da concessão
 
 1 - O Estado poderá resgatar a concessão sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos 25 anos a partir da data de início do respectivo prazo, mediante aviso feito à concessionária, por carta registada com aviso de recepção, com, pelo menos, seis meses de antecedência.
 
@@ -495,29 +590,39 @@ h) Violação grave das cláusulas do respectivo contrato.
 
 ### CAPÍTULO II — Construção das infra-estruturas
 
-###### Base XXXVI — Responsabilidade pela construção
+Base XXXVI
+
+Responsabilidade pela construção
 
 1 - Constitui encargo e é da responsabilidade da concessionária o projecto e construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde, perante o Estado, pelos eventuais defeitos da construção e dos equipamentos.
 
-###### Base XXXVII — Aprovação dos projectos
+Base XXXVII
+
+Aprovação dos projectos
 
 1 - Os projectos de construção das infra-estruturas exigem aprovação prévia do Ministro da Indústria e Energia, para verificação da sua conformidade quer com os compromissos assumidos pela concessionária no contrato de concessão, quer com as políticas de abastecimento energético, de defesa nacional, de segurança das populações e do ambiente e com as disposições legais aplicáveis.
 
 2 - Os projectos deverão ser elaborados com respeito das normas, códigos e mais regulamentação vigentes em Portugal.
 
-###### Base XXXVIII — Integração das infra-estruturas na concessão
+Base XXXVIII
+
+Integração das infra-estruturas na concessão
 
 As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos previstos na base anterior.
 
-###### Base XXXIX — Implantação das infra-estruturas
+Base XXXIX
+
+Implantação das infra-estruturas
 
 1 - A construção das infra-estruturas compreende a aquisição, por via negocial ou por expropriação, dos terrenos necessários à sua implantação, de harmonia com o disposto no artigo 13.º do [Decreto-Lei n.º 374/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1989-549405), de 25 de Outubro.
 
 2 - Os bens dominiais necessários à implantação do Terminal de GNL serão disponibilizados pelo Estado à concessionária.
 
-###### Base XL — Regras a observar na construção
+Base XL
+
+Regras a observar na construção
 
 1 - A concessionária assegurará que os trabalhos sejam efectuados nos prazos fixados.
 
@@ -525,17 +630,23 @@ As infra-estruturas consideram-se integradas na concessão, para todos os efeito
 
 3 - Durante toda a fase de construção do Terminal de GNL e Gasoduto, a concessionária enviará trimestralmente ao Ministro da Indústria e Energia um relatório sobre o estado de avanço das obras.
 
-###### Base XLI — Fundos comunitários
+Base XLI
+
+Fundos comunitários
 
 O Governo disponibilizará à concessionária fundos FEDER, enquadrados no Programa REGEN, concedidos pela Comunidade Económica Europeia, para a cobertura parcial, até Dezembro de 1993, do montante dos investimentos necessários à construção do Terminal de GNL e Gasoduto.
 
-###### Base XLII — Caução
+Base XLII
+
+Caução
 
 1 - Para cumprimento das obrigações relativas à construção do Terminal de GNL e Gasoduto, a concessionária prestará, em simultâneo com a prevista na base XXIV, uma caução de montante correspondente ao valor total estimado da construção.
 
 2 - A caução prevista no número anterior será reduzida anualmente pelo valor correspondente à obra executada no ano anterior, após verificação pela Direcção-Geral de Energia.
 
-###### Base XLIII — Sanções
+Base XLIII
+
+Sanções
 
 1 - São aplicáveis ao incumprimento das obrigações relativas à construção as sanções previstas nas bases XXX, XXXI e XXXIII.
 
@@ -545,7 +656,9 @@ O Governo disponibilizará à concessionária fundos FEDER, enquadrados no Progr
 
 ### CAPÍTULO III — Contencioso
 
-###### Base XLIV — Arbitragem
+Base XLIV
+
+Arbitragem
 
 Nos litígios derivados do contrato de concessão poderá o Estado celebrar convenções de arbitragem.
 

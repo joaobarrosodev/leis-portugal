@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31
   number: '125'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2418-(2) a 2418-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/12501/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f0aacad91b7dba05a5a174a3cb05744fd1eef94bf03fea4998f92ff05caf494
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47b19b1bd76c9a1227ae24500f334169bdcb0662306a4a508da5d60acf9506dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cheque
+- Cobrança de Impostos
+- Contribuição Autárquica
+- Contribuições e Impostos
+- Definição de Competências
+- Direcção Geral das Contribuições e Impostos
+- Dívidas ao Estado
+- IRC
+- IRS
+- Madeira.região Autónoma
+- Pagamento
+- Pessoa Coletiva
+- Pessoa Singular
+- Restituição de Impostos
+- Transferência de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:164404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240382:por
+  label: "Alterado o art. 7.º do Dec Lei 492/88, de 30-Dez, alterado pelo presente diploma, pelo DEC LEI.124/2005.03.08.2005.MFAP,\
+    \ DR.IS-A [148] de 03.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2005-240382
+  date: '2005-08-03'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 12º do Dec Lei 492/88, de 30-dez , na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: cites
+  target: pt:dre:401895:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:30Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +132,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 1.º, 7.º, 10.º, 11.º, 12.º, 15.º, 16.º, 17.º, 18.º, 19.º, 26.º e 27.º do [Decreto-Lei n.º 492/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1988-401895), de 30 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 7.º, 10.º, 11.º, 12.º, 15.º, 16.º, 17.º, 18.º, 19.º, 26.º e 27.º do [Decreto-Lei n.º 492/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/492-1988-401895), de 30 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -228,12 +260,12 @@ No acto dos pagamentos previstos no presente diploma a entidade colaboradora na 
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - José Oliveira Costa - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 31 de Maio de 1990.**
+Promulgado em 31 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1990.**
+Referendado em 31 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

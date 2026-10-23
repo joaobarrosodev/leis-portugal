@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1990-574905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc205ee1d4306a916479a8380194c12e6c489e4c0e460515ad930b7574f4d42d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5f00ed4fba2050a8db5b2cfd2fbfec99456dd5532fe88794d7fb62af9ae4fca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Médica
+- Carreira Médica Hospitalar
+- Centro de Saúde
+- Coeficiente de Correcção
+- Despesas de Representação
+- Director Clínico
+- Médico
+- Pessoal Dirigente
+- Remuneração
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611728:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:29Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +125,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As remunerações a abonar mensalmente, segundo o regime de trabalho, aos médicos abrangidos pelo [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, são as constantes da tabela anexa ao presente diploma, de que faz parte integrante.
+Artigo 1.º As remunerações a abonar mensalmente, segundo o regime de trabalho, aos médicos abrangidos pelo [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, são as constantes da tabela anexa ao presente diploma, de que faz parte integrante.
 
-###### Art. 2.º Os valores percentuais de acréscimo sobre o vencimento base previstos no quadro anexo ao [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, e na tabela anexa ao [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, para as funções médico-hospitalares de direcção e chefia, não abrangidas pela nova lei de gestão hospitalar ou exercidas em estabelecimentos em que ainda não foi aplicada, são compensados mediante a aplicação da tabela de coeficientes de correcção para as remunerações acessórias percentuais aprovada pelo despacho conjunto do Primeiro-Ministro e do Ministro das Finanças publicado no Diário da República, 2.ª série, n.º 301, de 30 de Dezembro de 1988.
+Art. 2.º Os valores percentuais de acréscimo sobre o vencimento base previstos no quadro anexo ao [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, e na tabela anexa ao [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, para as funções médico-hospitalares de direcção e chefia, não abrangidas pela nova lei de gestão hospitalar ou exercidas em estabelecimentos em que ainda não foi aplicada, são compensados mediante a aplicação da tabela de coeficientes de correcção para as remunerações acessórias percentuais aprovada pelo despacho conjunto do Primeiro-Ministro e do Ministro das Finanças publicado no Diário da República, 2.ª série, n.º 301, de 30 de Dezembro de 1988.
 
-###### Art. 3.º O artigo 2.º do [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, passa a ter a seguinte redacção:
+Art. 3.º O artigo 2.º do [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - ...
 
@@ -119,22 +145,22 @@ b) O director clínico de um hospital com lotação de 200 ou menos camas, quant
 
 5 - Nos casos em que a remuneração do director clínico, incluindo o abono para despesas de representação, seja inferior ao limite mínimo previsto no número anterior, a mesma será elevada até àquele montante, de acordo com o princípio consagrado no artigo 6.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro.
 
-###### Art. 4.º É revogado o n.º 3 do artigo 11.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
+Art. 4.º É revogado o n.º 3 do artigo 11.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
 
-###### Art. 5.º O presente diploma produz efeitos desde a data prevista no artigo 18.º do [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio.
+Art. 5.º O presente diploma produz efeitos desde a data prevista no artigo 18.º do [Decreto-Lei n.º 150/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1989-611728), de 8 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Gomes de Carvalho.
 
-**Promulgado em 10 de Maio de 1990.**
+Promulgado em 10 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Maio de 1990.**
+Referendado em 14 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Tabela a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12200/23742375.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12200/23742375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12200/23742375.pdf)

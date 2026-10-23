@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14600/27092709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1990-575355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a2a2b0fe60ac3c5aaac6dc6e37006e9e730f931ce50a371384d975be320091b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b44b4e8ebd0308eef78527add4ba9fb6ef7b802095f3fb6139f4f53ec8fe43d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Administração Ultramarina
+- Aposentação
+- Desalojado
+- Funcionário Público
+- Funcionário Ultramarino
+- Pensão de Aposentação
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:220969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326735:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:25Z'
   warnings: []
   errors: []
 ---
@@ -103,20 +123,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É revogado o [Decreto-Lei n.º 363/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1986-220969), de 30 de Outubro.
+Artigo 1.º É revogado o [Decreto-Lei n.º 363/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1986-220969), de 30 de Outubro.
 
-###### Art. 2.º As pensões de aposentação previstas no [Decreto-Lei n.º 362/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1978-326735), de 28 de Novembro, requeridas até à data da entrada em vigor do presente diploma vencem-se a partir do mês seguinte ao da recepção do respectivo requerimento no serviço competente.
+Art. 2.º As pensões de aposentação previstas no [Decreto-Lei n.º 362/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1978-326735), de 28 de Novembro, requeridas até à data da entrada em vigor do presente diploma vencem-se a partir do mês seguinte ao da recepção do respectivo requerimento no serviço competente.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 de Novembro de 1990.
+Art. 3.º O presente diploma entra em vigor no dia 1 de Novembro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 11 de Junho de 1990.**
+Promulgado em 11 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1990.**
+Referendado em 18 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 238/1990, 1º Suplemento, Série I de 1990-10-15
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4286-(5) a 4286-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23801/00050023.pdf
 entry_into_force_dates: []
@@ -46,40 +46,394 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18a5d9c6c68f5c916cd152faf24f01b2b79b027c9cb8329f2743df6a37848d8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a1ca8500224402bedc3713ad7c5620565b711d474856db08b544f528d6f71db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Comércio
+- Crime
+- Direito Civil
+- Direito de Preferência
+- Fundo de Socorro Social
+- Habitação
+- Indústria
+- Instituto de Gestão Financeira da Segurança Social
+- Licença de Habitação
+- Prazo
+- Prédio Urbano
+- Processo Civil
+- Profissão Independente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358128:por
+  label: "Alterados os arts 30º, 31º, 69º, 78º, 89º e 99º e aditados os arts 81º-A, 89º-A, 89ºB, 89º-C e 89º-D pelo DEC LEI.278/93.1993.08.10.MOPTC\
+    \ DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1993-358128
+  date: '1993-08-10'
+- type: amended_by
+  target: pt:dre:255820:por
+  label: "ALTERADO, POR RATIFICAÇÃO, O ART.81º-A DO REGIME DO ARRENDAMENTO URBANO, NA REDACÇÃO INTRODUZIDA PELO ART. 2º DO\
+    \ DEC LEI 278/93, DE 10-AGO, PELA LEI.13/94.1994.05.11.AR, DR.IS-A [109], DE 11/MAI/1994.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-1994-255820
+  date: '1994-05-11'
+- type: amended_by
+  target: pt:dre:461217:por
+  label: "Alterado o art. 84º pelo DEC LEI.163/95.1995.07.13.MJ DR.IS-A [160]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1995-461217
+  date: '1995-07-13'
+- type: amended_by
+  target: pt:dre:575727:por
+  label: "Alterado o art. 12º e inserido no cap. III, os arts. 117º a 120º, passando os arts. 117º e 118º a ser os arts.121º\
+    \ e 122º, respectivamente e alterado ainda o art. 121º ao qual é aditado um cap. V, do qual faz parte um ar. 123º, pelo\
+    \ DEC LEI.257/95.1995.09.30.MOPTC, DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1995-575727
+  date: '1995-09-30'
+- type: amended_by
+  target: pt:dre:155052:por
+  label: "Declarada inconstitucional, com força obrigatória geral, a norma do art. 1º do Dec Lei 278/93 de 10-Ago, na parte\
+    \ em que elimina o nº 3 do art. 89º do Regime do Arrendamento Urbano, aprovado pelo presente diploma, pelo AC.410/97.1997.05.23.TCS\
+    \ (Proc. nº 153/97) DR.IS-A [155] de 08/Jul/1997\097\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/410-1997-155052
+  date: '1997-05-23'
+- type: amended_by
+  target: pt:dre:187079:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma do nº 1 do art. 36º do presente diploma,\
+    \ pelo AC.114/98.1998.02.04.TCS (Proc. nº 529/97) DR.IS-A [61] de 13/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/114-1998-187079
+  date: '1998-02-04'
+- type: amended_by
+  target: pt:dre:158379:por
+  label: "Declarada a inconstitucionalidade parcial, com força obrigatória geral, da norma do art. 69º, nº 1, al. a) do Regime\
+    \ do Arrendamento Urbano, aprovado pelo presente diploma, na redacção do Dec Lei 278/93 de 10-Ago, pelo AC.55/99.1999.01.26.TCS,\
+    \ Dr.IS-A [42] de 19/Fev/19998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/55-1999-158379
+  date: '1999-01-26'
+- type: amended_by
+  target: pt:dre:532447:por
+  label: "Alterado o art. 85º do presente diploma pela LEI.135/99.1999.08.29.AR.DR.IS-A (201)\01)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/135-1999-532447
+  date: '1999-08-29'
+- type: amended_by
+  target: pt:dre:514660:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória legal, da norma da al. b) do nº 1 do art. 107º do Regime\
+    \ do Arrendamento Urbano, pelo AC.97/2000.2000.02.16.TCS DR.IS-A [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/97-2000-514660
+  date: '2000-02-16'
+- type: amended_by
+  target: pt:dre:583855:por
+  label: "Alterados os arts. 7º, 9º. 111º, 115º e 122º do Regime do Arrendamento Urbano pelo DEC LEI.64-A/2000.2000.04.22.MJ,DR.IS-A\
+    \ [95]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-a-2000-583855
+  date: '2000-04-22'
+- type: amended_by
+  target: pt:dre:516973:por
+  label: "Alterados os arts. 12.º, 15.º, 16.º 18.º, 31.º, 32.º, 36.º, 38.º, 56.º, 64.º, 69.º, 71.º, 73.º e 107.º do Regime\
+    \ do Arrendamento Urbano, pelo DEC LEI.329-B/2000.2000.12.22.MES DR.IS-A [294]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-b-2000-516973
+  date: '2000-12-22'
+- type: amended_by
+  target: pt:dre:314191:por
+  label: "Aditada a al. f) ao nº 1 do art. 85º do o presente diploma,pela LEI.6/2001.2001.05.11.AR,DR.IS-A(109)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2001-314191
+  date: '2001-05-11'
+- type: amended_by
+  target: pt:dre:314194:por
+  label: "Alterado o art.85º do presente diploma, pela LEI.7/2001.2001.05.11.AR,DR.IS-A(109)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2001-314194
+  date: '2001-05-11'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 1051º do Código Civil aprovado pelo Dec lei 47344, de 25-Nov de 1966, com a redacção do presente\
+    \ diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterado, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), o art. 989º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961, com a redacção constante\
+    \ do presente diploma, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: cites
+  target: pt:dre:145832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679035:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689273:por
+  label: Rectificado pela DECL.DD808.30.11.1990.PCM, DR.IS [277-3ºSUPL] de 30.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689273
+  date: '1990-11-30'
+- type: repealed_by
+  target: pt:dre:353354:por
+  label: "Revogado o nº 1 do art. 44.º, mantido em vigor pelo nº 6 do art. 3.º do presente diploma, pelo DEC LEI.281/99.1999.07.26.MEPAT\
+    \ DR.IS-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-1999-353354
+  date: '1999-07-26'
+- type: repealed_by
+  target: pt:dre:693853:por
+  label: "Revogado o Regime do Arrendamento Urbano (RAU) , pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006, salvo\
+    \ nas matérias a que referem os arts. 26º e 28º daquela lei, que mantém em vigor, até à publicação de novos regimes, os\
+    \ regimes da renda condicionada e da renda apoiada, previstos nos arts. 77º e seguintes do RAU ora revogado.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: repealed_by
+  target: pt:dre:65949852:por
+  label: Revogados, a partir de 01.01.2015, os arts. 77.º a 81.º, na parte relativa ao regime de renda condicionada, do Regime
+    de Arrendamento Urbano aprovado pelo presente diploma, mantidos em vigor pelo art 61.º da Lei 6/2006 de 27-fev, pelo(a)
+    Lei n.º 80/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/80-2014-65949852
+  date: '2014-12-19'
+- type: repealed_by
+  target: pt:dre:65949853:por
+  label: Revogados a partir de 01.03.2015, na parte relativa ao regime de renda apoiada, os arts 77.º a 82.º do Regime do
+    Arrendamento Urbano, aprovado pelo presente diploma, mantidos em vigor por força do disposto no art. 61.º da Lei 6/2006,
+    de 27-fev pelo(a) Lei n.º 81/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/81-2014-65949853
+  date: '2014-12-19'
 article_structure:
   article_count: 134
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:50Z'
   warnings: []
   errors: []
 ---
@@ -306,15 +660,15 @@ As associações de inquilinos, constituídas nos termos do n.º 2 do artigo 12.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1990. - Joaquim Fernando Nogueira - Álvaro José Brilhante Laborinho Lúcio - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - José António Leite de Araújo.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Outubro de 1990.**
+Referendado em 15 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regime do Arrendamento Urbano
 

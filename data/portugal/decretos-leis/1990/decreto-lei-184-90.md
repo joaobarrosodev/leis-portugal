@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13000/24552457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1990-574931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d303b5c3ed66b18093654ac184c4c6fe571dd7225f5cef8a94808d9c7efee69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b09a4a101b754c3cea7104282cefb50cccfbb6572dc7b84227a0372d27bc2de2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos Vitivinícolas do DÃO
+- Direcção Regional de Agricultura da Beira Litoral
+- Direcção Regional de Agricultura do Ribatejo e Oeste
+- Leiria
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+- Quadro de Pessoal
+- Região Agrária
+- Transferência de Competências
+- Transferência de Pessoal
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 4
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:45Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +130,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Centro de Estudos Vitivinícolas do Dão é transferido para a Direcção Regional de Agricultura da Beira Litoral, adiante designada por DRABL, bem como os meios financeiros e as unidades de pessoal que lhe estão afectos.
+Artigo 1.º - 1 - O Centro de Estudos Vitivinícolas do Dão é transferido para a Direcção Regional de Agricultura da Beira Litoral, adiante designada por DRABL, bem como os meios financeiros e as unidades de pessoal que lhe estão afectos.
 
 2 - As instalações, móveis, utensílios, máquinas, viaturas e demais equipamentos, bem como toda a documentação existente no serviço referido no número anterior, transitam, na data da entrada em vigor deste diploma, para a DRABL, mediante relação de cadastro devidamente discriminada e assinada pelos funcionários para o efeito designados pelo presidente do Instituto Nacional de Investigação Agrária e pelo director regional de Agricultura da Beira Litoral.
 
@@ -106,7 +138,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - É igualmente transferida para a DRABL, com os meios humanos, financeiros e materiais que lhe estão afectos, a Zona Agrária de Leiria, da Direcção Regional de Agricultura do Ribatejo e Oeste.
 
-###### Art. 2.º Os artigos 3.º e 14.º do [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º e 14.º do [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -132,11 +164,13 @@ f) Divisão de Protecção à Produção Vegetal (DPPV);
 
 4) ...
 
-###### Artigo 14.º — Divisão de Protecção à Produção Vegetal
+###### Artigo 14.º
+
+##### Divisão de Protecção à Produção Vegetal
 
 A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 2 do artigo 13.º-A à Estação Vitivinícola da Beira Litoral.
 
-###### Art. 3.º No Decreto n.º 38/87, de 27 de Junho, é introduzido um novo artigo 13.º-A, com a seguinte redacção:
+Art. 3.º No Decreto n.º 38/87, de 27 de Junho, é introduzido um novo artigo 13.º-A, com a seguinte redacção:
 
 ###### Artigo 13.º-A — Direcção de Serviços de Vitivinicultura
 
@@ -174,22 +208,22 @@ e) Assegurar a gestão das unidades experimentais da DRABL, no âmbito da vitivi
 
 f) Colaborar na manutenção e controlo da qualidade dos vinhos e no levantamento do cadastro vitícola.
 
-###### Art. 4.º São revogados a alínea c) do n.º 1 e o n.º 4 do artigo 11.º do [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho.
+Art. 4.º São revogados a alínea c) do n.º 1 e o n.º 4 do artigo 11.º do [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho.
 
-###### Art. 5.º O quadro do pessoal da DRABL, constante do mapa anexo I ao [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho, é alterado, pelo que se publica em anexo ao presente diploma, do qual faz parte integrante.
+Art. 5.º O quadro do pessoal da DRABL, constante do mapa anexo I ao [Decreto Regulamentar n.º 38/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781), de 27 de Junho, é alterado, pelo que se publica em anexo ao presente diploma, do qual faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 5 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Maio de 1990.**
+Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo I a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13000/24552457.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13000/24552457.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13000/24552457.pdf)

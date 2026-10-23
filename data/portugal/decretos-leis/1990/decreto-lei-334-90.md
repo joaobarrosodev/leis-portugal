@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25000/44564457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1990-565874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f99addf72fe39baf698d7c55afe49964d336b9041869b7b2ed592d954d2fd60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 050596456c06cba97731a359a7d340ac6364a298270654c75d78458b2c79a0f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contra-ordenação
+- Exploração Florestal
+- Incêndio
+- Multa
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:517473:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310799:por
+  label: "Revogado o art. 1º pelo DEC LEI.204/99.1999.06.09.MADRP, DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1999-310799
+  date: '1999-06-09'
+- type: repealed_by
+  target: pt:dre:517473:por
+  label: "Revogado pelo DEC LEI.156/2004.30.06.2004.MADRP, DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2004-517473
+  date: '2004-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:06Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +128,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Quem proceder ao corte, abate ou desbaste de árvores em povoamentos florestais é obrigado a proceder à recolha e transporte dos produtos sobrantes para local afastado no mínimo de 200 m da mata, que deverá ser previamente limpo de mato ou outra qualquer vegetação.
+Artigo 1.º - 1 - Quem proceder ao corte, abate ou desbaste de árvores em povoamentos florestais é obrigado a proceder à recolha e transporte dos produtos sobrantes para local afastado no mínimo de 200 m da mata, que deverá ser previamente limpo de mato ou outra qualquer vegetação.
 
 2 - A operação descrita no número anterior deve ser efectuada no prazo máximo de 15 dias a contar do termo do corte, abate ou desbaste das árvores.
 
 3 - Constitui contra-ordenação punível com coima de 40000$00 a 500000$00, no caso de pessoas singulares, ou a 6000000$00, no caso de pessoas colectivas, a violação do disposto nos números anteriores.
 
-###### Art. 2.º - 1 - Constitui contra-ordenação punível com coima de 20000$00 a 250000$00, no caso de pessoas singulares, ou a 6000000$00, no caso de pessoas colectivas:
+Art. 2.º - 1 - Constitui contra-ordenação punível com coima de 20000$00 a 250000$00, no caso de pessoas singulares, ou a 6000000$00, no caso de pessoas colectivas:
 
 a) Fazer queimadas em terrenos situados no interior das matas ou na sua periferia até 300 m dos seus limites;
 
@@ -133,22 +164,22 @@ e) Executar os trabalhos preventivos que, no uso dos poderes conferidos na alín
 
 4 - Os actos descritos nas alíneas a), b) e c) do n.º 1 não constituem contra-ordenação desde que o agente tenha tomado todas as providências adequadas à prevenção do potencial perigo de incêndio.
 
-###### Art. 3.º - É competente para a aplicação das coimas previstas no presente diploma o presidente da câmara municipal, ou o comandante da Guarda Nacional Republicana, ou a Direcção-Geral das Florestas, ou o Serviço Nacional de Parques, Reservas e Conservação da Natureza da área onde foram praticados os factos integradores da contra-ordenação.
+Art. 3.º - É competente para a aplicação das coimas previstas no presente diploma o presidente da câmara municipal, ou o comandante da Guarda Nacional Republicana, ou a Direcção-Geral das Florestas, ou o Serviço Nacional de Parques, Reservas e Conservação da Natureza da área onde foram praticados os factos integradores da contra-ordenação.
 
-###### Art. 4.º Do montante das coimas aplicadas nos termos do artigo anterior, 40% constituem receita própria da entidade que tenha aplicado a sanção, revertendo os restantes 60% para o Estado.
+Art. 4.º Do montante das coimas aplicadas nos termos do artigo anterior, 40% constituem receita própria da entidade que tenha aplicado a sanção, revertendo os restantes 60% para o Estado.
 
-###### Art. 5.º São revogados os artigos 5.º, 6.º e 7.º da [Lei n.º 19/86](https://diariodarepublica.pt/dr/detalhe/lei/19-1986-228024), de 19 de Julho.
+Art. 5.º São revogados os artigos 5.º, 6.º e 7.º da [Lei n.º 19/86](https://diariodarepublica.pt/dr/detalhe/lei/19-1986-228024), de 19 de Julho.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 1990. - Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Manuel Pereira - Álvaro dos Santos Amaro - Fernando Nunes Ferreira Real.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

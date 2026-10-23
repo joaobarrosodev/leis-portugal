@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25100/44804480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78d59a7111bb4ff6de54e1c1a0eb99dd40ca9ab4d93fa45606474025bd3217bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c7837e9f2b3a6feb8af64bf4e050253843e5f3b2961ea88d9b7e03ace89e151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Fogos
+- CASA do Estado
+- Concurso Público
+- Habitação Social
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Instituto de Gestão Financeira da Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:324488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324488:por
+  label: "Revogado, a partir de 19.09.1993, pelo DEC LEI.288/93.20.08.1993.MOPTC, DR.IS-A [195] de 20.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1993-324488
+  date: '1993-08-20'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:20Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 8.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 8.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, passa a ter a seguinte redacção:
 
 ###### Artigo 8.º — [...]
 
@@ -120,12 +135,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Nunes Liberato - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10000/20712083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,130 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1990-571214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902f43fbb99cae06a6e5c8821fe2444c012f865e5b87c4016d45fd00307765d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d123014d57dae59285ca6f29e8f8d2557ce77310a842dfc6aaf1e062b7c570e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Definição de Competências
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Garantia
+- Licenciamento
+- Petróleo
+- Prospecção de Petróleo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:265543:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680180:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:293344:por
+  label: Rectificado pela DECL.DD3255.1990.05.29.PCM, DR.IS [125]2ºSupl de 31.05.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293344
+  date: '1990-05-29'
+- type: repealed_by
+  target: pt:dre:265543:por
+  label: "Revogado pelo DEC LEI.109/94.1994.04.26.MIE, DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1994-265543
+  date: '1994-04-26'
 article_structure:
   article_count: 96
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:58:44Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +221,9 @@ Para efeitos do presente diploma, entende-se por petróleo toda a concentração
 
 Os jazigos de petróleo existentes nas áreas referidas no artigo 1.º integram-se no domínio público do Estado.
 
-###### Artigo 4.º — Divisão das áreas
+###### Artigo 4.º
+
+##### Divisão das áreas
 
 1 - As áreas emersa e imersa nas quais é aplicável o regime jurídico estabelecido pelo presente diploma serão, para efeitos de concessão das faculdades e de atribuição dos direitos nele previstos, divididas em quadrantes de 1º de longitude e 1º de latitude.
 
@@ -885,12 +977,12 @@ São revogados o [Decreto n.º 47973](https://diariodarepublica.pt/dr/detalhe/de
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Nuno Manuel Franco Ribeiro da Silva - José Albino da Silva Peneda - Fernando Nunes Ferreira Real.
 
-**Promulgado em 11 de Abril de 1990.**
+Promulgado em 11 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Abril de 1990.**
+Referendado em 16 de Abril de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

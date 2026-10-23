@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13000/24622465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1990-574930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a38f2367dabd8bac8017c6449be4422687746ffaabbed887e1b4607e5475b29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adadd348862b22829790e2b64ec078b0e21d84763fd57ea8786d04ef16fb7232
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Avaliação de Impacte Ambiental
+- Política do Ambiente
+- Proteção do Ambiente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:281589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667169:por
+  label: "Alterados os arts. 2º, 3º, 6º, 7º e 9º e o anexo III, e aditados os arts. 3º-A e 6º-A pelo Dec Lei 278/97.1997.10.08.MAM,\
+    \ DR.IS-A [233]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1997-667169
+  date: '1997-10-08'
+- type: corrected_by
+  target: pt:dre:644105:por
+  label: Rectificado pela DECL.DD3201.1990.07.20.PCM DR.IS [175]Supl de 30.07.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-644105
+  date: '1990-07-20'
+- type: repealed_by
+  target: pt:dre:281589:por
+  label: "Revogado pelo DEC LEI.69/2000.2000.05.03.MAOT,DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2000-281589
+  date: '2000-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:49Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +126,7 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [85/337/CEE](http://data.europa.eu/eli/dir/1985/337/oj?locale=pt), do Conselho, de 27 de Junho de 1985, que estabelece as normas relativas à avaliação dos efeitos de determinados projectos, públicos e privados, no ambiente.
+Artigo 1.º - 1 - O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [85/337/CEE](http://data.europa.eu/eli/dir/1985/337/oj?locale=pt), do Conselho, de 27 de Junho de 1985, que estabelece as normas relativas à avaliação dos efeitos de determinados projectos, públicos e privados, no ambiente.
 
 2 - Para efeitos do presente diploma, entende-se por:
 
@@ -115,7 +136,7 @@ b) Dono da obra - o autor do pedido de aprovação de um projecto privado ou a e
 
 c) Aprovação - a decisão da autoridade ou das autoridades competentes que confere ao dono da obra o direito de realizar o projecto.
 
-###### Art. 2.º - 1 - A aprovação de projectos que, pela sua natureza, dimensão ou localização, se considerem susceptíveis de provocar incidências significativas no ambiente fica sujeita a um processo prévio de avaliação do impacte ambiental (AIA), como formalidade essencial, da competência do membro do Governo responsável pela área do ambiente.
+Art. 2.º - 1 - A aprovação de projectos que, pela sua natureza, dimensão ou localização, se considerem susceptíveis de provocar incidências significativas no ambiente fica sujeita a um processo prévio de avaliação do impacte ambiental (AIA), como formalidade essencial, da competência do membro do Governo responsável pela área do ambiente.
 
 2 - A AIA atende aos efeitos directos e indirectos dos projectos sobre os seguintes factores:
 
@@ -133,7 +154,7 @@ d) Os bens materiais e o património cultural.
 
 5 - Para efeitos do número anterior, o Governo, através dos seus membros ali referidos, decidirá se é conveniente uma outra forma de avaliação e facultará informações sobre a isenção concedida, nos termos do n.º 3 do artigo 2.º da Directiva n.º [85/337/CEE](http://data.europa.eu/eli/dir/1985/337/oj?locale=pt).
 
-###### Art. 3.º - 1 - Para efeitos da AIA, os donos da obra devem apresentar, no início do processo conducente à autorização ou licenciamento do projecto, à entidade pública competente para tal decisão um estudo de impacte ambiental (EIA).
+Art. 3.º - 1 - Para efeitos da AIA, os donos da obra devem apresentar, no início do processo conducente à autorização ou licenciamento do projecto, à entidade pública competente para tal decisão um estudo de impacte ambiental (EIA).
 
 2 - A entidade pública referida no número anterior enviará, de imediato, ao membro do Governo responsável pela área do ambiente:
 
@@ -145,27 +166,27 @@ c) Outros elementos que considere convenientes para a correcta apreciação do p
 
 3 - O EIA deve conter as especificações constantes do anexo II ao presente diploma, do qual faz parte integrante.
 
-###### Art. 4.º - 1 - O membro do Governo responsável pela área do ambiente determinará qual a entidade encarregue da instrução do processo da AIA, a quem cabe apreciar e emitir parecer sobre o projecto, bem como promover uma consulta do público interessado, de molde a permitir uma alargada participação das entidades interessadas e dos cidadãos na apreciação do projecto.
+Art. 4.º - 1 - O membro do Governo responsável pela área do ambiente determinará qual a entidade encarregue da instrução do processo da AIA, a quem cabe apreciar e emitir parecer sobre o projecto, bem como promover uma consulta do público interessado, de molde a permitir uma alargada participação das entidades interessadas e dos cidadãos na apreciação do projecto.
 
 2 - A consulta prevista no número anterior pressupõe uma divulgação prévia dos estudos efectuados e respectivos resultados, bem como uma explicitação dos elementos mais caracterizadores do empreendimento em análise, sem prejuízo da observância das normas legais que protegem os conhecimentos técnicos não patenteados.
 
-###### Art. 5.º - 1 - No prazo máximo de 120 dias contados a partir da data de recepção da documentação referida no n.º 2 do artigo 3.º, o membro do Governo responsável pela área do ambiente enviará à tutela e à entidade competente para licenciar ou autorizar o projecto o respectivo parecer, acompanhado do relatório da consulta pública que tenha promovido e da análise do mesmo.
+Art. 5.º - 1 - No prazo máximo de 120 dias contados a partir da data de recepção da documentação referida no n.º 2 do artigo 3.º, o membro do Governo responsável pela área do ambiente enviará à tutela e à entidade competente para licenciar ou autorizar o projecto o respectivo parecer, acompanhado do relatório da consulta pública que tenha promovido e da análise do mesmo.
 
 2 - O prazo referido no número anterior pode ser prorrogado por 30 dias, mediante despacho conjunto dos membros do Governo responsáveis pela área do ambiente e da tutela.
 
 3 - Considera-se favorável o parecer se, decorridos os prazos estabelecidos nos números anteriores, nada for comunicado à entidade competente para licenciar ou autorizar o projecto.
 
-###### Art. 6.º A entidade competente para a aprovação do projecto deve ter em consideração o parecer a que se refere o n.º 1 do artigo anterior e, em caso da sua não adopção, incorporar na decisão as razões de facto e de direito que para tal forem determinantes.
+Art. 6.º A entidade competente para a aprovação do projecto deve ter em consideração o parecer a que se refere o n.º 1 do artigo anterior e, em caso da sua não adopção, incorporar na decisão as razões de facto e de direito que para tal forem determinantes.
 
-###### Art. 7.º - 1 - Os projectos constantes do anexo III a este diploma, que dele faz parte integrante, serão submetidos a AIA, nos termos e de acordo com os critérios e limites a definir mediante decreto regulamentar.
+Art. 7.º - 1 - Os projectos constantes do anexo III a este diploma, que dele faz parte integrante, serão submetidos a AIA, nos termos e de acordo com os critérios e limites a definir mediante decreto regulamentar.
 
 2 - O decreto regulamentar a que se refere o número anterior deve especificar, relativamente aos projectos constantes dos anexos I e III, os elementos a serem entregues pelo dono da obra, definir o processo a seguir e indicar as entidades competentes para o mesmo e, bem assim, a instituição de mecanismos de acompanhamento e fiscalização.
 
-###### Art. 8.º O disposto no presente diploma não se aplica aos empreendimentos considerados pelo Governo como de interesse para a defesa e segurança nacionais.
+Art. 8.º O disposto no presente diploma não se aplica aos empreendimentos considerados pelo Governo como de interesse para a defesa e segurança nacionais.
 
-###### Art. 9.º As decisões finais tomadas sobre os projectos apreciados nos termos do presente diploma, bem como os respectivos processos, devem ser objecto de divulgação pública.
+Art. 9.º As decisões finais tomadas sobre os projectos apreciados nos termos do presente diploma, bem como os respectivos processos, devem ser objecto de divulgação pública.
 
-###### Art. 10.º - 1 - A execução de projectos sujeitos a AIA sem a necessária aprovação ou em violação do conteúdo dessa decisão constitui contra-ordenação punível com coima de 500 a 6000 contos.
+Art. 10.º - 1 - A execução de projectos sujeitos a AIA sem a necessária aprovação ou em violação do conteúdo dessa decisão constitui contra-ordenação punível com coima de 500 a 6000 contos.
 
 2 - A negligência é punível.
 
@@ -187,21 +208,21 @@ d) A privação do direito de participação em arrematações e concursos promo
 
 7 - As normas processuais relativas à execução do disposto no presente artigo são aprovadas por decreto regulamentar.
 
-###### Art. 11.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 2 - O presente regime não se aplica aos projectos cujo processo de aprovação esteja em curso à data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Luís Francisco Valente de Oliveira - José Manuel Cardoso Borges Soeiro - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins - Fernando Nunes Ferreira Real.
 
-**Promulgado em 24 de Maio de 1990.**
+Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1990.**
+Referendado em 29 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 

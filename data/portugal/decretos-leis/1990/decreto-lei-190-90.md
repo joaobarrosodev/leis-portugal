@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/25002501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1990-575141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d66a12e4b57f06556bab6ac8947c1246de71479d310424342ec3d150cda8c91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 753b5e2de2f7f575b291cad6c753a4f8268d9d763e79aadc4b4d10e80326f574
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Transitária
+- Regime Jurídico
+- Transporte de Passageiros
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:124793102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621940:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67442930:por
+  label: Revogado o Dec. Lei 399-F/84 de 28-dez, na redação do presente diploma, pelo(a) Lei n.º 52/2015 - Diário da República
+    n.º 111/2015, Série I de 2015-06-09 nos termos dos arts 16.º e 17.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2015-67442930
+  date: '2015-06-09'
+- type: repealed_by
+  target: pt:dre:124793102:por
+  label: Revogado, a partir de 19.09.2019, pelo(a) Decreto-Lei n.º 140/2019 - Diário da República n.º 179/2019, Série I de
+    2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2019-124793102
+  date: '2019-09-18'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:54Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +125,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 4.º, 13.º, 14.º, 17.º, 28.º, 30.º, 32.º e 34.º do [Decreto-Lei n.º 399-F/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-f-1984-621940), de 28 de Dezembro, passam a ter a redacção seguinte:
+Artigo 1.º Os artigos 1.º, 3.º, 4.º, 13.º, 14.º, 17.º, 28.º, 30.º, 32.º e 34.º do [Decreto-Lei n.º 399-F/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-f-1984-621940), de 28 de Dezembro, passam a ter a redacção seguinte:
 
-###### Artigo 1.º - 1 - Podem requerer autorização para a exploração de serviços Expresso de transporte rodoviário colectivo de passageiros as empresas de transporte colectivo de passageiros, isoladamente ou associadas entre si ou com agências de viagens e turismo, desde que sirvam, com carreiras interurbanas de passageiros, pelo menos um dos pontos terminais do serviço requerido ou parte do percurso no mesmo itinerário ou em itinerário paralelo, nos termos a definir na portaria prevista no artigo 17.º
+Artigo 1.º - 1 - Podem requerer autorização para a exploração de serviços Expresso de transporte rodoviário colectivo de passageiros as empresas de transporte colectivo de passageiros, isoladamente ou associadas entre si ou com agências de viagens e turismo, desde que sirvam, com carreiras interurbanas de passageiros, pelo menos um dos pontos terminais do serviço requerido ou parte do percurso no mesmo itinerário ou em itinerário paralelo, nos termos a definir na portaria prevista no artigo 17.º
 
 2 - ...
 
-###### Art. 3.º Os títulos de autorização ou sua fotocópia, bem como o horário e a tabela de preços dos bilhetes, devem acompanhar sempre os veículos em serviço.
+Art. 3.º Os títulos de autorização ou sua fotocópia, bem como o horário e a tabela de preços dos bilhetes, devem acompanhar sempre os veículos em serviço.
 
-###### Art. 4.º Na realização de serviços Expresso só podem ser utilizados veículos das categorias II ou III a que se refere o artigo 29.º do Regulamento do Código da Estrada, na redacção dada pela [Portaria n.º 464/82](https://diariodarepublica.pt/dr/detalhe/portaria/464-1982-393036), de 4 de Maio, e que obedeçam aos demais requisitos definidos na portaria prevista no artigo 41.º
+Art. 4.º Na realização de serviços Expresso só podem ser utilizados veículos das categorias II ou III a que se refere o artigo 29.º do Regulamento do Código da Estrada, na redacção dada pela [Portaria n.º 464/82](https://diariodarepublica.pt/dr/detalhe/portaria/464-1982-393036), de 4 de Maio, e que obedeçam aos demais requisitos definidos na portaria prevista no artigo 41.º
 
-###### Art. 13.º É obrigatória a emissão para cada passageiro de título de transporte válido, sendo o número daqueles títulos rigorosamente limitado ao máximo de lugares sentados instalados no veículo.
+Art. 13.º É obrigatória a emissão para cada passageiro de título de transporte válido, sendo o número daqueles títulos rigorosamente limitado ao máximo de lugares sentados instalados no veículo.
 
-###### Art. 14.º - 1 - É proibido o transporte de passageiros de e para paragens intermédias, com excepção de qualquer das seguintes situações:
+Art. 14.º - 1 - É proibido o transporte de passageiros de e para paragens intermédias, com excepção de qualquer das seguintes situações:
 
 a) Se o percurso respectivo for também servido por carreiras de passageiros concedidas ao operador do expresso;
 
@@ -119,9 +147,9 @@ c) Se entre os locais de entrada e de saída de cada passageiro medear distânci
 
 2 - Para os efeitos da alínea b) do número anterior, não serão tomadas em conta diferenças, entre o percurso do expresso e o da carreira ou carreiras existentes, que não resultem de desvios da estrada percorrida para servir uma localidade sede de município.
 
-###### Art. 17.º O regime tarifário e o regime de paragens dos transportes a que se refere o presente diploma serão regulamentados em portaria dos Ministros do Comércio e Turismo e das Obras Públicas, Transportes e Comunicações.
+Art. 17.º O regime tarifário e o regime de paragens dos transportes a que se refere o presente diploma serão regulamentados em portaria dos Ministros do Comércio e Turismo e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 28 º - 1 - ...
+Art. 28 º - 1 - ...
 
 a) ...
 
@@ -129,7 +157,7 @@ b) A infracção ao n.º 1 do artigo 6.º
 
 2 - A segunda infracção cometida no mesmo serviço Expresso e dentro do prazo de um ano constitui contra-ordenação punível com coima de 700000$00 e as sanções previstas nas alíneas a) a c) do n.º 2 do artigo 27.º
 
-###### Art. 30.º - 1 - ...
+Art. 30.º - 1 - ...
 
 a) Exploração antecipada do serviço requerido;
 
@@ -147,13 +175,13 @@ e) A prática de preços inferiores aos constantes do programa de exploração a
 
 4 - A terceira infracção à alínea e) do n.º 1 cometida no mesmo serviço Expresso e dentro do prazo de um ano a contar da data da segunda constitui contra-ordenação punível com coima de 300000$00 e as sanções referidas nas alíneas a) a c) do n.º 2 do artigo 27.º
 
-###### Art. 32.º ...
+Art. 32.º ...
 
 a) ...
 
 b) A infracção aos artigos 12.º e 14.º
 
-###### Art. 34.º - 1 - ...
+Art. 34.º - 1 - ...
 
 a) A infracção aos artigos 13.º e 16.º;
 
@@ -169,18 +197,18 @@ d) A falta de remessa à Direcção-Geral de Transportes Terrestres de relatóri
 
 4 - A terceira infracção a que se refere o n.º 1, alínea b), cometida no mesmo serviço Expresso e dentro do prazo de um ano a contar da data da segunda constitui contra-ordenação punível com coima de 150000$00 e, a título de sanção acessória, com o cancelamento da autorização de exploração do serviço.
 
-###### Art. 2.º São revogados o n.º 3 do artigo 10.º, os artigos 15.º, 18.º, 19.º e 20.º e a alínea a) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 399-F/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-f-1984-621940), de 28 de Dezembro.
+Art. 2.º São revogados o n.º 3 do artigo 10.º, os artigos 15.º, 18.º, 19.º e 20.º e a alínea a) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 399-F/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-f-1984-621940), de 28 de Dezembro.
 
-###### Art. 3.º O presente diploma, com excepção do artigo 1.º, na parte em que dá nova redacção ao artigo 17.º do [Decreto-Lei n.º 399-F/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-f-1984-621940), de 28 de Dezembro, entra em vigor simultaneamente com a portaria nele prevista.
+Art. 3.º O presente diploma, com excepção do artigo 1.º, na parte em que dá nova redacção ao artigo 17.º do [Decreto-Lei n.º 399-F/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-f-1984-621940), de 28 de Dezembro, entra em vigor simultaneamente com a portaria nele prevista.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 1990. - Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 25 de Maio de 1990.**
+Promulgado em 25 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1990.**
+Referendado em 30 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

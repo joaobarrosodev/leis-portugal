@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2e90446b3c29ce5ade995ff30fc8cb1292ddbea9266614c2950e92740ff4ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce5b0029812ed4d7bc13cc332bf2d9532d0f440b9da46c79597d17d754260292
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Colonial
+- Administração Ultramarina
+- Caixa de Previdência
+- Contribuições da Segurança Social
+- Desalojado
+- Funcionário Ultramarino
+- Pensão de Sobrevivência
+- Pensão de Velhice
+- Pensões
+- Prestações da Segurança Social
+- Previdência Social
+- Proteção Social
+- Segurança Social
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:197511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656819:por
+  label: Alargado o âmbito de aplicação do presente diploma e revogada a al. d) do n.º 1 do art. 1.º pelo(a) Decreto-Lei n.º
+    45/93 - Diário da República n.º 43/1993, Série I-A de 1993-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1993-656819
+  date: '1993-02-20'
+- type: amended_by
+  target: pt:dre:242070:por
+  label: Alargado até 31.12.1998 o prazo para o requerimento do reconhecimento dos períodos contributivos estabelecidos no
+    n.º 1 do art. 4.º pelo DEC LEI.278/98.1998.09.11.MTS, DR.IS-A [210]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1998-242070
+  date: '1998-09-11'
+- type: amended_by
+  target: pt:dre:693814:por
+  label: Alterados os arts. 1.º, 3.º e 6.º e revogado o art. 4.º pelo DEC LEI.465/99.1999.11.05.MTS, DR.IS-A [258]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/465-1999-693814
+  date: '1999-11-05'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: Alterado o art. 8.º pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: cites
+  target: pt:dre:250392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566868:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:10Z'
   warnings: []
   errors: []
 ---
@@ -183,12 +228,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1991.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - José Albino da Silva Peneda.
 
-**Promulgado em 12 de Outubro de 1990.**
+Promulgado em 12 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Outubro de 1990.**
+Referendado em 17 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

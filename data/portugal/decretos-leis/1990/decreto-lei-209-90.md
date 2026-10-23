@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14600/27082709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1990-575356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:00:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2113f568976fb624c9c17b62c4b117dbd73262ddae95e897794985ee901a332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 171db315e3312ec76759b34bde3e9e4c587423e985a183d69e8d9dfe6ed81ff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Contribuições e Impostos
+- Embarcação de Recreio
+- Imposto de Compensação
+- Imposto Especial sobre Veículos
+- Isenção Fiscal
+- Política Fiscal
+- Regulamento do Imposto de Compensação
+- Regulamento do Imposto sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:178563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661905:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:00:20Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +143,11 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 38.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O imposto especial criado pela [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passa a designar-se por imposto especial sobre motociclos, barcos de recreio aeronaves.
+Artigo 1.º O imposto especial criado pela [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passa a designar-se por imposto especial sobre motociclos, barcos de recreio aeronaves.
 
-###### Art. 2.º O artigo 3.º e o artigo 6.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passam a ter a seguinte redacção:
+Art. 2.º O artigo 3.º e o artigo 6.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Ficam isentos do imposto previsto no artigo 1.º:
+Art. 3.º - 1 - Ficam isentos do imposto previsto no artigo 1.º:
 
 a) ...
 
@@ -123,19 +167,19 @@ h) As aeronaves cuja utilização se destina exclusivamente a fins agrícolas ou
 
 2 - As isenções a que se referem as alíneas c), d), e) e f) do número anterior serão concedidas mediante despacho do director-geral das Contribuições e Impostos sobre requerimento das entidades interessadas, devidamente documentado, sendo dispensado este condicionalismo relativamente às isenções reconhecidas em anos anteriores.
 
-###### Art. 6.º O imposto será liquidado e pago nos prazos previstos no artigo 9.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, por meio de guia modelo n.º 5.
+Art. 6.º O imposto será liquidado e pago nos prazos previstos no artigo 9.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, por meio de guia modelo n.º 5.
 
-###### Art. 3.º O artigo 5.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, passa a ter a seguinte redacção:
+Art. 3.º O artigo 5.º do Regulamento do Imposto sobre Veículos, aprovado pelo [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - As isenções a que se referem as alíneas c), d), e) e f) do número anterior serão reconhecidas mediante despacho do director-geral das Contribuições e Impostos sobre requerimento das entidades interessadas, devidamente documentado, sendo dispensado este condicionalismo relativamente às isenções reconhecidas em anos anteriores.
 
 3 - ...
 
-###### Art. 4.º O artigo 4.º do Regulamento do Imposto de Compensação, aprovado pelo [Decreto-Lei n.º 354-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1982-178563), de 4 de Setembro, passa a ter a seguinte redacção:
+Art. 4.º O artigo 4.º do Regulamento do Imposto de Compensação, aprovado pelo [Decreto-Lei n.º 354-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1982-178563), de 4 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Os veículos furtados ou cuja documentação tenha sido apreendida ou voluntariamente depositada não serão sujeitos ao imposto de compensação relativamente aos trimestres durante os quais se mantenha o furto, a apreensão ou o depósito, com observância do disposto no n.º 3 do artigo 2.º
+Art. 4.º - 1 - Os veículos furtados ou cuja documentação tenha sido apreendida ou voluntariamente depositada não serão sujeitos ao imposto de compensação relativamente aos trimestres durante os quais se mantenha o furto, a apreensão ou o depósito, com observância do disposto no n.º 3 do artigo 2.º
 
 2 - O depósito a que se refere o número anterior tem lugar na repartição de finanças da área da residência ou sede do contribuinte, salvo tratando-se de veículos também sujeitos a imposto de circulação, caso em que deve ser efectuado na Direcção-Geral de Transportes Terrestres.
 
@@ -147,18 +191,18 @@ h) As aeronaves cuja utilização se destina exclusivamente a fins agrícolas ou
 
 6 - Não estão sujeitos a imposto de compensação os veículos destinados a venda registados a favor de empresas sujeitas a imposto sobre rendimento pelo exercício do comércio ou indústria de veículos automóveis durante o período de 90 dias a contar da data da matrícula.
 
-###### Art. 5.º São eliminadas a alínea a) do artigo 1.º e as alíneas a) e b) do artigo 5.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, com a redacção que lhe foi dada pelos Decretos-Leis n.os [94/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), de 26 de Março, [131/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), de 12 de Junho, e [154/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), de 11 de Maio.
+Art. 5.º São eliminadas a alínea a) do artigo 1.º e as alíneas a) e b) do artigo 5.º da [Lei n.º 34/83](https://diariodarepublica.pt/dr/detalhe/lei/34-1983-441567), de 21 de Outubro, com a redacção que lhe foi dada pelos Decretos-Leis n.os [94/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1984-661905), de 26 de Março, [131/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1986-228842), de 12 de Junho, e [154/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1989-611535), de 11 de Maio.
 
-###### Art. 6.º O disposto no artigo 4.º do presente diploma produz efeitos a partir de 1 de Julho de 1990.
+Art. 6.º O disposto no artigo 4.º do presente diploma produz efeitos a partir de 1 de Julho de 1990.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Junho de 1990.**
+Promulgado em 11 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1990.**
+Referendado em 18 de Junho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

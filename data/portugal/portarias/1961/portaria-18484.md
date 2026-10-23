@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18484-1961-170530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c66cb078e5f9ddb38d655766da3ccb42ca6f37131897cefc8dc6f6684d92df3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edfb353066d5083cbf2b751194e00caf9e785a81e41cc57e37326bbfe8ca8bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,33 @@ relationships:
   target: pt:dre:194414:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:169647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384401:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:194414:por
+  label: "Revogados os nºs 22º, 23º, 24º e 25º, pela PORT.19752.09.03.1963.MECO, DG.IS [58] de 09.03.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19752-1963-194414
+  date: '1963-03-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:56Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +123,7 @@ Papéis correntes
 
 2.º As quantidades mínimas, em quilogramas, de papéis correntes que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada qualidades de papel, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
 
 3.º Dentro de cada encomenda podem ser feitos os diferentes acabamentos que constam, para cada papel, da secção 5 da norma NP-268, referente a «Características dos papéis correntes», desde que, para cada um, o lote não seja inferior a 500 kg.
 
@@ -134,7 +151,7 @@ Papéis especiais
 
 12.º As quantidades mínimas, em quilogramas, de papéis especiais que as fábricas podem vender por cada encomenda e para entrega por uma só vez, por cada qualidade de papel, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
 
 13.º Os papéis especiais que difiram dos papéis correntes apenas no formato, acabamento e aspecto à transparência podem ser adquiridos nas quantidades mínimas estabelecidas no n.º 2.º
 
@@ -170,7 +187,7 @@ c) Atingirem anualmente um volume de compras de valor não inferior a 750000$00 
 
 d) Possuírem uma reserva permanente de papéis nacionais adquirida nas condições da alínea c); esta reserva deve ser relacionada com as aquisições feitas no ano anterior, de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
 
 A reserva deve ser constituída por vários tipos de papel, em regra na percentagem dos adquiridos no ano anterior.
 
@@ -186,7 +203,7 @@ Os armazenistas que vierem a inscrever-se deverão, de início, satisfazer às a
 
 Papéis correntes ou especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
 
 a) Em todas as localidades do continente e ilhas adjacentes onde existam armazenistas, estes só poderão vender às entidades constantes da relação mencionada no corpo deste número ou às que, nos termos da alínea seguinte, forem mandadas incluir. Nas restantes localidades do País, os armazenistas poderão vender a qualquer outra entidade, desde que o montante da encomenda seja igual ou superior a 100 kg, mas com a condição de que, por qualidade, cor ou formato do papel, não vendam quantidades inferiores a uma resma ou peso equivalente em carretéis;
 
@@ -256,7 +273,7 @@ c) A quantidade total do fornecimento, em quilogramas, não ultrapassar os segui
 
 Ministério da Economia, 24 de Maio de 1961. - O Secretário de Estado do Comércio, João Augusto Dias Rosas. - O Secretário de Estado da Indústria, António Alves de Carvalho Fernandes.
 
-## Anexo à Portaria n.º 18484
+Anexo à Portaria n.º 18484
 
 1) O preço do papel nas fábricas é calculado pela seguinte fórmula:
 
@@ -286,7 +303,7 @@ r = coeficiente de correcção do peso por metro quadrado.
 
 3) Os coeficientes m, n e p têm os valores que constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
 
 4) O vapor de X é fixado em 40 por cento Z.
 
@@ -296,7 +313,7 @@ Y = 3% A + 6% Z
 
 6) O valor de r é dado pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf))](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/05/12100/06320636.pdf)
 
 7) As correcções a fazer ao preço dado pela fórmula são as seguintes:
 

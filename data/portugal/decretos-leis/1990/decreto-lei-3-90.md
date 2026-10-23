@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00200/00110011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1990-313828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0133249efb34b3ffeb15db200962137b066686c118ac244c9f9885e1ff630c3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69217dc0e012274581f44eb398a7ed4d993747ed8f7fe5c644fc664cb6df4b10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Definição de Competências
+- Direcção Geral dos Cuidados de Saúde Primários
+- Instituto de Qualidade Alimentar
+- Instituto Nacional de Investigação das Pescas
+- Limite Máximo de Resíduos
+- Peixe
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:25Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +114,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Serão definidos por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e da Saúde:
+Artigo 1.º - 1 - Serão definidos por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e da Saúde:
 
 a) As tolerâncias de resíduos admissíveis no pescado;
 
@@ -110,20 +128,20 @@ b) Resíduos: as substâncias estranhas, compreendendo os metabolitos e outras r
 
 c) Tolerância: a concentração máxima de resíduos admitida no pescado.
 
-###### Art. 2.º O Instituto Português de Conservas e Pescado (IPCP), o Instituto Nacional de Investigação das Pescas (INIP), o Instituto da Qualidade Alimentar (IQA) e a Direcção-Geral dos Cuidados de Saúde Primários (DGCSP) deverão estabelecer programas de vigilância de resíduos no pescado, bem como assegurar, de acordo com as respectivas competências, o cumprimento do previsto no presente diploma e nas portarias por este previstas.
+Art. 2.º O Instituto Português de Conservas e Pescado (IPCP), o Instituto Nacional de Investigação das Pescas (INIP), o Instituto da Qualidade Alimentar (IQA) e a Direcção-Geral dos Cuidados de Saúde Primários (DGCSP) deverão estabelecer programas de vigilância de resíduos no pescado, bem como assegurar, de acordo com as respectivas competências, o cumprimento do previsto no presente diploma e nas portarias por este previstas.
 
-###### Art. 3.º - 1 - Fica proibida a comercialização de pescado com destino ao consumo humano, directo ou indirecto, que contenha resíduos superiores às tolerâncias que venham a ser definidas pela portaria a que se refere o n.º 1 do artigo 1.º, o qual é considerado rejeitado para aquele fim.
+Art. 3.º - 1 - Fica proibida a comercialização de pescado com destino ao consumo humano, directo ou indirecto, que contenha resíduos superiores às tolerâncias que venham a ser definidas pela portaria a que se refere o n.º 1 do artigo 1.º, o qual é considerado rejeitado para aquele fim.
 
 2 - A inobservância do disposto no número anterior constitui contra-ordenação punível nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1989. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 14 de Dezembro de 1989.**
+Promulgado em 14 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Dezembro de 1989.**
+Referendado em 18 de Dezembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

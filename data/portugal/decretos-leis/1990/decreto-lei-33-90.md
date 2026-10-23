@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/02000/03350337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1990-335245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:03:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a116bdd8755a271b6536edaee83e203a6267c1c5860f37bb7c02b1e30df1bef1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 001ca9a49df7602f2d4d3cae3e525513e16b9435dd9a5be24b81f5e395bd3c6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:03:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Prova Geral de Acesso
 relationships:
 - type: amended_by
   target: pt:dre:230967:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288236:por
+  label: "Alterado o artigo 26.º do Decreto-Lei n.º 354/88 de 12 de Outubro, na redacção do presente diploma, pelo DEC LEI.379/91.09.10.1991.ME,\
+    \ DR.IS-A [232] de 09.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1991-288236
+  date: '1991-10-09'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240823:por
+  label: "Revogado o Decreto-Lei n.º 354/88, de 12 de Outubro, na redacção do presente diploma, pelo DEC LEI.189/92.03.09.1992.ME,\
+    \ DR.IS-A [203] de 03.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1992-240823
+  date: '1992-09-03'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:03:00Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +134,7 @@ Considerando ainda as propostas formuladas pela comissão de avaliação e consu
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 19.º, 20.º, 24.º e 26.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, alterado pelo [Decreto-Lei n.º 140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 19.º, 20.º, 24.º e 26.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, alterado pelo [Decreto-Lei n.º 140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 12.º — Júri
 
@@ -168,9 +202,9 @@ b) Os limites máximos são fixados anualmente para cada um dos critérios, atra
 
 6 - Sempre que dentro do prazo fixado nos termos do artigo 40.º não sejam comunicados ao Ministério da Educação os resultados, totais ou parciais, de uma ou mais provas específicas, quer por não se terem realizado, quer por não haverem sido classificadas, as respectivas classificações serão substituídas pelas classificações correspondentes do ensino secundário, nos termos a regulamentar por portaria do Ministério da Educação, ouvidos o Conselho de Reitores das Universidades Portuguesas e o Conselho Coordenador dos Institutos Superiores Politécnicos.
 
-###### Art. 2.º É revogado o n.º 7 do artigo 28.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), introduzido pelo [Decreto-Lei n.º 140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril.
+Art. 2.º É revogado o n.º 7 do artigo 28.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), introduzido pelo [Decreto-Lei n.º 140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril.
 
-###### Art. 3.º Ao [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707) é aditado um artigo 27.º-A, com a seguinte redacção:
+Art. 3.º Ao [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707) é aditado um artigo 27.º-A, com a seguinte redacção:
 
 ###### Artigo 27.º-A — Outros acessos preferenciais ao ensino superior politécnico
 
@@ -178,16 +212,16 @@ b) Os limites máximos são fixados anualmente para cada um dos critérios, atra
 
 2 - Os pares estabelecimento/curso a que se aplicará o presente artigo, bem como a percentagem efectiva das vagas a afectar, serão fixados anualmente para cada estabelecimento de ensino superior politécnico pelos órgãos a que se refere o artigo 4.º
 
-###### Art. 4.º O presente diploma entra em vigor a partir do 1.º dia de candidatura à matrícula e inscrição para o ano lectivo de 1990-1991, inclusive.
+Art. 4.º O presente diploma entra em vigor a partir do 1.º dia de candidatura à matrícula e inscrição para o ano lectivo de 1990-1991, inclusive.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 1989. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 12 de Janeiro de 1990.**
+Promulgado em 12 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Janeiro de 1990.**
+Referendado em 15 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

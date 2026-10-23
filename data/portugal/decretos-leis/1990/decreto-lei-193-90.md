@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13300/25192521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1990-575144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ab21d6a22d710526da7cc300624597547081323ab63f9f089746e63e9fd5483
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d8dcdcb9d9d4313ee82d0735b3a4975bdf8ce367d5953f0471154e088f5487b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Descrição de Funções
+- Direcção Geral da Junta do Crédito Público
+- Estágio de Formação
+- Formação Profissional
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:59:59Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +134,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A carreira de pessoal técnico de crédito público prevista no [Decreto-Lei n.º 76/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1983-311035), de 8 de Fevereiro, é alterada nos termos do presente diploma.
+Artigo 1.º A carreira de pessoal técnico de crédito público prevista no [Decreto-Lei n.º 76/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1983-311035), de 8 de Fevereiro, é alterada nos termos do presente diploma.
 
-###### Art. 2.º - 1 - Ao pessoal técnico de crédito público, no exercício das suas funções, compete a execução da generalidade do trabalho de natureza técnica que constituem as actividades da Direcção-Geral da Junta do Crédito Público, adiante designada por DGJCP, nos seus vários sectores dos serviços, nomeadamente os seguintes:
+Art. 2.º - 1 - Ao pessoal técnico de crédito público, no exercício das suas funções, compete a execução da generalidade do trabalho de natureza técnica que constituem as actividades da Direcção-Geral da Junta do Crédito Público, adiante designada por DGJCP, nos seus vários sectores dos serviços, nomeadamente os seguintes:
 
 a) Organizar e desenvolver acções de recrutamento e formação de carácter específico, nomeadamente no âmbito do mercado de títulos, procedendo à elaboração dos conteúdos, selecção dos candidatos e monitoragem de alguns módulos de formação;
 
@@ -157,7 +184,7 @@ v) Outras funções relacionadas com o serviço que especifica e superiormente l
 
 2 - A responsabilidade e a hierarquização das funções serão determinadas de conformidade com os níveis de tecnicidade das actividades a exercer.
 
-###### Art. 3.º - 1 - O ingresso na carreira de pessoal técnico de crédito público efectuar-se-á pela categoria de secretário de crédito público de 2.ª classe, a seleccionar de entre estagiários de crédito público que tenham concluído o estágio de um ano com bom aproveitamento, designadamente nas provas finais.
+Art. 3.º - 1 - O ingresso na carreira de pessoal técnico de crédito público efectuar-se-á pela categoria de secretário de crédito público de 2.ª classe, a seleccionar de entre estagiários de crédito público que tenham concluído o estágio de um ano com bom aproveitamento, designadamente nas provas finais.
 
 2 - Na carreira de pessoal de crédito público o acesso faz-se nos seguintes termos:
 
@@ -169,7 +196,7 @@ c) A promoção dos secretários de crédito público principais a coordenadores
 
 d) A promoção dos secretários coordenadores de crédito público a subdirectores, de entre os funcionários com três anos de efectivo serviço na categoria, classificação não inferior a Bom no último triénio e aprovação em concurso, o qual incluirá um curso de formação adequado.
 
-###### Art. 4.º - 1 - Os estagiários de crédito público serão recrutados, mediante concurso, de entre diplomados pelos institutos superiores de contabilidade e administração ou equiparados ou indivíduos licenciados nas áreas de Direito, Economia, Finanças e Organização e Gestão.
+Art. 4.º - 1 - Os estagiários de crédito público serão recrutados, mediante concurso, de entre diplomados pelos institutos superiores de contabilidade e administração ou equiparados ou indivíduos licenciados nas áreas de Direito, Economia, Finanças e Organização e Gestão.
 
 2 - O período de estágio será efectuado em regime de requisição ou contrato, sendo os estagiários de crédito público remunerados pelo vencimento correspondente à letra J, não tendo direito a qualquer outra remuneração e ficando sujeitos ao regime de faltas e licenças da função pública, consoante tenham ou não vínculo à função pública.
 
@@ -183,31 +210,31 @@ a) Será provido definitivamente, se tiver revelado aptidão para o lugar e obti
 
 b) Verá rescindido o respectivo contrato ou dada por finda a requisição, se não tiver obtido aproveitamento.
 
-###### Art. 5.º As categorias da carreira de pessoal técnico de crédito público previstas no quadro anexo à [Portaria n.º 709/86](https://diariodarepublica.pt/dr/detalhe/portaria/709-1986-221481), de 25 de Novembro, passam a ser remuneradas pelas letras da tabela de vencimentos da função pública constantes do mapa anexo ao presente diploma, de que faz parte integrante.
+Art. 5.º As categorias da carreira de pessoal técnico de crédito público previstas no quadro anexo à [Portaria n.º 709/86](https://diariodarepublica.pt/dr/detalhe/portaria/709-1986-221481), de 25 de Novembro, passam a ser remuneradas pelas letras da tabela de vencimentos da função pública constantes do mapa anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 6.º - 1 - O pessoal de crédito público é integrado no novo quadro na categoria em que se encontra actualmente provido.
+Art. 6.º - 1 - O pessoal de crédito público é integrado no novo quadro na categoria em que se encontra actualmente provido.
 
 2 - Os funcionários que actualmente se encontram na situação de licença ilimitada e em actividade fora do quadro serão abrangidos pelas normas deste diploma para efeitos de integração na nova categoria quando, nos termos da lei geral, regressarem ao serviço da Direcção-Geral, devendo ter-se em conta a posição que detinham à data em que passaram à actual situação.
 
-###### Art. 7.º Releva, para todos os efeitos legais, com excepção dos remuneratórios, o tempo de serviço anteriormente prestado nos cargos e categorias revalorizados pelo presente diploma.
+Art. 7.º Releva, para todos os efeitos legais, com excepção dos remuneratórios, o tempo de serviço anteriormente prestado nos cargos e categorias revalorizados pelo presente diploma.
 
-###### Art. 8.º As revalorizações de cargos e categorias determinadas pelo presente diploma apenas estão sujeitas a publicação no Diário da República.
+Art. 8.º As revalorizações de cargos e categorias determinadas pelo presente diploma apenas estão sujeitas a publicação no Diário da República.
 
-###### Art. 9.º Mantêm-se em vigor os concursos a decorrer à data da publicação do presente diploma, sendo os respectivos candidatos providos de acordo com a nova estrutura da carreira técnica constante do mapa anexo.
+Art. 9.º Mantêm-se em vigor os concursos a decorrer à data da publicação do presente diploma, sendo os respectivos candidatos providos de acordo com a nova estrutura da carreira técnica constante do mapa anexo.
 
-###### Art. 10.º O presente diploma produz efeitos remuneratórios a partir da data da sua publicação, devendo as revalorizações dos cargos e categorias aqui previstas reportar, para efeitos de antiguidade, ao dia 30 de Setembro de 1989.
+Art. 10.º O presente diploma produz efeitos remuneratórios a partir da data da sua publicação, devendo as revalorizações dos cargos e categorias aqui previstas reportar, para efeitos de antiguidade, ao dia 30 de Setembro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 24 de Maio de 1990.**
+Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 

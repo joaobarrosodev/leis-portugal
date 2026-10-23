@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/21800/38713875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1990-557468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1610ab8cbdd9a5834bd4adb9c215cbaa4e0476bd4b63f39248a117f7e83e0993
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 424a233e8c4f88045d5217e34e0853ce7a0859e1e2a1a88667e6b1ff5482b010
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de GADO
+- Fraude Comercial
+- GADO
+- Produto Cárneo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:147215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478255:por
+  label: "Alterados, a partir da data de entrada em vigor, os art.s 1º, 3º, 6º, 18º, 21º e 28º pelo DEC LEI.67/91.08.02.1991.MJ,\
+    \ DR.IS-A [33] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1991-478255
+  date: '1991-02-08'
+- type: amended_by
+  target: pt:dre:216745:por
+  label: ALTERADOS OS ART 13, 15 E 26 PELO DEC LEI 64/92 DE 23-ABR DR.IS-A [95]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1992-216745
+  date: '1992-04-23'
+- type: cites
+  target: pt:dre:333561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660345:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:624201:por
+  label: Rectificado o art. 15º pela DECL.DD3130.1990.10.18.PCM, DR.IS [252]2ºSupl de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624201
+  date: '1990-09-20'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O ART 23 E 24 PELO DEC LEI 113/92 DE 04-JUN DR.IS-A [129]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-04'
+- type: repealed_by
+  target: pt:dre:516737:por
+  label: Revogados os arts. 23.º e 24.º do presente diploma, pelo(a) Decreto-Lei n.º 113/92 - Diário da República n.º 129/1992,
+    Série I-A de 1992-06-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1992-516737
+  date: '1992-06-04'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogado pelo Dec Lei 245/96.1996.12.20.MADRP DR.IS-A [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:15Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +167,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O regime estabelecido no presente diploma aplica-se à circulação de gado, carne e produtos cárneos no território do continente.
+Artigo 1.º - 1 - O regime estabelecido no presente diploma aplica-se à circulação de gado, carne e produtos cárneos no território do continente.
 
 2 - Para efeitos do disposto neste diploma, entende-se por:
 
@@ -122,13 +183,13 @@ d) Produtos cárneos - os produtos à base de carne, fabricados a partir de carn
 
 4 - Não se consideram na posse do consumidor final as mercadorias existentes em explorações agrícolas, estabelecimentos comerciais, industriais ou suas dependências, nem as que se destinem ao comércio.
 
-###### Art. 2.º Fica excluída do âmbito de aplicação do presente diploma a circulação de carne e produtos cárneos.
+Art. 2.º Fica excluída do âmbito de aplicação do presente diploma a circulação de carne e produtos cárneos.
 
 a) Em quantidades manifestamente destinadas ao consumo do agregado familiar do próprio;
 
 b) Que sejam provenientes de estabelecimentos de venda a retalho e se destinem a consumidores colectivos, desde que acompanhados das respectivas facturas.
 
-###### Art. 3.º - 1 - As mercadorias referidas no artigo 1.º só podem circular acompanhadas de guias de circulação e demais documentação ou marcas exigidas.
+Art. 3.º - 1 - As mercadorias referidas no artigo 1.º só podem circular acompanhadas de guias de circulação e demais documentação ou marcas exigidas.
 
 2 - As guias de circulação a que se refere o número anterior devem conter, para além da indicação da série e número, pelo menos os seguintes elementos:
 
@@ -160,7 +221,7 @@ j) Outras referências que as circunstâncias mostrem necessárias e venham a se
 
 6 - As guias de circulação podem ser substituídas por documentos processados por mecanismos de saída de computador, desde que contenham ou permitam referenciar todos os elementos a que se referem as alíneas do n.º 2, devidamente numerados por ordem de saída, e obedeçam às condições previstas no n.º 4.
 
-###### Art. 4.º - 1 - As guias de circulação não são exigíveis, numa distância que não exceda 10 km contados a partir da localização do estábulo, nem ultrapasse o limite da área da direcção regional de agricultura em que se situe a sede da exploração agro-pecuária, se for menor, quando o gado se desloque:
+Art. 4.º - 1 - As guias de circulação não são exigíveis, numa distância que não exceda 10 km contados a partir da localização do estábulo, nem ultrapasse o limite da área da direcção regional de agricultura em que se situe a sede da exploração agro-pecuária, se for menor, quando o gado se desloque:
 
 a) Para salas colectivas de ordenha mecânica;
 
@@ -180,11 +241,11 @@ a) Quando o gado que se encontre em estabulação tenha nascido na própria expl
 
 b) Nas condições previstas nos n.os 1 a 5 do artigo 6.º
 
-###### Art. 5.º - 1 - Quando o destinatário ou adquirente não forem conhecidos na altura da saída das mercadorias, é emitida pelo remetente uma guia de circulação global com indicação dos elementos respeitantes ao mesmo, com referência às guias que titularam a aquisição anterior, caso tenha existido transacção comercial, e com indicação do fim a que se destina, a mencionar no espaço reservado ao destinatário ou adquirente.
+Art. 5.º - 1 - Quando o destinatário ou adquirente não forem conhecidos na altura da saída das mercadorias, é emitida pelo remetente uma guia de circulação global com indicação dos elementos respeitantes ao mesmo, com referência às guias que titularam a aquisição anterior, caso tenha existido transacção comercial, e com indicação do fim a que se destina, a mencionar no espaço reservado ao destinatário ou adquirente.
 
 2 - À medida que forem feitas transacções, o remetente emite guias relativas às quantidades vendidas, nos termos do artigo 3.º, sempre com indicação da série e número da guia de circulação global.
 
-###### Art. 6.º - 1 - As mercadorias provenientes directamente das Comunidades Europeias ou de países terceiros, a fim de serem desalfandegadas no interior do território do continente, circularão, desde a sua entrada até à estância aduaneira competente ou local de destino, acompanhadas da documentação exigível a nível comunitário, consoante a respectiva proveniência.
+Art. 6.º - 1 - As mercadorias provenientes directamente das Comunidades Europeias ou de países terceiros, a fim de serem desalfandegadas no interior do território do continente, circularão, desde a sua entrada até à estância aduaneira competente ou local de destino, acompanhadas da documentação exigível a nível comunitário, consoante a respectiva proveniência.
 
 2 - As mercadorias que tiverem sido desalfandegadas nas estâncias aduaneiras circularão, até ao local de destino, acompanhadas dos documentos relativos ao despacho aduaneiro ou da sua fotocópia autenticada pelos serviços aduaneiros, na qual deverá ser averbada a autorização de saída.
 
@@ -196,9 +257,9 @@ b) Nas condições previstas nos n.os 1 a 5 do artigo 6.º
 
 6 - Quando provenientes das Regiões Autónomas dos Açores e da Madeira, as mercadorias, acompanhadas da documentação legalmente exigível, circulam no território do continente até ao destino a coberto da guia de circulação prevista no presente diploma, bem como do documento emitido pela Direcção-Geral da Pecuária no acto de desembarque.
 
-###### Art. 7.º O transportador de mercadorias, seja qual for o destino destas e o meio de transporte utilizado, deve exigir ao remetente das mesmas o original e o duplicado a que se refere o n.º 4 do artigo 3.º
+Art. 7.º O transportador de mercadorias, seja qual for o destino destas e o meio de transporte utilizado, deve exigir ao remetente das mesmas o original e o duplicado a que se refere o n.º 4 do artigo 3.º
 
-###### Art. 8.º - 1 - Os agentes económicos que intervêm no circuito das mercadorias referidas no artigo 1.º são obrigados a possuir, conforme os casos:
+Art. 8.º - 1 - Os agentes económicos que intervêm no circuito das mercadorias referidas no artigo 1.º são obrigados a possuir, conforme os casos:
 
 a) Livro de registo actualizado das existências das mercadorias;
 
@@ -218,7 +279,7 @@ c) Livro de prestação de serviços.
 
 7 - Os agentes económicos que forem obrigados a possuir livros de escrituração ou outros documentos exigidos pela lei fiscal ou que disponham de documentos processados por mecanismos de saída de computador poderão utilizá-los, em substituição dos previstos no presente artigo, desde que satisfaçam as condições impostas nos n.os 4, 5 e 6.
 
-###### Art. 9.º - 1 - À circulação de equídeos não destinados a abate não se aplica o disposto no presente diploma quando transitarem de acordo com as normas comunitárias específicas ou se façam acompanhar de um dos seguintes documentos:
+Art. 9.º - 1 - À circulação de equídeos não destinados a abate não se aplica o disposto no presente diploma quando transitarem de acordo com as normas comunitárias específicas ou se façam acompanhar de um dos seguintes documentos:
 
 a) Documentação de identificação de equídeos, emitida pela Direcção-Geral da Pecuária - certificado de origem;
 
@@ -228,35 +289,35 @@ c) Passaporte para cavalos emitido pela Federação Equestre Internacional.
 
 2 - Sem prejuízo do disposto no número anterior, o regime estabelecido no presente diploma aplica-se à circulação de equídeos quando exigências de carácter sanitário, reconhecidas por portaria do Ministério da Agricultura, Pescas e Alimentação, assim o justifiquem.
 
-###### Art. 10.º Os documentos previstos neste diploma e seus regulamentos serão mantidos em arquivo pelo prazo mínimo de cinco anos, por ordem numérica.
+Art. 10.º Os documentos previstos neste diploma e seus regulamentos serão mantidos em arquivo pelo prazo mínimo de cinco anos, por ordem numérica.
 
 #### SECÇÃO II — Gado
 
-###### Art. 11.º O gado sujeito à aplicação de medidas de profilaxia médica e sanitária será convenientemente identificado.
+Art. 11.º O gado sujeito à aplicação de medidas de profilaxia médica e sanitária será convenientemente identificado.
 
 #### SECÇÃO III — Carne e produtos cárneos
 
-###### Art. 12.º As carnes frescas circularão nos termos do disposto no artigo 3.º, com referência a um dos livros previstos no artigo 8.º, para além da marcação legalmente exigível.
+Art. 12.º As carnes frescas circularão nos termos do disposto no artigo 3.º, com referência a um dos livros previstos no artigo 8.º, para além da marcação legalmente exigível.
 
-###### Art. 13.º - 1 - A guia de circulação prevista no n.º 1 do artigo 3.º ou o documento referido no n.º 6 do mesmo artigo substituem o documento de transporte previsto no [Decreto-Lei n.º 45/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1989-611519), de 11 de Fevereiro.
+Art. 13.º - 1 - A guia de circulação prevista no n.º 1 do artigo 3.º ou o documento referido no n.º 6 do mesmo artigo substituem o documento de transporte previsto no [Decreto-Lei n.º 45/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1989-611519), de 11 de Fevereiro.
 
 2 - Os produtos cárneos devem conter marcas legalmente exigíveis.
 
 ### CAPÍTULO II — Fiscalização, sanções e disposições especiais
 
-###### Art. 14.º A fiscalização do cumprimento do disposto no presente diploma compete, em especial, à Direcção-Geral das Alfândegas, à Guarda Fiscal, à Direcção-Geral de Inspecção Económica e aos serviços regionais de agricultura e, de uma forma geral, à Direcção-Geral da Pecuária, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Comissão para o Combate ao Contrabando de Gado/Carne, à Direcção-Geral das Contribuições e Impostos e a outras entidades com competência na matéria.
+Art. 14.º A fiscalização do cumprimento do disposto no presente diploma compete, em especial, à Direcção-Geral das Alfândegas, à Guarda Fiscal, à Direcção-Geral de Inspecção Económica e aos serviços regionais de agricultura e, de uma forma geral, à Direcção-Geral da Pecuária, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Comissão para o Combate ao Contrabando de Gado/Carne, à Direcção-Geral das Contribuições e Impostos e a outras entidades com competência na matéria.
 
-###### Art. 15.º A violação dos deveres impostos pelos artigos 7.º, 8.º a 10.º, bem como a circulação de gado, carne e produtos cárneos em desconformidade com o que constar das guias de circulação nos termos do artigo 3.º, quando ao facto não seja aplicável sanção mais grave, constitui contra-ordenação punível com coima de 50000$00 a 500000$00, no caso de pessoa singular, ou até 6000000$00, no caso de pessoa colectiva.
+Art. 15.º A violação dos deveres impostos pelos artigos 7.º, 8.º a 10.º, bem como a circulação de gado, carne e produtos cárneos em desconformidade com o que constar das guias de circulação nos termos do artigo 3.º, quando ao facto não seja aplicável sanção mais grave, constitui contra-ordenação punível com coima de 50000$00 a 500000$00, no caso de pessoa singular, ou até 6000000$00, no caso de pessoa colectiva.
 
-###### Art. 16.º A falta de marcação e de documento de natureza sanitária e ou profiláctica no caso de gado e de marcação de carne e produtos cárneos legalmente exigíveis, quando ao facto não seja aplicável sanção mais grave, constitui contra-ordenação punível com coima de 10000$00 até 500000$00, no caso de pessoa singular, ou até 6000000$00, no caso de pessoa colectiva, não podendo em caso algum ser inferior ao valor da mercadoria, desde que este não exceda os limites máximos atrás fixados.
+Art. 16.º A falta de marcação e de documento de natureza sanitária e ou profiláctica no caso de gado e de marcação de carne e produtos cárneos legalmente exigíveis, quando ao facto não seja aplicável sanção mais grave, constitui contra-ordenação punível com coima de 10000$00 até 500000$00, no caso de pessoa singular, ou até 6000000$00, no caso de pessoa colectiva, não podendo em caso algum ser inferior ao valor da mercadoria, desde que este não exceda os limites máximos atrás fixados.
 
-###### Art. 17.º - 1 - A tentativa e a negligência são puníveis.
+Art. 17.º - 1 - A tentativa e a negligência são puníveis.
 
 2 - Nas contra-ordenações cometidas por negligência ou sob a forma tentada, o limite máximo da coima prevista no correspondente tipo legal é reduzido a metade.
 
-###### Art. 18.º O processamento das contra-ordenações e a aplicação das coimas previstas nos artigos 15.º e 16.º competem, respectivamente, ao director-geral das Alfândegas e ao director-geral da Pecuária.
+Art. 18.º O processamento das contra-ordenações e a aplicação das coimas previstas nos artigos 15.º e 16.º competem, respectivamente, ao director-geral das Alfândegas e ao director-geral da Pecuária.
 
-###### Art. 19.º - 1 - As mercadorias que circulem em circunstâncias indiciatórias da prática de alguma das contra-ordenações previstas nos artigos 15.º e 16.º, bem como os respectivos meios de transporte, serão apreendidos.
+Art. 19.º - 1 - As mercadorias que circulem em circunstâncias indiciatórias da prática de alguma das contra-ordenações previstas nos artigos 15.º e 16.º, bem como os respectivos meios de transporte, serão apreendidos.
 
 2 - Da apreensão será elaborado auto de notícia a enviar ao Ministério Público do tribunal competente ou à autoridade administrativa com competência para aplicação de coima, conforme os casos.
 
@@ -270,7 +331,7 @@ c) Passaporte para cavalos emitido pela Federação Equestre Internacional.
 
 7 - A requerimento do interessado, o meio de transporte apreendido poderá ser-lhe entregue provisoriamente, mediante prestação de caução, por depósito ou fiança bancária, de montante equivalente ao valor que lhe for atribuído pela entidade judicial ou administrativa competente.
 
-###### Art. 20.º - 1 - Tratando-se de apreensão de gado cujo proprietário ou transportador se recuse a assumir a qualidade de fiel depositário e não existindo no lugar da apreensão depositário idóneo para o efeito ou quando aqueles sejam desconhecidos, os animais apreendidos serão conduzidos ao matadouro designado pela entidade apreensora, onde ficarão à responsabilidade dos serviços que o administram, os quais diligenciarão o seu abate imediato, devendo, em qualquer caso, ser elaborado termo.
+Art. 20.º - 1 - Tratando-se de apreensão de gado cujo proprietário ou transportador se recuse a assumir a qualidade de fiel depositário e não existindo no lugar da apreensão depositário idóneo para o efeito ou quando aqueles sejam desconhecidos, os animais apreendidos serão conduzidos ao matadouro designado pela entidade apreensora, onde ficarão à responsabilidade dos serviços que o administram, os quais diligenciarão o seu abate imediato, devendo, em qualquer caso, ser elaborado termo.
 
 2 - A carne do gado abatido nos termos do número anterior e aprovada para consumo público será vendida em leilão, com base no preço de garantia.
 
@@ -278,23 +339,23 @@ c) Passaporte para cavalos emitido pela Federação Equestre Internacional.
 
 4 - O gado referido no n.º 1 que não reúna condições para abate imediato, ou quando este não se justifique pelo seu valor zootécnico mediante parecer do inspector sanitário, poderá, por decisão do tribunal, tratando-se de crime, ou das entidades competentes, em caso de contra-ordenação, ser vendido nos termos da lei aplicável.
 
-###### Art. 21.º - 1 - Se a apreensão for constituída por carne ou produto cárneo, a entidade veterinária oficial local ou regional efectuará a respectiva inspecção e dela elaborará relatório, após o que, se a mesma for considerada própria para consumo, a entidade apreensora, por decisão da autoridade judiciária ou da autoridade competente para aplicação de coima, promoverá a sua venda nos termos da lei.
+Art. 21.º - 1 - Se a apreensão for constituída por carne ou produto cárneo, a entidade veterinária oficial local ou regional efectuará a respectiva inspecção e dela elaborará relatório, após o que, se a mesma for considerada própria para consumo, a entidade apreensora, por decisão da autoridade judiciária ou da autoridade competente para aplicação de coima, promoverá a sua venda nos termos da lei.
 
 2 - Se a carne ou produtos cárneos a que se reporta o número anterior forem considerados impróprios para consumo, serão destruídos ou aproveitados para outros fins permitidos por lei.
 
-###### Art. 22.º O produto líquido da venda das mercadorias a que se referem os artigos 19.º, 20.º e 21.º será depositado na Caixa Geral de Depósitos, à ordem do respectivo processo, deduzidos os descontos legais e outras despesas que hajam sido efectuadas.
+Art. 22.º O produto líquido da venda das mercadorias a que se referem os artigos 19.º, 20.º e 21.º será depositado na Caixa Geral de Depósitos, à ordem do respectivo processo, deduzidos os descontos legais e outras despesas que hajam sido efectuadas.
 
-###### Art. 23.º - 1 - A entidade apreensora ou participante de quaisquer ocorrências ao Ministério Público ou à entidade competente para o processamento e aplicação de coimas enviará à Comissão para o Combate ao Contrabando de Gado/Carne, para eventual procedimento disciplinar ou indagação no âmbito da sua competência, cópia das participações ou autos de notícia.
+Art. 23.º - 1 - A entidade apreensora ou participante de quaisquer ocorrências ao Ministério Público ou à entidade competente para o processamento e aplicação de coimas enviará à Comissão para o Combate ao Contrabando de Gado/Carne, para eventual procedimento disciplinar ou indagação no âmbito da sua competência, cópia das participações ou autos de notícia.
 
 2 - O Ministério Público e as entidades competentes referidas no número anterior promoverão a remessa à referida Comissão da decisão final proferida no respectivo processo.
 
-###### Art. 24.º - 1 - A Direcção-Geral das Alfândegas ou as suas delegações enviarão à Comissão referida no artigo anterior relação respeitante a trocas intracomunitárias e a importações e exportações de gado, carne e produtos cárneos, com referência aos documentos que as titularam.
+Art. 24.º - 1 - A Direcção-Geral das Alfândegas ou as suas delegações enviarão à Comissão referida no artigo anterior relação respeitante a trocas intracomunitárias e a importações e exportações de gado, carne e produtos cárneos, com referência aos documentos que as titularam.
 
 2 - A Direcção-Geral da Pecuária enviará à mesma Comissão relação relativa às trocas de gado, carne e produtos cárneos destinados ao continente, quando provenientes das Regiões Autónomas dos Açores e da Madeira, com referência ao documento por ela emitido.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 25.º Serão objecto de portaria conjunta dos Ministros da Justiça e da Agricultura, Pescas e Alimentação:
+Art. 25.º Serão objecto de portaria conjunta dos Ministros da Justiça e da Agricultura, Pescas e Alimentação:
 
 a) Os modelos de guias de circulação, sua impressão e distribuição;
 
@@ -304,20 +365,20 @@ c) As normas de identificação animal;
 
 d) As normas referentes a medidas sanitárias e profiláticas.
 
-###### Art. 26.º As guias previstas no artigo 3.º substituem, para todos os efeitos, em matéria de circulação de gado, carne e produtos cárneos, os documentos citados na alínea b) do § 4.º do artigo 691.º do Regulamento das Alfândegas, aprovado pelo Decreto-Lei n.º 31730, de 15 de Dezembro de 1941, na redacção que lhe foi dada pelo [Decreto-Lei n.º 21/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1990-333561), de 16 de Janeiro, a guia prevista pelo artigo 694.º do mesmo Regulamento e as guias previstas pelos artigos 19.º, 20.º e 31.º do anexo IV do [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho.
+Art. 26.º As guias previstas no artigo 3.º substituem, para todos os efeitos, em matéria de circulação de gado, carne e produtos cárneos, os documentos citados na alínea b) do § 4.º do artigo 691.º do Regulamento das Alfândegas, aprovado pelo Decreto-Lei n.º 31730, de 15 de Dezembro de 1941, na redacção que lhe foi dada pelo [Decreto-Lei n.º 21/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1990-333561), de 16 de Janeiro, a guia prevista pelo artigo 694.º do mesmo Regulamento e as guias previstas pelos artigos 19.º, 20.º e 31.º do anexo IV do [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho.
 
-###### Art. 27.º São revogados o [Decreto-Lei n.º 54/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1984-660345) e o [Decreto Regulamentar n.º 8/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1984-660344), ambos de 15 de Fevereiro.
+Art. 27.º São revogados o [Decreto-Lei n.º 54/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1984-660345) e o [Decreto Regulamentar n.º 8/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1984-660344), ambos de 15 de Fevereiro.
 
-###### Art. 28.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
+Art. 28.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - José Manuel Cardoso Borges Soeiro - Arlindo Marques da Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 7 de Setembro de 1990.**
+Promulgado em 7 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1990.**
+Referendado em 11 de Setembro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

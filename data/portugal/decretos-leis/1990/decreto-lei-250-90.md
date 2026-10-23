@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/08/17700/31623164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1990-573317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9fc1e83fe3df54983781d9b5fbcf46574aa950b7e6613da61db62d0f6ec1545
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4b5de492b61fde5901857a8d52d6bab94657eaf1d39a2cbc72fc74091237b03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Impresso
+- Instituto Português de Conservas e Pescado
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667902:por
+  label: Alterados os art.s 66º e 67º do Estatuto do Instituto Português de Conservas e Pescado, aprovado pelo Dec Lei 266/86,
+    de 03-Set, na redacção do presente diploma, pelo DEC LEI.241/91.05.07.1991.MAPA, DR.IS-A [152] de 05.07.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1991-667902
+  date: '1991-07-05'
+- type: cites
+  target: pt:dre:220103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:01:20Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +117,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 32.º, 33.º, 38.º e 66.º do Estatuto do Instituto Português de Conservas e Pescado (IPCP), aprovado pelo [Decreto-Lei n.º 266/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103), de 3 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 32.º, 33.º, 38.º e 66.º do Estatuto do Instituto Português de Conservas e Pescado (IPCP), aprovado pelo [Decreto-Lei n.º 266/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1986-220103), de 3 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) ...
 
@@ -143,7 +161,7 @@ t) Assegurar o licenciamento das unidades industriais de transformação dos pro
 
 2 - ...
 
-###### Art. 32.º - 1 - A Direcção de Serviços de Estruturas e Desenvolvimento de Produtos exerce a sua actuação no domínio da modernização e desenvolvimento técnico e económico do sector e, em particular, das respectivas estruturas de comercialização e transformação, da defesa do prestígio, da valorização e da promoção dos produtos da pesca e do licenciamento das unidades da indústria transformadora da pesca.
+Art. 32.º - 1 - A Direcção de Serviços de Estruturas e Desenvolvimento de Produtos exerce a sua actuação no domínio da modernização e desenvolvimento técnico e económico do sector e, em particular, das respectivas estruturas de comercialização e transformação, da defesa do prestígio, da valorização e da promoção dos produtos da pesca e do licenciamento das unidades da indústria transformadora da pesca.
 
 2 - ...
 
@@ -151,7 +169,7 @@ a) ...
 
 b) ...
 
-###### Art. 33.º À Divisão de Estruturas de Comercialização e Transformação compete:
+Art. 33.º À Divisão de Estruturas de Comercialização e Transformação compete:
 
 a) ...
 
@@ -161,26 +179,26 @@ c) ...
 
 d) Assegurar o licenciamento das unidades industriais de transformação dos produtos da pesca.
 
-###### Art. 38.º - 1 - Para o cabal desempenho das suas atribuições, o IPCP dispõe de delegações, que actuam localmente no controlo das indústrias transformadoras dos produtos da pesca e na importação das suas matérias-primas, acompanhando as diversas fases de fabrico e colaborando na resolução dos problemas relacionados com os respectivos licenciamento e actividade.
+Art. 38.º - 1 - Para o cabal desempenho das suas atribuições, o IPCP dispõe de delegações, que actuam localmente no controlo das indústrias transformadoras dos produtos da pesca e na importação das suas matérias-primas, acompanhando as diversas fases de fabrico e colaborando na resolução dos problemas relacionados com os respectivos licenciamento e actividade.
 
 2 - ...
 
-###### Art. 66.º A Direcção-Geral das Alfândegas deve assegurar que os produtos das indústrias transformadoras da pesca destinados à exportação se façam acompanhar do boletim de verificação estatístico F (modelo n.º 114 IPCP), anexo ao presente diploma.
+Art. 66.º A Direcção-Geral das Alfândegas deve assegurar que os produtos das indústrias transformadoras da pesca destinados à exportação se façam acompanhar do boletim de verificação estatístico F (modelo n.º 114 IPCP), anexo ao presente diploma.
 
-###### Art. 2.º Ao Estatuto do IPCP, referido no artigo anterior, é aditado o artigo 67.º, com a seguinte redacção:
+Art. 2.º Ao Estatuto do IPCP, referido no artigo anterior, é aditado o artigo 67.º, com a seguinte redacção:
 
-###### Art. 67.º Sempre que para os produtos da indústria transformadora da pesca os industriais ou exportadores pretendam obter a certificação das respectivas origem, salubridade e qualidade, devem solicitá-la ao IPCP, que a emitirá com base nas normas e determinações por ele fixadas, nos termos do artigo 65.º
+Art. 67.º Sempre que para os produtos da indústria transformadora da pesca os industriais ou exportadores pretendam obter a certificação das respectivas origem, salubridade e qualidade, devem solicitá-la ao IPCP, que a emitirá com base nas normas e determinações por ele fixadas, nos termos do artigo 65.º
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 1990. - Aníbal António Cavaco Silva. - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha - Luís Fernando Mira Amaral.
 
-**Promulgado em 12 de Julho de 1990.**
+Promulgado em 12 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Julho de 1990.**
+Referendado em 14 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/17700/31623164.pdf))](https://files.diariodarepublica.pt/1s/1990/08/17700/31623164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/17700/31623164.pdf)

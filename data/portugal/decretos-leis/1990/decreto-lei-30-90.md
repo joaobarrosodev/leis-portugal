@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1990-335248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:02:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ab9b6c3ef9a4b693949b6b73c2062a04ac24bef200b05ef3b679cd31788f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79400dad058f05e69f38fd78a7a8172244900d46c990bae60d5e2560f32367d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:02:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Carne
+- Controlo Sanitário
+- GADO
+- Produto Cárneo
+- Troca Intracomunitária
+- Veterinário
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:02:25Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +101,20 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [65/277/CEE](https://data.europa.eu/eli/dir/1965/277/oj?locale=pt), da Comissão, de 13 de Maio de 1965, que estabelece a forma para a elaboração de pareceres por peritos veterinários, no âmbito das trocas intracomunitárias de animais, de carne ou de produtos à base de carne.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [65/277/CEE](https://data.europa.eu/eli/dir/1965/277/oj?locale=pt), da Comissão, de 13 de Maio de 1965, que estabelece a forma para a elaboração de pareceres por peritos veterinários, no âmbito das trocas intracomunitárias de animais, de carne ou de produtos à base de carne.
 
-###### Art. 2.º As normas técnicas de execução regulamentar sobre a elaboração dos pareceres referidos no artigo anterior serão aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação, após audição dos órgãos de governo próprio das regiões autónomas.
+Art. 2.º As normas técnicas de execução regulamentar sobre a elaboração dos pareceres referidos no artigo anterior serão aprovadas por portaria do Ministro da Agricultura, Pescas e Alimentação, após audição dos órgãos de governo próprio das regiões autónomas.
 
-###### Art. 3.º Para efeitos de integração na lista comunitária dos peritos veterinários, a Direcção-Geral da Pecuária, ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira, proporá à Comissão das Comunidades Europeias o nome dos referidos peritos.
+Art. 3.º Para efeitos de integração na lista comunitária dos peritos veterinários, a Direcção-Geral da Pecuária, ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira, proporá à Comissão das Comunidades Europeias o nome dos referidos peritos.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 1989. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 13 de Janeiro de 1990.**
+Promulgado em 13 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Janeiro de 1990.**
+Referendado em 15 de Janeiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
