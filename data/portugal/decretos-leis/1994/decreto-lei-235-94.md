@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/1994/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1994-591107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3fdcf25a7b33cd14086d6f988856fc2dc9d206add6ba034ab87a2b3d2067756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0033ba823ec018509d6bed784c3b8aaf2912fa6de3148c68392e5f8fbea39b40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,33 @@ subjects:
 - Comissão Administrativa
 - Quadro de Pessoal
 - Vitivinicultor
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448137:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:58Z'
   warnings: []
   errors: []
 ---
@@ -103,28 +119,28 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Adega Regional de Colares, com os estatutos aprovados pelo [Decreto n.º 31540](https://diariodarepublica.pt/dr/detalhe/decreto/31540-1941-370816), de 29 de Setembro de 1941, assume a natureza de associação cooperativa de viticultores, mantendo a mesma denominação e o respectivo património, direitos e obrigações inerentes.
+Artigo 1.º A Adega Regional de Colares, com os estatutos aprovados pelo [Decreto n.º 31540](https://diariodarepublica.pt/dr/detalhe/decreto/31540-1941-370816), de 29 de Setembro de 1941, assume a natureza de associação cooperativa de viticultores, mantendo a mesma denominação e o respectivo património, direitos e obrigações inerentes.
 
-###### Art. 2.º - 1 - É extinto o quadro de pessoal da Adega Regional de Colares.
+Art. 2.º - 1 - É extinto o quadro de pessoal da Adega Regional de Colares.
 
 2 - O pessoal do quadro da Adega Regional de Colares com relação jurídica de emprego na Administração Pública é considerado disponível, nos termos da lei geral.
 
 3 - A responsabilidade pelos encargos com as pensões complementares de reforma que a Adega Regional de Colares tem vindo a suportar, por força do disposto no [Decreto-Lei n.º 141/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1979-382661), de 22 de Maio, é transferida para a Caixa Geral de Aposentações.
 
-###### Art. 3.º - 1 - A comissão administrativa nomeada pelo Despacho n.º 55/84, de 28 de Maio, do Ministro da Agricultura, Florestas e Alimentação, publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1984, deve promover, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, a realização de uma assembleia geral de associados para aprovar os novos estatutos e eleger o órgão de direcção da Adega Regional de Colares.
+Art. 3.º - 1 - A comissão administrativa nomeada pelo Despacho n.º 55/84, de 28 de Maio, do Ministro da Agricultura, Florestas e Alimentação, publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1984, deve promover, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, a realização de uma assembleia geral de associados para aprovar os novos estatutos e eleger o órgão de direcção da Adega Regional de Colares.
 
 2 - A comissão administrativa referida no número anterior cessa as suas funções com a eleição da direcção da Adega Regional de Colares.
 
-###### Art. 4.º É revogado o Decreto-Lei n.º 31540, de 29 de Setembro de 1941.
+Art. 4.º É revogado o Decreto-Lei n.º 31540, de 29 de Setembro de 1941.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - António Duarte Silva.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1994.**
+Referendado em 22 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

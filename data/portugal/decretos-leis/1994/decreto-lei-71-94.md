@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/1994/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1994-276014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 337c964f7c6d63fa1007bf75ac6eab89c748b60db607ea5d4593554e712ecfff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04fde2e347cb7f48f759d5e238d9ef8524be146a8338e4a028960829b68b754c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,57 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Pessoal Dirigente
-- Ponte 25 de Abril
-- Transporte Ferroviário
 - Criação de Serviços
 - Definição de Competências
 - Gabinete de Gestão das Obras de Instalação do Caminho de Ferro na Ponte sobre o Tejo
-- Recrutamento de Pessoal
 - Gestão Orçamental
 - Junta Autónoma das Estradas
+- Ministro das Obras Públicas Transportes e Comunicações
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
+- Ponte 25 de Abril
+- Recrutamento de Pessoal
 - Remuneração
-- Ministro das Obras Públicas Transportes e Comunicações
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:476739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571196:por
+  label: "Alterado o num 1 do Art 14º pelo Dec Lei 32/97.1997.01.28.MEPAT, DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-1997-571196
+  date: '1997-01-28'
+- type: amended_by
+  target: pt:dre:476739:por
+  label: "Extinto o Gabinete de Gestão das Obras de Instalação do Caminho de Ferro na Ponte sobre o Tejo em Lisboa, pelo Dec\
+    \ Lei 104/97.1997.04.29.MEPAT, DR.IS-A [99] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-1997-476739
+  date: '1997-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374243:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:52Z'
   warnings: []
   errors: []
 ---
@@ -265,12 +284,12 @@ Até ao fim do ano económico de 1994, o GECAF fica sujeito ao regime de autonom
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1993. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 16 de Fevereiro de 1994.**
+Promulgado em 16 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1994.**
+Referendado em 18 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

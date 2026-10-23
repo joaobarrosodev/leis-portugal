@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/1995/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1995-527067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2326df09c3b03a2a7623a093b2784b0d86a1cb1232803a3670b36cfd5741a4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f966d4b974baac776c7c3e575bb35528c6347a8d80ef466d1f3f49f51e5ecf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CEE
-- Multa
-- Direção Geral da Saúde
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral da Saúde
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Fiscalização
+- Multa
 - Política do Ambiente
 - Regulamento CE
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31993R0793
   label: null
   source: http://data.europa.eu/eli/reg/1993/793/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:08Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +110,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Cabe à Direcção-Geral do Ambiente (DGA) o exercício das competências nacionais relativamente à recolha, à difusão e à acessibilidade das informações sobre as substâncias existentes, bem como a avaliação dos riscos para o ambiente a elas inerentes, para efeitos dos artigos 11.º e 12.º do Regulamento (CEE) n.º [793/93](https://data.europa.eu/eli/reg/1993/793/oj?locale=pt), de 23 de Março, adiante designado «Regulamento».
+Artigo 1.º - 1 - Cabe à Direcção-Geral do Ambiente (DGA) o exercício das competências nacionais relativamente à recolha, à difusão e à acessibilidade das informações sobre as substâncias existentes, bem como a avaliação dos riscos para o ambiente a elas inerentes, para efeitos dos artigos 11.º e 12.º do Regulamento (CEE) n.º [793/93](https://data.europa.eu/eli/reg/1993/793/oj?locale=pt), de 23 de Março, adiante designado «Regulamento».
 
 2 - Compete à Direcção-Geral da Saúde (DGS) a avaliação dos riscos para a saúde humana resultantes das substâncias existentes, nos termos dos artigos 10.º e 11.º do regulamento, cabendo à DGA a coordenação dos trabalhos a desenvolver neste âmbito.
 
-###### Art. 2.º - 1 - Os fabricantes e importadores estabelecidos no território nacional devem enviar à DGA as mesmas informações que, ao abrigo dos artigos 3.º e 4.º do regulamento, são comunicadas à Comissão da União Europeia.
+Art. 2.º - 1 - Os fabricantes e importadores estabelecidos no território nacional devem enviar à DGA as mesmas informações que, ao abrigo dos artigos 3.º e 4.º do regulamento, são comunicadas à Comissão da União Europeia.
 
 2 - A DGA deve remeter à DGS cópia dos documentos referidos no número anterior.
 
-###### Art. 3.º - 1 - A violação das obrigações impostas pelo regulamento e pelo artigo anterior constitui contra-ordenação punível com coima, cujo montante mínimo é de 5000$00 e máximo de 500000$00.
+Art. 3.º - 1 - A violação das obrigações impostas pelo regulamento e pelo artigo anterior constitui contra-ordenação punível com coima, cujo montante mínimo é de 5000$00 e máximo de 500000$00.
 
 2 - As coimas aplicadas às pessoas colectivas podem elevar-se até ao montante de 6000000$00.
 
@@ -126,9 +126,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Às contra-ordenações previstas no n.º 1 pode ser aplicada, a título de sanção acessória, a privação do exercício da actividade desenvolvida pelo infractor por prazo não superior a dois anos.
 
-###### Art. 4.º Compete à DGA a fiscalização do cumprimento das disposições do presente diploma, bem como o processamento das contra-ordenações.
+Art. 4.º Compete à DGA a fiscalização do cumprimento das disposições do presente diploma, bem como o processamento das contra-ordenações.
 
-###### Art. 5.º - 1 - A aplicação das coimas e sanções acessórias previstas no artigo 3.º compete ao director-geral do Ambiente.
+Art. 5.º - 1 - A aplicação das coimas e sanções acessórias previstas no artigo 3.º compete ao director-geral do Ambiente.
 
 2 - A afectação do produto das coimas faz-se da seguinte forma:
 
@@ -138,12 +138,12 @@ b) 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

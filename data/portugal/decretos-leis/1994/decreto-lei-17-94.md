@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/1994/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1994-496135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9d280b0c70c4388b8693689159e5bf1cc21c71d3cc3bce08da82f67e5cda374
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcc1d2050f51829c74c10e3b5d7d29d5a14a171435bc7f2eb3bb5b8247f38c0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Definição de Competências
+- Vinho
 - ZONA Vitivinícola
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355570:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:39Z'
   warnings: []
   errors: []
 ---
@@ -99,31 +107,31 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto das Zonas Vitivinícolas dos Biscoitos, na ilha Terceira, Pico e Graciosa, nas ilhas com os respectivos nomes, anexo ao presente diploma e que dele faz parte integrante, com vista à produção e comercialização de vinhos a integrar, respectivamente, os dois primeiros na categoria dos vinhos licorosos de qualidade produzidos em região determinada, abreviadamente designados por VLQPRD, e o último em vinhos de qualidade produzidos em região determinada, abreviadamente designados por VQPRD.
+Artigo 1.º É aprovado o Estatuto das Zonas Vitivinícolas dos Biscoitos, na ilha Terceira, Pico e Graciosa, nas ilhas com os respectivos nomes, anexo ao presente diploma e que dele faz parte integrante, com vista à produção e comercialização de vinhos a integrar, respectivamente, os dois primeiros na categoria dos vinhos licorosos de qualidade produzidos em região determinada, abreviadamente designados por VLQPRD, e o último em vinhos de qualidade produzidos em região determinada, abreviadamente designados por VQPRD.
 
-###### Art. 2.º Compete à Comissão Vitivinícola Regional dos Açores (CVRAçores) a defesa das indicações de proveniência regulamentadas (IPR), correspondente às suas zonas vitivinícolas, a aplicação da respectiva regulamentação, o fomento e o controlo dos VLQPRD e VQPRD ali produzidos e a garantia da sua genuinidade e qualidade, cujos estatutos são elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
+Art. 2.º Compete à Comissão Vitivinícola Regional dos Açores (CVRAçores) a defesa das indicações de proveniência regulamentadas (IPR), correspondente às suas zonas vitivinícolas, a aplicação da respectiva regulamentação, o fomento e o controlo dos VLQPRD e VQPRD ali produzidos e a garantia da sua genuinidade e qualidade, cujos estatutos são elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
 
-###### Art. 3.º Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, a comissão instaladora da CVRAçores, à qual incumbe a elaboração e propositura dos estatutos da Comissão Vitivinícola Regional.
+Art. 3.º Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, a comissão instaladora da CVRAçores, à qual incumbe a elaboração e propositura dos estatutos da Comissão Vitivinícola Regional.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Arlindo Marques da Cunha.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto das Zonas Vitivinícolas dos Biscoitos (ilha Terceira), Graciosa e Pico (ilhas dos respectivos nomes), da Região Autónoma dos Açores.
 
-###### Artigo 1.º - 1 - Na Região Autónoma dos Açores são reconhecidas como indicações de proveniência regulamentada (IPR) para a produção de vinhos a integrar na categoria dos vinhos licorosos de qualidade produzidos em região determinada (VLQPRD) e vinhos de qualidade produzidos em região determinada (VQPRD) da nomenclatura comunitária as denominações «Biscoitos» e «Pico» para os VLQPRD e «Graciosa» para os VQPRD, de que poderão usufruir os vinhos brancos produzidos nas respectivas áreas delimitadas que satisfaçam as disposições dos presentes Estatutos e outros requisitos legais aplicáveis aos VLQPRD e aos VQPRD.
+Artigo 1.º - 1 - Na Região Autónoma dos Açores são reconhecidas como indicações de proveniência regulamentada (IPR) para a produção de vinhos a integrar na categoria dos vinhos licorosos de qualidade produzidos em região determinada (VLQPRD) e vinhos de qualidade produzidos em região determinada (VQPRD) da nomenclatura comunitária as denominações «Biscoitos» e «Pico» para os VLQPRD e «Graciosa» para os VQPRD, de que poderão usufruir os vinhos brancos produzidos nas respectivas áreas delimitadas que satisfaçam as disposições dos presentes Estatutos e outros requisitos legais aplicáveis aos VLQPRD e aos VQPRD.
 
 2 - Fica proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos nestes Estatutos, induzirem em confusão o consumidor, mesmo que precedidos dos termos «tipo», «estilo» ou outros análogos.
 
-###### Art. 2.º A área geográfica correspondente a cada uma das denominações consideradas, conforme representação cartográfica na escala de 1:200000 em anexo, abrange:
+Art. 2.º A área geográfica correspondente a cada uma das denominações consideradas, conforme representação cartográfica na escala de 1:200000 em anexo, abrange:
 
 a) Biscoitos - no município da Praia da Vitória, a freguesia dos Biscoitos, em áreas de altitude igual ou inferior a 100 m;
 
@@ -137,7 +145,7 @@ No município das Lajes, a freguesia da Piedade, nos lugares de Engrade e Manhen
 
 c) Graciosa - no município de Santa Cruz, a freguesia do mesmo nome e as de Guadalupe, Praia e Luz, em áreas de altitude igual ou inferior a 150 m.
 
-###### Art. 3.º As vinhas destinadas a VLQPRD e VQPRD devem estar ou ser instaladas em solos de acordo com as características a seguir referidas com a exposição aconselhável para a produção destes vinhos:
+Art. 3.º As vinhas destinadas a VLQPRD e VQPRD devem estar ou ser instaladas em solos de acordo com as características a seguir referidas com a exposição aconselhável para a produção destes vinhos:
 
 a) Biscoitos - solos litólitos não húmidos e litossolos, sobre substrato consolidado de basaltos ou rochas afins, andesitos e traquitos, em geral correspondente a lavas recentes, frequentemente associados a afloramentos rochosos e por vezes com material pedregoso disseminado;
 
@@ -145,7 +153,7 @@ b) Pico - solos lotólicos não húmidos e litossolos, sobre substrato consolida
 
 c) Graciosa - solos pardo-andicos, normais e pouco espessos, e solos rególicos derivados de rochas basálticas ou de materiais piraclásticos assentes sobre rocha basáltica a pouca profundidade.
 
-###### Art. 4.º - 1 - As castas a utilizar com vista aos VLQPRD e VQPRD são as seguintes:
+Art. 4.º - 1 - As castas a utilizar com vista aos VLQPRD e VQPRD são as seguintes:
 
 a) Biscoitos:
 
@@ -167,15 +175,15 @@ Castas autorizadas - Malvasia, Sercial, Generosa, Seara Nova, Rio Grande e Bical
 
 2 - A comercialização de vinhos com referência a uma ou duas castas só poderá ser feita em relação às recomendadas com prévia autorização da CVRAçores e em observância das disposições de âmbito geral aplicáveis.
 
-###### Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas, as vinhas deverão ser estremes e poderão ser conduzidas no chão, em taça ou cordão.
+Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas, as vinhas deverão ser estremes e poderão ser conduzidas no chão, em taça ou cordão.
 
 2 - As práticas culturais deverão ser as tradicionais ou as recomendadas pela CVRAçores, em ligação com os Serviços de Desenvolvimento Agrário.
 
-###### Art. 6.º - 1 - As vinhas destinadas aos VLQPRD e VQPRD abrangidos pelos presentes Estatutos devem, a pedido dos interessados, ser inscritas na CVRAçores, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
+Art. 6.º - 1 - As vinhas destinadas aos VLQPRD e VQPRD abrangidos pelos presentes Estatutos devem, a pedido dos interessados, ser inscritas na CVRAçores, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
 
 2 - Sempre que se verifiquem alterações na constituição das vinhas cadastradas e aprovadas, será do facto dado conhecimento pelos respectivos viticultores, sob pena de os seus vinhos deixarem de ter direito à denominação.
 
-###### Art. 7.º - 1 - Os vinhos protegidos pelos presentes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais, a estudar pela CVRAçores, deverá decorrer dentro da zona respectiva, em adegas inscritas e aprovadas para o efeito e que ficarão sob o controlo da referida Comissão.
+Art. 7.º - 1 - Os vinhos protegidos pelos presentes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais, a estudar pela CVRAçores, deverá decorrer dentro da zona respectiva, em adegas inscritas e aprovadas para o efeito e que ficarão sob o controlo da referida Comissão.
 
 2 - Na elaboração serão seguidos os métodos e práticas enológicos tradicionais legalmente autorizados.
 
@@ -183,21 +191,21 @@ Castas autorizadas - Malvasia, Sercial, Generosa, Seara Nova, Rio Grande e Bical
 
 4 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação, a CVRAçores estabelecerá os termos em que deverá decorrer a vinificação, devendo os referidos vinhos ser conservados em secções separadas, em vasilhas com a devida identificação, de que constem as indicações relativas ao volume da vasilha, à espécie de vinho contido e ao ano de colheita.
 
-###### Art. 8.º - 1 - Os mostos destinados aos vinhos de denominação VLQPRD dos Biscoitos e Pico devem ter um título alcoométrico volúmico em potência mínimo natural de 12% vol.
+Art. 8.º - 1 - Os mostos destinados aos vinhos de denominação VLQPRD dos Biscoitos e Pico devem ter um título alcoométrico volúmico em potência mínimo natural de 12% vol.
 
 2 - Os mostos destinados aos vinhos de denominação VQPRD da Graciosa devem ter um título alcoométrico volúmico em potência mínimo natural de 10% vol.
 
-###### Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação VLQPRD é fixado em 50 hl.
+Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação VLQPRD é fixado em 50 hl.
 
 2 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação VQPRD é fixado em 70 hl.
 
 3 - No caso de a produção exceder o quantitativo fixado, não pode ser utilizada a denominação para a totalidade da colheita, salvo em anos de produção excepcional, em que o Instituto da Vinha e do Vinho (IVV), sob proposta da CVRAçores, estabelecerá o limite de produção com direito à utilização da denominação e o destino da produção excedentária.
 
-###### Art. 10.º - 1 - Os vinhos a coberto da denominação (VLQPRD) Biscoitos e Pico só podem ser engarrafados após estágio de três anos em cascos de madeira.
+Art. 10.º - 1 - Os vinhos a coberto da denominação (VLQPRD) Biscoitos e Pico só podem ser engarrafados após estágio de três anos em cascos de madeira.
 
 2 - Os vinhos a coberto da denominação (VQPRD) Graciosa só podem ser engarrafados após estágio mínimo de nove meses.
 
-###### Art. 11.º - 1 - Os vinhos de denominação Biscoitos e Pico devem apresentar um título alcoométrico volúmico total não inferior a 16% vol.
+Art. 11.º - 1 - Os vinhos de denominação Biscoitos e Pico devem apresentar um título alcoométrico volúmico total não inferior a 16% vol.
 
 2 - Os vinhos de denominação Graciosa devem apresentar um título alcoométrico volúmico total não inferior a 10,5%.
 
@@ -205,12 +213,12 @@ Castas autorizadas - Malvasia, Sercial, Generosa, Seara Nova, Rio Grande e Bical
 
 4 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor, a definir por regulamento interno da CVRAçores.
 
-###### Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização de vinhos abrangidos pelos presentes Estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua inscrição, bem como das respectivas instalações, na CVRAçores, em registo apropriado.
+Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização de vinhos abrangidos pelos presentes Estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua inscrição, bem como das respectivas instalações, na CVRAçores, em registo apropriado.
 
-###### Art. 13.º Os vinhos objecto dos presentes Estatutos só podem ser postos em circulação e comercialização desde que, nos respectivos recipientes à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela CVRAçores.
+Art. 13.º Os vinhos objecto dos presentes Estatutos só podem ser postos em circulação e comercialização desde que, nos respectivos recipientes à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela CVRAçores.
 
-###### Art. 14.º - 1 - O engarrafamento só poderá ser feito após a aprovação do respectivo vinho pela CVRAçores, confirmando satisfazer as necessárias exigências.
+Art. 14.º - 1 - O engarrafamento só poderá ser feito após a aprovação do respectivo vinho pela CVRAçores, confirmando satisfazer as necessárias exigências.
 
 2 - Os rótulos a utilizar deverão ser apresentados à apreciação prévia da CVRAçores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020a00/03540356.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020a00/03540356.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020a00/03540356.pdf)

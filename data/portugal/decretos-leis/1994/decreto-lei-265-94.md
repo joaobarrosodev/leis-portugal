@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/265/1994/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1994-624623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef46f9423bda7557d31cc2db771bc6286ad4b451fe61810108a21788fc8e554d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9bc1d3d572f10021a7b16cdcdad93fc957883e037a9cfe6edfed04d8d3a31c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
-- Contra-ordenação
 - Certificado de Qualidade
-- Normas de Segurança
 - Comércio
+- Contra-ordenação
+- Multa
+- Normas de Segurança
 - Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
@@ -82,16 +82,21 @@ relationships:
   target: celex:31993L0015
   label: null
   source: http://data.europa.eu/eli/dir/1993/15/oj
+- type: repealed_by
+  target: pt:dre:105711868:por
+  label: Revogados os arts. 1.º a 5.º pelo(a) Decreto-Lei n.º 9/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2017-105711868
+  date: '2017-01-10'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:41Z'
   warnings: []
   errors: []
 ---
@@ -202,15 +207,15 @@ Em tudo o que não contrariar o presente diploma aplicam-se subsidiariamente os 
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Requisitos essenciais de segurança
 
@@ -562,4 +567,4 @@ Os relatórios dos ensaios.
 
 ## ANEXO III — Símbolo gráfico a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/247a00/64236428.pdf))](https://files.diariodarepublica.pt/1s/1994/10/247a00/64236428.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/247a00/64236428.pdf)

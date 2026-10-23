@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/083a00/16691673.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/1994/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1994-257587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddd3b302e90b53bafb5943025aeb803384596c00fb6c0b63f123d3933a2abc56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 912d58ad2ad7c4578720f193d2208ce04864491bfe1257ce0523fa7813495274
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Medicina
-- Indústria Farmacêutica
-- Multa
 - Contra-ordenação
+- Dados Pessoais
 - Definição de Competências
 - Experimentação nos Seres Humanos
-- Medicamento
-- Seguro
+- Indústria Farmacêutica
 - Investigação
-- Dados Pessoais
+- Investigador
+- Medicamento
+- Medicina
+- Multa
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:480518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480518:por
+  label: "Revogado pela LEI.46/2004.19.08.2004.AR, DR.IS-A [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2004-480518
+  date: '2004-08-19'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:25Z'
   warnings: []
   errors: []
 ---
@@ -377,12 +386,12 @@ d) A falta de comunicação ao Instituto Nacional da Farmácia e do Medicamento 
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

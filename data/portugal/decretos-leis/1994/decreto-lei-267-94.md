@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/1994/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1994-624626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee679bc955a5d4309f7ec20cdf2ec7d5e22238ac222f820297665dbd663da6ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dc8360e9e58dbf264371a93a1ca463be5734c5af3854bf55fc9c3d8e0f9c41c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,63 @@ reuse:
 subjects:
 - Código Civil
 - Código do Registo Predial
-- Propriedade Horizontal
-- Propriedade de BENS
-- Registo Predial
 - Direito Civil
 - Prédio Urbano
+- Propriedade de BENS
+- Propriedade Horizontal
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632723:por
+  label: "Alterado o art. 95.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.533/99.1999.12.11.MJ DR.IS-A [287]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterado, a partir de 15.09.2003, o art. 95.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul,\
+    \ na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 82º e 95º e revogada a al. e) do nº 1 do art. 82º do Código do Registo Predial aprovado pelo\
+    \ Dec Lei 224/84, de 06-Jul, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:175306:por
+  label: "Alterados, a partir de 13.09.2012, os arts. 1424º e 1426º do Código Civil, aprovado pelo Dec Lei 47344, de 25-nov\
+    \ 1966, na redação do presente diploma, pela LEI.32/2012.14.08.2012.AR, DR.IS [157] de 14.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2012-175306
+  date: '2012-08-14'
+- type: cites
+  target: pt:dre:245519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:42Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +174,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1418.º, 1419.º, 1421.º, 1422.º, 1424.º, 1426.º, 1429.º, 1432.º, 1433.º, 1435.º e 1436.º do Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1418.º, 1419.º, 1421.º, 1422.º, 1424.º, 1426.º, 1429.º, 1432.º, 1433.º, 1435.º e 1436.º do Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, passam a ter a seguinte redacção:
 
 ###### Artigo 1418.º — Conteúdo do título constitutivo
 
@@ -305,7 +342,7 @@ l) Assegurar a execução do regulamento e das disposições legais e administra
 
 m) Guardar e manter todos os documentos que digam respeito ao condomínio.
 
-###### Art. 2.º São aditados ao Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, os artigos 1422.º-A, 1429.º-A, 1435.º-A e 1438.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, os artigos 1422.º-A, 1429.º-A, 1435.º-A e 1438.º-A, com a seguinte redacção:
 
 ###### Artigo 1422.º-A — Junção e divisão de fracções autónomas
 
@@ -337,7 +374,7 @@ m) Guardar e manter todos os documentos que digam respeito ao condomínio.
 
 O regime previsto neste capítulo pode ser aplicado, com as necessárias adaptações, a conjuntos de edifícios contíguos funcionalmente ligados entre si pela existência de partes comuns afectadas ao uso de todas ou algumas unidades ou fracções que os compõem.
 
-###### Art. 3.º Os artigos 916.º e 1225.º do Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 916.º e 1225.º do Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, passam a ter a seguinte redacção:
 
 ###### Artigo 916.º — [...]
 
@@ -357,7 +394,7 @@ O regime previsto neste capítulo pode ser aplicado, com as necessárias adapta�
 
 4 - O disposto nos números anteriores é aplicável ao vendedor de imóvel que o tenha construído, modificado ou reparado.
 
-###### Art. 4.º Os artigos 82.º e 95.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 82.º e 95.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 82.º — [...]
 
@@ -419,16 +456,16 @@ z) ...
 
 2 - ...
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Janeiro de 1995.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Janeiro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 28 de Julho de 1994. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Luís Filipe Alves Monteiro - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

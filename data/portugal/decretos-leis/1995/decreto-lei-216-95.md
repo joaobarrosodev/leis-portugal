@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/197a00/53915392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/1995/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1995-432461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92f5c826e16c3fa08eace374c78884c60fb9e5c73ab7da97a0d5d3cbdd9a14d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe897a6c52c17d4ca7783e54b90196d09daf799c8187615f0fd9ae047ca2b5f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
 - Aproximação das Legislações
 - CEE
-- Multa
 - Contra-ordenação
-- Crédito à Pecuária
 - Controlo Sanitário
+- Crédito à Pecuária
 - Exploração Pecuária
+- GADO
 - Importação
-- Reprodução Animal
 - JURO Bonificado
 - Linha de Crédito
+- Multa
 - Política Agrícola Comum
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
@@ -92,16 +92,21 @@ relationships:
   target: celex:31995L0065
   label: null
   source: http://data.europa.eu/eli/dir/1995/65/oj
+- type: repealed_by
+  target: pt:dre:670027:por
+  label: "Revogado, a 25.06.2011, pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:55Z'
   warnings: []
   errors: []
 ---
@@ -122,15 +127,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para o ordenamento jurídico interno a Directiva n.º [92/65/CEE](https://data.europa.eu/eli/dir/1995/65/oj?locale=pt), do Conselho, de 13 de Julho, que define as condições de polícia sanitária que regem as importações de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações específicas referidas na secção I do anexo A da Portaria n.º 575/93, de 4 de Junho.
+Artigo 1.º O presente diploma transpõe para o ordenamento jurídico interno a Directiva n.º [92/65/CEE](https://data.europa.eu/eli/dir/1995/65/oj?locale=pt), do Conselho, de 13 de Julho, que define as condições de polícia sanitária que regem as importações de animais, sémens, óvulos e embriões não sujeitos, no que se refere às condições de polícia sanitária, às regulamentações específicas referidas na secção I do anexo A da Portaria n.º 575/93, de 4 de Junho.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura e do Comércio e Turismo.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura e do Comércio e Turismo.
 
-###### Art. 3.º A coordenação e o controlo das acções a desenvolver para execução do presente diploma e respectivas disposições regulamentares competem ao Instituto de Protecção da Produção Agro-Alimentar, adiante designado por IPPAA, na qualidade de autoridade sanitária veterinária nacional, sem prejuízo das competências atribuídas por lei à Inspecção-Geral das Actividades Económicas (IGAE).
+Art. 3.º A coordenação e o controlo das acções a desenvolver para execução do presente diploma e respectivas disposições regulamentares competem ao Instituto de Protecção da Produção Agro-Alimentar, adiante designado por IPPAA, na qualidade de autoridade sanitária veterinária nacional, sem prejuízo das competências atribuídas por lei à Inspecção-Geral das Actividades Económicas (IGAE).
 
-###### Art. 4.º Compete ao IPPAA e às direcções regionais de agricultura assegurar a fiscalização do cumprimento das normas constantes do presente diploma e suas disposições regulamentares, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente à IGAE, por força do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro.
+Art. 4.º Compete ao IPPAA e às direcções regionais de agricultura assegurar a fiscalização do cumprimento das normas constantes do presente diploma e suas disposições regulamentares, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente à IGAE, por força do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro.
 
-###### Art. 5.º - 1 - Constituem contra-ordenações:
+Art. 5.º - 1 - Constituem contra-ordenações:
 
 a) A importação de países terceiros, o transporte e a comercialização dos animais, sémens, óvulos e embriões em desrespeito pelas normas estabelecidas nos termos previstos no artigo 2.º;
 
@@ -148,15 +153,15 @@ e) A criação de impedimentos à fiscalização e controlo das autoridades sani
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Art. 6.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na lei geral.
+Art. 6.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na lei geral.
 
 2 - Quando seja aplicada a sanção de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares para o seu normal funcionamento.
 
-###### Art. 7.º - 1 - A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da área em que foi cometida a infracção, à qual serão enviados os autos de notícia levantados por outras entidades.
+Art. 7.º - 1 - A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da área em que foi cometida a infracção, à qual serão enviados os autos de notícia levantados por outras entidades.
 
 2 - Finda a instrução, os processos são remetidos ao conselho directivo do IPPAA para decisão.
 
-###### Art. 8.º O produto das coimas reverte:
+Art. 8.º O produto das coimas reverte:
 
 a) Em 20% para a entidade que aplicou a coima;
 
@@ -166,9 +171,9 @@ c) Em 10% para a entidade que instruiu o processo;
 
 d) Em 60% para o Estado.
 
-###### Art. 9.º Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas ao IPPAA. pelos artigos 4.º e 7.º são exercidas pelos correspondentes serviços das administrações regionais com idênticas funções e competências, constituindo receita das Regiões Autónomas o produto das coimas aí cobradas.
+Art. 9.º Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas ao IPPAA. pelos artigos 4.º e 7.º são exercidas pelos correspondentes serviços das administrações regionais com idênticas funções e competências, constituindo receita das Regiões Autónomas o produto das coimas aí cobradas.
 
-###### Art. 10.º O artigo 8.º do Decreto-Lei n.º 146/94, de 24 de Maio, passa a ter a seguinte redacção:
+Art. 10.º O artigo 8.º do Decreto-Lei n.º 146/94, de 24 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 8.º — [...]
 
@@ -184,12 +189,12 @@ d) Em 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 14 de Junho de 1995. - Aníbal António Cavaco Silva Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - António Duarte Silva - Alexandre Carlos de Mello Vieira Costa Relvas.
 
-**Promulgado em 28 de Julho de 1995.**
+Promulgado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Agosto de 1995.**
+Referendado em 1 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.

@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20260-1963-680465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e18325a6ee21226f724dbd5b05b91a78d73f1e0435c1114db34a1cb64815ce6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 414f801b7e0ac53548d9b665d4f73008065a2cbf439829f71b5f4180430e8190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Despesas Públicas
+- Gestão Orçamental
+- Guiné.Colónia Portuguesa
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+- Timor.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:10Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +117,9 @@ a) Reforçar com as importâncias que se indicam as seguintes verbas da tabela d
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 300.º, n.º 10) «Outros encargos - Para fazer face aos encargos resultantes de conferências internacionais e organismos delas derivados e outras despesas correlativas» ... 20000$00
+Artigo 300.º, n.º 10) «Outros encargos - Para fazer face aos encargos resultantes de conferências internacionais e organismos delas derivados e outras despesas correlativas» ... 20000$00
 
-###### Artigo 305.º, n.º 27), alínea c) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1963 - Passagens de regresso» ... 10000$00
+Artigo 305.º, n.º 27), alínea c) «Diversas despesas - Passagens a estudantes, nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1963 - Passagens de regresso» ... 10000$00
 
 ... 30000$00
 
@@ -101,11 +127,11 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
-###### Artigo 116.º, n.º 1), alínea a) «Subdelegação da Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10000$00
+Artigo 116.º, n.º 1), alínea a) «Subdelegação da Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10000$00
 
 ### CAPÍTULO 6.º — Serviços de justiça
 
-###### Artigo 183.º, n.º 1), alínea a) «Conservatória do Registo Civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+Artigo 183.º, n.º 1), alínea a) «Conservatória do Registo Civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
 
 ... 30000$00
 
@@ -119,7 +145,7 @@ Serviços de obras públicas, portos e transportes
 
 Despesas com o pessoal:
 
-###### Artigo 163.º «Remunerações certas ao pessoal em exercício»:
+Artigo 163.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei», alínea a) «Vencimentos» ... 20000$00
 
@@ -139,7 +165,7 @@ Das disponibilidades existentes nas seguintes verbas da referida tabela de despe
 
 ### CAPÍTULO 9.º — Serviços de marinha
 
-###### Artigo 240.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - N.º 1) «Pessoal dos quadros aprovados por lei» ... 19250$00
+Artigo 240.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - N.º 1) «Pessoal dos quadros aprovados por lei» ... 19250$00
 
 N.º 2) «Pessoa contratado» ... 38500$00
 

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20183-1963-683992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9008f2658220974bb8fcc93c0948b8ba2995120bc669f3bf2166dfc5562f5f4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e9afc4dd6495d1d8942af1f5c47c23227cce6aaf7bbbc73049b3bcf576dc0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Força Aérea
+- Militar
+- Recrutamento Militar
+relationships:
+- type: cites
+  target: pt:dre:155472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:32Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 1.º As designações e a localização do centro de recrutamento da 1.ª região aérea e das unidades referidas nos artigos 32.º, 33.º, 34.º, 35.º, 36.º e 38.º do [Decreto-Lei n.º 44724](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44724-1962-155472), de 24 de Novembro de 1962, são as seguintes, no que respeita à metrópole:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/11/27400/17581759.pdf))](https://files.diariodarepublica.pt/1s/1963/11/27400/17581759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/11/27400/17581759.pdf)
 
 2.º São revogadas as Portarias n.º 16993, de 12 de Janeiro de 1959, e n.º 19686, de 6 de Fevereiro de 1963.
 

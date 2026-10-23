@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/046a00/08350842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/1994/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1994-515474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 126d6f56e4f93d7e433c843af2ce0ae186eaf6dd289dc26fff50ec4d266d6ecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de9ac145d5317d0f009a59cd61efc5cbd1af2f4fa5791c8d11667b7e1c5c85e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Orgânica
-- Quadro de Pessoal
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:521015:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221735:por
+  label: "Alterado o art. 16.º pelo DEC LEI.41/98.1998.02.28.MNE DR.IS-A [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1998-221735
+  date: '1998-02-28'
+- type: amended_by
+  target: pt:dre:571193:por
+  label: "Alterado o art. 18.º, e acrescentado um lugar de chefe de divisão ao quadro anexo a que se refere o nº 1 do art.\
+    \ 23.º do citado diploma, pelo DEC LEI.355/99.1999.09.11.MNE DR.IS-A [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1999-571193
+  date: '1999-09-11'
+- type: amended_by
+  target: pt:dre:521015:por
+  label: "Determinada a sucessão da Secretaria-Geral relativamente às atribuições da SG, cuja orgânica foi aprovada pelo presente\
+    \ diploma, e revogado o mesmo pelo DEC LEI.117/2007.27.04.2007.MNE, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2007-521015
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464045:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:672450:por
+  label: "Revogadas as als. a) a e) do nº 1 do art. 20º pelo Dec Lei.285/97.1997.10.22.MNE, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1997-672450
+  date: '1997-10-22'
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:17Z'
   warnings: []
   errors: []
 ---
@@ -393,7 +423,9 @@ c) Definir as necessidades do parque automóvel do Ministério e promover a sua 
 
 d) Promover e acompanhar os concursos públicos ou limitados necessários à aquisição de bens e serviços.
 
-###### Artigo 12.º — Divisão de Apoio Jurídico
+###### Artigo 12.º
+
+##### Divisão de Apoio Jurídico
 
 Compete à Divisão de Apoio Jurídico:
 
@@ -689,15 +721,15 @@ Ao pessoal a que se refere o artigo 3.º do [Decreto-Lei n.º 367/80](https://di
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro a que se refere o n.º 1 do artigo 23.º
 

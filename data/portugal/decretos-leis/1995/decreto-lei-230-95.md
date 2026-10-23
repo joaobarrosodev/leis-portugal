@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/1995/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1995-562270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4d1fda17b6e68f9f461a41f5259590b5ba833af59f00df00fd193675ef78440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b9284122e57a2c9acc670d4bb44bccf361ae0958f1b33bf478461b5ec2aac5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,40 @@ relationships:
   target: pt:dre:494547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406567:por
+  label: "Alterados os arts. 17º, 19º, 36º-A, 43º, 44º, 47º do Dec Lei 24/91, de 11-Jan, na redacção do presente diploma,\
+    \ pelo DEC LEI.320/97.25.11.1997.MF, DR.IS-A [273] de 25.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1997-406567
+  date: '1997-11-25'
+- type: amended_by
+  target: pt:dre:138778:por
+  label: "Alterados os art. 28º, 44º, 50º, 53º e 66º, 74º e 80º do Dec Lei 24/91, de 11-Jan, na redacção do presente diploma,\
+    \ pelo DEC LEI.102/99.31.03.1999.MF, DR.IS-A [76] de 31.03.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1999-138778
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:646111:por
+  label: "Alterado o n.º 9 do art. 69.º do Regime Jurídico de Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola,\
+    \ aprovado pelo Dec Lei 24/91, de 11-Jan DR.IS-A [9], na redacção do presente diploma, pelo DEC LEI.201/2002.2002.09.26.MF\
+    \ DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2002-646111
+  date: '2002-09-26'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 69º e 77º do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola,\
+    \ aprovado pelo Dec Lei 24/91 de 11-Jan, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A\
+    \ [63-Supl] de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:494547:por
+  label: "Alterados os arts. 4º, 10º, 15º, 17º e 19º, 23º, 28º, 35º, 36º, 36º-A, 37º, 41º, 43º, 44º, 47º, 50º, 53º, 55º, 69º,\
+    \ 70º, 75º, 77º e 77º-A do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola Mútuo, aprovado\
+    \ pelo Dec Lei 24/91, de 11-Jan, na redacção do presente diploma, pelo DEC LEI.142/2009.16.06.2009.MFAP, DR.IS [114] de\
+    \ 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2009-494547
+  date: '2009-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1991/01/11/p/dre
   label: null
@@ -82,16 +116,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 46
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:10Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +170,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º, 10.º, 14.º a 17.º, 19.º, 21.º, 23.º 26.º a 28.º, 35.º a 37.º, 41.º, 43.º a 45.º, 47.º, 50.º, 53.º, 55.º, 57.º a 61.º, 63.º, 65.º a 67.º, 69.º a 72.º, 74.º, 75.º, 77.º, 78.º e 80.º do regime jurídico do crédito agrícola mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º, 10.º, 14.º a 17.º, 19.º, 21.º, 23.º 26.º a 28.º, 35.º a 37.º, 41.º, 43.º a 45.º, 47.º, 50.º, 53.º, 55.º, 57.º a 61.º, 63.º, 65.º a 67.º, 69.º a 72.º, 74.º, 75.º, 77.º, 78.º e 80.º do regime jurídico do crédito agrícola mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -570,7 +612,7 @@ e) ...
 
 8 - ...
 
-###### Art. 2.º São aditados ao regime jurídico do crédito agrícola mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, os artigos 36.º-A, 60.º-A e 77.º-A com a seguinte redacção:
+Art. 2.º São aditados ao regime jurídico do crédito agrícola mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, os artigos 36.º-A, 60.º-A e 77.º-A com a seguinte redacção:
 
 ###### Artigo 36.º-A — Alargamento das actividades das caixas agrícolas
 
@@ -620,20 +662,20 @@ c) Elaborar, com a maior brevidade, um relatório sobre a situação patrimonial
 
 4 - Os directores provisórios exercerão as suas funções pelo prazo que a Caixa Central determinar, no máximo de um ano, prorrogável uma vez por igual período.
 
-###### Art. 3.º São revogados os artigos 11.º, 29.º, 38.º, 40.º, 42.º, 48.º, 64.º e 73.º do regime jurídico do crédito agrícola mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro.
+Art. 3.º São revogados os artigos 11.º, 29.º, 38.º, 40.º, 42.º, 48.º, 64.º e 73.º do regime jurídico do crédito agrícola mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro.
 
-###### Art. 4.º As caixas de crédito agrícola mútuo e a Caixa Central do Crédito Agrícola Mútuo devem proceder à alteração dos seus estatutos por forma a adequá-los às disposições do presente diploma no prazo de 180 dias contados da data da sua entrada em vigor.
+Art. 4.º As caixas de crédito agrícola mútuo e a Caixa Central do Crédito Agrícola Mútuo devem proceder à alteração dos seus estatutos por forma a adequá-los às disposições do presente diploma no prazo de 180 dias contados da data da sua entrada em vigor.
 
-###### Art. 5.º Podem ser mantidos os montantes mínimos de capital que tenham sido subscritos pelos associados das caixas agrícolas antes da entrada em vigor do presente diploma.
+Art. 5.º Podem ser mantidos os montantes mínimos de capital que tenham sido subscritos pelos associados das caixas agrícolas antes da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 25 de Agosto de 1995.**
+Promulgado em 25 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Agosto de 1995.**
+Referendado em 29 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

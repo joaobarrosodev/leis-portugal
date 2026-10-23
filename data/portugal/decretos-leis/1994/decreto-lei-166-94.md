@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/1994/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c03285bc13d7fc481fa2926977adb1d9266602ab8816058eaf57355d601c8736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e13b5eb3946e4a2eca19eca7ea9d41bef19a0aed8792a02fb425b86a5ae824ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Benefícios Fiscais
+- Contribuições e Impostos
 - Documento de Transporte
 - Fiscalização
-- Contribuições e Impostos
-- IVA
 - IRC
-- Benefícios Fiscais
-- Açores
+- IVA
 - Mercadoria
 - Taxa
 - Troca Intracomunitária
@@ -81,20 +81,243 @@ relationships:
   target: pt:dre:119622094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redação do presente diploma,\
+    \ pelo DEC LEI.7/96.07.02.1996.MF, DR.IS-A [32] de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Substituído o documento de transporte constante do Dec-Lei 45/89 de 11-Fev, na redacção do presente diploma, pela\
+    \ guia de circulação ou documento previsto respectivamente pelos num 1 e 6 do art 3º. do DEC LEI 245/96.1996.12.20.MADRP\
+    \ DR.IS-A [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterados os art.s 102º e 104º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterado o art. 104º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterada a al. b) do art. 6.º do Dec Lei 221/85, de 03-Jul DR.IS [105], na redacção do presente diploma, do Dec\
+    \ Lei 100/95, de 19-Mai e do Dec Lei 206/96, de 26-Out, pela LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:476751:por
+  label: "Alterado o art. 28.º, 39.º e 72.º do Código do IVA aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.256/2003.21.10.2003.MF, DR.IS-A [244] de 21.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2003-476751
+  date: '2003-10-21'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 72.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:233946:por
+  label: "Alterado o art. 1º do Dec Lei 347/85 de 23-Ago, com a redacção do presente diploma, pela LEI.39/2005.24.06.2005.AR,\
+    \ DR.IS-A [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2005-233946
+  date: '2005-06-24'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o art. 30º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção do presente diploma,\
+    \ pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o artigo 71.º do Código do IVA, aprovado no Decreto-Lei n.º 394-B/84, de 26 de Dezembro, alterado no presente\
+    \ diploma, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterado o art. 77º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na\
+    \ redacção do presente diploma, pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 71º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com as alterações introduzidas pelo\
+    \ presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterados os arts. 28º, 53º e 60º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida\
+    \ no presente diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterados os arts. 28º e 40º e revogados os nºs 2 e 10 deste último art. ambos do Código do IVA aprovado pelo Dec\
+    \ Lei 394-B/84 de 26-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243]\
+    \ de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts.39º, 60º e 71º, do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente\
+    \ diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os artigos 22.º, 39.º, 40.º e 60.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, alterado\
+    \ e republicado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterado o art. 25º do Regime do IVA nas Transacções Intracomunitárias, aprovado pelo Dec Lei 290/92, de 28-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:456872:por
+  label: "Alterado o nº 1 do art. 1º do Dec Lei 347/85 de 23-Ago, na redacção do presente diploma, pela LEI.26-A/2008.27.06.2008.AR,\
+    \ DR.IS [123-Supl] de 27.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-a-2008-456872
+  date: '2008-06-27'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 15.º e 78.º, do Código do IVA, bem como as verbas 2.19, 2.23 e 2.24 e aditadas as verbas 2.29\
+    \ e 2.30 à lista I, anexa ao citado Código, aprovado pelo Dec Lei 394-B/84 de 26-Dez, revisto e republicado pelo presente\
+    \ diploma, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:604822:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.10/2009.10.03.2009.AR, DR.IS [48] de 10.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2009-604822
+  date: '2009-03-10'
+- type: amended_by
+  target: pt:dre:592169:por
+  label: "Alterado o art. 22º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção constante do presente\
+    \ diploma, pelo DEC LEI.136-A/2009.05.06.2009.MFAP, DR.IS [109-Supl] de 05.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-a-2009-592169
+  date: '2009-06-05'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 28º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art 104º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção\
+    \ do presente diploma, republicado pelo Dec Lei 159/2009 de 13-Jul, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198]\
+    \ de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:611945:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.2/2010.15.03.2010.AR, DR.IS [51] de 15.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2010-611945
+  date: '2010-03-15'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterados, a partir de 01.07.2010, os arts. 18.º e 49.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, renumerado e republicado pelo Dec Lei 102/2008, de 20-Jun, pela LEI.12-A/2010.30.06.2010.AR,\
+    \ DR.IS [125-Supl] de 30.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterado, a partir de 01.01.2011, o art. 14º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 1º do Dec Lei 347/85 de 23-Ago, na redacção do presente diploma, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010, nos termos do art. 107º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:427611:por
+  label: "Dada nova redação ao art. 1º do Dec Lei 347/85 de 23-ago, alterado pelo presente diploma, pela LEI.14-A/2012.30.03.2012.AR,\
+    \ DR.IS [65-2ºSupl] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-a-2012-427611
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 22.º, 40.º, 46.º e 72.º do Código do Imposto sobre o Valor Acrescentado,\
+    \ aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS\
+    \ [164] de 24.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 40.º, na redação do presente diploma, do Código do IVA, aprovado pelo Dec lei 394-B/84 de 26-dez,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-jun, pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 1º do Dec Lei 347/85 de 23-ago, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 104.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:67641518:por
+  label: Alterado o art. 1º do Dec Lei 347/85 de 23-ago, com a redação dada pelo presente diploma, pelo(a) Lei n.º 63-A/2015
+    - Diário da República n.º 125/2015, 2º Suplemento, Série I de 2015-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-a-2015-67641518
+  date: '2015-06-30'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterado o art. 22.º do Regime do IVA nas Transações Intracomunitárias, aprovado pelo Dec Lei 290/92, de 28-dez,
+    republicado pelo presente diploma pelo(a) Decreto-Lei n.º 41/2016 - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterado, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, o art. 40.º do Código do IVA, aprovado pelo
+    Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 28/2019 - Diário da República n.º
+    33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
 - type: cites
   target: celex:31991L0680
   label: null
   source: http://data.europa.eu/eli/dir/1991/680/oj
+- type: corrected_by
+  target: pt:dre:484660:por
+  label: "Rectificado pela DECL-RECT.116/94.1994.08.31.PCM, DR.IS-A [201]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/116-1994-484660
+  date: '1994-08-31'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:35Z'
   warnings: []
   errors: []
 ---
@@ -123,9 +346,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 32.º da Lei n.º 75/93, de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 14.º, 22.º, 28.º, 30.º, 39.º, 40.º, 46.º, 53.º, 59.º, 60.º, 67.º, 71.º, 72.º e 77.º do Código do Imposto sobre o Valor Acrescentado (IVA), aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º, 22.º, 28.º, 30.º, 39.º, 40.º, 46.º, 53.º, 59.º, 60.º, 67.º, 71.º, 72.º e 77.º do Código do Imposto sobre o Valor Acrescentado (IVA), aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 14.º - 1 - ...
+Art. 14.º - 1 - ...
 
 a) ...
 
@@ -179,7 +402,7 @@ z) As prestações de serviços de transporte interno de bens, directamente liga
 
 4 - ...
 
-###### Art. 22.º - 1 - ...
+Art. 22.º - 1 - ...
 
 2 - Sem prejuízo da possibilidade de correcção prevista no artigo 71.º, a dedução deverá ser efectuada na declaração do período em que se tiver verificado a recepção das facturas, documentos equivalentes ou recibo de pagamento de IVA que fizer parte das declarações de importação.
 
@@ -197,7 +420,7 @@ z) As prestações de serviços de transporte interno de bens, directamente liga
 
 9 - ...
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 a) ...
 
@@ -241,11 +464,11 @@ g) [Anterior alínea e).]
 
 15 - O Ministro das Finanças pode dispensar a obrigação referida nas alíneas e) e f) do n.º 1 relativamente a operações em que seja especialmente difícil o seu cumprimento.
 
-###### Art. 30.º - 1 - ...
+Art. 30.º - 1 - ...
 
 2 - Não haverá lugar à entrega da declaração referida no número anterior quando se trate de pessoas sujeitas a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º, excepto se a mesma exceder o limite previsto nas alíneas e) e f) do n.º 1 do artigo 28.º
 
-###### Art. 39.º - 1 - ...
+Art. 39.º - 1 - ...
 
 a) ...
 
@@ -271,7 +494,7 @@ c) ...
 
 6 - ...
 
-###### Art. 40.º - 1 - ...
+Art. 40.º - 1 - ...
 
 a) Até ao último dia do 2.º mês seguinte àquele a que respeitam as operações, no caso de sujeitos passivos com volume de negócios igual ou superior a 40000000$00 no ano civil anterior, salvo quanto às declarações que devam ser entregues em Dezembro de cada ano, caso em que o prazo é antecipado para o dia 20 desse mês;
 
@@ -291,7 +514,7 @@ b) ...
 
 8 - ...
 
-###### Art. 46.º - 1 - ...
+Art. 46.º - 1 - ...
 
 2 - ...
 
@@ -301,7 +524,7 @@ b) ...
 
 5 - A opção pela elaboração de folhas de caixa a que se refere o n.º 2 não dispensa a obrigatoriedade de conservação dos duplicados dos talões de venda ou dos demais documentos ali referidos nas condições e prazo previstos no artigo 52.º
 
-###### Art. 53.º - 1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos de IRS ou IRC, nem praticando operações de importação, exportação ou actividades conexas, não tenham atingido, no ano civil anterior, um volume de negócios superior a 1500000$00.
+Art. 53.º - 1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos de IRS ou IRC, nem praticando operações de importação, exportação ou actividades conexas, não tenham atingido, no ano civil anterior, um volume de negócios superior a 1500000$00.
 
 2 - Não obstante o disposto no número anterior, serão ainda isentos do imposto os sujeitos passivos com um volume de negócios superior a 1500000$00, mas inferior a 2000000$00, que, se tributados, preencheriam as condições de inclusão no regime dos pequenos retalhistas.
 
@@ -311,9 +534,9 @@ b) ...
 
 5 - ...
 
-###### Art. 59.º Sem prejuízo do disposto no artigo anterior, os sujeitos passivos isentos nos termos do artigo 53.º estão dispensados das demais obrigações previstas no presente diploma, com excepção das que se encontram estabelecidas nas alíneas e) e f) do n.º 1 do artigo 28.º, que, sempre que se verifiquem os respectivos pressupostos, deverão ser cumpridas na repartição de finanças competente dentro do prazo a que se refere a alínea d) daquele artigo.
+Art. 59.º Sem prejuízo do disposto no artigo anterior, os sujeitos passivos isentos nos termos do artigo 53.º estão dispensados das demais obrigações previstas no presente diploma, com excepção das que se encontram estabelecidas nas alíneas e) e f) do n.º 1 do artigo 28.º, que, sempre que se verifiquem os respectivos pressupostos, deverão ser cumpridas na repartição de finanças competente dentro do prazo a que se refere a alínea d) daquele artigo.
 
-###### Art. 60.º - 1 - ...
+Art. 60.º - 1 - ...
 
 2 - ...
 
@@ -331,7 +554,7 @@ b) ...
 
 9 - ...
 
-###### Art. 67.º - 1 - ...
+Art. 67.º - 1 - ...
 
 a) ...
 
@@ -353,7 +576,7 @@ d) Apresentar, conjuntamente com a declaração mencionada na alínea anterior, 
 
 7 - (Anterior n.º 6.)
 
-###### Art. 71.º - 1 - ...
+Art. 71.º - 1 - ...
 
 2 - ...
 
@@ -373,13 +596,13 @@ d) Apresentar, conjuntamente com a declaração mencionada na alínea anterior, 
 
 10 - ...
 
-###### Art. 72.º - 1 - ...
+Art. 72.º - 1 - ...
 
 2 - ...
 
 3 - O adquirente dos serviços referidos nas alíneas x) e z) do n.º 1 do artigo 14.º é solidariamente responsável com o prestador, pelo pagamento do imposto, quando as operações tenham sido indevidamente isentas.
 
-###### Art. 77.º - 1 - ...
+Art. 77.º - 1 - ...
 
 2 - ...
 
@@ -387,13 +610,13 @@ d) Apresentar, conjuntamente com a declaração mencionada na alínea anterior, 
 
 4 - Os serviços, estabelecimentos e organismos do Estado, das Regiões Autónomas e das autarquias locais, incluindo os dotados de autonomia administrativa ou financeira e ainda que personalizados, as associações e federações de municípios, bem como outras pessoas colectivas de direito público, as pessoas colectivas de utilidade pública, as instituições particulares de solidariedade social e as empresas públicas deverão remeter o mapa recapitulativo previsto no artigo 28.º, n.º 1, alínea f), no prazo e segundo o modelo aí previstos.
 
-###### Art. 2.º É aditado ao Código do IVA um artigo 88.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Código do IVA um artigo 88.º-A, com a seguinte redacção:
 
-###### Art. 88.º-A - As liquidações referidas nos artigos 82.º e 83.º poderão ser agregadas por anos civis num único documento de cobrança.
+Art. 88.º-A - As liquidações referidas nos artigos 82.º e 83.º poderão ser agregadas por anos civis num único documento de cobrança.
 
-###### Art. 3.º O artigo 25.º do Regime do IVA nas Transacções Intracomunitárias, aprovado e publicado em anexo ao Decreto-Lei n.º 290/92, de 28 de Dezembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 25.º do Regime do IVA nas Transacções Intracomunitárias, aprovado e publicado em anexo ao Decreto-Lei n.º 290/92, de 28 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 25.º - 1 - ...
+Art. 25.º - 1 - ...
 
 2 - ...
 
@@ -405,9 +628,9 @@ d) Apresentar, conjuntamente com a declaração mencionada na alínea anterior, 
 
 6 - ...
 
-###### Art. 4.º O artigo 6.º do Decreto-Lei n.º 221/85, de 3 de Julho, passa a ter a seguinte redacção:
+Art. 4.º O artigo 6.º do Decreto-Lei n.º 221/85, de 3 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 a) ...
 
@@ -419,7 +642,7 @@ d) ...
 
 e) ...
 
-###### Art. 5.º O artigo 1.º do Decreto-Lei n.º 347/85, de 23 de Agosto, passa a ter a seguinte redacção:
+Art. 5.º O artigo 1.º do Decreto-Lei n.º 347/85, de 23 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -427,7 +650,7 @@ e) ...
 
 3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.
 
-###### Art. 6.º Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 10.º, 13.º e 15.º do Decreto-Lei n.º 45/89, de 11 de Fevereiro, passam a ter a seguinte redacção:
+Art. 6.º Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 10.º, 13.º e 15.º do Decreto-Lei n.º 45/89, de 11 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -437,7 +660,7 @@ e) ...
 
 4 - A utilização de quaisquer dos tipos de documentos referidos no número anterior deve ser uniforme, até 31 de Dezembro de cada ano, em relação às operações comerciais da mesma natureza ou espécie.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Consideram-se ainda bens em circulação:
 
@@ -479,7 +702,7 @@ l) Os bens provenientes de transacções intracomunitárias a que se refere o De
 
 8 - Quando, face à natureza, espécie e quantidade das mercadorias transportadas, se possa concluir que as mesmas não integram nenhuma das situações previstas no n.º 5 proceder-se-á à imediata apreensão provisória das mesmas e do veículo transportador, nos termos do n.º 3, no caso de não ser feita prova de se tratar de situações excluídas do âmbito de aplicação do diploma.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -497,7 +720,7 @@ l) Os bens provenientes de transacções intracomunitárias a que se refere o De
 
 9 - Em relação aos bens transportados por vendedores ambulantes e vendedores em feiras e mercados, destinados à venda a retalho, abrangidos pelo regime especial de isenção ou regime especial dos pequenos retalhistas a que se referem os artigos 53.º e 60.º do Código do IVA, respectivamente, o documento de transporte poderá ser substituído pelas facturas de aquisição processadas nos termos e de harmonia com o artigo 35.º do Código do IVA.
 
-###### Art. 5.º - 1 - Os documentos de transporte serão processados pelos sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º do Código do IVA e pelos detentores dos bens e antes do início da sua circulação nos termos dos n.os 1 e 2 do artigo 2.º do presente diploma.
+Art. 5.º - 1 - Os documentos de transporte serão processados pelos sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º do Código do IVA e pelos detentores dos bens e antes do início da sua circulação nos termos dos n.os 1 e 2 do artigo 2.º do presente diploma.
 
 2 - ...
 
@@ -513,13 +736,13 @@ c) ...
 
 5 - ...
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - Tratando-se de bens importados que circulem entre a alfândega e o local do primeiro destino, o transportador poderá fazer-se acompanhar, em substituição do documento referido no número anterior de documentação exigida pela respectiva legislação aduaneira, o mesmo se aplicando a mercadorias não desembaraçadas da acção aduaneira.
 
 3 - Tratando-se de bens destinados a ser exportados por via rodoviária, o documento de transporte referido no n.º 1 poderá ser substituído pela documentação exigida pela legislação aduaneira ou pela declaração de expedição internacional (CMR) desde que obedeça ao disposto no n.º 1 do artigo 1.º
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - ...
 
@@ -543,7 +766,7 @@ b) ...
 
 6 - ...
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - ...
 
@@ -557,7 +780,7 @@ b) ...
 
 7 - (Anterior n.º 6.)
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - ...
 
@@ -589,7 +812,7 @@ b) ...
 
 16 - ...
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
@@ -609,15 +832,15 @@ b) ...
 
 10 - ...
 
-###### Art. 7.º É aditado ao Decreto-Lei n.º 45/89, de 11 de Fevereiro, um artigo 8.º-A, com a seguinte redacção:
+Art. 7.º É aditado ao Decreto-Lei n.º 45/89, de 11 de Fevereiro, um artigo 8.º-A, com a seguinte redacção:
 
-###### Art. 8.º-A - O Ministro das Finanças poderá determinar a obrigatoriedade de os sujeitos passivos processarem os documentos de transporte, nos termos do n.º 3 do artigo 3.º e n.º 1 do artigo 7.º, quando forem detectadas situações irregulares ou anómalas resultantes da utilização dos referidos documentos processados por computador de harmonia com o n.º 2 do artigo 7.º
+Art. 8.º-A - O Ministro das Finanças poderá determinar a obrigatoriedade de os sujeitos passivos processarem os documentos de transporte, nos termos do n.º 3 do artigo 3.º e n.º 1 do artigo 7.º, quando forem detectadas situações irregulares ou anómalas resultantes da utilização dos referidos documentos processados por computador de harmonia com o n.º 2 do artigo 7.º
 
-###### Art. 8.º - 1 - A obrigação prevista nas alíneas e) e f) do n.º 1 do artigo 28.º do Código do IVA é aplicável relativamente às operações realizadas a partir de 1 de Janeiro de 1994.
+Art. 8.º - 1 - A obrigação prevista nas alíneas e) e f) do n.º 1 do artigo 28.º do Código do IVA é aplicável relativamente às operações realizadas a partir de 1 de Janeiro de 1994.
 
 2 - Os sujeitos passivos que se encontravam dispensados da apresentação das declarações referidas na alínea a) do n.º 1 do artigo 28.º do Código do IVA deverão, em consequência da nova redacção dada pelo presente diploma ao n.º 3 do mesmo artigo, entregar na repartição de finanças competente, até 30 de Setembro de 1994, a declaração referida no artigo 30.º do mesmo Código, se a mesma não tiver ainda sido apresentada.
 
-###### Art. 9.º Os artigos 102.º e 104.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:
+Art. 9.º Os artigos 102.º e 104.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 102.º — [...]
 
@@ -627,17 +850,17 @@ Os serviços, estabelecimentos e organismos do Estado, das Regiões Autónomas e
 
 As empresas deverão enviar anualmente os mapas recapitulativos previstos no artigo 28.º, n.º 1, alíneas e) e f), do Código do IVA, no prazo e segundo os modelos aí previstos.
 
-###### Art. 10.º O Código do IVA e o Regime do IVA nas Transacções Intracomunitárias são republicados integralmente em anexo ao presente diploma.
+Art. 10.º O Código do IVA e o Regime do IVA nas Transacções Intracomunitárias são republicados integralmente em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado, no Porto, em 12 de Abril de 1994.**
+Promulgado, no Porto, em 12 de Abril de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Abril de 1994.**
+Referendado em 14 de Abril de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
@@ -645,7 +868,7 @@ Código do Imposto sobre o Valor Acrescentado
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º - 1 - Estão sujeitas a imposto sobre o valor acrescentado:
+Artigo 1.º - 1 - Estão sujeitas a imposto sobre o valor acrescentado:
 
 a) As transmissões de bens e as prestações de serviços efectuadas no território nacional, a título oneroso, por um sujeito passivo agindo como tal;
 
@@ -681,7 +904,7 @@ d) «Transporte de ida e volta», dois transportes distintos, um para o trajecto
 
 4 - As operações efectuadas a partir de, ou com destino a, Principado do Mónaco ou ilha de Man consideram-se como efectuadas a partir de, ou com destino, respectivamente, à República Francesa e ao Reino Unido da Grã-Bretanha e Irlanda do Norte.
 
-###### Art. 2.º - 1 - São sujeitos passivos do imposto:
+Art. 2.º - 1 - São sujeitos passivos do imposto:
 
 a) As pessoas singulares ou colectivas que, de um modo independente e com carácter de habitualidade, exerçam actividades de produção, comércio ou prestação de serviços, incluindo as actividades extractivas, agrícolas e as das profissões livres, e bem assim as que, do mesmo modo independente, pratiquem uma só operação tributável, desde que essa operação seja conexa com o exercício das referidas actividades, onde quer que este ocorra, ou quando, independentemente dessa conexão, tal operação preencha os pressupostos da incidência real de IRS e de IRC.
 
@@ -723,7 +946,7 @@ l) Radiodifusão e radiotelevisão.
 
 4 - Para efeitos dos n.os 2 e 3 do presente artigo, o Ministro das Finanças e do Plano definirá, caso a caso, as actividades susceptíveis de originar distorções de concorrência ou aquelas que são exercidas de forma não significativa.
 
-###### Art. 3.º - 1 - Considera-se, em geral, transmissão de bens a transferência onerosa de bens corpóreos por forma correspondente ao exercício do direito de propriedade.
+Art. 3.º - 1 - Considera-se, em geral, transmissão de bens a transferência onerosa de bens corpóreos por forma correspondente ao exercício do direito de propriedade.
 
 2 - Para esse efeito, a energia eléctrica, o gás, o calor, o frio e similares são considerados bens corpóreos.
 
@@ -753,7 +976,7 @@ g) A afectação de bens por um sujeito passivo a um sector de actividade isento
 
 6 - Não são também consideradas transmissões as cedências devidamente documentadas feitas por cooperativas agrícolas aos seus sócios de bens, não embalados para fins comerciais, resultantes da primeira transformação de matérias-primas por eles entregues, na medida em que não excedam as necessidades do seu consumo familiar, segundo limites e condições a definir por portaria do Ministro das Finanças.
 
-###### Art. 4.º - 1 - São consideradas como prestações de serviços as operações efectuadas a título oneroso que não constituem transmissões ou importações de bens;
+Art. 4.º - 1 - São consideradas como prestações de serviços as operações efectuadas a título oneroso que não constituem transmissões ou importações de bens;
 
 2 - Consideram-se ainda prestações de serviços a título oneroso:
 
@@ -765,7 +988,7 @@ b) As prestações de serviços a título gratuito efectuadas pela própria empr
 
 4 - O disposto nos n.os 4 e 5 do artigo 3.º é aplicável, em idênticas condições, às prestações de serviços.
 
-###### Art. 5.º - 1 - Considera-se importação a entrada em território nacional de:
+Art. 5.º - 1 - Considera-se importação a entrada em território nacional de:
 
 a) Bens originários ou procedentes de países terceiros e que não se encontrem em livre prática;
 
@@ -773,7 +996,7 @@ b) Bens, não incluídos na alínea anterior, provenientes de um território ter
 
 2 - Todavia, sempre que os bens sejam colocados, desde a sua entrada em território nacional, sob um dos regimes previstos nos n.os I) a IV) da alínea b) do n.º 1 do artigo 15.º, sob o regime de importação temporária com isenção total de direitos, sob o regime de trânsito externo ou sob o procedimento de trânsito comunitário interno, a importação só se verificará quando forem introduzidos no consumo.
 
-###### Art. 6.º - 1 - São tributáveis as transmissões de bens que estejam situados no território nacional no momento em que se inicia o transporte ou expedição para o adquirente ou, no caso de não haver expedição ou transporte, no momento em que são postos à disposição do adquirente.
+Art. 6.º - 1 - São tributáveis as transmissões de bens que estejam situados no território nacional no momento em que se inicia o transporte ou expedição para o adquirente ou, no caso de não haver expedição ou transporte, no momento em que são postos à disposição do adquirente.
 
 2 - Não obstante o disposto no número anterior, são também tributáveis a transmissão feita pelo importador e as eventuais transmissões subsequentes de bens transportados ou expedidos de país terceiro, quando as referidas transmissões ocorrerem antes da importação.
 
@@ -851,7 +1074,7 @@ b) Quando, ainda que se situe noutro Estado membro o local de tributação das o
 
 18 - A prestação de serviços efectuada por um intermediário que aja, em nome e por conta de outrem, nos casos referidos no n.º 15 e na alínea a) do n.º 17 deste artigo, não será tributável quando o adquirente da prestação de serviços de intermediação seja um sujeito passivo registado, para efeitos de imposto sobre o valor acrescentado, em outro Estado membro e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto nos números seguintes, o imposto é devido e torna-se exigível:
+Art. 7.º - 1 - Sem prejuízo do disposto nos números seguintes, o imposto é devido e torna-se exigível:
 
 a) Nas transmissões de bens, no momento em que os bens são postos à disposição do adquirente;
 
@@ -873,7 +1096,7 @@ c) Nas importações, no momento determinado pelas disposições aplicáveis aos
 
 8 - Sempre que os bens sejam colocados sob um dos regimes ou procedimento referidos no n.º 2 do artigo 5.º, o facto gerador e a exigibilidade do imposto só se verificam no momento em que deixem de estar sujeitos a esses regimes ou procedimentos.
 
-###### Art. 8.º - 1 - Não obstante o disposto no artigo anterior, sempre que a transmissão de bens ou prestação de serviços dê lugar à obrigação de emitir uma factura ou documento equivalente, nos termos do artigo 28.º, o imposto torna-se exigível:
+Art. 8.º - 1 - Não obstante o disposto no artigo anterior, sempre que a transmissão de bens ou prestação de serviços dê lugar à obrigação de emitir uma factura ou documento equivalente, nos termos do artigo 28.º, o imposto torna-se exigível:
 
 a) Se o prazo previsto para emissão de factura ou documento equivalente for respeitado, no momento da sua emissão;
 
@@ -887,7 +1110,7 @@ c) Se a transmissão de bens ou a prestação de serviços derem lugar ao pagame
 
 #### SECÇÃO I — Isenções nas operações internas
 
-###### Art. 9.º Estão isentas do imposto:
+Art. 9.º Estão isentas do imposto:
 
 1) As prestações de serviços efectuadas no exercício das profissões seguintes:
 
@@ -1025,7 +1248,7 @@ c) Ensino de ballet e de música;
 
 41) As actividades das empresas públicas de rádio e televisão que não tenham carácter comercial.
 
-###### Art. 10.º Para efeitos de isenção, apenas serão considerados como organismos sem finalidade lucrativa os que, simultaneamente:
+Art. 10.º Para efeitos de isenção, apenas serão considerados como organismos sem finalidade lucrativa os que, simultaneamente:
 
 a) Em caso algum distribuam lucros e os seus corpos gerentes não tenham, por si ou interposta pessoa, algum interesse directo ou indirecto nos resultados da exploração;
 
@@ -1035,9 +1258,9 @@ c) Pratiquem preços homologados pelas autoridades públicas ou, para as operaç
 
 d) Não entrem em concorrência directa com sujeitos passivos do imposto.
 
-###### Art. 11.º O Ministro das Finanças e do Plano poderá determinar a sujeição a imposto de algumas das actividades referidas nos n.os 36) e 37) do artigo 9.º sempre que as respectivas isenções ocasionem distorções significativas de concorrência.
+Art. 11.º O Ministro das Finanças e do Plano poderá determinar a sujeição a imposto de algumas das actividades referidas nos n.os 36) e 37) do artigo 9.º sempre que as respectivas isenções ocasionem distorções significativas de concorrência.
 
-###### Art. 12.º - 1 - Poderão renunciar à isenção, optando pela aplicação do imposto às suas operações:
+Art. 12.º - 1 - Poderão renunciar à isenção, optando pela aplicação do imposto às suas operações:
 
 a) Os sujeitos passivos que efectuem as prestações de serviços referidas na alínea d) no n.º 1) e nos n.os 11) e 40) do artigo 9.º;
 
@@ -1063,7 +1286,7 @@ b) Sujeitar a tributação as existências remanescentes e proceder, nos termos 
 
 #### SECÇÃO II — Isenções na importação
 
-###### Art. 13.º - 1 - Estão isentas do imposto:
+Art. 13.º - 1 - Estão isentas do imposto:
 
 a) As importações definitivas de bens cuja transmissão no território nacional seja isenta do imposto;
 
@@ -1115,7 +1338,7 @@ b) Combustíveis e carburantes que não sejam os contidos nos depósitos normais
 
 #### SECÇÃO III — Isenções na exportação, operações assimiladas a exportações e transportes internacionais
 
-###### Art. 14.º - 1 - Estão isentas do imposto:
+Art. 14.º - 1 - Estão isentas do imposto:
 
 a) As transmissões de bens expedidos ou transportados para fora da Comunidade pelo vendedor ou por um terceiro por conta deste;
 
@@ -1177,7 +1400,7 @@ c) Os produtos acessórios destinados à preparação, tratamento e conservaçã
 
 #### SECÇÃO IV — Outras isenções
 
-###### Art. 15.º - 1 - Estão isentas do imposto as operações a seguir indicadas, desde que os bens a que se referem não se destinem a utilização definitiva ou consumo final e enquanto estes se mantiverem nas respectivas situações:
+Art. 15.º - 1 - Estão isentas do imposto as operações a seguir indicadas, desde que os bens a que se referem não se destinem a utilização definitiva ou consumo final e enquanto estes se mantiverem nas respectivas situações:
 
 a) As importações de bens que se destinem a ser colocados em regime de entreposto não aduaneiro;
 
@@ -1207,7 +1430,7 @@ e) As transmissões de bens efectuadas enquanto se mantiverem os regimes de impo
 
 #### SECÇÃO I — Valor tributável nas transacções internas
 
-###### Art. 16.º - 1 - Sem prejuízo do disposto no n.º 2, o valor tributável das transmissões de bens e das prestações de serviços sujeitas a imposto será o valor da contraprestação obtida ou a obter do adquirente, do destinatário ou de um terceiro.
+Art. 16.º - 1 - Sem prejuízo do disposto no n.º 2, o valor tributável das transmissões de bens e das prestações de serviços sujeitas a imposto será o valor da contraprestação obtida ou a obter do adquirente, do destinatário ou de um terceiro.
 
 2 - Nos casos das transmissões de bens e das prestações de serviços a seguir enumeradas, o valor tributável será:
 
@@ -1257,7 +1480,7 @@ d) As quantias respeitantes a embalagens, desde que as mesmas não tenham sido e
 
 #### SECÇÃO II — Valor tributável na importação de bens
 
-###### Art. 17.º - 1 - O valor tributável dos bens importados é constituído pelo valor aduaneiro, determinado de harmonia com as disposições comunitárias em vigor.
+Art. 17.º - 1 - O valor tributável dos bens importados é constituído pelo valor aduaneiro, determinado de harmonia com as disposições comunitárias em vigor.
 
 2 - O valor tributável dos bens importados incluirá, na medida em que nele não estejam compreendidos:
 
@@ -1277,7 +1500,7 @@ c) O valor das operações referidas na alínea p) do n.º 1 do artigo 14.º e n
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 18.º - 1 - As taxas do imposto são as seguintes:
+Art. 18.º - 1 - As taxas do imposto são as seguintes:
 
 a) Para as importações, transmissões de bens e prestações de serviços constantes da lista I anexa a este diploma, a taxa de 5%;
 
@@ -1301,7 +1524,7 @@ b) Quando as mercadorias que compõem a unidade de venda sofram alterações da 
 
 #### SECÇÃO I — Deduções
 
-###### Art. 19.º - 1 - Para apuramento do imposto devido, os sujeitos passivos deduzirão, nos termos dos artigos seguintes, ao imposto incidente sobre as operações tributáveis que efectuaram:
+Art. 19.º - 1 - Para apuramento do imposto devido, os sujeitos passivos deduzirão, nos termos dos artigos seguintes, ao imposto incidente sobre as operações tributáveis que efectuaram:
 
 a) O imposto que lhes foi facturado na aquisição de bens e serviços por outros sujeitos passivos;
 
@@ -1315,7 +1538,7 @@ d) O imposto pago como destinatário de operações tributáveis efectuadas por 
 
 3 - Não poderá deduzir-se imposto que resulte de operação simulada ou em que seja simulado o preço constante da factura ou documento equivalente.
 
-###### Art. 20.º - 1 - Só poderá deduzir-se o imposto que tenha incidido sobre bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a realização das operações seguintes:
+Art. 20.º - 1 - Só poderá deduzir-se o imposto que tenha incidido sobre bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a realização das operações seguintes:
 
 a) Transmissões de bens e prestações de serviços sujeitas a imposto e dele não isentas;
 
@@ -1335,7 +1558,7 @@ VI) Operações isentas nos termos do artigo 7.º do Decreto-Lei n.º 394-B/84, 
 
 2 - Não haverá, porém, direito à dedução do imposto respeitante a operações que dêem lugar aos pagamentos referidos na alínea c) do n.º 6 do artigo 16.º
 
-###### Art. 21.º - 1 - Exclui-se, todavia, do direito à dedução o imposto contido nas seguintes despesas:
+Art. 21.º - 1 - Exclui-se, todavia, do direito à dedução o imposto contido nas seguintes despesas:
 
 a) Despesas relativas à aquisição, fabrico ou importação, à locação, à utilização, à transformação e reparação de viaturas de turismo, de barcos de recreio, helicópteros, aviões, motos e motociclos. É considerado viatura de turismo qualquer veículo automóvel, com inclusão do reboque, que, pelo seu tipo de construção e equipamento, não seja destinado unicamente ao transporte de mercadorias ou a uma utilização com carácter agrícola, comercial ou industrial ou que, sendo misto ou de transporte de passageiros, não tenha mais de nove lugares, com inclusão do condutor;
 
@@ -1365,7 +1588,7 @@ c) (Eliminada.)
 
 3 - Não conferem, também, direito à dedução do imposto as aquisições de bens em segunda mão e dos referidos no n.º 19) do artigo 9.º, quando o valor tributável da sua transmissão posterior for a diferença entre o preço de venda e o preço de compra, nos termos da alínea f) do n.º 2 do artigo 16.º
 
-###### Art. 22.º - 1 - O direito à dedução nasce no momento em que o imposto dedutível se torna exigível, de acordo com o estabelecido pelos artigos 7.º e 8.º, efectuando-se mediante subtracção ao montante global do imposto devido pelas operações tributáveis do sujeito passivo, durante um período de declaração, do montante do imposto dedutível, exigível durante o mesmo período.
+Art. 22.º - 1 - O direito à dedução nasce no momento em que o imposto dedutível se torna exigível, de acordo com o estabelecido pelos artigos 7.º e 8.º, efectuando-se mediante subtracção ao montante global do imposto devido pelas operações tributáveis do sujeito passivo, durante um período de declaração, do montante do imposto dedutível, exigível durante o mesmo período.
 
 2 - Sem prejuízo da possibilidade de correcção prevista no artigo 71.º, a dedução deverá ser efectuada na declaração do período em que se tiver verificado a recepção das facturas, documentos equivalentes ou recibo de pagamento de IVA que fizer parte das declarações de importação.
 
@@ -1383,7 +1606,7 @@ c) (Eliminada.)
 
 9 - O Ministro das Finanças e do Plano poderá autorizar a administração fiscal a efectuar reembolsos em condições diferentes das estabelecidas nos números anteriores, relativamente a sectores de actividade cujo volume de negócios seja constituído essencialmente por operações isentas com direito à dedução do imposto pago nas aquisições.
 
-###### Art. 23.º - 1 - Quando o sujeito passivo, no exercício da sua actividade, efectue transmissões de bens e prestações de serviços, parte das quais não confira direito à dedução, o imposto suportado nas aquisições é dedutível apenas na percentagem correspondente ao montante anual de operações que dêem lugar a dedução.
+Art. 23.º - 1 - Quando o sujeito passivo, no exercício da sua actividade, efectue transmissões de bens e prestações de serviços, parte das quais não confira direito à dedução, o imposto suportado nas aquisições é dedutível apenas na percentagem correspondente ao montante anual de operações que dêem lugar a dedução.
 
 2 - Não obstante o disposto no número anterior, poderá o sujeito passivo efectuar a dedução, segundo a afectação real de todos ou parte dos bens e serviços utilizados, desde que previamente comunique o facto à Direcção-Geral das Contribuições e Impostos, sem prejuízo da possibilidade de esta lhe vir a impor condições especiais ou a fazer cessar esse procedimento no caso de se verificarem distorções significativas na tributação.
 
@@ -1405,7 +1628,7 @@ b) Quando a aplicação do processo referido no n.º 1 conduza a distorções si
 
 9 - Para efeitos do disposto neste artigo, poderá o Ministro das Finanças e do Plano, relativamente a determinadas actividades, considerar como inexistentes as operações que dêem lugar à dedução ou as que não confiram esse direito, sempre que as mesmas constituam uma parte insignificante do total do volume de negócios e não se mostre viável o procedimento previsto nos n.os 2 e 3.
 
-###### Art. 24.º - 1 - Serão regularizadas anualmente as deduções efectuadas quanto a bens não imóveis do activo imobilizado se entre a percentagem definitiva a que se refere o artigo anterior aplicável no ano do início da utilização do bem e em cada um dos quatro anos civis posteriores e a que tiver sido apurada no ano de aquisição houver uma diferença, para mais ou para menos, igual ou superior a cinco pontos percentuais.
+Art. 24.º - 1 - Serão regularizadas anualmente as deduções efectuadas quanto a bens não imóveis do activo imobilizado se entre a percentagem definitiva a que se refere o artigo anterior aplicável no ano do início da utilização do bem e em cada um dos quatro anos civis posteriores e a que tiver sido apurada no ano de aquisição houver uma diferença, para mais ou para menos, igual ou superior a cinco pontos percentuais.
 
 2 - Serão também regularizadas anualmente as deduções efectuadas quanto às despesas de investimento em bens imóveis se entre a percentagem definitiva a que se refere o artigo anterior aplicável no ano da ocupação do bem e em cada um dos nove anos civis posteriores e a que tiver sido apurada no ano da aquisição ou da conclusão das obras houver uma diferença, para mais ou para menos, igual ou superior a cinco pontos percentuais.
 
@@ -1423,13 +1646,13 @@ c) A diferença positiva ou negativa dividir-se-á por 5 ou 10, conforme o caso,
 
 6 - As regularizações previstas nos números anteriores deverão constar da declaração do último período do ano a que respeita.
 
-###### Art. 25.º - 1 - A não utilização em fins da empresa de bens imóveis relativamente aos quais houve dedução do imposto durante um ou mais anos civis completos após o início do período de nove anos referido no n.º 2 do artigo 24.º dará lugar à regularização anual de um décimo da dedução efectuada, que deverá constar da declaração do último período do ano a que respeita.
+Art. 25.º - 1 - A não utilização em fins da empresa de bens imóveis relativamente aos quais houve dedução do imposto durante um ou mais anos civis completos após o início do período de nove anos referido no n.º 2 do artigo 24.º dará lugar à regularização anual de um décimo da dedução efectuada, que deverá constar da declaração do último período do ano a que respeita.
 
 2 - No caso de cessação da actividade durante o período de regularização, esta será efectuada nos termos do n.º 5 do artigo anterior.
 
 #### SECÇÃO II — Pagamento do imposto
 
-###### Art. 26.º - 1 - Sem prejuízo do disposto no regime especial referido nos artigos 60.º e seguintes, os sujeitos passivos são obrigados a entregar, no Serviço de Administração do IVA e simultaneamente com as declarações a que se refere o artigo 40.º, o montante do imposto exigível, apurado nos termos dos artigos 19.º a 25.º e do artigo 71.º, através de vale de correio, cheque ou transferência conta a conta.
+Art. 26.º - 1 - Sem prejuízo do disposto no regime especial referido nos artigos 60.º e seguintes, os sujeitos passivos são obrigados a entregar, no Serviço de Administração do IVA e simultaneamente com as declarações a que se refere o artigo 40.º, o montante do imposto exigível, apurado nos termos dos artigos 19.º a 25.º e do artigo 71.º, através de vale de correio, cheque ou transferência conta a conta.
 
 2 - As pessoas referidas na alínea c) do n.º 1 do artigo 2.º e no artigo 42.º deverão entregar na tesouraria da Fazenda Pública competente o correspondente imposto nos prazos de, respectivamente, 15 dias, a contar da emissão da factura ou documento equivalente, e até ao último dia do segundo mês seguinte ao da conclusão da operação.
 
@@ -1437,7 +1660,7 @@ c) A diferença positiva ou negativa dividir-se-á por 5 ou 10, conforme o caso,
 
 4 - Os sujeitos passivos adquirentes dos serviços indicados nos n.os 8, 11, 13 e 16 e alínea b) do n.º 17 do artigo 6.º, que não sejam obrigados à apresentação da declaração referida no artigo 40.º, mas tenham já apresentado a declaração do n.º 1 do artigo 25.º do Regime do IVA nas Transacções Intracomunitárias, deverão efectuar o pagamento do correspondente imposto, nos termos do n.º 2 do artigo 22.º do mesmo diploma.
 
-###### Art. 27.º - 1 - Sempre que se proceda à liquidação do imposto por iniciativa dos serviços, sem prejuízo do disposto no artigo 83.º, será o contribuinte imediatamente notificado para efectuar o pagamento na tesouraria da Fazenda Pública competente no prazo de 15 dias a contar da notificação.
+Art. 27.º - 1 - Sempre que se proceda à liquidação do imposto por iniciativa dos serviços, sem prejuízo do disposto no artigo 83.º, será o contribuinte imediatamente notificado para efectuar o pagamento na tesouraria da Fazenda Pública competente no prazo de 15 dias a contar da notificação.
 
 2 - No caso previsto no número anterior, a falta de pagamento no prazo estabelecido converterá a cobrança em virtual nos termos e para efeitos do disposto no Código de Processo das Contribuições e Impostos.
 
@@ -1449,7 +1672,7 @@ c) A diferença positiva ou negativa dividir-se-á por 5 ou 10, conforme o caso,
 
 #### SECÇÃO III — Outras obrigações dos contribuintes
 
-###### Art. 28.º - 1 - Para além da obrigação de pagamento do imposto, os sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º são obrigados, sem prejuízo do previsto em disposições especiais, a:
+Art. 28.º - 1 - Para além da obrigação de pagamento do imposto, os sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º são obrigados, sem prejuízo do previsto em disposições especiais, a:
 
 a) Entregar, segundo as modalidades e formas prescritas na lei, uma declaração de início, de alteração ou de cessação da sua actividade;
 
@@ -1493,23 +1716,23 @@ g) Dispor de contabilidade adequada ao apuramento e fiscalização do imposto.
 
 15 - O Ministro das Finanças pode dispensar a obrigação referida nas alíneas e) e f) do n.º 1 relativamente a operações em que seja especialmente difícil o seu cumprimento.
 
-###### Art. 29.º - 1 - Relativamente a operações efectuadas no território nacional por sujeitos do imposto não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma devem ser cumpridas por um representante residente no território nacional, munido de procuração com poderes bastantes. Neste caso, o representante responderá solidariamente com o representado pelo cumprimento de tais obrigações.
+Art. 29.º - 1 - Relativamente a operações efectuadas no território nacional por sujeitos do imposto não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma devem ser cumpridas por um representante residente no território nacional, munido de procuração com poderes bastantes. Neste caso, o representante responderá solidariamente com o representado pelo cumprimento de tais obrigações.
 
 2 - A nomeação do representante deve ser comunicada à parte contratante antes de ser efectuada a operação.
 
 3 - Na falta de um representante nomeado nos termos do n.º 1, as obrigações previstas neste diploma relativas a transmissões de bens e a prestações de serviços efectuadas no território nacional por sujeitos passivos do imposto residentes no estrangeiro devem ser cumpridas pelos adquirentes dos bens ou destinatários dos serviços que o façam no exercício de uma actividade comercial, industrial ou profissional.
 
-###### Art. 30.º - 1 - As pessoas singulares ou colectivas que exerçam uma actividade sujeita a IVA deverão apresentar na repartição de finanças competente, antes de iniciado o exercício da actividade, a respectiva declaração.
+Art. 30.º - 1 - As pessoas singulares ou colectivas que exerçam uma actividade sujeita a IVA deverão apresentar na repartição de finanças competente, antes de iniciado o exercício da actividade, a respectiva declaração.
 
 2 - Não haverá lugar à entrega da declaração referida no número anterior quando se trate de pessoas sujeitas a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º, excepto se a mesma exceder o limite previsto nas alíneas e) e f) do n.º 1 do artigo 28.º
 
-###### Art. 31.º - 1 - Sempre que se verifiquem alterações de qualquer dos elementos constantes da declaração relativa ao início de actividade, deve o contribuinte entregar a respectiva declaração de alterações.
+Art. 31.º - 1 - Sempre que se verifiquem alterações de qualquer dos elementos constantes da declaração relativa ao início de actividade, deve o contribuinte entregar a respectiva declaração de alterações.
 
 2 - A declaração prevista no n.º 1 será entregue na repartição de finanças competente no prazo de 15 dias a contar da data de alteração, se outro prazo não for expressamente previsto neste diploma.
 
-###### Art. 32.º No caso de cessação de actividade, deve o sujeito passivo, no prazo de 30 dias a contar da data da cessação, entregar a respectiva declaração na repartição de finanças competente.
+Art. 32.º No caso de cessação de actividade, deve o sujeito passivo, no prazo de 30 dias a contar da data da cessação, entregar a respectiva declaração na repartição de finanças competente.
 
-###### Art. 33.º - 1 - Para efeitos do disposto no artigo anterior, considera-se verificada a cessação da actividade exercida pelo sujeito passivo no momento em que ocorra qualquer dos seguintes factos:
+Art. 33.º - 1 - Para efeitos do disposto no artigo anterior, considera-se verificada a cessação da actividade exercida pelo sujeito passivo no momento em que ocorra qualquer dos seguintes factos:
 
 a) Deixem de praticar-se actos relacionados com actividades determinantes da tributação durante um período de dois anos consecutivos, caso em que se presumirão transmitidos, nos termos da alínea f) do n.º 3 do artigo 3.º, os bens a essa data existentes no activo da empresa;
 
@@ -1521,13 +1744,13 @@ d) Se dê a transferência, a qualquer outro título, da propriedade do estabele
 
 2 - Independentemente dos factos previstos no número anterior, pode ainda a administração fiscal declarar oficiosamente a cessação de actividade quando for manifesto que esta não está a ser exercida nem há intenção de a continuar a exercer.
 
-###### Art. 34.º - 1 - As declarações referidas nos artigos 30.º a 32.º serão apresentadas em triplicado, sendo uma das cópias devolvida aos contribuintes.
+Art. 34.º - 1 - As declarações referidas nos artigos 30.º a 32.º serão apresentadas em triplicado, sendo uma das cópias devolvida aos contribuintes.
 
 2 - As declarações serão informadas no prazo de 30 dias pela Direcção-Geral das Contribuições e Impostos, que se pronunciará sobre os elementos declarados e quaisquer outros com interesse para a apreciação da situação.
 
 3 - No caso de a Direcção-Geral das Contribuições e Impostos discordar dos elementos declarados, fixará os que entender adequados, disso notificando o contribuinte.
 
-###### Art. 35.º - 1 - A factura ou documento equivalente referidos no artigo 28.º devem ser emitidos o mais tardar no 5.º dia útil seguinte ao do momento em que o imposto é devido nos termos do artigo 7.º
+Art. 35.º - 1 - A factura ou documento equivalente referidos no artigo 28.º devem ser emitidos o mais tardar no 5.º dia útil seguinte ao do momento em que o imposto é devido nos termos do artigo 7.º
 
 Todavia, em caso de pagamentos relativos a uma transmissão de bens ou prestação de serviços ainda não efectuada, a data da emissão do documento comprovativo coincidirá sempre com a da percepção de tal montante.
 
@@ -1557,13 +1780,13 @@ No caso de a operação ou operações às quais se reporta a factura compreende
 
 8 - Poderá o Ministro das Finanças e do Plano, relativamente a sujeitos passivos que transmitam bens ou prestem serviços que, pela sua natureza, impeçam o cumprimento do prazo previsto no n.º 1, determinar prazos mais dilatados de facturação.
 
-###### Art. 36.º - 1 - A importância do imposto liquidado deverá ser adicionada ao valor da factura ou documento equivalente, para efeitos da sua exigência aos adquirentes das mercadorias ou aos utilizadores dos serviços.
+Art. 36.º - 1 - A importância do imposto liquidado deverá ser adicionada ao valor da factura ou documento equivalente, para efeitos da sua exigência aos adquirentes das mercadorias ou aos utilizadores dos serviços.
 
 2 - Nas operações pelas quais a emissão de factura não é obrigatória, o imposto será incluído no preço, para efeitos do disposto no número anterior.
 
 3 - A repercussão do imposto não é obrigatória nas operações referidas na alínea f) do n.º 3 do artigo 3.º e nas alíneas a) e b) do n.º 2 do artigo 4.º
 
-###### Art. 37.º - 1 - No caso de entrega de mercadorias à consignação, proceder-se-á à emissão de facturas ou documentos equivalentes no prazo de cinco dias úteis a contar:
+Art. 37.º - 1 - No caso de entrega de mercadorias à consignação, proceder-se-á à emissão de facturas ou documentos equivalentes no prazo de cinco dias úteis a contar:
 
 a) Do momento do envio das mercadorias à consignação;
 
@@ -1571,9 +1794,9 @@ b) Do momento em que, relativamente a tais mercadorias, o imposto é devido e ex
 
 2 - A factura ou documento equivalente, processado de acordo com a alínea b) do n.º 1, deverá fazer sempre apelo à documentação emitida aquando da situação referida na alínea a).
 
-###### Art. 38.º Nas facturas emitidas por retalhistas e prestadores de serviços pode indicar-se apenas o preço com inclusão do imposto e a taxa ou taxas aplicáveis, em substituição dos elementos previstos nas alíneas c) e d) do n.º 5 do artigo 35.º
+Art. 38.º Nas facturas emitidas por retalhistas e prestadores de serviços pode indicar-se apenas o preço com inclusão do imposto e a taxa ou taxas aplicáveis, em substituição dos elementos previstos nas alíneas c) e d) do n.º 5 do artigo 35.º
 
-###### Art. 39.º - 1 - É dispensada a obrigação de facturação nas operações a seguir mencionadas, sempre que o cliente seja um particular que não destine os bens ou serviços adquiridos ao exercício de uma actividade comercial, industrial ou profissional e a transacção seja efectuada a dinheiro:
+Art. 39.º - 1 - É dispensada a obrigação de facturação nas operações a seguir mencionadas, sempre que o cliente seja um particular que não destine os bens ou serviços adquiridos ao exercício de uma actividade comercial, industrial ou profissional e a transacção seja efectuada a dinheiro:
 
 a) Transmissões de bens efectuadas por retalhistas ou vendedores ambulantes;
 
@@ -1599,7 +1822,7 @@ c) O preço líquido de imposto, as taxas aplicáveis e o montante de imposto de
 
 6 - O Ministro das Finanças poderá, nos casos em que o disposto no n.º 1 favoreça a evasão fiscal, restringir a dispensa de facturação aí prevista ou exigir a emissão de documento adequado à comprovação da operação efectuada.
 
-###### Art. 40.º - 1 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 28.º, a declaração periódica deve ser enviada por via postal ao Serviço de Administração do IVA, por forma que dê entrada nos seguintes prazos:
+Art. 40.º - 1 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 28.º, a declaração periódica deve ser enviada por via postal ao Serviço de Administração do IVA, por forma que dê entrada nos seguintes prazos:
 
 a) Até ao último dia do 2.º mês seguinte àquele a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios igual ou superior a 40000000$00 no ano civil anterior, salvo quanto às declarações que devam ser entregues em Dezembro de cada ano, caso em que o prazo é antecipado para o dia 20 desse mês;
 
@@ -1623,7 +1846,7 @@ b) Nos casos de contribuintes já registados, e abrangidos pelo regime normal, a
 
 8 - Sem prejuízo do disposto no n.º 3, a mudança de periodicidade só se verificará por iniciativa do Serviço de Administração do IVA, que, para o efeito e tendo em conta o disposto no n.º 2, notificará o sujeito passivo da data a partir da qual a referida mudança de periodicidade produzirá efeitos.
 
-###### Art. 41.º O volume de negócios previsto no artigo anterior é constituído pelo valor, com exclusão do imposto, das transmissões de bens e prestações de serviços efectuadas pelo sujeito passivo, com excepção:
+Art. 41.º O volume de negócios previsto no artigo anterior é constituído pelo valor, com exclusão do imposto, das transmissões de bens e prestações de serviços efectuadas pelo sujeito passivo, com excepção:
 
 a) Das operações referidas nos n.os 28) e 29) do artigo 9.º, quando constituam operações acessórias;
 
@@ -1631,11 +1854,11 @@ b) Das operações referidas nos n.os 30) e 31) do artigo 9.º, quando relativam
 
 c) Das operações sobre bens de investimento corpóreos ou incorpóreos.
 
-###### Art. 42.º Os sujeitos passivos que pratiquem uma só operação tributável nas condições referidas na alínea a) do n.º 1 do artigo 2.º deverão apresentar a declaração respectiva na repartição de finanças competente até ao último dia do 2.º mês seguinte ao da conclusão da operação.
+Art. 42.º Os sujeitos passivos que pratiquem uma só operação tributável nas condições referidas na alínea a) do n.º 1 do artigo 2.º deverão apresentar a declaração respectiva na repartição de finanças competente até ao último dia do 2.º mês seguinte ao da conclusão da operação.
 
-###### Art. 43.º (Revogado.)
+Art. 43.º (Revogado.)
 
-###### Art. 44.º - 1 - A contabilidade deve ser organizada de forma a possibilitar o conhecimento claro e inequívoco dos elementos necessários ao cálculo do imposto, bem como a permitir o seu controlo, comportando todos os dados necessários ao preenchimento da declaração periódica do imposto.
+Art. 44.º - 1 - A contabilidade deve ser organizada de forma a possibilitar o conhecimento claro e inequívoco dos elementos necessários ao cálculo do imposto, bem como a permitir o seu controlo, comportando todos os dados necessários ao preenchimento da declaração periódica do imposto.
 
 2 - Para cumprimento do disposto no n.º 1, deverão ser objecto de registo, nomeadamente:
 
@@ -1665,11 +1888,11 @@ c) O valor das aquisições de gasóleo;
 
 d) O valor do imposto dedutível, segundo a taxa aplicável.
 
-###### Art. 45.º - 1 - O registo das operações mencionadas na alínea a) do n.º 2 do artigo anterior deverá ser efectuado após a emissão das correspondentes facturas, até à apresentação das declarações a que se referem os artigos 40.º ou 42.º, se enviadas dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida.
+Art. 45.º - 1 - O registo das operações mencionadas na alínea a) do n.º 2 do artigo anterior deverá ser efectuado após a emissão das correspondentes facturas, até à apresentação das declarações a que se referem os artigos 40.º ou 42.º, se enviadas dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida.
 
 2 - Para tal efeito, as facturas, documentos equivalentes e guias ou notas de devolução serão numerados seguidamente, em uma ou mais séries convenientemente referenciadas, devendo conservar-se na respectiva ordem os seus duplicados e, bem assim, todos os exemplares dos que tiverem sido anulados ou inutilizados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, se for caso disso.
 
-###### Art. 46.º - 1 - Os retalhistas e outros contribuintes referidos no artigo 39.º devem, sempre que não emitam factura ou documento equivalente, efectuar o registo das operações realizadas diariamente pelo montante global das contraprestações recebidas pelas transmissões de bens e prestações de serviços tributáveis, imposto incluído, assim como pelo montante global das contraprestações relativas às operações não tributáveis ou isentas mencionadas nos artigos 9.º, 13.º, 14.º e 15.º
+Art. 46.º - 1 - Os retalhistas e outros contribuintes referidos no artigo 39.º devem, sempre que não emitam factura ou documento equivalente, efectuar o registo das operações realizadas diariamente pelo montante global das contraprestações recebidas pelas transmissões de bens e prestações de serviços tributáveis, imposto incluído, assim como pelo montante global das contraprestações relativas às operações não tributáveis ou isentas mencionadas nos artigos 9.º, 13.º, 14.º e 15.º
 
 2 - O registo referido no número anterior deve ser efectuado o mais tardar no 1.º dia útil seguinte ao da realização das operações e apoiado em documentos adequados, tais como fitas de máquinas registadoras, talões de venda, talão recapitulativo diário ou folhas de caixa, que, aliás, poderão substituir o mesmo registo desde que contenham a indicação inequívoca de um único total diário.
 
@@ -1679,17 +1902,17 @@ d) O valor do imposto dedutível, segundo a taxa aplicável.
 
 5 - A opção pela elaboração de folhas de caixa a que se refere o n.º 2 não dispensa a obrigatoriedade de conservação dos duplicados dos talões de venda ou dos demais documentos ali referidos nas condições e prazo previstos no artigo 52.º
 
-###### Art. 47.º - 1 - Os retalhistas que efectuem operações sujeitas a diversas taxas, estejam dispensados da emissão de factura e não tenham possibilidade de discriminar por taxas os montantes apurados diariamente poderão registar as contraprestações relativas às operações tributáveis sem distinção de taxa.
+Art. 47.º - 1 - Os retalhistas que efectuem operações sujeitas a diversas taxas, estejam dispensados da emissão de factura e não tenham possibilidade de discriminar por taxas os montantes apurados diariamente poderão registar as contraprestações relativas às operações tributáveis sem distinção de taxa.
 
 2 - Na hipótese do n.º 1 e para os fins de aplicação das diferentes taxas, dever-se-á repartir o montante global apurado segundo os métodos definidos pela Direcção-Geral das Contribuições e Impostos, fixados de modo que a tributação resultante da aplicação de um determinado método corresponda sensivelmente à que resultaria da aplicação das regras gerais.
 
-###### Art. 48.º - 1 - O registo das operações mencionadas nas alíneas b) e c) do n.º 2 do artigo 44.º deverá ser efectuado após a recepção das correspondentes facturas, documentos equivalentes e guias ou notas de devolução, até à apresentação das declarações a que se referem os artigos 40.º ou 42.º, se enviadas dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida.
+Art. 48.º - 1 - O registo das operações mencionadas nas alíneas b) e c) do n.º 2 do artigo 44.º deverá ser efectuado após a recepção das correspondentes facturas, documentos equivalentes e guias ou notas de devolução, até à apresentação das declarações a que se referem os artigos 40.º ou 42.º, se enviadas dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida.
 
 2 - Para tal efeito, as facturas, documentos equivalentes e guias ou notas de devolução serão numeradas seguidamente, em uma ou mais séries convenientemente referenciadas, devendo conservar-se na respectiva ordem os seus originais e, bem assim, todos os exemplares dos que tiverem sido anulados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, se for caso disso.
 
-###### Art. 49.º Nos casos em que a facturação ou o seu registo sejam processados por valores, com imposto incluído, nos termos dos artigos anteriores, o apuramento da base tributável correspondente será obtido através da divisão daqueles valores por 105, quando a taxa do imposto for 5%, 116, quando a taxa do imposto for 16%, 130, quando a taxa do imposto for 30%, multiplicando o quociente por 100 e arredondando o resultado, por defeito ou por excesso, para a unidade mais próxima, sem prejuízo da adopção de outro qualquer método conducente a idêntico resultado.
+Art. 49.º Nos casos em que a facturação ou o seu registo sejam processados por valores, com imposto incluído, nos termos dos artigos anteriores, o apuramento da base tributável correspondente será obtido através da divisão daqueles valores por 105, quando a taxa do imposto for 5%, 116, quando a taxa do imposto for 16%, 130, quando a taxa do imposto for 30%, multiplicando o quociente por 100 e arredondando o resultado, por defeito ou por excesso, para a unidade mais próxima, sem prejuízo da adopção de outro qualquer método conducente a idêntico resultado.
 
-###### Art. 50.º - 1 - Os sujeitos passivos não enquadrados nos regimes especiais previstos na secção IV do presente capítulo ou que não possuam contabilidade organizada nos termos dos Códigos do IRS ou do IRC utilizarão, para cumprimento das exigências constantes dos n.os 1 dos artigos 45.º e 48.º, os seguintes livros de registo:
+Art. 50.º - 1 - Os sujeitos passivos não enquadrados nos regimes especiais previstos na secção IV do presente capítulo ou que não possuam contabilidade organizada nos termos dos Códigos do IRS ou do IRC utilizarão, para cumprimento das exigências constantes dos n.os 1 dos artigos 45.º e 48.º, os seguintes livros de registo:
 
 a) Livro de registo de compras de mercadorias e ou livro de registo de matérias-primas e de consumo;
 
@@ -1711,7 +1934,7 @@ e) Livro de registo de mercadorias, matérias-primas e de consumo, de produtos f
 
 6 - Os livros a que se refere o artigo 112.º do Código do IRS substituirão os livros referidos no presente artigo.
 
-###### Art. 51.º - 1 - Os sujeitos passivos que possuam contabilidade organizada para efeitos de IRS ou IRC ou nos termos do n.º 3 do artigo 50.º são obrigados a efectuar registo dos seus bens de investimento, de forma a permitir o controlo das deduções efectuadas e das regularizações processadas.
+Art. 51.º - 1 - Os sujeitos passivos que possuam contabilidade organizada para efeitos de IRS ou IRC ou nos termos do n.º 3 do artigo 50.º são obrigados a efectuar registo dos seus bens de investimento, de forma a permitir o controlo das deduções efectuadas e das regularizações processadas.
 
 2 - O registo a que se refere o n.º 1 deverá comportar, para cada um dos bens, os seguintes elementos:
 
@@ -1735,7 +1958,7 @@ b) Da data da conclusão das obras em bens imóveis;
 
 c) Da data em que devam ser processadas as regularizações.
 
-###### Art. 52.º - 1 - Os sujeitos passivos são obrigados a arquivar e conservar em boa ordem durante os cinco anos civis subsequentes todos os livros, registos e respectivos documentos de suporte, incluindo, quando a contabilidade é estabelecida por meios informáticos, os relativos à análise, programação e execução dos tratamentos.
+Art. 52.º - 1 - Os sujeitos passivos são obrigados a arquivar e conservar em boa ordem durante os cinco anos civis subsequentes todos os livros, registos e respectivos documentos de suporte, incluindo, quando a contabilidade é estabelecida por meios informáticos, os relativos à análise, programação e execução dos tratamentos.
 
 2 - Para os registos previstos na alínea d) do n.º 1 do artigo 50.º e no artigo 51.º e documentos conexos, o prazo de cinco anos referido no número anterior deverá ser contado a partir da data em que for efectuada a última das regularizações previstas nos artigos 24.º e 25.º
 
@@ -1743,7 +1966,7 @@ c) Da data em que devam ser processadas as regularizações.
 
 ##### SUBSECÇÃO I — Regime de isenção
 
-###### Art. 53.º - 1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos de IRS ou IRC, nem praticando operações de importação, exportação ou actividades conexas, não tenham atingido no ano civil anterior um volume de negócios superior a 1500000$00.
+Art. 53.º - 1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos de IRS ou IRC, nem praticando operações de importação, exportação ou actividades conexas, não tenham atingido no ano civil anterior um volume de negócios superior a 1500000$00.
 
 2 - Não obstante o disposto no número anterior, serão ainda isentos do imposto os sujeitos passivos com um volume de negócios superior a 1500000$00, mas inferior a 2000000$00, que, se tributados, preencheriam as condições de inclusão no regime dos pequenos retalhistas.
 
@@ -1753,7 +1976,7 @@ c) Da data em que devam ser processadas as regularizações.
 
 5 - O volume de negócios previsto nos números anteriores é o definido nos termos do artigo 41.º
 
-###### Art. 54.º - 1 - Se, verificados os condicionalismos previstos no artigo anterior, os sujeitos passivos não isentos pretenderem a aplicação do regime nele estabelecido, deverão apresentar a declaração a que se refere o artigo 31.º
+Art. 54.º - 1 - Se, verificados os condicionalismos previstos no artigo anterior, os sujeitos passivos não isentos pretenderem a aplicação do regime nele estabelecido, deverão apresentar a declaração a que se refere o artigo 31.º
 
 2 - A declaração referida no número anterior só poderá ser apresentada durante o mês de Janeiro do ano seguinte àquele em que se verifiquem os condicionalismos referidos no artigo anterior, produzindo efeitos a partir de 1 de Janeiro do ano da apresentação.
 
@@ -1761,7 +1984,7 @@ c) Da data em que devam ser processadas as regularizações.
 
 4 - Os sujeitos passivos que utilizem a possibilidade prevista no n.º 1 devem proceder, nos termos do n.º 5 do artigo 24.º, à regularização da dedução efectuada quanto a bens do activo imobilizado e, quando anteriormente abrangidos pelo regime normal, devem também efectuar a regularização do imposto deduzido e respeitante às existências remanescentes no fim do ano, devendo, em qualquer dos casos, as referidas regularizações ser incluídas na declaração ou guia referente ao último período de tributação.
 
-###### Art. 55.º - 1 - Os sujeitos passivos susceptíveis de beneficiar da isenção do imposto nos termos do artigo 53.º podem renunciar a tal isenção e optar pela aplicação normal do imposto às suas operações tributáveis.
+Art. 55.º - 1 - Os sujeitos passivos susceptíveis de beneficiar da isenção do imposto nos termos do artigo 53.º podem renunciar a tal isenção e optar pela aplicação normal do imposto às suas operações tributáveis.
 
 No caso de serem retalhistas, poderão ainda optar pelo regime especial previsto no artigo 60.º
 
@@ -1773,13 +1996,13 @@ No caso de serem retalhistas, poderão ainda optar pelo regime especial previsto
 
 5 - No caso de modificação essencial das condições de exercício da actividade económica, pode o sujeito passivo, independentemente do prazo previsto no número anterior, solicitar, mediante requerimento a entregar na repartição de finanças competente, a passagem ao regime de isenção, com efeitos a partir da data para o efeito mencionada na notificação do deferimento do pedido.
 
-###### Art. 56.º - 1 - Nos casos de passagem de regime de isenção a um regime de tributação, ou inversamente, a Direcção-Geral das Contribuições e Impostos poderá tomar as medidas que julgar necessárias a fim de evitar que o sujeito passivo em questão usufrua vantagens injustificadas ou sofra prejuízos igualmente injustificados. Designadamente, poderá não atender a modificações do volume de negócios pouco significativas ou devidas a circunstâncias excepcionais.
+Art. 56.º - 1 - Nos casos de passagem de regime de isenção a um regime de tributação, ou inversamente, a Direcção-Geral das Contribuições e Impostos poderá tomar as medidas que julgar necessárias a fim de evitar que o sujeito passivo em questão usufrua vantagens injustificadas ou sofra prejuízos igualmente injustificados. Designadamente, poderá não atender a modificações do volume de negócios pouco significativas ou devidas a circunstâncias excepcionais.
 
 2 - Não podem beneficiar do regime de isenção os sujeitos passivos que, estando enquadrados num regime de tributação à data de cessação de actividade, reiniciem essa ou outra actividade nos 12 meses seguintes ao da cessação.
 
-###### Art. 57.º Os sujeitos passivos isentos nos termos do artigo 53.º, quando emitam facturas por bens transmitidos ou serviços prestados no exercício da sua actividade comercial, industrial ou profissional, deverão sempre apor-lhe a menção «IVA - Regime de isenção».
+Art. 57.º Os sujeitos passivos isentos nos termos do artigo 53.º, quando emitam facturas por bens transmitidos ou serviços prestados no exercício da sua actividade comercial, industrial ou profissional, deverão sempre apor-lhe a menção «IVA - Regime de isenção».
 
-###### Art. 58.º - 1 - Os sujeitos passivos isentos nos termos do artigo 53.º são obrigados ao cumprimento do disposto nos artigos 30.º e 32.º
+Art. 58.º - 1 - Os sujeitos passivos isentos nos termos do artigo 53.º são obrigados ao cumprimento do disposto nos artigos 30.º e 32.º
 
 2 - Os referidos sujeitos passivos que, tendo iniciado a actividade em data anterior à da entrada em vigor do Código, foram dispensados do cumprimento das obrigações de registo previstas no Decreto-Lei n.º 394-A/84 são obrigados a apresentar a declaração a que se refere o artigo 30.º:
 
@@ -1799,11 +2022,11 @@ e) No prazo de 15 dias a contar do momento em que deixe de verificar-se qualquer
 
 5 - Será devido imposto com referência às operações efectuadas pelos sujeitos passivos a partir do mês seguinte àquele em que se torne obrigatória a entrega das declarações a que se referem os n.os 2, 3 ou 4.
 
-###### Art. 59.º Sem prejuízo do disposto no artigo anterior, os sujeitos passivos isentos nos termos do artigo 53.º estão dispensados das demais obrigações previstas no presente diploma, com excepção das que se encontram estabelecidas nas alíneas e) e f) do n.º 1 do artigo 28.º, que, sempre que se verifiquem os respectivos pressupostos, deverão ser cumpridas na repartição de finanças competente dentro do prazo a que se refere a alínea d) do n.º 1 daquele artigo.
+Art. 59.º Sem prejuízo do disposto no artigo anterior, os sujeitos passivos isentos nos termos do artigo 53.º estão dispensados das demais obrigações previstas no presente diploma, com excepção das que se encontram estabelecidas nas alíneas e) e f) do n.º 1 do artigo 28.º, que, sempre que se verifiquem os respectivos pressupostos, deverão ser cumpridas na repartição de finanças competente dentro do prazo a que se refere a alínea d) do n.º 1 daquele artigo.
 
 ##### SUBSECÇÃO II — Regime dos pequenos retalhistas
 
-###### Art. 60.º - 1 - Sem prejuízo do disposto no n.º 2 do artigo 53.º, os retalhistas que sejam pessoas singulares, não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS e não tenham tido no ano civil anterior um volume de compras superior a 7500000$00, para apurar o imposto devido ao Estado, aplicarão um coeficiente de 25% ao valor do imposto suportado nas aquisições de bens destinados a vendas sem transformação.
+Art. 60.º - 1 - Sem prejuízo do disposto no n.º 2 do artigo 53.º, os retalhistas que sejam pessoas singulares, não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS e não tenham tido no ano civil anterior um volume de compras superior a 7500000$00, para apurar o imposto devido ao Estado, aplicarão um coeficiente de 25% ao valor do imposto suportado nas aquisições de bens destinados a vendas sem transformação.
 
 2 - Ao imposto determinado nos termos do número anterior será deduzido o valor do imposto suportado nas aquisições de bens de investimento e outros bens para uso da própria empresa, salvo tratando-se dos que estejam excluídos do direito à dedução nos termos do n.º 1 do artigo 21.º
 
@@ -1821,7 +2044,7 @@ e) No prazo de 15 dias a contar do momento em que deixe de verificar-se qualquer
 
 9 - São excluídas do regime especial, ficando sujeitas a imposto nos termos gerais, as transmissões de bens do activo imobilizado dos retalhistas sujeitos ao regime previsto no presente artigo, os quais deverão adicionar o respectivo imposto ao apurado nos termos do n.º 1, para efeitos da sua entrega nos cofres do Estado.
 
-###### Art. 61.º - 1 - Se, verificados os condicionalismos previstos no artigo anterior, os sujeitos passivos incluídos no regime normal pretenderem a aplicação do regime especial dos pequenos retalhistas, deverão apresentar a declaração a que se refere o artigo 31.º
+Art. 61.º - 1 - Se, verificados os condicionalismos previstos no artigo anterior, os sujeitos passivos incluídos no regime normal pretenderem a aplicação do regime especial dos pequenos retalhistas, deverão apresentar a declaração a que se refere o artigo 31.º
 
 2 - A declaração referida no número anterior só poderá ser apresentada durante o mês de Janeiro do ano seguinte àquele em que se verifiquem os condicionalismos referidos no artigo anterior, produzindo efeitos a partir de 1 de Janeiro do ano da apresentação.
 
@@ -1829,9 +2052,9 @@ e) No prazo de 15 dias a contar do momento em que deixe de verificar-se qualquer
 
 4 - Os sujeitos passivos que utilizarem a possibilidade prevista no n.º 1 aplicarão um coeficiente de 25% ao valor do imposto deduzido e respeitante às existências remanescentes no fim do ano, devendo o valor resultante, adicionado do próprio imposto, ser incluído na declaração ou guia referente ao primeiro período de tributação no regime dos pequenos retalhistas.
 
-###### Art. 62.º Salvo no caso das vendas referidas no n.º 9 do artigo 60.º, as facturas ou documentos equivalentes emitidos por retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º não conferem direito à dedução, devendo deles constar expressamente a menção «IVA - Não confere direito a dedução».
+Art. 62.º Salvo no caso das vendas referidas no n.º 9 do artigo 60.º, as facturas ou documentos equivalentes emitidos por retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º não conferem direito à dedução, devendo deles constar expressamente a menção «IVA - Não confere direito a dedução».
 
-###### Art. 63.º - 1 - Os sujeitos passivos susceptíveis de usufruírem do regime especial de tributação previsto no artigo 60.º podem renunciar a tal regime e optar pela aplicação normal do imposto às suas operações tributáveis.
+Art. 63.º - 1 - Os sujeitos passivos susceptíveis de usufruírem do regime especial de tributação previsto no artigo 60.º podem renunciar a tal regime e optar pela aplicação normal do imposto às suas operações tributáveis.
 
 2 - O direito de opção será exercido mediante a entrega, na repartição de finanças competente, de declaração de início ou de alterações, consoante os casos, produzindo efeitos, respectivamente, a partir da apresentação da declaração de início ou do período de imposto seguinte ao da apresentação da declaração de alterações.
 
@@ -1841,11 +2064,11 @@ e) No prazo de 15 dias a contar do momento em que deixe de verificar-se qualquer
 
 5 - No caso de modificação essencial das condições de exercício da actividade económica, pode o sujeito passivo, independentemente do prazo previsto no número anterior, solicitar, mediante requerimento a entregar na repartição de finanças competente, a passagem ao regime especial com efeitos a partir da data para o efeito mencionada na notificação do deferimento do pedido.
 
-###### Art. 64.º - 1 - Nos casos de passagem do regime normal de tributação ao regime especial referido no artigo 60.º, ou inversamente, a Direcção-Geral das Contribuições e Impostos poderá tomar as medidas que julgar necessárias a fim de evitar que o retalhista usufrua vantagens injustificadas ou sofra prejuízos igualmente injustificados. Designadamente, poderá não atender a modificações do volume de compras pouco significativas ou devidas a circunstâncias excepcionais.
+Art. 64.º - 1 - Nos casos de passagem do regime normal de tributação ao regime especial referido no artigo 60.º, ou inversamente, a Direcção-Geral das Contribuições e Impostos poderá tomar as medidas que julgar necessárias a fim de evitar que o retalhista usufrua vantagens injustificadas ou sofra prejuízos igualmente injustificados. Designadamente, poderá não atender a modificações do volume de compras pouco significativas ou devidas a circunstâncias excepcionais.
 
 2 - Não podem beneficiar do regime dos pequenos retalhistas os sujeitos passivos que, estando enquadrados no regime normal à data de cessação de actividade, reiniciem essa ou outra actividade nos 12 meses seguintes ao da cessação.
 
-###### Art. 65.º - 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a registar no prazo de 30 dias, a contar da respectiva recepção, as facturas, documentos equivalentes e guias ou notas de devolução relativos a bens ou serviços adquiridos e a conservá-los com observância do disposto no n.º 2 do artigo 48.º
+Art. 65.º - 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a registar no prazo de 30 dias, a contar da respectiva recepção, as facturas, documentos equivalentes e guias ou notas de devolução relativos a bens ou serviços adquiridos e a conservá-los com observância do disposto no n.º 2 do artigo 48.º
 
 2 - Para cumprimento do mencionado no n.º 1, deverão os retalhistas possuir os seguintes elementos de escrita:
 
@@ -1857,9 +2080,9 @@ b) Livro de registo de despesas gerais e operações ligadas a bens de investime
 
 4 - (Revogado.)
 
-###### Art. 66.º Nos casos em que haja fundados motivos para supor que o regime especial de tributação previsto no artigo 60.º concede ao retalhista vantagens injustificadas ou provoca sérias distorções de concorrência, a administração fiscal pode, em qualquer altura, obrigá-lo ao regime normal de tributação.
+Art. 66.º Nos casos em que haja fundados motivos para supor que o regime especial de tributação previsto no artigo 60.º concede ao retalhista vantagens injustificadas ou provoca sérias distorções de concorrência, a administração fiscal pode, em qualquer altura, obrigá-lo ao regime normal de tributação.
 
-###### Art. 67.º - 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a:
+Art. 67.º - 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a:
 
 a) Declarar o início, a alteração e a cessação da sua actividade nos termos dos artigos 30.º, 31.º e 32.º;
 
@@ -1881,11 +2104,11 @@ d) Apresentar, conjuntamente com a declaração mencionada na alínea anterior, 
 
 7 - No caso de passagem do regime especial de tributação prevista no artigo 60.º para o regime normal, a declaração a que se refere a alínea c) do n.º 1 deve ser apresentada no prazo previsto na alínea b) do mesmo número e reportar-se à parte do período anual em que o sujeito passivo esteve enquadrado no regime especial dos pequenos retalhistas.
 
-###### Art. 68.º O prazo de conservação dos livros, registos e respectiva documentação de suporte exigidos nos termos do artigo 65.º é o fixado no n.º 1 do artigo 52.º
+Art. 68.º O prazo de conservação dos livros, registos e respectiva documentação de suporte exigidos nos termos do artigo 65.º é o fixado no n.º 1 do artigo 52.º
 
 #### SECÇÃO V — Disposições comuns
 
-###### Art. 69.º - 1 - Os contribuintes que distribuam a sua actividade por mais de um estabelecimento deverão centralizar num deles a escrituração relativa às operações realizadas em todos.
+Art. 69.º - 1 - Os contribuintes que distribuam a sua actividade por mais de um estabelecimento deverão centralizar num deles a escrituração relativa às operações realizadas em todos.
 
 2 - No caso previsto no n.º 1, a escrituração das operações realizadas deverá obedecer aos seguintes princípios:
 
@@ -1895,13 +2118,13 @@ b) Deverão existir registos dos movimentos de cada estabelecimento, incluindo o
 
 3 - O estabelecimento escolhido para a centralização deve ser o indicado para efeitos do IRS ou IRC.
 
-###### Art. 70.º - 1 - Para efeitos do cumprimento das obrigações do presente diploma, considera-se repartição de finanças ou tesouraria da Fazenda Pública competente a da área fiscal onde o contribuinte tiver a sua sede, estabelecimento principal ou, na falta deste, o domicílio.
+Art. 70.º - 1 - Para efeitos do cumprimento das obrigações do presente diploma, considera-se repartição de finanças ou tesouraria da Fazenda Pública competente a da área fiscal onde o contribuinte tiver a sua sede, estabelecimento principal ou, na falta deste, o domicílio.
 
 2 - Para os contribuintes, pessoas singulares ou colectivas, com domicílio ou sede fora do território nacional, a repartição de finanças ou tesouraria da Fazenda Pública competente será a da área fiscal onde estiver situado o estabelecimento estável ou, na falta deste, a da área fiscal da sede, estabelecimento principal ou domicílio do representante.
 
 3 - No caso de não existência de um estabelecimento estável ou de representante, considerar-se-á competente a repartição de finanças ou tesouraria da Fazenda Pública da área fiscal da sede, estabelecimento principal ou domicilio do adquirente, nos termos do n.º 3 do artigo 29.º
 
-###### Art. 71.º - 1 - As disposições dos artigos 35.º e seguintes devem ser observadas sempre que, emitida a factura ou documento equivalente, o valor tributável de uma operação ou o respectivo imposto venham a sofrer rectificação por qualquer motivo.
+Art. 71.º - 1 - As disposições dos artigos 35.º e seguintes devem ser observadas sempre que, emitida a factura ou documento equivalente, o valor tributável de uma operação ou o respectivo imposto venham a sofrer rectificação por qualquer motivo.
 
 2 - Se, depois de efectuado o registo referido no artigo 45.º, for anulada a operação ou reduzido o seu valor tributável em consequência de invalidade, resolução, rescisão ou redução do contrato, pela devolução de mercadorias ou pela concessão de abatimentos ou descontos, o fornecedor do bem ou prestador do serviço poderá efectuar a dedução do correspondente imposto até ao final do período de imposto seguinte àquele em que se verificarem as circunstâncias que determinaram a anulação da liquidação ou a redução do seu valor tributável.
 
@@ -1921,29 +2144,29 @@ b) Deverão existir registos dos movimentos de cada estabelecimento, incluindo o
 
 10 - Quando o valor tributável for objecto de redução, o montante deste deve ser repartido entre contraprestação e imposto, aquando da emissão do respectivo documento, se se pretender igualmente a rectificação do imposto.
 
-###### Art. 72.º - 1 - O adquirente dos bens ou serviços tributáveis que seja um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, agindo como tal, e não isento, é solidariamente responsável com o fornecedor pelo pagamento do imposto, quando a factura ou documento equivalente, cuja emissão seja obrigatória nos termos do artigo 28.º, não tenha sido passada, contenha uma indicação inexacta quanto ao nome ou endereço das partes intervenientes, à natureza ou à quantidade dos bens transmitidos ou serviços fornecidos, ao preço ou ao montante de imposto devido.
+Art. 72.º - 1 - O adquirente dos bens ou serviços tributáveis que seja um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, agindo como tal, e não isento, é solidariamente responsável com o fornecedor pelo pagamento do imposto, quando a factura ou documento equivalente, cuja emissão seja obrigatória nos termos do artigo 28.º, não tenha sido passada, contenha uma indicação inexacta quanto ao nome ou endereço das partes intervenientes, à natureza ou à quantidade dos bens transmitidos ou serviços fornecidos, ao preço ou ao montante de imposto devido.
 
 2 - O adquirente ou destinatário que prove ter pago ao seu fornecedor, devidamente identificado, todo ou parte do imposto devido será liberto da responsabilidade solidária prevista no número anterior, pelo montante correspondente ao pagamento efectuado, salvo no caso de má fé.
 
 3 - O adquirente dos serviços referidos nas alíneas x) e z) do n.º 1 do artigo 14.º é solidariamente responsável com o prestador, pelo pagamento do imposto, quando as operações tenham sido indevidamente isentas.
 
-###### Art. 73.º Os sujeitos passivos que pratiquem operações isentas, sem direito a dedução, e desenvolvam simultaneamente uma actividade acessória tributável poderão calcular o seu volume de negócios, para efeitos do disposto nos artigos 41.º e 53.º, tomando em conta apenas os resultados relativos à actividade acessória.
+Art. 73.º Os sujeitos passivos que pratiquem operações isentas, sem direito a dedução, e desenvolvam simultaneamente uma actividade acessória tributável poderão calcular o seu volume de negócios, para efeitos do disposto nos artigos 41.º e 53.º, tomando em conta apenas os resultados relativos à actividade acessória.
 
-###### Art. 74.º - 1 - As decisões da Direcção-Geral das Contribuições e Impostos a que se refere o n.º 6 do artigo 40.º, n.º 3 do artigo 53.º, n.º 4 do artigo 58.º e n.º 4 do artigo 60.º, serão notificadas ao contribuinte pela forma descrita na parte final do n.º 4 do artigo 84.º, com indicação dos critérios que as fundamentaram.
+Art. 74.º - 1 - As decisões da Direcção-Geral das Contribuições e Impostos a que se refere o n.º 6 do artigo 40.º, n.º 3 do artigo 53.º, n.º 4 do artigo 58.º e n.º 4 do artigo 60.º, serão notificadas ao contribuinte pela forma descrita na parte final do n.º 4 do artigo 84.º, com indicação dos critérios que as fundamentaram.
 
 2 - Daquelas decisões poderão os contribuintes reclamar nos termos dos artigos 84.º a 86.º, sem prejuízo do disposto no número seguinte.
 
 3 - As reclamações não têm efeitos suspensivos, salvo as que respeitem à decisão proferida nos termos do n.º 4 do artigo 58.º, e devem ser apresentadas no prazo de 15 dias a contar da data da notificação a que se refere o n.º 1, por meio de requerimento devidamente fundamentado, sob pena de serem liminarmente rejeitadas.
 
-###### Art. 75.º - 1 - Das decisões da Direcção-Geral das Contribuições e Impostos previstas no artigo 56.º poderá o contribuinte recorrer hierarquicamente, tendo o recurso efeitos suspensivos.
+Art. 75.º - 1 - Das decisões da Direcção-Geral das Contribuições e Impostos previstas no artigo 56.º poderá o contribuinte recorrer hierarquicamente, tendo o recurso efeitos suspensivos.
 
 2 - Para efeitos do disposto nos artigos 53.º e 58.º, não se conhecerá das reclamações, impugnações e recursos hierárquicos, na parte em que tenham por fundamento a discussão dos volumes de negócios, quando fixados definitivamente para efeitos de IRS ou IRC ou cujo processo de fixação esteja em curso no âmbito destes impostos.
 
 ### CAPÍTULO VI — Fiscalização e determinação oficiosa do imposto
 
-###### Art. 76.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+Art. 76.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
-###### Art. 77.º - 1 - As pessoas singulares ou colectivas que exerçam actividades comerciais, industriais, agrícolas ou de prestação de serviços deverão, dentro dos limites da razoabilidade, prestar toda a colaboração que lhes for solicitada pelos serviços competentes, tendo em vista o integral cumprimento das atribuições que lhe estão cometidas por lei.
+Art. 77.º - 1 - As pessoas singulares ou colectivas que exerçam actividades comerciais, industriais, agrícolas ou de prestação de serviços deverão, dentro dos limites da razoabilidade, prestar toda a colaboração que lhes for solicitada pelos serviços competentes, tendo em vista o integral cumprimento das atribuições que lhe estão cometidas por lei.
 
 2 - Para a execução das tarefas de fiscalização, os serviços competentes poderão, designadamente:
 
@@ -1963,7 +2186,7 @@ f) Requisitar cópias ou extractos de actos e documentos de notários, conservat
 
 4 - Os serviços, estabelecimentos e organismos do Estado, das Regiões Autónomas e das autarquias locais, incluindo os dotados de autonomia administrativa ou financeira e ainda que personalizados, as associações e federações de municípios, bem como outras pessoas colectivas de direito público, as instituições particulares de solidariedade social e as empresas públicas deverão remeter o mapa recapitulativo previsto no artigo 28.º, n.º 1, alínea f), no prazo e segundo o modelo aí previstos.
 
-###### Art. 78.º - 1 - Os funcionários encarregados da fiscalização do imposto têm livre acesso aos locais destinados ao exercício de actividades comerciais, industriais, agrícolas e de prestações de serviços para examinar os livros e quaisquer documentos relacionados com a actividade dos contribuintes, verificações e buscas e qualquer outra diligência considerada útil para o apuramento do imposto e a repressão da fraude e evasão fiscais.
+Art. 78.º - 1 - Os funcionários encarregados da fiscalização do imposto têm livre acesso aos locais destinados ao exercício de actividades comerciais, industriais, agrícolas e de prestações de serviços para examinar os livros e quaisquer documentos relacionados com a actividade dos contribuintes, verificações e buscas e qualquer outra diligência considerada útil para o apuramento do imposto e a repressão da fraude e evasão fiscais.
 
 2 - O acesso contra a vontade do contribuinte aos locais mencionados no número anterior que estejam também afectos a habitação do contribuinte, e bem assim o acesso a outros locais não referidos expressamente, só será possível quando ordenado pela autoridade judicial competente, após pedido fundamentado do respectivo funcionário.
 
@@ -1975,17 +2198,17 @@ f) Requisitar cópias ou extractos de actos e documentos de notários, conservat
 
 6 - Os funcionários encarregados da fiscalização, quando devidamente credenciados, poderão, junto das repartições e serviços oficiais, proceder à recolha dos elementos necessários a um eficaz controlo do imposto.
 
-###### Art. 79.º - 1 - Sempre que necessário, poderão os funcionários encarregados da fiscalização proceder à inventariação das existências físicas de qualquer estabelecimento.
+Art. 79.º - 1 - Sempre que necessário, poderão os funcionários encarregados da fiscalização proceder à inventariação das existências físicas de qualquer estabelecimento.
 
 2 - O inventário a que se refere o número anterior será assinado pelo sujeito passivo, que declarará ser conforme ao total das suas existências, sendo-lhe no entanto permitido acrescentar as observações que entender convenientes.
 
 3 - Do inventário será dada cópia ao sujeito passivo, cuja assinatura será substituída pela de duas testemunhas no caso de recusa.
 
-###### Art. 80.º Salvo prova em contrário, presumem-se adquiridos os bens que se encontrarem em qualquer dos locais em que o contribuinte exerce a sua actividade e presumem-se transmitidos os bens adquiridos, importados ou produzidos que se não encontrarem em qualquer desses locais.
+Art. 80.º Salvo prova em contrário, presumem-se adquiridos os bens que se encontrarem em qualquer dos locais em que o contribuinte exerce a sua actividade e presumem-se transmitidos os bens adquiridos, importados ou produzidos que se não encontrarem em qualquer desses locais.
 
-###### Art. 81.º (Revogado.)
+Art. 81.º (Revogado.)
 
-###### Art. 82.º - 1 - O chefe da repartição de finanças competente procederá à rectificação das declarações dos sujeitos passivos quando fundamentadamente considere que nelas figura um imposto inferior ou uma dedução superior aos devidos, liquidando-se adicionalmente a diferença.
+Art. 82.º - 1 - O chefe da repartição de finanças competente procederá à rectificação das declarações dos sujeitos passivos quando fundamentadamente considere que nelas figura um imposto inferior ou uma dedução superior aos devidos, liquidando-se adicionalmente a diferença.
 
 2 - As inexactidões ou omissões praticadas nas declarações poderão resultar directamente do seu conteúdo, do confronto com declarações respeitantes a períodos de imposto anteriores ou com outros elementos de que se disponha, designadamente os relativos ao IRS ou IRC.
 
@@ -1993,7 +2216,7 @@ f) Requisitar cópias ou extractos de actos e documentos de notários, conservat
 
 4 - Se for demonstrado, sem margem para dúvidas, que foram praticadas omissões ou inexactidões no registo e na declaração a que se referem, respectivamente, a alínea a) do n.º 2 do artigo 65.º e a alínea c) do n.º 1 do artigo 67.º, proceder-se-á à tributação do ano em causa com base nas operações que o sujeito passivo presumivelmente efectuou, sem ter em conta o disposto no n.º 1 do artigo 60.º
 
-###### Art. 83.º - 1 - Se um sujeito passivo não apresentar a declaração periódica no respectivo prazo legal, deverá o Serviço de Administração do IVA proceder à liquidação oficiosa do imposto.
+Art. 83.º - 1 - Se um sujeito passivo não apresentar a declaração periódica no respectivo prazo legal, deverá o Serviço de Administração do IVA proceder à liquidação oficiosa do imposto.
 
 2 - O imposto liquidado deve ser pago na tesouraria da Fazenda Pública competente, no prazo mencionado na notificação, o qual não poderá ser inferior a 90 dias contados desde o envio da mesma notificação.
 
@@ -2007,15 +2230,15 @@ b) Se a liquidação vier a ser corrigida pela repartição de finanças compete
 
 5 - Se o imposto apurado nos termos do n.º 1 tiver sido pago ou, de acordo com o estabelecido no n.º 3, objecto de conversão em receita virtual, será a respectiva importância tomada em conta nas liquidações efectuadas nos termos das alíneas a) e b) do número anterior, cobrando-se ou creditando-se a diferença, se a houver.
 
-###### Art. 83.º-A - 1 - Sem prejuízo do disposto no artigo 83.º, o chefe da repartição de finanças competente poderá proceder também à liquidação oficiosa do imposto que se mostrar devido, quando o sujeito passivo não tiver apresentado a declaração periódica a que estava obrigado nos termos deste Código.
+Art. 83.º-A - 1 - Sem prejuízo do disposto no artigo 83.º, o chefe da repartição de finanças competente poderá proceder também à liquidação oficiosa do imposto que se mostrar devido, quando o sujeito passivo não tiver apresentado a declaração periódica a que estava obrigado nos termos deste Código.
 
 2 - A liquidação referida no número anterior terá como base os elementos recolhidos em visita de fiscalização ou outros ao dispor dos serviços.
 
-###### Art. 83.º-B - 1 - No pagamento de reembolsos, o Serviço de Administração do IVA levará em conta, por dedução, as diferenças de imposto apuradas pelos serviços que se mostrem devidas e não resultem de presunções ou estimativas, quer estas diferenças respeitem ao mesmo período de imposto, quer a períodos de imposto diferentes, até à concorrência do montante dos reembolsos pedidos, sem prejuízo de recurso hierárquico, reclamação ou impugnação contenciosa.
+Art. 83.º-B - 1 - No pagamento de reembolsos, o Serviço de Administração do IVA levará em conta, por dedução, as diferenças de imposto apuradas pelos serviços que se mostrem devidas e não resultem de presunções ou estimativas, quer estas diferenças respeitem ao mesmo período de imposto, quer a períodos de imposto diferentes, até à concorrência do montante dos reembolsos pedidos, sem prejuízo de recurso hierárquico, reclamação ou impugnação contenciosa.
 
 2 - O sujeito passivo poderá solicitar que fique sem efeito a compensação efectuada, se nisso tiver conveniência, procedendo-se ao reembolso e prosseguindo as operações de liquidação.
 
-###### Art. 84.º - 1 - Quando se proceder à rectificação de declarações ou à correcção da liquidação oficiosa, de acordo com os artigos 82.º, 83.º e 83-A, e houver necessidade de recorrer a presunções ou estimativas por carência de elementos que permitam apurar claramente o imposto, poderão os contribuintes ou o representante da Fazenda Pública reclamar para o chefe da repartição de finanças competente nos termos das disposições seguintes.
+Art. 84.º - 1 - Quando se proceder à rectificação de declarações ou à correcção da liquidação oficiosa, de acordo com os artigos 82.º, 83.º e 83-A, e houver necessidade de recorrer a presunções ou estimativas por carência de elementos que permitam apurar claramente o imposto, poderão os contribuintes ou o representante da Fazenda Pública reclamar para o chefe da repartição de finanças competente nos termos das disposições seguintes.
 
 2 - As reclamações têm efeito suspensivo e devem ser apresentadas no prazo de 15 dias a contar da data da notificação a que se refere o artigo 27.º por meio de requerimento em que se aleguem os respectivos fundamentos, sob pena de serem liminarmente rejeitadas.
 
@@ -2031,27 +2254,27 @@ b) Se entender que as mesmas não são procedentes, remetê-las às comissões d
 
 6 - Sendo reclamante a Fazenda Nacional, o contribuinte será notificado para alegar dentro de cinco dias o que julgar conveniente, entregando-se-lhe cópia da reclamação.
 
-###### Art. 85.º - 1 - Tornadas definitivas a decisão do chefe da repartição de finanças ou a deliberação das comissões distritais de revisão, considerar-se-á definitivamente efectuada a liquidação do imposto, notificando-se o sujeito passivo nos termos e para os efeitos do artigo 27.º
+Art. 85.º - 1 - Tornadas definitivas a decisão do chefe da repartição de finanças ou a deliberação das comissões distritais de revisão, considerar-se-á definitivamente efectuada a liquidação do imposto, notificando-se o sujeito passivo nos termos e para os efeitos do artigo 27.º
 
 2 - Quando as reclamações dos contribuintes forem totalmente desatendidas, as comissões distritais fixarão, a título de custas, um agravamento ao imposto que a mais vier a ser liquidado, graduado conforme as circunstâncias, mas não superior a 5%.
 
 3 - A importância resultante da aplicação do agravamento fixado nos termos do número anterior, com o mínimo de 1000$00, será paga juntamente com o imposto.
 
-###### Art. 86.º - 1 - A fixação definitiva do imposto efectuada nos termos dos artigos 84.º e 85.º não é susceptível de impugnação contenciosa, sem prejuízo de na reclamação ou na impugnação da liquidação poderem ser invocados quaisquer ilegalidades ou erros praticados na determinação do imposto em falta.
+Art. 86.º - 1 - A fixação definitiva do imposto efectuada nos termos dos artigos 84.º e 85.º não é susceptível de impugnação contenciosa, sem prejuízo de na reclamação ou na impugnação da liquidação poderem ser invocados quaisquer ilegalidades ou erros praticados na determinação do imposto em falta.
 
 2 - (Revogado.)
 
-###### Art. 87.º - 1 - Decorridos os prazos estabelecidos na lei para a entrega nos cofres do Estado do imposto liquidado pelos sujeitos passivos e constante da declaração oportunamente apresentada, proceder-se-á à liquidação oficiosa do imposto, sem prejuízo da multa cominada ao infractor e dos juros compensatórios, a liquidar em conformidade com o disposto no artigo 89.º
+Art. 87.º - 1 - Decorridos os prazos estabelecidos na lei para a entrega nos cofres do Estado do imposto liquidado pelos sujeitos passivos e constante da declaração oportunamente apresentada, proceder-se-á à liquidação oficiosa do imposto, sem prejuízo da multa cominada ao infractor e dos juros compensatórios, a liquidar em conformidade com o disposto no artigo 89.º
 
 2 - Feita a liquidação, o sujeito passivo será imediatamente notificado para efectuar o pagamento no prazo referido no artigo 27.º
 
 3 - Quando, nos casos previstos no artigo 82.º e no presente artigo, o Serviço de Administração do IVA disponha de todos os elementos necessários ao apuramento do imposto, procederá à notificação dos sujeitos passivos por carta registada com aviso de recepção, comunicando o facto ao chefe da repartição de finanças competente, que efectivará as restantes operações preliminares da cobrança.
 
-###### Art. 87.º-A - 1 - A liquidação a que se refere o artigo 83.º-B será notificada ao contribuinte por carta registada com aviso de recepção, contando-se os prazos para o recurso hierárquico, reclamação e impugnação judicial a partir do dia imediato ao da notificação, devendo o processo de impugnação ser julgado em 1.ª instância pelo tribunal da área da repartição de finanças competente nos termos do artigo 70.º do Código do IVA.
+Art. 87.º-A - 1 - A liquidação a que se refere o artigo 83.º-B será notificada ao contribuinte por carta registada com aviso de recepção, contando-se os prazos para o recurso hierárquico, reclamação e impugnação judicial a partir do dia imediato ao da notificação, devendo o processo de impugnação ser julgado em 1.ª instância pelo tribunal da área da repartição de finanças competente nos termos do artigo 70.º do Código do IVA.
 
 2 - Será aplicável ao processo de reclamação previsto no artigo 83.º-B o disposto nos artigos 95.º, 96.º e 97.º, nos n.os 1 e 3 do artigo 98.º, no n.º 1 do artigo 99.º e no artigo 100.º do Código de Processo Tributário, atribuindo-se as respectivas competências ao director de serviços de reembolsos do Serviço de Administração do IVA.
 
-###### Art. 88.º - 1 - Só poderá ser liquidado imposto nos cinco anos civis seguintes àquele em que se verificou a sua exigibilidade.
+Art. 88.º - 1 - Só poderá ser liquidado imposto nos cinco anos civis seguintes àquele em que se verificou a sua exigibilidade.
 
 2 - Até final do período referido no número anterior, as rectificações e as tributações oficiosas podem ser integradas ou modificadas com base no conhecimento ulterior de novos elementos.
 
@@ -2059,15 +2282,15 @@ b) Se entender que as mesmas não são procedentes, remetê-las às comissões d
 
 4 - Não se procederá a qualquer liquidação adicional quando o seu quantitativo seja inferior a 5000$00.
 
-###### Art. 88.º-A - As liquidações referidas nos artigos 82.º e 83.º poderão ser agregadas por anos civis num único documento de cobrança.
+Art. 88.º-A - As liquidações referidas nos artigos 82.º e 83.º poderão ser agregadas por anos civis num único documento de cobrança.
 
-###### Art. 89.º - 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, nos casos em que a mesma seja da competência da administração fiscal, acrescerá ao montante do imposto o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor. O juro será contado dia a dia, a partir do dia imediato ao do termo do prazo em que o imposto deveria ser entregue nos cofres do Estado, até à data em que vier a ser suprida ou corrigida a falta.
+Art. 89.º - 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, nos casos em que a mesma seja da competência da administração fiscal, acrescerá ao montante do imposto o juro de 24% ao ano, sem prejuízo da multa cominada ao infractor. O juro será contado dia a dia, a partir do dia imediato ao do termo do prazo em que o imposto deveria ser entregue nos cofres do Estado, até à data em que vier a ser suprida ou corrigida a falta.
 
 2 - Sempre que houver atraso na entrega do imposto autoliquidado nos cofres do Estado, contar-se-ão juros dia a dia pela taxa constante da portaria a que se refere o n.º 3 do artigo 5.º do Decreto-Lei n.º 49168, de 5 de Agosto de 1969, com a redacção dada pelo Decreto-Lei n.º 318/80, de 20 de Agosto, desde o termo do prazo para o pagamento até à data em que o mesmo for efectuado.
 
 ### CAPÍTULO VII — Garantias dos contribuintes
 
-###### Art. 90.º - 1 - Os sujeitos passivos e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a respectiva liquidação ou impugná-la com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
+Art. 90.º - 1 - Os sujeitos passivos e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a respectiva liquidação ou impugná-la com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos.
 
 2 - As reclamações e impugnações não serão admitidas se as liquidações forem ainda susceptíveis de correcção nos termos do artigo 71.º ou se não tiver sido entregue a declaração periódica cuja falta originou a liquidação prevista no artigo 83.º
 
@@ -2077,13 +2300,13 @@ b) Se entender que as mesmas não são procedentes, remetê-las às comissões d
 
 5 - Os prazos para as reclamações ou impugnações previstas no n.º 2 contar-se-ão a partir do dia imediato ao final do período referido nos n.os 3 e 6 do artigo 71.º
 
-###### Art. 91.º - 1 - Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa, se ainda não tiverem decorrido cinco anos sobre o pagamento eventual ou, na sua falta, sobre a abertura dos cofres para a cobrança virtual.
+Art. 91.º - 1 - Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa, se ainda não tiverem decorrido cinco anos sobre o pagamento eventual ou, na sua falta, sobre a abertura dos cofres para a cobrança virtual.
 
 2 - Sem prejuízo de disposições especiais, o direito à dedução ou ao reembolso do imposto entregue em excesso só poderá ser exercido até ao decurso de cinco anos após o nascimento do direito à dedução ou pagamento em excesso do imposto, respectivamente.
 
 3 - Não se procederá a anulação quando o seu quantitativo seja inferior a 500$00.
 
-###### Art. 92.º - 1 - Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, restituir-se-á a respectiva importância, mediante o processamento do correspondente título de crédito.
+Art. 92.º - 1 - Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, restituir-se-á a respectiva importância, mediante o processamento do correspondente título de crédito.
 
 2 - Contar-se-ão juros de 18% ao ano a favor do beneficiário da restituição sempre que, estando pago o imposto, a administração fiscal seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.
 
@@ -2091,17 +2314,17 @@ b) Se entender que as mesmas não são procedentes, remetê-las às comissões d
 
 ### CAPÍTULO VIII — Penalidades
 
-###### Art. 93.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 93.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as penas, quando a isso houver lugar, de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 94.º As infracções são punidas com a pena de multa, independentemente de aplicação das penas acessórias previstas neste Código ou em legislação especial.
+Art. 94.º As infracções são punidas com a pena de multa, independentemente de aplicação das penas acessórias previstas neste Código ou em legislação especial.
 
-###### Art. 95.º - 1 - A falta de entrega ou a entrega fora dos prazos estabelecidos de todo ou parte do imposto devido será punida com multa variável entre a décima parte e metade do imposto em falta, com o mínimo de 2000$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 10000$00, quando a infracção for cometida dolosamente.
+Art. 95.º - 1 - A falta de entrega ou a entrega fora dos prazos estabelecidos de todo ou parte do imposto devido será punida com multa variável entre a décima parte e metade do imposto em falta, com o mínimo de 2000$00, nos casos de mera negligência, e com multa variável entre o dobro e o quádruplo do imposto, no mínimo de 10000$00, quando a infracção for cometida dolosamente.
 
 2 - Os adquirentes ou destinatários dos bens e os utilizadores dos serviços são solidariamente responsáveis com os sujeitos passivos pelas infracções previstas neste artigo, quando dolosamente colaborarem na sua prática.
 
 3 - (Revogado.)
 
-###### Art. 96.º São equiparadas à falta de entrega do imposto e punidas nos termos do artigo anterior:
+Art. 96.º São equiparadas à falta de entrega do imposto e punidas nos termos do artigo anterior:
 
 a) A falta de emissão e a falta de entrega de facturas ou documentos equivalentes;
 
@@ -2111,9 +2334,9 @@ c) A omissão de qualquer montante de imposto a favor do Estado nas declaraçõe
 
 d) A dedução indevida do imposto, bem como as rectificações das deduções e da dívida do imposto efectuadas sem observância do disposto no artigo 71.º
 
-###### Art. 97.º Os sujeitos passivos cuja escrita não estiver organizada nos termos dos artigos 44.º, 46.º, 47.º, 49.º a 51.º, 65.º e 69.º deste diploma ou que não observarem na sua organização as disposições aí previstas serão punidos com a multa de 5000$00 a 1000000$00, salvo tratando-se de sujeitos passivos do regime especial dos pequenos retalhistas, que serão punidos com a multa de 2000$00 a 200000$00.
+Art. 97.º Os sujeitos passivos cuja escrita não estiver organizada nos termos dos artigos 44.º, 46.º, 47.º, 49.º a 51.º, 65.º e 69.º deste diploma ou que não observarem na sua organização as disposições aí previstas serão punidos com a multa de 5000$00 a 1000000$00, salvo tratando-se de sujeitos passivos do regime especial dos pequenos retalhistas, que serão punidos com a multa de 2000$00 a 200000$00.
 
-###### Art. 98.º - 1 - A recusa de exibição de livros, facturas e demais documentos exigidos neste Código, assim como a sua ocultação, destruição, falsificação ou viciação, bem como a falta de colaboração prevista nos artigos 77.º a 79.º, serão punidas com a multa de 100000$00 a 10000000$00, salvo tratando-se de sujeitos passivos do regime especial dos pequenos retalhistas, que serão punidos com multa de 30000$00 a 3000000$00, sem prejuízo do procedimento criminal que ao caso couber.
+Art. 98.º - 1 - A recusa de exibição de livros, facturas e demais documentos exigidos neste Código, assim como a sua ocultação, destruição, falsificação ou viciação, bem como a falta de colaboração prevista nos artigos 77.º a 79.º, serão punidas com a multa de 100000$00 a 10000000$00, salvo tratando-se de sujeitos passivos do regime especial dos pequenos retalhistas, que serão punidos com multa de 30000$00 a 3000000$00, sem prejuízo do procedimento criminal que ao caso couber.
 
 2 - As mesmas sanções serão aplicadas aos sujeitos passivos no caso de dolosamente não serem arquivados, pelo tempo estabelecido nos artigos 52.º e 68.º, os elementos neles referidos.
 
@@ -2121,7 +2344,7 @@ d) A dedução indevida do imposto, bem como as rectificações das deduções e
 
 4 - Considera-se recusada a exibição da escrita e dos livros, facturas e demais documentos quando não sejam postos à disposição dos funcionários competentes ou quando lhes seja recusado o livre acesso aos locais do exercício das actividades sujeitas a imposto, de harmonia com os artigos referidos no n.º 1 do presente artigo.
 
-###### Art. 99.º - 1 - A falta de entrega ou a entrega fora do prazo estabelecido da declaração de início de actividade será punida com a multa de 5000$00 a 200000$00, havendo simples negligência, e de 20000$00 a 1000000$00, havendo dolo.
+Art. 99.º - 1 - A falta de entrega ou a entrega fora do prazo estabelecido da declaração de início de actividade será punida com a multa de 5000$00 a 200000$00, havendo simples negligência, e de 20000$00 a 1000000$00, havendo dolo.
 
 2 - A falta de entrega ou a entrega fora dos prazos estabelecidos de quaisquer outras declarações exigidas neste diploma será punida com a multa de 2000$00 a 100000$00, havendo simples negligência, e de 10000$00 a 500000$00, havendo dolo.
 
@@ -2131,35 +2354,35 @@ d) A dedução indevida do imposto, bem como as rectificações das deduções e
 
 5 - Os factos constantes deste artigo só constituirão infracções autónomas puníveis com as multas nele estabelecidas quando não se verificarem os factos previstos no n.º 1 do artigo 95.º e no artigo 96.º, salvo se daí resultar multa inferior.
 
-###### Art. 100.º A emissão fora dos prazos estabelecidos de facturas e documentos equivalentes será punida com a multa de 2000$00 a 100000$00.
+Art. 100.º A emissão fora dos prazos estabelecidos de facturas e documentos equivalentes será punida com a multa de 2000$00 a 100000$00.
 
-###### Art. 101.º Os factos delituosos previstos nos artigos 97.º, 100.º e 103.º só constituirão infracções autonomamente puníveis com as multas aí cominadas quando desacompanhados da prática de infracções dolosas punidas nos termos da última parte do n.º 1 do artigo 95.º, salvo se daí resultar multa inferior.
+Art. 101.º Os factos delituosos previstos nos artigos 97.º, 100.º e 103.º só constituirão infracções autonomamente puníveis com as multas aí cominadas quando desacompanhados da prática de infracções dolosas punidas nos termos da última parte do n.º 1 do artigo 95.º, salvo se daí resultar multa inferior.
 
-###### Art. 102.º - 1 - Por quaisquer inexactidões ou omissões, que não constituam falsificação, praticadas nos livros, facturas ou outros documentos exigidos neste Código, bem como pelo não cumprimento das regras estabelecidas para a sua escrituração e arquivo, será aplicável a multa de 5000$00 a 500000$00 e de 2000$00 a 100000$00, consoante se trate de uns ou outros dos sujeitos passivos referidos no artigo 97.º
+Art. 102.º - 1 - Por quaisquer inexactidões ou omissões, que não constituam falsificação, praticadas nos livros, facturas ou outros documentos exigidos neste Código, bem como pelo não cumprimento das regras estabelecidas para a sua escrituração e arquivo, será aplicável a multa de 5000$00 a 500000$00 e de 2000$00 a 100000$00, consoante se trate de uns ou outros dos sujeitos passivos referidos no artigo 97.º
 
 2 - A multa prevista neste artigo não é aplicável às inexactidões ou omissões praticadas nas declarações.
 
-###### Art. 103.º - 1 - Os atrasos na escrituração dos livros ou outros elementos previstos neste Código, para além do prazo admitido no mesmo, serão punidos com a multa de 10000$00 a 100000$00 e de 1000$00 a 20000$00, consoante se trate de sujeitos passivos em regime normal ou regime especial aplicável aos pequenos retalhistas, respectivamente.
+Art. 103.º - 1 - Os atrasos na escrituração dos livros ou outros elementos previstos neste Código, para além do prazo admitido no mesmo, serão punidos com a multa de 10000$00 a 100000$00 e de 1000$00 a 20000$00, consoante se trate de sujeitos passivos em regime normal ou regime especial aplicável aos pequenos retalhistas, respectivamente.
 
 2 - Verificado o atraso e independentemente do procedimento para a aplicação da multa prevista no n.º 1 deste artigo, notificar-se-á o transgressor para regularizar a sua escrita dentro de um prazo a designar, entre 8 e 30 dias, com a cominação de que, não o fazendo, ficará ainda sujeito à multa prevista no artigo 98.º; se, findo esse prazo, a escrita não estiver regularizada, levantar-se-á auto de notícia para aplicação dessa pena, considerando-se o acto como recusa de exibição da escrita.
 
-###### Art. 104.º A inobservância pelos sujeitos passivos isentos do imposto e no regime especial dos pequenos retalhistas do disposto nos artigos 57.º e 62.º deste diploma será punível com a multa de 500$00 a 20000$00, nos casos de mera negligência, e com multa de 10000$00 a 500000$00, havendo dolo.
+Art. 104.º A inobservância pelos sujeitos passivos isentos do imposto e no regime especial dos pequenos retalhistas do disposto nos artigos 57.º e 62.º deste diploma será punível com a multa de 500$00 a 20000$00, nos casos de mera negligência, e com multa de 10000$00 a 500000$00, havendo dolo.
 
-###### Art. 105.º (Revogado.)
+Art. 105.º (Revogado.)
 
-###### Art. 106.º Por qualquer infracção não especialmente sancionada nos artigos anteriores será aplicada a multa de 2000$00 a 100000$00.
+Art. 106.º Por qualquer infracção não especialmente sancionada nos artigos anteriores será aplicada a multa de 2000$00 a 100000$00.
 
-###### Art. 107.º - 1 - As penalidades cominadas nos artigos anteriores são aplicáveis aos representantes ou sujeitos passivos referidos no artigo 29.º, nos casos de incumprimento das obrigações aí mencionadas, os quais responderão solidariamente com o representado ou com o respectivo contratante pelo pagamento das mesmas.
+Art. 107.º - 1 - As penalidades cominadas nos artigos anteriores são aplicáveis aos representantes ou sujeitos passivos referidos no artigo 29.º, nos casos de incumprimento das obrigações aí mencionadas, os quais responderão solidariamente com o representado ou com o respectivo contratante pelo pagamento das mesmas.
 
 2 - Aos adquirentes ou destinatários dos bens ou serviços que sejam sujeitos passivos não isentos serão igualmente aplicáveis as penalidades correspondentes às infracções previstas nas alíneas a) e b) do artigo 96.º e no artigo 100.º, nos casos em que, sendo obrigatória a passagem de factura ou de documento equivalente, não seja por aqueles exigida nos prazos e termos prescritos na lei; aos mesmos adquirentes, sejam ou não isentos do imposto, serão igualmente aplicáveis as penalidades previstas nos artigos 98.º e 102.º, nos casos de inutilização, falsificação ou viciação de facturas ou documentos equivalentes, bem como pelas inexactidões e omissões praticadas nas mesmas, quando dolosamente intervenham na sua prática.
 
-###### Art. 108.º - 1 - Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
+Art. 108.º - 1 - Nos casos de pagamento espontâneo da multa, nos termos dos artigos 7.º e 8.º do Código de Processo das Contribuições e Impostos, será essa multa reduzida a metade, revertendo integralmente para o Estado.
 
 2 - Não se considerará espontâneo o pagamento da multa quando a participação do facto ou a solicitação da regularização da respectiva situação for feita posteriormente ao início de qualquer fiscalização ou exame à escrita do infractor.
 
 3 - A liquidação da multa paga espontaneamente deverá ser corrigida quando se verificar a falta dos requisitos exigidos nos números anteriores.
 
-###### Art. 109.º - 1 - As penalidades previstas neste Código para a falta de cumprimento das suas disposições serão reduzidas às multas a seguir indicadas, sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
+Art. 109.º - 1 - As penalidades previstas neste Código para a falta de cumprimento das suas disposições serão reduzidas às multas a seguir indicadas, sempre que nele se não estabeleçam quantitativos inferiores e o infractor se apresente a regularizar a sua situação tributária dentro dos 15 dias imediatos ao termo do respectivo prazo, ainda que tenha sido levantado auto de notícia ou feita participação ou denúncia:
 
 a) Multa de 5% do quantitativo em falta, no mínimo 1000$00 e no máximo 500000$00, quando a obrigação consistir no pagamento, entrega ou liquidação do imposto;
 
@@ -2175,33 +2398,33 @@ b) Quando os sujeitos passivos a quem forem efectuadas as liquidações da inici
 
 4 - O produto das multas cobradas nos termos deste artigo reverterá integralmente para o Estado.
 
-###### Art. 110.º Poderá excepcionalmente não haver lugar à aplicação de qualquer penalidade pelas omissões, irregularidades, atrasos de escrituração ou de entrega de quaisquer documentos ou elementos de escrita previstos neste diploma desde que, não tendo havido efectivo prejuízo para a Fazenda Nacional e encontrando-se regularizada a falta, esta se possa claramente considerar de carácter puramente acidental e gravidade mínima ou se deva julgar não censurável o erro sobre a ilicitude da conduta.
+Art. 110.º Poderá excepcionalmente não haver lugar à aplicação de qualquer penalidade pelas omissões, irregularidades, atrasos de escrituração ou de entrega de quaisquer documentos ou elementos de escrita previstos neste diploma desde que, não tendo havido efectivo prejuízo para a Fazenda Nacional e encontrando-se regularizada a falta, esta se possa claramente considerar de carácter puramente acidental e gravidade mínima ou se deva julgar não censurável o erro sobre a ilicitude da conduta.
 
-###### Art. 111.º As multas serão impostas mediante o processo estabelecido no Código de Processo das Contribuições e Impostos.
+Art. 111.º As multas serão impostas mediante o processo estabelecido no Código de Processo das Contribuições e Impostos.
 
-###### Art. 112.º - 1 - Só poderá ser instaurado processo de transgressão para aplicação das multas cominadas neste diploma dentro de cinco anos contados da data em que a infracção foi cometida.
+Art. 112.º - 1 - Só poderá ser instaurado processo de transgressão para aplicação das multas cominadas neste diploma dentro de cinco anos contados da data em que a infracção foi cometida.
 
 2 - Se o processo de transgressão estiver parado durante cinco anos, ficará extinto o procedimento para aplicação da multa.
 
-###### Art. 113.º A obrigação de pagar qualquer multa prescreverá passados 10 anos sobre o trânsito em julgado da condenação.
+Art. 113.º A obrigação de pagar qualquer multa prescreverá passados 10 anos sobre o trânsito em julgado da condenação.
 
-###### Art. 114.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+Art. 114.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
 
-###### Art. 115.º O produto das multas será dividido nos termos do Decreto n.º 12101, de 12 de Agosto de 1926, e do Decreto n.º 12292, de 10 de Setembro de 1926, com as alterações introduzidas pelo artigo 12.º do Decreto n.º 15661, de 1 de Julho de 1928, e demais legislação aplicável.
+Art. 115.º O produto das multas será dividido nos termos do Decreto n.º 12101, de 12 de Agosto de 1926, e do Decreto n.º 12292, de 10 de Setembro de 1926, com as alterações introduzidas pelo artigo 12.º do Decreto n.º 15661, de 1 de Julho de 1928, e demais legislação aplicável.
 
-###### Art. 116.º - 1 - Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de fiscalização tributária da Direcção-Geral das Contribuições e Impostos contra os que transgredirem as disposições do presente diploma.
+Art. 116.º - 1 - Serão admitidas denúncias perante as repartições e direcções de finanças, os serviços centrais e os de fiscalização tributária da Direcção-Geral das Contribuições e Impostos contra os que transgredirem as disposições do presente diploma.
 
 2 - Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
 3 - A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 117.º - 1 - Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 117.º - 1 - Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidariamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 2 - A responsabilidade prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou o acto delituoso.
 
 3 - Após a extinção das pessoas colectivas, responderão solidariamente entre si as restantes pessoas mencionadas neste artigo.
 
-###### Art. 118.º - 1 - Quando os actos ou omissões tiverem sido praticados por procurador ou gestor de negócios e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 118.º - 1 - Quando os actos ou omissões tiverem sido praticados por procurador ou gestor de negócios e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
 2 - Pela infracção prevista no número anterior solidariamente responsável com o infractor a pessoa por conta de quem o mesmo actuou, se conhecesse ou não devesse ignorar que o infractor cometeu ou ia cometer a infracção e, podendo, não o impediu ou não agiu no sentido de a reparar.
 
@@ -2209,15 +2432,15 @@ b) Quando os sujeitos passivos a quem forem efectuadas as liquidações da inici
 
 4 - Pelas multas impostas aos mandatários responderão solidariamente os mandantes.
 
-###### Art. 119.º Transitada em julgado a decisão que aplicou a multa, o tribunal participa-la-á, quando for caso disso, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo técnico de contas e outros responsáveis.
+Art. 119.º Transitada em julgado a decisão que aplicou a multa, o tribunal participa-la-á, quando for caso disso, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo técnico de contas e outros responsáveis.
 
 Art. l20.º (Revogado.)
 
-###### Art. 121.º Os funcionários públicos que deixarem de cumprir algumas das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 121.º Os funcionários públicos que deixarem de cumprir algumas das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 122.º (Revogado.)
+Art. 122.º (Revogado.)
 
-###### Art. 123.º - 1 - Se a transgressão for praticada com dolo e o quantitativo do imposto em falta exceder 200000$00, ou o montante da multa aplicada exceder 500000$00, será dada publicidade à condenação do infractor, mediante inserção na imprensa periódica de um extracto da sentença nos 30 dias seguintes ao do seu trânsito em julgado.
+Art. 123.º - 1 - Se a transgressão for praticada com dolo e o quantitativo do imposto em falta exceder 200000$00, ou o montante da multa aplicada exceder 500000$00, será dada publicidade à condenação do infractor, mediante inserção na imprensa periódica de um extracto da sentença nos 30 dias seguintes ao do seu trânsito em julgado.
 
 2 - O extracto será organizado pelo tribunal e publicado num dos jornais do concelho da sua residência e, além disso, na segunda ou terceira páginas de dois diários de grande circulação, um de Lisboa e outro do Porto, entrando as despesas de publicação em regra de custas.
 
@@ -2227,11 +2450,11 @@ Art. l20.º (Revogado.)
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Art. 124.º Quando a lei mande efectuar a entrega de declarações ou outros documentos em mais de um exemplar, um deles deverá ser devolvido ao apresentante, com menção de recibo.
+Art. 124.º Quando a lei mande efectuar a entrega de declarações ou outros documentos em mais de um exemplar, um deles deverá ser devolvido ao apresentante, com menção de recibo.
 
-###### Art. 125.º As declarações que, segundo a lei, devam ser apresentadas na repartição de finanças, bem como os documentos de qualquer outra natureza exigidos pela Direcção-Geral das Contribuições e Impostos, podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para a devolução imediata, também sob registo, dos duplicados ou dos documentos, quando for caso disso.
+Art. 125.º As declarações que, segundo a lei, devam ser apresentadas na repartição de finanças, bem como os documentos de qualquer outra natureza exigidos pela Direcção-Geral das Contribuições e Impostos, podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito, devidamente endereçado e franquiado, para a devolução imediata, também sob registo, dos duplicados ou dos documentos, quando for caso disso.
 
-###### Art. 126.º Sem prejuízo do disposto em legislação especial, aos bens que sejam provenientes ou se destinem a territórios terceiros, mas que preencham as condições previstas nos artigos 9.º e 10.º do Tratado que institui a Comunidade Europeia, aplica-se o procedimento de trânsito comunitário interno e as disposições aduaneiras em vigor para as mercadorias provenientes ou com destino a países terceiros.
+Art. 126.º Sem prejuízo do disposto em legislação especial, aos bens que sejam provenientes ou se destinem a territórios terceiros, mas que preencham as condições previstas nos artigos 9.º e 10.º do Tratado que institui a Comunidade Europeia, aplica-se o procedimento de trânsito comunitário interno e as disposições aduaneiras em vigor para as mercadorias provenientes ou com destino a países terceiros.
 
 LISTA I
 
@@ -2523,7 +2746,7 @@ REGIME DO IVA NAS TRANSACÇÕES INTRACOMUNITÁRIAS
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º Estão sujeitas a imposto sobre o valor acrescentado (IVA):
+Artigo 1.º Estão sujeitas a imposto sobre o valor acrescentado (IVA):
 
 a) As aquisições intracomunitárias de bens efectuadas no território nacional, a título oneroso, por um sujeito passivo dos referidos no n.º 1 do artigo 2.º, agindo como tal, quando o vendedor for um sujeito passivo, agindo como tal, registado para efeitos do IVA noutro Estado membro que não esteja aí abrangido por um qualquer regime particular de isenção de pequenas empresas, não efectue no território nacional a instalação ou montagem dos bens nos termos do n.º 2 do artigo 9.º, nem os transmita nas condições previstas nos n.os 1 e 2 do artigo 11.º;
 
@@ -2535,7 +2758,7 @@ d) As operações assimiladas a aquisições intracomunitárias de bens prevista
 
 e) As transmissões de meios de transporte novos efectuadas a título oneroso, por qualquer pessoa, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado em outro Estado membro.
 
-###### Art. 2.º - 1 - São considerados sujeitos passivos do imposto pela aquisição intracomunitária de bens:
+Art. 2.º - 1 - São considerados sujeitos passivos do imposto pela aquisição intracomunitária de bens:
 
 a) As pessoas singulares ou colectivas mencionadas na alínea a) do n.º 1 do artigo 2.º do Código do IVA que realizem transmissões de bens ou prestações de serviços que conferem direito à dedução total ou parcial do imposto;
 
@@ -2549,9 +2772,9 @@ a) Os particulares que efectuem aquisições intracomunitárias de meios de tran
 
 b) As pessoas singulares ou colectivas que ocasionalmente efectuem transmissões de meios de transporte novos, expedidos ou transportados a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado em outro Estado membro.
 
-###### Art. 3.º Considera-se, em geral, aquisição intracomunitária a obtenção do poder de dispor, por forma correspondente ao exercício do direito de propriedade, de um bem móvel corpóreo cuja expedição ou transporte para território nacional, pelo vendedor, pelo adquirente ou por conta destes, com destino ao adquirente, tenha tido início noutro Estado membro.
+Art. 3.º Considera-se, em geral, aquisição intracomunitária a obtenção do poder de dispor, por forma correspondente ao exercício do direito de propriedade, de um bem móvel corpóreo cuja expedição ou transporte para território nacional, pelo vendedor, pelo adquirente ou por conta destes, com destino ao adquirente, tenha tido início noutro Estado membro.
 
-###### Art. 4.º - 1 - Consideram-se assimiladas a aquisições intracomunitárias de bens, efectuadas a título oneroso, as seguintes operações:
+Art. 4.º - 1 - Consideram-se assimiladas a aquisições intracomunitárias de bens, efectuadas a título oneroso, as seguintes operações:
 
 a) A afectação por um sujeito passivo às necessidades da sua empresa, no território nacional, de um bem expedido ou transportado, por si ou por sua conta, a partir de outro Estado membro no qual o bem tenha sido produzido, extraído, transformado, adquirido ou importado pelo sujeito passivo, no âmbito da sua actividade;
 
@@ -2563,7 +2786,7 @@ c) A aquisição de bens expedidos ou transportados a partir de um país terceir
 
 3 - Não será considerada aquisição intracomunitária a afectação de bens a que se refere a alínea a) do n.º 1 quando a transferência desses bens tiver por objecto a realização, no território nacional, das operações mencionadas no n.º 3 do artigo 7.º
 
-###### Art. 5.º - 1 - Não obstante o disposto nas alíneas a) e d) do artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens quando se verifiquem, simultaneamente, as seguintes condições:
+Art. 5.º - 1 - Não obstante o disposto nas alíneas a) e d) do artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens quando se verifiquem, simultaneamente, as seguintes condições:
 
 a) Sejam efectuadas por um sujeito passivo dos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º;
 
@@ -2577,7 +2800,7 @@ c) O valor global das aquisições, líquido de IVA, devido ou pago nos Estados 
 
 4 - Não obstante o disposto no artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens cuja transmissão no território nacional seria isenta de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA.
 
-###### Art. 6.º - 1 - Para efeitos deste diploma, entende-se por:
+Art. 6.º - 1 - Para efeitos deste diploma, entende-se por:
 
 a) «Impostos especiais de consumo»: o imposto especial sobre o álcool, o imposto especial sobre o consumo de bebidas alcoólicas e de cerveja, o imposto especial sobre o consumo de tabaco manufacturado e o imposto especial sobre os produtos petrolíferos;
 
@@ -2591,7 +2814,7 @@ b) O meio de transporte tenha percorrido mais de 3000 km, tratando-se de um veí
 
 3 - Para efeitos do disposto na alínea a) do número anterior, a data da primeira utilização será a constante do título de registo de propriedade ou documento equivalente, quando se trate de bens sujeitos a registo, licença ou matrícula, ou, na sua falta, a da factura ou documento equivalente emitidos aquando da aquisição pelo primeiro proprietário.
 
-###### Art. 7.º - 1 - Considera-se transmissão de bens efectuada a título oneroso, para além das previstas no artigo 3.º do Código do IVA, a entrega por um sujeito passivo de um bem móvel corpóreo produzido ou montado sob encomenda no território nacional, desde que se verifiquem simultaneamente as seguintes condições:
+Art. 7.º - 1 - Considera-se transmissão de bens efectuada a título oneroso, para além das previstas no artigo 3.º do Código do IVA, a entrega por um sujeito passivo de um bem móvel corpóreo produzido ou montado sob encomenda no território nacional, desde que se verifiquem simultaneamente as seguintes condições:
 
 a) Os materiais utilizados tenham sido expedidos ou transportados pelo dono da obra ou por sua conta, a partir do Estado membro em que este se encontre devidamente registado para efeitos do IVA;
 
@@ -2617,7 +2840,7 @@ g) Transferência de bens para serem temporariamente utilizados pelo sujeito pas
 
 4 - Sempre que se deixe de verificar alguma das condições necessárias para poder beneficiar do disposto no número anterior, considera-se que os bens são transferidos para outro Estado membro nos termos do n.º 2 no momento em que a condição deixar de ser preenchida.
 
-###### Art. 8.º - 1 - São tributáveis as aquisições intracomunitárias de bens quando o lugar de chegada da expedição ou transporte com destino ao adquirente se situe no território nacional.
+Art. 8.º - 1 - São tributáveis as aquisições intracomunitárias de bens quando o lugar de chegada da expedição ou transporte com destino ao adquirente se situe no território nacional.
 
 2 - Não obstante o disposto no número anterior, são tributáveis as aquisições intracomunitárias de bens cujo lugar de chegada da expedição ou transporte se situe noutro Estado membro, desde que o adquirente seja um sujeito passivo dos referidos no n.º 1 do artigo 2.º, agindo como tal, que tenha utilizado o respectivo número de identificação para efectuar a aquisição e não prove que esta foi sujeita a imposto nesse outro Estado membro.
 
@@ -2631,11 +2854,11 @@ c) O adquirente seja expressamente designado, na factura emitida pelo sujeito pa
 
 4 - São tributáveis as aquisições intracomunitárias de meios de transporte novos sujeitos a registo, licença ou matrícula no território nacional.
 
-###### Art. 9.º - 1 - O disposto no n.º 1 do artigo 6.º do Código do IVA não terá aplicação relativamente às transmissões de bens expedidos ou transportados pelo sujeito passivo ou por sua conta para fora do território nacional, quando os bens sejam instalados ou montados no território de outro Estado membro.
+Art. 9.º - 1 - O disposto no n.º 1 do artigo 6.º do Código do IVA não terá aplicação relativamente às transmissões de bens expedidos ou transportados pelo sujeito passivo ou por sua conta para fora do território nacional, quando os bens sejam instalados ou montados no território de outro Estado membro.
 
 2 - São, no entanto, tributáveis as transmissões de bens expedidos ou transportados a partir de outro Estado membro, quando os bens sejam instalados ou montados em território nacional, pelo fornecedor, sujeito passivo nesse outro Estado membro, ou por sua conta.
 
-###### Art. 10.º - 1 - O disposto nos n.os 1 e 2 do artigo 6.º do Código do IVA não terá aplicação relativamente à transmissão de bens expedidos ou transportados pelo sujeito passivo ou por sua conta, a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado noutro Estado membro, quando se verifiquem, simultaneamente, as seguintes condições:
+Art. 10.º - 1 - O disposto nos n.os 1 e 2 do artigo 6.º do Código do IVA não terá aplicação relativamente à transmissão de bens expedidos ou transportados pelo sujeito passivo ou por sua conta, a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado noutro Estado membro, quando se verifiquem, simultaneamente, as seguintes condições:
 
 a) O adquirente não se encontre abrangido por um regime de tributação das aquisições intracomunitárias no Estado membro de chegada da expedição ou transporte dos bens, ou seja um particular;
 
@@ -2649,7 +2872,7 @@ c) O valor global, líquido do IVA, das transmissões de bens efectuadas no ano 
 
 4 - Se os bens a que se referem as transmissões previstas nos números anteriores forem expedidos ou transportados a partir de um país terceiro e importados pelo sujeito passivo nos termos do artigo 5.º do Código do IVA, considera-se que foram expedidos ou transportados a partir do território nacional.
 
-###### Art. 11.º - 1 - São tributáveis as transmissões de bens expedidos ou transportados pelo fornecedor, sujeito passivo em outro Estado membro, ou por sua conta, a partir desse Estado membro, quando o lugar de chegada dos bens com destino ao adquirente se situe no território nacional e desde que se verifiquem, simultaneamente, as seguintes condições:
+Art. 11.º - 1 - São tributáveis as transmissões de bens expedidos ou transportados pelo fornecedor, sujeito passivo em outro Estado membro, ou por sua conta, a partir desse Estado membro, quando o lugar de chegada dos bens com destino ao adquirente se situe no território nacional e desde que se verifiquem, simultaneamente, as seguintes condições:
 
 a) O adquirente seja um sujeito passivo que se encontre abrangido pelo disposto no n.º 1 do artigo 5.º ou um particular;
 
@@ -2667,11 +2890,11 @@ b) As transmissões de bens cujo valor global não tenha excedido o limite de 63
 
 4 - Para efeitos do disposto na alínea c) do n.º 1, o valor global das transmissões será determinado com exclusão do valor das transmissões de meios de transporte novos e de bens sujeitos a impostos especiais de consumo.
 
-###### Art. 12.º - 1 - Nas aquisições intracomunitárias de bens, o imposto é devido no momento em que os bens são colocados à disposição do adquirente, sendo aplicável, em idênticas condições, o previsto no artigo 7.º do Código do IVA para as transmissões de bens.
+Art. 12.º - 1 - Nas aquisições intracomunitárias de bens, o imposto é devido no momento em que os bens são colocados à disposição do adquirente, sendo aplicável, em idênticas condições, o previsto no artigo 7.º do Código do IVA para as transmissões de bens.
 
 2 - Relativamente à afectação de bens que tiver por objecto a realização no território nacional de operações mencionadas no n.º 3 do artigo 7.º, quando deixe de se verificar alguma das condições necessárias para poder beneficiar do disposto no n.º 3 do artigo 4.º, o imposto é devido no momento em que a condição deixar de ser preenchida.
 
-###### Art. 13.º - 1 - Nas aquisições intracomunitárias de bens, o imposto torna-se exigível:
+Art. 13.º - 1 - Nas aquisições intracomunitárias de bens, o imposto torna-se exigível:
 
 a) No 15.º dia do mês seguinte àquele em que o imposto é devido;
 
@@ -2681,7 +2904,7 @@ b) Na data da emissão da factura ou documento equivalente, se tiverem sido emit
 
 ### CAPÍTULO II — Isenções
 
-###### Art. 14.º Estão isentas do imposto:
+Art. 14.º Estão isentas do imposto:
 
 a) As transmissões de bens, efectuadas por um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional para outro Estado membro com destino ao adquirente, quando este seja uma pessoa singular ou colectiva registada para efeitos do IVA em outro Estado membro, que tenha utilizado o respectivo número de identificação para efectuar a aquisição e aí se encontre abrangido por um regime de tributação das aquisições intracomunitárias de bens;
 
@@ -2691,7 +2914,7 @@ c) As transmissões de bens referidas no n.º 2 do artigo 7.º que beneficiariam
 
 d) As transmissões de bens sujeitos a impostos especiais de consumo, efectuadas por um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional para outro Estado membro, com destino ao adquirente, quando este seja um sujeito passivo isento ou uma pessoa colectiva estabelecida ou domiciliada em outro Estado membro que não se encontre registada para efeitos do IVA, quando a expedição ou transporte dos bens seja efectuada em conformidade com o disposto no Decreto-Lei n.º 52/93 de 26 de Fevereiro.
 
-###### Art. 15.º - 1 - Estão isentas do imposto:
+Art. 15.º - 1 - Estão isentas do imposto:
 
 a) As aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta do imposto;
 
@@ -2711,7 +2934,7 @@ d) A transmissão dos bens seja efectuada para um sujeito passivo registado para
 
 e) O sujeito passivo adquirente seja expressamente devedor do imposto pela transmissão de bens efectuada no território nacional.
 
-###### Art. 16.º - 1 - Estão isentas do imposto as importações de bens efectuadas por um sujeito passivo, agindo como tal, quando esses bens tenham como destino um outro Estado membro e a respectiva transmissão, efectuada pelo importador, seja isenta do imposto nos termos do artigo 14.º
+Art. 16.º - 1 - Estão isentas do imposto as importações de bens efectuadas por um sujeito passivo, agindo como tal, quando esses bens tenham como destino um outro Estado membro e a respectiva transmissão, efectuada pelo importador, seja isenta do imposto nos termos do artigo 14.º
 
 2 - A isenção prevista no número anterior só será aplicável se o sujeito passivo comprovar que os bens se destinam a um adquirente noutro Estado membro e a subsequente expedição ou transporte se efectuar no prazo máximo de 30 dias após a importação.
 
@@ -2719,7 +2942,7 @@ e) O sujeito passivo adquirente seja expressamente devedor do imposto pela trans
 
 ### CAPÍTULO III — Valor tributável
 
-###### Art. 17.º - 1 - Na determinação do valor tributável das aquisições intracomunitárias de bens é aplicável, em idênticas condições, o previsto no artigo 16.º do Código do IVA para as transmissões de bens.
+Art. 17.º - 1 - Na determinação do valor tributável das aquisições intracomunitárias de bens é aplicável, em idênticas condições, o previsto no artigo 16.º do Código do IVA para as transmissões de bens.
 
 2 - Nas transmissões referidas na alínea c) do artigo 14.º e nas aquisições intracomunitárias de bens mencionadas na alínea a) do n.º 1 do artigo 4.º, o valor tributável será determinado nos termos da alínea b) do n.º 2 e do n.º 5 do artigo 16.º do Código do IVA.
 
@@ -2729,7 +2952,7 @@ e) O sujeito passivo adquirente seja expressamente devedor do imposto pela trans
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 18.º - 1 - As taxas do imposto aplicáveis às aquisições intracomunitárias de bens são as previstas no artigo 1.º do Código do IVA para as transmissões dos mesmos bens.
+Art. 18.º - 1 - As taxas do imposto aplicáveis às aquisições intracomunitárias de bens são as previstas no artigo 1.º do Código do IVA para as transmissões dos mesmos bens.
 
 2 - As taxas aplicáveis são as que vigorarem para as transmissões desses bens no momento em que o imposto se torne exigível, de acordo com o estabelecido no artigo 13.º
 
@@ -2737,13 +2960,13 @@ e) O sujeito passivo adquirente seja expressamente devedor do imposto pela trans
 
 #### SECÇÃO I — Deduções
 
-###### Art. 19.º - 1 - Para efeitos da aplicação do disposto no artigo 19.º do Código do IVA, poder-se-á deduzir ao imposto incidente sobre as operações tributáveis o imposto pago nas aquisições intracomunitárias de bens.
+Art. 19.º - 1 - Para efeitos da aplicação do disposto no artigo 19.º do Código do IVA, poder-se-á deduzir ao imposto incidente sobre as operações tributáveis o imposto pago nas aquisições intracomunitárias de bens.
 
 2 - Poderá igualmente deduzir-se, para efeitos do disposto na alínea b) do n.º 1 do artigo 20.º do Código do IVA, o imposto que tenha incidido sobre os bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a realização de transmissões de bens isentas nos termos do artigo 14.º
 
 3 - Quando não se verifiquem as condições previstas no n.º 3 do artigo 8.º, o imposto liquidado em aplicação do disposto no n.º 2 do mesmo artigo só poderá ser deduzido por anulação da operação, nos termos do n.º 2 do artigo 71.º do Código do IVA, devendo para esse efeito o sujeito passivo provar que os bens foram sujeitos a imposto no Estado membro de chegada da expedição ou transporte.
 
-###### Art. 20.º - 1 - O direito à dedução do imposto devido pelas aquisições intracomunitárias de bens nasce no momento em que o mesmo se torne exigível, de acordo com o estabelecido no artigo 13.º
+Art. 20.º - 1 - O direito à dedução do imposto devido pelas aquisições intracomunitárias de bens nasce no momento em que o mesmo se torne exigível, de acordo com o estabelecido no artigo 13.º
 
 2 - A dedução poderá ser efectuada na declaração do período em que o imposto exigível seja considerado a favor do Estado, ainda que não tenha sido emitida a respectiva factura pelo vendedor.
 
@@ -2753,7 +2976,7 @@ e) O sujeito passivo adquirente seja expressamente devedor do imposto pela trans
 
 #### SECÇÃO II — Reembolsos
 
-###### Art. 21.º - 1 - O imposto dedutível nos termos dos n.os 3 e 4 do artigo anterior será reembolsado ao sujeito passivo mediante requerimento, dirigido ao director-geral das Contribuições e Impostos, que deverá ser acompanhado de todos os elementos indispensáveis à respectiva apreciação.
+Art. 21.º - 1 - O imposto dedutível nos termos dos n.os 3 e 4 do artigo anterior será reembolsado ao sujeito passivo mediante requerimento, dirigido ao director-geral das Contribuições e Impostos, que deverá ser acompanhado de todos os elementos indispensáveis à respectiva apreciação.
 
 2 - O imposto pago numa importação de bens tributada nos termos do artigo 5.º do Código do IVA será reembolsado quando o importador seja uma pessoa colectiva de outro Estado membro que não seja aí sujeito passivo e prove que os bens foram expedidos ou transportados para esse outro Estado membro e aí sujeitos a imposto.
 
@@ -2761,7 +2984,7 @@ e) O sujeito passivo adquirente seja expressamente devedor do imposto pela trans
 
 #### SECÇÃO III — Pagamento do imposto
 
-###### Art. 22.º - 1 - O montante do imposto exigível a entregar no Serviço de Administração do IVA, simultaneamente com a declaração periódica nos termos do n.º 1 do artigo 26.º do Código do IVA, deverá ser apurado tendo igualmente em consideração o disposto no artigo 19.º e nos n.os 1 e 2 do artigo 20.º
+Art. 22.º - 1 - O montante do imposto exigível a entregar no Serviço de Administração do IVA, simultaneamente com a declaração periódica nos termos do n.º 1 do artigo 26.º do Código do IVA, deverá ser apurado tendo igualmente em consideração o disposto no artigo 19.º e nos n.os 1 e 2 do artigo 20.º
 
 2 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º deverão entregar no Serviço de Administração do IVA o imposto que se mostre devido pelas aquisições intracomunitárias de bens que não sejam meios de transporte novos, acompanhado da declaração nos termos do artigo 30.º
 
@@ -2773,7 +2996,7 @@ e) O sujeito passivo adquirente seja expressamente devedor do imposto pela trans
 
 ### CAPÍTULO VI — Outras obrigações dos contribuintes
 
-###### Art. 23.º Sem prejuízo do disposto no n.º 1 do artigo 28.º do Código do IVA, os sujeitos passivos referidos no artigo 2.º são obrigados a:
+Art. 23.º Sem prejuízo do disposto no n.º 1 do artigo 28.º do Código do IVA, os sujeitos passivos referidos no artigo 2.º são obrigados a:
 
 a) Proceder à liquidação do imposto que se mostre devido pelas aquisições intracomunitárias de bens;
 
@@ -2781,13 +3004,13 @@ b) Emitir uma factura ou documento equivalente por cada transmissão de bens efe
 
 c) Enviar, juntamente com a declaração periódica de imposto, um anexo recapitulativo das transmissões de bens isentas nos termos do artigo 14.º, bem como das operações a que se refere a alínea a) do n.º 3 do artigo 8.º
 
-###### Art. 24.º - 1 - Relativamente às aquisições intracomunitárias de bens efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma deverão ser cumpridas por um representante, sujeito passivo do IVA no território nacional, munido com poderes bastantes, que responderá solidariamente com o representado pelo cumprimento de tais obrigações.
+Art. 24.º - 1 - Relativamente às aquisições intracomunitárias de bens efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma deverão ser cumpridas por um representante, sujeito passivo do IVA no território nacional, munido com poderes bastantes, que responderá solidariamente com o representado pelo cumprimento de tais obrigações.
 
 2 - As obrigações decorrentes da sujeição a imposto das transmissões de bens subsequentes à aquisição intracomunitária isenta nas condições previstas no n.º 2 do artigo 15.º deverão ser cumpridas pelo adquirente dos bens, sujeito passivo registado para efeitos de IVA no território nacional.
 
 3 - Relativamente às transmissões referidas no artigo 11.º, efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, as obrigações derivadas da aplicação do presente diploma poderão ser cumpridas por um representante, sujeito passivo do IVA no território nacional, munido de poderes bastantes, que responderá solidariamente com o representado pelo cumprimento de tais obrigações.
 
-###### Art. 25.º - 1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º deverão entregar a declaração a que se refere o artigo 30.º do Código do IVA ou, caso se encontrem registados, a declaração prevista no artigo 31.º do mesmo Código:
+Art. 25.º - 1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º deverão entregar a declaração a que se refere o artigo 30.º do Código do IVA ou, caso se encontrem registados, a declaração prevista no artigo 31.º do mesmo Código:
 
 a) Até ao fim do mês seguinte àquele em que tenham excedido o valor global das aquisições previsto na alínea c) do n.º 1 do artigo 5.º;
 
@@ -2805,7 +3028,7 @@ c) Antes de efectuarem aquisições intracomunitárias de bens, no caso de exerc
 
 6 - A declaração referida nos n.os 3 e 4 deverá ser apresentada na repartição de finanças competente durante o mês de Janeiro de um dos anos seguintes àquele em que se tiver completado o prazo aí mencionado, produzindo efeitos a partir de 1 de Janeiro do ano da sua apresentação.
 
-###### Art. 26.º - 1 - As pessoas singulares ou colectivas que efectuem transmissões de bens nas condições previstas nos n.os 1 e 2 do artigo 11.º deverão entregar a declaração a que se refere o artigo 30.º do Código do IVA.
+Art. 26.º - 1 - As pessoas singulares ou colectivas que efectuem transmissões de bens nas condições previstas nos n.os 1 e 2 do artigo 11.º deverão entregar a declaração a que se refere o artigo 30.º do Código do IVA.
 
 2 - A declaração a que se refere o número anterior deverá ser apresentada na repartição de finanças competente até ao fim do mês seguinte àquele em que tenha sido excedido o montante previsto na alínea c) do n.º 1 do artigo 11.º, produzindo efeitos a partir da data da sua apresentação.
 
@@ -2821,11 +3044,11 @@ c) Antes de efectuarem aquisições intracomunitárias de bens, no caso de exerc
 
 8 - As pessoas singulares ou colectivas que pretendam exercer a opção a que se refere o n.º 3 do artigo 10.º deverão apresentar a declaração prevista no artigo 31.º do Código do IVA, devendo igualmente apresentar a referida declaração caso pretendam renunciar ao regime por que optaram.
 
-###### Art. 27.º - 1 - Considera-se repartição de finanças competente para efeitos do disposto nos artigos anteriores a referida nos n.os 1 e 2 do artigo 70.º do Código do IVA.
+Art. 27.º - 1 - Considera-se repartição de finanças competente para efeitos do disposto nos artigos anteriores a referida nos n.os 1 e 2 do artigo 70.º do Código do IVA.
 
 2 - Para as pessoas singulares ou colectivas que não possuam, no território nacional, sede, estabelecimento estável, domicílio ou representante, considera-se competente a Repartição de Finanças do 3.º Bairro Fiscal de Lisboa.
 
-###### Art. 28.º - 1 - O imposto devido pelas aquisições intracomunitárias de bens deverá ser liquidado pelo sujeito passivo na factura ou documento equivalente emitidos pelo vendedor ou em documento interno emitido pelo próprio sujeito passivo.
+Art. 28.º - 1 - O imposto devido pelas aquisições intracomunitárias de bens deverá ser liquidado pelo sujeito passivo na factura ou documento equivalente emitidos pelo vendedor ou em documento interno emitido pelo próprio sujeito passivo.
 
 2 - As facturas ou documentos equivalentes relativos às transmissões de bens isentas nos termos do artigo 14.º devem ser emitidos o mais tardar até ao 15.º dia do mês seguinte àquele em que os bens foram colocados à disposição do adquirente.
 
@@ -2837,7 +3060,7 @@ c) Antes de efectuarem aquisições intracomunitárias de bens, no caso de exerc
 
 6 - A dispensa de emissão de factura a que se refere a alínea a) do n.º 1 do artigo 39.º do Código do IVA não é aplicável às transmissões de bens referidas no n.º 1 do artigo 10.º, cujo valor global não tenha excedido o montante aí mencionado, bem como às transmissões de bens efectuadas nos termos dos n.os 1 e 2 do artigo 11.º
 
-###### Art. 29.º - 1 - As pessoas singulares ou colectivas que efectuem aquisições intracomunitárias de meios de transporte novos deverão exigir que a factura ou documento equivalente, emitidos pelo vendedor, contenham os seguintes elementos:
+Art. 29.º - 1 - As pessoas singulares ou colectivas que efectuem aquisições intracomunitárias de meios de transporte novos deverão exigir que a factura ou documento equivalente, emitidos pelo vendedor, contenham os seguintes elementos:
 
 a) Os nomes, firmas ou denominações sociais e a sede ou domicílio do vendedor e do adquirente, bem como os correspondentes números de identificação fiscal, precedidos do prefixo que permite identificar o Estado membro que os atribuiu, se for caso disso;
 
@@ -2851,17 +3074,17 @@ e) A indicação dos quilómetros percorridos, se se tratar de um veículo terre
 
 2 - As pessoas singulares ou colectivas que efectuem transmissões de meios de transporte novos para outros Estados membros são obrigadas a emitir uma factura ou documento equivalente, que deverá conter todos os elementos referidos no número anterior.
 
-###### Art. 30.º - 1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º que efectuem aquisições intracomunitárias de bens sujeitas a imposto deverão enviar a declaração de modelo aprovado para o Serviço de Administração do IVA até ao fim do 2.º mês seguinte àquele em que o imposto se torne exigível.
+Art. 30.º - 1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º que efectuem aquisições intracomunitárias de bens sujeitas a imposto deverão enviar a declaração de modelo aprovado para o Serviço de Administração do IVA até ao fim do 2.º mês seguinte àquele em que o imposto se torne exigível.
 
 2 - A obrigação de entrega da declaração a que se refere o número anterior só se verifica relativamente aos períodos em que haja operações tributáveis.
 
-###### Art. 31.º - 1 - O anexo recapitulativo referido na alínea c) do artigo 23.º deve ser enviado ao Serviço de Administração do IVA conjuntamente com a declaração periódica a que se refere o artigo 40.º do Código do IVA.
+Art. 31.º - 1 - O anexo recapitulativo referido na alínea c) do artigo 23.º deve ser enviado ao Serviço de Administração do IVA conjuntamente com a declaração periódica a que se refere o artigo 40.º do Código do IVA.
 
 2 - O anexo recapitulativo poderá ser feito em impresso de modelo aprovado ou em listagem de computador que contenha os mesmos elementos.
 
 3 - As transmissões de bens isentas de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA não devem constar do anexo recapitulativo a que se refere o número anterior, quando o adquirente dos bens seja um sujeito passivo registado para efeitos do IVA em outro Estado membro, que tenha utilizado o respectivo número de identificação para efectuar a aquisição, ainda que os bens sejam expedidos ou transportados para outro Estado membro.
 
-###### Art. 32.º - 1 - Para cumprimento do disposto no n.º 1 do artigo 44.º do Código do IVA, deverão ainda ser objecto de registo:
+Art. 32.º - 1 - Para cumprimento do disposto no n.º 1 do artigo 44.º do Código do IVA, deverão ainda ser objecto de registo:
 
 a) As aquisições intracomunitárias de bens efectuadas pelo sujeito passivo;
 
@@ -2887,8 +3110,8 @@ c) O valor das transmissões de bens efectuadas no território nacional nos term
 
 5 - Para cumprimento das obrigações a que se refere o n.º 2 do artigo 24.º, o sujeito passivo adquirente dos bens deverá proceder ao registo da operação como se se tratasse de uma aquisição intracomunitária de bens.
 
-###### Art. 33.º As pessoas singulares ou colectivas referidas nos n.os 3 e 4 do artigo 22.º deverão comprovar, junto das entidades competentes para efectuar o registo, conceder a licença ou atribuir a matrícula aos meios de transporte novos, que procederam ao pagamento do imposto devido pela aquisição intracomunitária desses bens.
+Art. 33.º As pessoas singulares ou colectivas referidas nos n.os 3 e 4 do artigo 22.º deverão comprovar, junto das entidades competentes para efectuar o registo, conceder a licença ou atribuir a matrícula aos meios de transporte novos, que procederam ao pagamento do imposto devido pela aquisição intracomunitária desses bens.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 34.º Em tudo o que não se revelar contrário ao disposto no presente diploma aplicar-se-á a disciplina geral do Código do IVA.
+Art. 34.º Em tudo o que não se revelar contrário ao disposto no presente diploma aplicar-se-á a disciplina geral do Código do IVA.

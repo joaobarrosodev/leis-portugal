@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/1995/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 177664ff098ba1fd073312a762625ed5bb7d3e2989e1e34e000075fce351a199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a07f1ab475ce738a93fee7568b0f61bf401220544af220be5078fc2ae045f1a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento de Elevação
+- Aparelho de Medição
 - Aproximação das Legislações
-- Indústria Electrotécnica
 - CEE
+- Certificado de Qualidade
+- Comércio
 - Construção Civil
 - Controlo de Qualidade
-- Equipamento Eléctrico
-- Equipamento Térmico
-- Saúde Pública
-- Fabrico Industrial
-- Indústria de Brinquedos
-- Indústria Mecânica
-- Aparelho de Medição
-- Máquina-Ferramenta
-- Certificado de Qualidade
-- Normas de Segurança
-- Proteção do Consumidor
 - Equipamento Agrícola
+- Equipamento de Elevação
+- Equipamento Eléctrico
 - Equipamento Industrial
 - Equipamento sob Pressão
+- Equipamento Térmico
+- Fabrico Industrial
+- Indústria de Brinquedos
+- Indústria Electrotécnica
+- Indústria Mecânica
+- Máquina-Ferramenta
 - Material de Construção
 - Material Médico-Cirúrgico
-- Comércio
+- Normas de Segurança
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:124097548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216510:por
+  label: "Alterado o presente diploma, na redacção que conferiu aos arts. 1º, 11º, 14º e 16º do Dec Lei 117/88, aos arts.\
+    \ 4º-B e 10º do Dec Lei 130/92, aos arts. 5º, 6º e 13º do Dec Lei 113/93, aos arts. 1º, 3º e 5º do Dec Lei 128/93, aos\
+    \ arts. 4º, 6º e 8º do Dec Lei 378/93 e ao art. 2º do Dec Lei 383/93, pelo DEC LEI.374/98.1998.11.24.MECO DR.IS-A [272]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1998-216510
+  date: '1998-11-24'
+- type: amended_by
+  target: pt:dre:262089:por
+  label: "Alterados os arts. 3º a 6º e 12º e 13º do Dec Lei 113/93 de 10-Abr, com a redacção conferida no presente diploma,\
+    \ pelo DEC LEI.4/2007.08.01.2007.MEI, DR.IS [5] de 08.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2007-262089
+  date: '2007-01-08'
 - type: cites
   target: celex:31973L0023
   label: null
@@ -126,16 +140,63 @@ relationships:
   target: celex:31993L0095
   label: null
   source: http://data.europa.eu/eli/dir/1993/95/oj
+- type: repealed_by
+  target: pt:dre:577359:por
+  label: "Revogado o art. 4º pelo DEC LEI.320/2001.2001.12.12.MECO DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2001-577359
+  date: '2001-12-12'
+- type: repealed_by
+  target: pt:dre:386826:por
+  label: "Revogado, a partir de 15.01.2008, o Dec Lei 117/88, de 12-Abr, na redacção dada pelo presente diploma, pelo DEC\
+    \ LEI.6/2008.10.01.2008.MEI, DR.IS [7] de 10.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2008-386826
+  date: '2008-01-10'
+- type: repealed_by
+  target: pt:dre:279776:por
+  label: "Revogado, em 16.03.2011, o Dec Lei 103/92, de 30-Mai, na redacção do presente diploma, pelo DEC LEI.26/2011.14.02.2011.MEID,\
+    \ DR.IS [31] de 14.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2011-279776
+  date: '2011-02-14'
+- type: repealed_by
+  target: pt:dre:279778:por
+  label: "Revogado, a partir de 16.03.2011, o Dec Lei 130/92, de 06-Jul, na redacção do presente diploma e do Dec Lei 374/98,\
+    \ de 24-Nov, pelo DEC LEI.25/2011.14.02.2011.MEID, DR.IS [31] de 14.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2011-279778
+  date: '2011-02-14'
+- type: repealed_by
+  target: pt:dre:278880:por
+  label: "Revogado, a partir de 20.07.2011, o Dec Lei 237/92, de 27-Out, na redacção do presente diploma, pelo DEC LEI.43/2011.24.03.2011.MEID,\
+    \ DR.IS [59] de 24.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2011-278880
+  date: '2011-03-24'
+- type: repealed_by
+  target: pt:dre:500018:por
+  label: "Revogado, a partir de 11.09.2013, o Dec Lei 113/93 de 10-abr, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.130/2013.10.09.2013.MECO, DR.IS [174] de 10.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2013-500018
+  date: '2013-09-10'
+- type: repealed_by
+  target: pt:dre:106886614:por
+  label: Revogado o Dec Lei 383/93, de 18-nov, na redação do presente diploma pelo(a) Decreto-Lei n.º 43/2017 - Diário da
+    República n.º 76/2017, Série I de 2017-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2017-106886614
+  date: '2017-04-18'
+- type: repealed_by
+  target: pt:dre:124097548:por
+  label: Revogado o Dec Lei 128/93, de 22-abr, na redação do presente diploma pelo(a) Decreto-Lei n.º 118/2019 - Diário da
+    República n.º 159/2019, Série I de 2019-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2019-124097548
+  date: '2019-08-21'
 article_structure:
-  article_count: 66
+  article_count: 65
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:18Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +217,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 6.º, 9.º, 10.º e 16.º do Decreto-Lei n.º 103/92, de 30 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 6.º, 9.º, 10.º e 16.º do Decreto-Lei n.º 103/92, de 30 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Marcação CE
 
@@ -238,7 +299,7 @@ b) ...
 
 c) ...
 
-###### Art. 2.º - 1 - Os artigos 4.º, 5.º, 8.º e 15.º do Decreto-Lei n.º 237/92, de 27 de Outubro, passam a ter a seguinte redacção:
+Art. 2.º - 1 - Os artigos 4.º, 5.º, 8.º e 15.º do Decreto-Lei n.º 237/92, de 27 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Marcação CE
 
@@ -292,7 +353,7 @@ b) A conformidade com o modelo aprovado nos termos do artigo 7.º
 
 2 - É revogado o anexo III do Decreto-Lei n.º 237/92, de 27 de Outubro.
 
-###### Art. 3.º Os artigos 3.º a 6.º, 12.º e 13.º do Decreto-Lei n.º 113/93, de 10 de Abril, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 3.º a 6.º, 12.º e 13.º do Decreto-Lei n.º 113/93, de 10 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -372,7 +433,7 @@ d) ...
 
 e) ...
 
-###### Art. 4.º - 1 - Os artigos 1.º, 2.º, 4.º a 7.º, 9.º, 11.º e 12.º do Decreto-Lei n.º 378/93, de 5 de Novembro, passam a ter a seguinte redacção:
+Art. 4.º - 1 - Os artigos 1.º, 2.º, 4.º a 7.º, 9.º, 11.º e 12.º do Decreto-Lei n.º 378/93, de 5 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Objecto
 
@@ -494,7 +555,7 @@ d) Informa a Comissão e os Estados membros de outras medidas tomadas contra que
 
 Até 31 de Dezembro de 1996 podem ser colocadas no mercado e postas em serviço as máquinas de elevação ou deslocação de pessoas, assim como os componentes de segurança, conformes às regulamentações em vigor em 1 de Julho de 1994.
 
-###### Art. 5.º - 1 - Os artigos 1.º, 2.º, 8.º e 9.º do Decreto-Lei n.º 128/93, de 22 de Abril, passam a ter a seguinte redacção:
+Art. 5.º - 1 - Os artigos 1.º, 2.º, 8.º e 9.º do Decreto-Lei n.º 128/93, de 22 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Âmbito
 
@@ -576,7 +637,7 @@ A conformidade dos EPI às exigências essenciais aplicáveis é atestada pelo f
 
 Podem ser colocados no mercado e postos em serviço até 30 de Junho de 1995, os EPI que sejam conformes aos diplomas em vigor em 30 de Junho de 1992.
 
-###### Art. 6.º - 1 - Os artigos 2.º, 3.º, 5.º, 6.º e 10.º a 12.º do Decreto-Lei n.º 383/93, de 18 de Novembro, passam a ter a seguinte redacção:
+Art. 6.º - 1 - Os artigos 2.º, 3.º, 5.º, 6.º e 10.º a 12.º do Decreto-Lei n.º 383/93, de 18 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Âmbito de aplicação
 
@@ -676,7 +737,7 @@ b) A verificação CE por unidade.
 
 3 - Os procedimentos de avaliação da conformidade dos instrumentos em serviço com os requisitos essenciais serão definidos por portaria do Ministro da Indústria e Energia.
 
-###### Art. 7.º Os artigos 3.º e 5.º do Decreto-Lei n.º 44/93, de 20 de Fevereiro, passam a ter a seguinte redacção:
+Art. 7.º Os artigos 3.º e 5.º do Decreto-Lei n.º 44/93, de 20 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Colocação no mercado
 
@@ -708,7 +769,7 @@ b) A verificação CE por unidade.
 
 9 - No caso de a não conformidade persistir, o INSA poderá restringir ou proibir a colocação do produto no mercado, ou assegurar a sua retirada do mesmo nos termos do artigo 6.º, cabendo, neste caso, recurso para o Ministro da Saúde nos termos da lei.
 
-###### Art. 8.º - 1 - Os artigos 1.º, 4.º, 7.º, 10.º e 11.º do Decreto-Lei n.º 130/92, de 6 de Julho, passam a ter a seguinte redacção:
+Art. 8.º - 1 - Os artigos 1.º, 4.º, 7.º, 10.º e 11.º do Decreto-Lei n.º 130/92, de 6 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Âmbito
 
@@ -798,7 +859,7 @@ d) Verificação CE.
 
 6 - No caso de um ou mais dos diplomas a que se refere o número anterior deixarem ao fabricante, durante um período transitório, a escolha do regime a aplicar, a marcação CE indica apenas a conformidade às disposições dos diplomas aplicados pelo fabricante, devendo, neste caso, as referências dos mesmos ser inscritas nos documentos, manuais ou instruções que acompanham o aparelho.
 
-###### Art. 9.º - 1 - Os artigos 1.º, 5.º, 8.º, 9.º e 11.º do Decreto-Lei n.º 136/94, de 20 de Maio, passam a ter a seguinte redacção:
+Art. 9.º - 1 - Os artigos 1.º, 5.º, 8.º, 9.º e 11.º do Decreto-Lei n.º 136/94, de 20 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -840,7 +901,7 @@ Só podem ser colocados no mercado e postos em serviço os aparelhos e as caldei
 
 7 - Compete ao Ministro da Indústria e Energia a adopção, por despacho, das medidas referidas no número anterior, devendo informar imediatamente a Comissão e os outros Estados membros.
 
-###### Art. 10.º Os artigos 7.º, 10.º a 12.º e 14.º a 18.º do Decreto-Lei n.º 117/88, de 12 de Abril, passam a ter a seguinte redacção:
+Art. 10.º Os artigos 7.º, 10.º a 12.º e 14.º a 18.º do Decreto-Lei n.º 117/88, de 12 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — Livre circulação do equipamento eléctrico
 
@@ -936,18 +997,18 @@ d) Em 10% para o IPQ.
 
 O IPQ acompanhará a aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar a ligação com a Comissão e os Estados membros das Comunidades Europeias.
 
-###### Art. 11.º Até 1 de Janeiro de 1997 podem ser colocados no mercado e postos em serviço os produtos conformes com os regimes de marcação em vigor até 1 de Janeiro de 1995.
+Art. 11.º Até 1 de Janeiro de 1997 podem ser colocados no mercado e postos em serviço os produtos conformes com os regimes de marcação em vigor até 1 de Janeiro de 1995.
 
-###### Art. 12.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 12.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1994-604441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afa4abd0e579deea7a59cc6aaf74203f2826651ac333d99be5a99a71eb174e4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30c7a2fc57924964b79de05ec0235fcdf4eaa0e7815545a26431485e96fd172a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
 - Carreira de Técnico Superior de Saúde
-- Sistema Retributivo
 - Formas de Provimento
 - Lisboa
-- Santa Casa da Misericórdia
-- Pessoal Técnico Superior
 - Ministério da Saúde
+- Pessoal de Saúde
+- Pessoal Técnico Superior
 - Reestruturação de Carreiras
 - Remuneração
+- Santa Casa da Misericórdia
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:1049508938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420407:por
+  label: "Alterado o art. 3º pelo DEC LEI.365/97.1997.12.20.MS, DR.IS-A [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1997-420407
+  date: '1997-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239580:por
+  label: "Revogado o art. 5º pelo DEC LEI.9/98.1998.01.16.MS DR.IS-A [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-1998-239580
+  date: '1998-01-16'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:08Z'
   warnings: []
   errors: []
 ---
@@ -295,12 +321,12 @@ h) ...
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 5 de Setembro de 1994.**
+Promulgado em 5 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1994.**
+Referendado em 8 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

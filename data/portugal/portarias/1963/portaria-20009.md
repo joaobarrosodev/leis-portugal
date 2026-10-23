@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20009-1963-693984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 654eaf90796bb5ef87989b41d0136f3f8ed54dda9d79860b74d00799a826ea6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ad982422679b5684a642444624180fa2a4e39df1c18eceb99d8aa9cb9e9a4a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Estudos Gerais Universitários
+- Moçambique.Colónia Portuguesa
+- Orçamento
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:41Z'
   warnings: []
   errors: []
 ---
@@ -85,15 +98,15 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugado com a alínea e) do artigo 14.º do mesmo diploma, com a redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir em Moçambique um crédito especial de 4900000$00 destinado a custear no ano corrente os encargos de todas as classes dos Estudos Gerais Universitários, tomando como contrapartida as seguintes disponibilidades a sair do excesso de cobrança sobre a previsão das seguintes verbas do orçamento da receita ordinária do corrente ano:
 
-### Capítulo 1.º «Impostos directos gerais»:
+Capítulo 1.º «Impostos directos gerais»:
 
-###### Artigo 2.º, alínea a) «Contribuição predial urbana» ... 2600000$00
+Artigo 2.º, alínea a) «Contribuição predial urbana» ... 2600000$00
 
-###### Artigo 11.º «Impostos directos extintos» ... 1340000$00
+Artigo 11.º «Impostos directos extintos» ... 1340000$00
 
-### Capítulo 5.º, artigo 73.º «Domínio privado, empresas e indústrias do Estado, participação de lucros - Diversas - Foros» ... 200000$00
+Capítulo 5.º, artigo 73.º «Domínio privado, empresas e indústrias do Estado, participação de lucros - Diversas - Foros» ... 200000$00
 
-### Capítulo 7.º, artigo 113.º «Reembolsos e reposições - Vencimentos liquidados a funcionários públicos (excesso de)» ... 760000$00
+Capítulo 7.º, artigo 113.º «Reembolsos e reposições - Vencimentos liquidados a funcionários públicos (excesso de)» ... 760000$00
 
 ... 4900000$00
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1995-145222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f38cdebed4936746007fc2da0a1fd17f35434450a7a00f7812819db02299eba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6e0d1d3a9839f6780d49f5a21aab7f5b46052917ce7bab7ffaa8320098ee5ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
-- Multa
 - Contra-ordenação
+- Crime
+- Estabelecimento de Jogos
 - Inspecção Geral de Jogos
+- Jogos de Fortuna e Azar
+- Multa
 - Pessoal dos Casinos
 - Regime Jurídico
 - ZONA de JOGO
@@ -79,16 +79,56 @@ relationships:
   target: pt:dre:546019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527594:por
+  label: "Alterado o art. 52.º do Dec Lei 422/89, de 02-Dez, com a redacção do presente diploma, pela LEI.28/2004.16.07.2004.AR,\
+    \ DR.IS-A [166] de 16.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2004-527594
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:605322:por
+  label: "Alterados os arts. 27.º, 29.º, 32.º, 35.º, 37.º, 39.º, 40.º, 41.º, 58.º, 126.º, 146.º e 166.º do Dec Lei 422/89,\
+    \ de 02-Dez, na redacção do presente diploma, pelo DEC LEI.40/2005.17.02.2005.MTUR, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2005-605322
+  date: '2005-02-17'
+- type: cites
+  target: pt:dre:313848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678629:por
+  label: null
+  source: null
 article_structure:
-  article_count: 248
+  article_count: 247
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:30Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +163,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 6.º, 15.º a 17.º, 23.º, 27.º, 29.º 30.º, 32.º, 33.º, 35.º a 41.º, 50.º a 53.º, 55.º, 58.º, 59.º, 61.º a 63.º, 66.º, 68.º, 73.º, 74.º a 77.º, 80.º, 82.º, 83.º, 91.º, 95.º, 96.º, 98.º, 99.º, 103.º, 105.º, 118.º, 119.º, 121.º a 130.º, 132.º, 138.º a 150.º e 159.º a 162.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 6.º, 15.º a 17.º, 23.º, 27.º, 29.º 30.º, 32.º, 33.º, 35.º a 41.º, 50.º a 53.º, 55.º, 58.º, 59.º, 61.º a 63.º, 66.º, 68.º, 73.º, 74.º a 77.º, 80.º, 82.º, 83.º, 91.º, 95.º, 96.º, 98.º, 99.º, 103.º, 105.º, 118.º, 119.º, 121.º a 130.º, 132.º, 138.º a 150.º e 159.º a 162.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Zonas de jogo
 
@@ -877,7 +917,7 @@ O produto das coimas previstas no presente diploma reverte para o Fundo de Turis
 
 2 - Os aparelhos destinados à venda de produtos, nos quais a importância despendida deve corresponder ao valor comercial desses produtos, não podem, por qualquer processo e com ou sem acréscimo de preço, atribuir prémios em dinheiro, fichas ou coisas com valor económico.
 
-###### Art. 2.º São aditados ao capítulo XI do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, os artigos 163.º e 164.º, com a seguinte redacção:
+Art. 2.º São aditados ao capítulo XI do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, os artigos 163.º e 164.º, com a seguinte redacção:
 
 ###### Artigo 163.º — Contra-ordenações
 
@@ -895,7 +935,7 @@ O produto das coimas previstas no presente diploma reverte para o Fundo de Turis
 
 2 - Compete às autoridades policiais autuantes a instrução dos processos contra-ordenacionais, sendo a Inspecção-Geral de Jogos o serviço técnico consultivo e pericial dos governadores civis e daquelas autoridades nestas matérias.
 
-###### Art. 3.º É aditado ao [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, um capítulo XII, intitulado «Disposições transitórias e finais», que compreende os artigos 165.º a 167.º, com a seguinte redacção:
+Art. 3.º É aditado ao [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, um capítulo XII, intitulado «Disposições transitórias e finais», que compreende os artigos 165.º a 167.º, com a seguinte redacção:
 
 ###### Artigo 165.º — Norma transitória
 
@@ -909,43 +949,43 @@ O produto das coimas previstas no presente diploma reverte para o Fundo de Turis
 
 (Anterior artigo 162.º)
 
-###### Art. 4.º - 1 - O capítulo V do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, passa a designar-se «Da prática dos jogos nos casinos».
+Art. 4.º - 1 - O capítulo V do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, passa a designar-se «Da prática dos jogos nos casinos».
 
 2 - A secção III do capítulo IX do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, passa a designar-se «Contra-ordenações praticadas pelos empregados das concessionárias».
 
 3 - O capítulo XI do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, passa a designar-se «Das modalidades afins dos jogos de fortuna ou azar e outras formas de jogo».
 
-###### Art. 5.º - 1 - O disposto nos artigos 138.º a 150.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhes foi dada pelo artigo 1.º, aplica-se às infracções cometidas após a entrada em vigor do presente diploma.
+Art. 5.º - 1 - O disposto nos artigos 138.º a 150.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhes foi dada pelo artigo 1.º, aplica-se às infracções cometidas após a entrada em vigor do presente diploma.
 
 2 - Os n.os 3 e 4 do artigo 23.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhe foi dada pelo artigo 1.º, não se aplicam aos contratos de locação celebrados antes da entrada em vigor do presente diploma.
 
-###### Art. 6.º - 1 - Os montantes das coimas previstas no [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhes foi dada pelo artigo 1.º, consideram-se alterados na proporção dos valores que vierem a resultar das actualizações aos limites previstos no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
+Art. 6.º - 1 - Os montantes das coimas previstas no [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhes foi dada pelo artigo 1.º, consideram-se alterados na proporção dos valores que vierem a resultar das actualizações aos limites previstos no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
 
 2 - O disposto no número anterior aplica-se às multas previstas no [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhe foi dada pelo artigo 1.º
 
-###### Art. 7.º São revogados:
+Art. 7.º São revogados:
 
 a) Os artigos 43.º a 45.º e 59.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969;
 
 b) Os artigos 42.º a 49.º, 69.º e o n.º 3 do artigo 71.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro.
 
-###### Art. 8.º - 1 - O presente diploma reporta os seus efeitos a partir da data de entrada em vigor da Lei do Orçamento do Estado para 1995.
+Art. 8.º - 1 - O presente diploma reporta os seus efeitos a partir da data de entrada em vigor da Lei do Orçamento do Estado para 1995.
 
 2 - Sem prejuízo do disposto no número anterior, os artigos 16.º, 17.º, 23.º e 27.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhes foi dada pelo artigo 1.º, entram em vigor no dia imediato ao da publicação do presente diploma.
 
-###### Art. 9.º O [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, é republicado integralmente em anexo ao presente diploma.
+Art. 9.º O [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, é republicado integralmente em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Alexandre Carlos de Mello Vieira Costa Relvas.
 
-**Promulgado em 29 de Dezembro de 1994.**
+Promulgado em 29 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804)
 
@@ -2475,12 +2515,12 @@ O presente diploma entra em vigor em 1 de Janeiro de 1990.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda - Licínio Alberto de Almeida Cunha.
 
-**Promulgado em 17 de Novembro de 1989.**
+Promulgado em 17 de Novembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Novembro de 1989.**
+Referendado em 17 de Novembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

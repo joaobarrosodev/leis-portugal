@@ -49,36 +49,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19997-1963-693402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f0acd6aca957cd68eedeb41a1fce2b59ad80fa6578cc2b842e2612531984d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 557ff4e350cb910e7f113802bb2cbadd2061d89f24011003485ecfe99e8eb66d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Boletim Informativo
+- Código de Processo Penal
+- Crime
+- Ministério da Justiça
+- Ofensas Corporais
+- Publicação
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:189557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693204:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:26Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +107,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º II da base LXVIII e do n.º III da base LXXXIII da Lei Orgânica do Ultramar, publicar no Boletim Oficial de todas as províncias ultramarinas, para ali vigorar, o artigo 1.º do [Decreto-Lei n.º 45108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45108-1963-693204), de 3 de Julho de 1963, e o artigo 2.º do [Decreto-Lei n.º 30545](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30545-1940-189557), de 27 de Junho de 1940, actualizado pelo artigo 2.º do [Decreto-Lei n.º 44959](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44959-1963-194834), de 5 de Abril de 1963, mas este com a seguinte alteração:
 
-###### Art. 2.º A assinatura do Boletim do Ministério da Justiça é obrigatória para os magistrados, conservadores, notários, e bem assim para os diversos tribunais, sendo a assinatura relativa a estes últimos custeada pela receita do respectivo cofre do tribunal.
+Art. 2.º A assinatura do Boletim do Ministério da Justiça é obrigatória para os magistrados, conservadores, notários, e bem assim para os diversos tribunais, sendo a assinatura relativa a estes últimos custeada pela receita do respectivo cofre do tribunal.
 
 Ministério do Ultramar, 7 de Agosto de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.
 

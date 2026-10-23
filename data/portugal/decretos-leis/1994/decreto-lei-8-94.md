@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/1994/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1994-531397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be3542b9aa3e895e5fc0c834a5924ec6fc6cd3ad3306f4fa245fd1f717aba733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e290c8009c35285feeeeba9be3d97187c314f1390046fa9acf2d44944680737
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
+- Contratação Pública
 - Contrato Administrativo
 - Emolumento
-- Política de Defesa
 - Forças Armadas
+- Política de Defesa
 - Programação Militar
 - Visto do Tribunal de Contas
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/67/1993/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1993/08/31/p/dre
+- type: cites
+  target: pt:dre:633946:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:02Z'
   warnings: []
   errors: []
 ---
@@ -105,16 +109,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os contratos cuja celebração se revele necessária à execução dos programas de reequipamento e de infra-estruturas das Forças Armadas constantes dos mapas anexos à [Lei n.º 67/93](https://diariodarepublica.pt/dr/detalhe/lei/67-1993-633946), de 31 de Agosto, estão isentos de emolumentos devidos pelo serviço de visto do Tribunal de Contas.
+Artigo único. Os contratos cuja celebração se revele necessária à execução dos programas de reequipamento e de infra-estruturas das Forças Armadas constantes dos mapas anexos à [Lei n.º 67/93](https://diariodarepublica.pt/dr/detalhe/lei/67-1993-633946), de 31 de Agosto, estão isentos de emolumentos devidos pelo serviço de visto do Tribunal de Contas.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

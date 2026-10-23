@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/1995/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1995-501976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 123d5add43b9fbfe8c5ed0542d3a1ae1afbb7aadae4f8fc570128d6f0141a06e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95a76383880465d98325f416fc9fad03cd60898d8f4658631a0a4496b699b913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,38 @@ subjects:
 - Adjudicação por Concurso Público
 - Adjudicação sem Concurso Público
 - Administração Central
+- Administração Local
+- Administração Regional
 - Aproximação das Legislações
-- Garantia
 - Concurso Internacional
 - Concurso Público
 - Contrato
 - Empreitada de Obras Públicas
-- Material de Obras Públicas
 - Fiscalização
-- Pagamento
+- Garantia
+- Material de Obras Públicas
 - Obras Públicas
-- Administração Local
+- Pagamento
 - Regime Jurídico
-- Administração Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/405/1993/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/405/1993/12/10/p/dre
+- type: cites
+  target: pt:dre:553397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:32Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +116,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Ao [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, é aditado o artigo 237.º-A, com a seguinte redacção:
+Artigo 1.º Ao [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, é aditado o artigo 237.º-A, com a seguinte redacção:
 
 ###### Artigo 237.º-A
 
 Até final do ano de 1997 não são aplicáveis à adjudicação de obras públicas pelos serviços de produção, de distribuição e de transporte de águas as disposições do presente diploma relativas à obrigatoriedade de publicação do aviso de abertura dos concursos no Jornal Oficial das Comunidades Europeias, às especificações técnicas a que se refere o artigo 21.º e, em geral, a todas as regras especiais que derivam de o valor do contrato ser igual ou superior ao limiar estabelecido nas directivas da Comunidade Europeia relativas à coordenação dos processos de adjudicação de empreitadas de obras públicas.
 
-###### Art. 2.º Os artigos 24.º, 44.º, 50.º, 51.º, 52.º, 63.º, 97.º, 105.º, 118.º e 210.º do [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 24.º, 44.º, 50.º, 51.º, 52.º, 63.º, 97.º, 105.º, 118.º e 210.º do [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 24.º — Trabalhos preparatórios ou acessórios
 
@@ -280,16 +284,16 @@ p) ...
 
 8 - ...
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1995. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Abril de 1995.**
+Promulgado em 26 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1995.**
+Referendado em 27 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

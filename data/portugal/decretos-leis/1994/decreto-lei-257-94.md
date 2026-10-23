@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257/1994/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1994-626217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b0a40cdfe0e61286b03528a95ce8ce2f46f1fc8feeaa2b544b362eeb886e926
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab1bb030d0268f88927ff2ab77b2274c1858d7cab5c4f7d94070b20dea8e8f46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Espetáculos e Divertimentos Públicos
 - Comissão Técnica
 - Direcção Geral dos Espectáculos e do Direito de Autor
+- Espetáculos e Divertimentos Públicos
 - Registo Prévio
 - Remuneração
 - Taxa
 - Vistoria
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:177825:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:29Z'
   warnings: []
   errors: []
 ---
@@ -100,28 +104,28 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. As importâncias fixadas nas disposições adiante mencionadas do [Decreto-Lei n.º 456/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825), de 29 de Outubro, são alteradas para os seguintes montantes:
+Artigo único. As importâncias fixadas nas disposições adiante mencionadas do [Decreto-Lei n.º 456/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825), de 29 de Outubro, são alteradas para os seguintes montantes:
 
-###### Artigo 3.º, n.º 1, alínea a) - 10000$00;
+Artigo 3.º, n.º 1, alínea a) - 10000$00;
 
-###### Artigo 3.º, n.º 1, alínea b) - 1000$00;
+Artigo 3.º, n.º 1, alínea b) - 1000$00;
 
-###### Artigo 11.º, tabela I, grupo A) - 30000$00 (n.º 1) e 10000$00 (n.º 2);
+Artigo 11.º, tabela I, grupo A) - 30000$00 (n.º 1) e 10000$00 (n.º 2);
 
-###### Artigo 11.º, tabela I, grupo B) - 3000$00 (n.º 1) e 1000$00 (n.º 2);
+Artigo 11.º, tabela I, grupo B) - 3000$00 (n.º 1) e 1000$00 (n.º 2);
 
-###### Artigo 11.º, tabela I, grupo C) - 10000$00 (n.º 1) e 3000$00 (n.º 2);
+Artigo 11.º, tabela I, grupo C) - 10000$00 (n.º 1) e 3000$00 (n.º 2);
 
-###### Artigo 11.º, tabela VIII - 6000$00, 2500$00 e 3500$00, respectivamente.
+Artigo 11.º, tabela VIII - 6000$00, 2500$00 e 3500$00, respectivamente.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral - Alexandre Carlos de Mello Vieira Costa Relvas.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

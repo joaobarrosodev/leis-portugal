@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/026a00/04740479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/1994/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1994-496679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77d7203f44007798dea8cea7a40cab23278b7d254ee2de21b3a54002685fa82f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1088e3d76355d008ec0b1cfdc4eebf39610b1a9b7d3ab38e0d9fc1265f95b347
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,17 @@ relationships:
   target: pt:dre:186752:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\
+    \ A\0UPL A"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Mantida em vigor a Orgânica do Instituto Português da Arte Cinematográfica e Audiovisual pelo DEC LEI.42/96.1996.05.07.MC\
+    \ DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -90,16 +101,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/5/1992/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/5/1992/02/06/p/dre
+- type: cites
+  target: pt:dre:152502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667348:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:186752:por
+  label: "Revogado pelo DEC LEI.408/98.1998.12.21.MC, DR.IS-A [293], e extinto o Instituto Português da Arte Cinematográfica\
+    \ e Audiovisual pelo referido diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1998-186752
+  date: '1998-12-21'
 article_structure:
   article_count: 30
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:18Z'
   warnings: []
   errors: []
 ---
@@ -350,7 +395,9 @@ f) Promover acções e propor mecanismos que estimulem e incentivem a participa�
 
 g) Coordenar com a Direcção-Geral dos Espectáculos acções destinadas a fiscalizar a produção e comercialização de vidéocassettes de produções cinematográficas.
 
-###### Artigo 18.º — Divisão de Cadastro
+###### Artigo 18.º
+
+##### Divisão de Cadastro
 
 À Divisão de Cadastro compete:
 
@@ -360,7 +407,9 @@ b) Estruturar e executar os meios de recolha dos dados mais importantes sobre a 
 
 c) Assegurar o controlo de bilheteira das salas de cinema.
 
-###### Artigo 19.º — Divisão de Relações Exteriores e de Promoção
+###### Artigo 19.º
+
+##### Divisão de Relações Exteriores e de Promoção
 
 À Divisão de Relações Exteriores e de Promoção compete:
 
@@ -520,16 +569,16 @@ f) A [Resolução do Conselho de Ministros n.º 5/92](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 6 de Janeiro de 1994.**
+Promulgado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro do pessoal dirigente do IPACA previsto no artigo 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/026a00/04740479.pdf))](https://files.diariodarepublica.pt/1s/1994/02/026a00/04740479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/026a00/04740479.pdf)

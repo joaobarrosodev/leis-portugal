@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1995-429391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35a6384f5dbfa6cc2368d3ab280fca1ca2b0ee2f0a8f6fa21bf2096d8d4c2f51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d54beceecc62a0cb45da00c30dfd3e9f505a31ddb4a76149538d18ed7c1598b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
 - Apoio ao Investimento
+- Empresa
+- Financiamento
 - Incentivos Fiscais
 - Indústria Mineira
-- Investimento
 - Indústria Transformadora
+- Investimento
 - Sistema Integrado de Incentivos ao Investimento
 relationships:
 - type: amended_by
   target: pt:dre:376234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146039:por
+  label: "Alterados os art 1º, 2º e 3º pelo Dec Lei 246/96. 1996.12.21.MF, DR.IS-A [295]\0, DR.IS-A [295]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-1996-146039
+  date: '1996-12-21'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Aditado um art. 4º ao presente diploma pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: cites
+  target: pt:dre:310440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:50Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Às empresas que se encontrem em situação de incumprimento quanto à entrega dos comprovativos da realização dos investimentos, nos termos do n.º 1 do artigo 43.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho, e do artigo 57.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), de 18 de Março, é excepcionalmente concedido um prazo de 30 dias para o fazerem, a contar da notificação para o efeito, por carta registada com aviso de recepção.
+Artigo 1.º - 1 - Às empresas que se encontrem em situação de incumprimento quanto à entrega dos comprovativos da realização dos investimentos, nos termos do n.º 1 do artigo 43.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho, e do artigo 57.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), de 18 de Março, é excepcionalmente concedido um prazo de 30 dias para o fazerem, a contar da notificação para o efeito, por carta registada com aviso de recepção.
 
 2 - A não entrega dos comprovativos no prazo a que se refere o número anterior implica a caducidade automática dos incentivos.
 
@@ -112,7 +130,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Nos casos em que tenha sido proposta pelos serviços de fiscalização da Direcção-Geral das Contribuições e Impostos ou da Inspecção-Geral de Finanças a caducidade dos benefícios concedidos, pode ser autorizado o deslizamento do ano de laboração normal, nos termos previstos no número anterior, salvo quando a proposta tenha como fundamento a não realização do investimento ou situações de fraude fiscal.
 
-###### Art. 2.º - 1 - No caso de a empresa não atingir o limiar de acesso através dos procedimentos indicados nos n.os 2 e 3 do artigo anterior, designadamente por alterações profundas na conjuntura económica ou no sector de actividade em que se insere o projecto, é declarada a caducidade do benefício, não havendo lugar, no entanto, ao pagamento de juros compensatórios nem de juros sobre os incentivos financeiros a repor.
+Art. 2.º - 1 - No caso de a empresa não atingir o limiar de acesso através dos procedimentos indicados nos n.os 2 e 3 do artigo anterior, designadamente por alterações profundas na conjuntura económica ou no sector de actividade em que se insere o projecto, é declarada a caducidade do benefício, não havendo lugar, no entanto, ao pagamento de juros compensatórios nem de juros sobre os incentivos financeiros a repor.
 
 2 - As empresas que tenham reduzido a classe de benefícios na fase de comprovação em relação à pontuação provisória obtida na fase de candidatura, e desde que esse facto não lhe seja imputável, devem restituir os impostos em falta, nos prazos previstos no n.º 3 do artigo 43.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho, e no n.º 1 do artigo 58.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), de 18 de Março, sendo essa liquidação efectuada pela diferença entre o valor que se mostre definitivamente devido e o que tenha sido liquidado em face da decisão anterior proferida no processo, sem juros compensatórios nem juros sobre os incentivos financeiros a repor.
 
@@ -120,16 +138,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - O pagamento em prestações é efectuado com dispensa de juros de mora, salvo no caso de falta de pagamento de qualquer das prestações no prazo previsto, em que se vencem de imediato todas as restantes.
 
-###### Art. 3.º As normas do presente diploma sobre dispensa de juros compensatórios, de juros de mora e de juros sobre os incentivos financeiros a repor aplicam-se directamente aos casos em que já tenha havido despacho definitivo de declaração de caducidade dos incentivos que ainda não tenham sido restituídos.
+Art. 3.º As normas do presente diploma sobre dispensa de juros compensatórios, de juros de mora e de juros sobre os incentivos financeiros a repor aplicam-se directamente aos casos em que já tenha havido despacho definitivo de declaração de caducidade dos incentivos que ainda não tenham sido restituídos.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 28 de Julho de 1995.**
+Promulgado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Agosto de 1995.**
+Referendado em 1 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.

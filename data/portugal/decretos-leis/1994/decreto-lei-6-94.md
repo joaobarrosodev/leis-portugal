@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/1994/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1994-531396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d778aff3ed1152705c365fda76bffc6ead0b25303e268a49b27f2d70472f622
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a63bdabbf0a2ee3c7c474717cc8461662a19e9e2d5d9446a929b2dbd0caa1a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Fundação
 - Direcção Geral de Espectáculos
 - Direcção Geral dos Espectáculos e das Artes
 - Estatuto
+- Fundação
 - Fundação de são Carlos
 - Instituto das Artes Cénicas
 - Instituto Português de Museus
 - Orgânica
+- Pessoal Dirigente
 - Política Cultural
 - Quadro de Pessoal
 - Transferência de Competências
@@ -84,6 +84,18 @@ relationships:
   target: pt:dre:457029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626594:por
+  label: "Alterados os arts. 2º e 16º do Dec Lei 106-B/92 de 01-Jun, na redacção constante do presente diploma, pelo DEC LEI.315/95.1995.11.28.PCM,\
+    \ DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1995-626594
+  date: '1995-11-28'
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "EXTINTA A DIRECÇÃO GERAL DE ESPECTÁCULOS CRIADA PELO DEC LEI 106-B/92 DE 01-JUN (ALTERADO PELO PRESENTE DIPLOMA),\
+    \ PELO DEC LEI 42/96 DE 07-MAI DR.IS-A [106]\0S-A [106]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-b/1992/06/01/p/dre
   label: null
@@ -96,16 +108,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/1993/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/1993/03/10/p/dre
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679835:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457029:por
+  label: "Revogados os art 1º a 4º pelo DEC LEI.80/97.1997.04.08.MC, DR.IS-A [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1997-457029
+  date: '1997-04-08'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:35Z'
   warnings: []
   errors: []
 ---
@@ -126,17 +155,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Direcção-Geral dos Espectáculos e das Artes (DGEAT) passa a denominar-se Direcção-Geral dos Espectáculos (DGESP).
+Artigo 1.º - 1 - A Direcção-Geral dos Espectáculos e das Artes (DGEAT) passa a denominar-se Direcção-Geral dos Espectáculos (DGESP).
 
 2 - Consideram-se feitas à DGESP todas as referências efectuadas à DGEAT na lei ou em negócio jurídico.
 
-###### Art. 2.º São revogadas as seguintes disposições do [Decreto-Lei n.º 106-B/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-b-1992-410283), de 1 de Junho:
+Art. 2.º São revogadas as seguintes disposições do [Decreto-Lei n.º 106-B/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-b-1992-410283), de 1 de Junho:
 
 a) As alíneas h) e i) do artigo 2.º;
 
 b) Os artigos 19.º a 22.º
 
-###### Art. 3.º O artigo 3.º do [Decreto-Lei n.º 106-B/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-b-1992-410283), de 1 de Junho, passa a ter a seguinte redacção:
+Art. 3.º O artigo 3.º do [Decreto-Lei n.º 106-B/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-b-1992-410283), de 1 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Órgãos e serviços
 
@@ -158,11 +187,11 @@ f) ...
 
 g) ...
 
-###### Art. 4.º - 1 - A DGESP dispõe do quadro de pessoal dirigente constante do anexo ao presente diploma.
+Art. 4.º - 1 - A DGESP dispõe do quadro de pessoal dirigente constante do anexo ao presente diploma.
 
 2 - Por portaria conjunta do Ministro das Finanças e do membro do Governo responsável pela área da cultura será aprovado o novo quadro de pessoal da DGESP.
 
-###### Art. 5.º O artigo 3.º dos Estatutos da Fundação de São Carlos, aprovados pelo [Decreto-Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1993-594967), de 10 de Março, passa a ter a seguinte redacção:
+Art. 5.º O artigo 3.º dos Estatutos da Fundação de São Carlos, aprovados pelo [Decreto-Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1993-594967), de 10 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Actividades
 
@@ -186,7 +215,7 @@ h) Elaboração dos planos e definição de normas técnicas e orientações que
 
 2 - ...
 
-###### Art. 6.º Os artigos 2.º e 8.º do [Decreto-Lei n.º 278/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1991-679835), de 9 de Agosto, passam a ter a seguinte redacção:
+Art. 6.º Os artigos 2.º e 8.º do [Decreto-Lei n.º 278/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1991-679835), de 9 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Atribuições
 
@@ -252,20 +281,20 @@ f) ...
 
 g) Estudar e propor as medidas de apoio e incentivo às artes plásticas.
 
-###### Art. 7.º Por portaria conjunta do Ministro das Finanças e do membro do Governo responsável pela área da cultura será aprovado o novo quadro de pessoal do Instituto Português de Museus.
+Art. 7.º Por portaria conjunta do Ministro das Finanças e do membro do Governo responsável pela área da cultura será aprovado o novo quadro de pessoal do Instituto Português de Museus.
 
-###### Art. 8.º O orçamento dos Encargos Gerais da Nação sofrerá as adaptações que forem necessárias em virtude do disposto no presente diploma, com a observância das regras em vigor para as alterações orçamentais.
+Art. 8.º O orçamento dos Encargos Gerais da Nação sofrerá as adaptações que forem necessárias em virtude do disposto no presente diploma, com a observância das regras em vigor para as alterações orçamentais.
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/009a00/01140115.pdf))](https://files.diariodarepublica.pt/1s/1994/01/009a00/01140115.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/009a00/01140115.pdf)

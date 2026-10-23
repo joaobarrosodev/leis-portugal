@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/1995/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1995-563978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6220d1eb8c2a664271869ded79901a679d1846a76ba9def84f03002f63aabfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b57f47d838b67869a854300f3c3993e04553d995f30d00544dbdc0b95b2640
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Agência de Câmbio
 - Aproximação das Legislações
-- Instituição de Crédito
-- Publicidade
+- Atividade Bancária
+- Banca
 - Caixa de Crédito Agrícola Mútuo
 - Caixa Económica
 - Caixa Geral de Depósitos Crédito e Previdência
 - Comunidade Europeia
 - Finangeste
 - Fundo de Garantia de Depósitos
-- Banca
-- Atividade Bancária
+- Instituição de Crédito
+- Publicidade
 - Regime Jurídico
 - Sociedade Administradora de Compras em Grupo
 - Sociedade Corretora
@@ -97,6 +97,61 @@ relationships:
   target: pt:dre:58585556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:646111:por
+  label: "Alterados os arts. 89.º (na redacção do Dec Lei 222/99, de 22-Jun), 155.º e 159.º do Regime Geral das Instituições\
+    \ de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo\
+    \ DEC LEI.201/2002.2002.09.26.MF DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2002-646111
+  date: '2002-09-26'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: "Alterado o art. 167.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.211-A/2008.03.11.2008.MFAP, DR.IS [213-Supl] de 03.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:492383:por
+  label: "Alterados os art.s 155º, 156º, 157º 165º e 167º do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.162/2009.20.07.2009.MFAP, DR.IS\
+    \ [138] de 20.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2009-492383
+  date: '2009-07-20'
+- type: amended_by
+  target: pt:dre:145061:por
+  label: "Dada nova redacção ao nº 1 e às als. c) e f) do art. 166º do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez DR.IS-A [301]6º Supl, alterado pelo presente diploma, pelo DEC LEI.119/2011.26.12.2011.MF,\
+    \ DR.IS [246] de 26.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2011-145061
+  date: '2011-12-26'
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação aos arts. 155º, 156º, 159º, 162º, 164º, 165º, 166ºe 167º do Regime Geral das Instituições de Crédito\
+    \ e Sociedades Financeiras, aprovado pelo Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF,\
+    \ DR.IS [30-Supl] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterado o art. 167º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:55068738:por
+  label: Dada nova redação ao art. 155.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo
+    Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 114-A/2014 - Diário da República n.º
+    147/2014, 1º Suplemento, Série I de 2014-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-a-2014-55068738
+  date: '2014-08-01'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterado, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os art.167.º , do Regime
+    Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
 - type: cites
   target: celex:31994L0019
   label: null
@@ -105,16 +160,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: repealed_by
+  target: pt:dre:386799:por
+  label: "Revogado o art. 89º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92,\
+    \ de 31-Dez, na redacção do presente diploma, pelo DEC LEI.1/2008.03.01.2008.MFAP, DR.IS [2] de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2008-386799
+  date: '2008-01-03'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:35Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +200,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 89.º, 155.º, 156.º, 157.º, 159.º, 160.º, 161.º, 162.º, 164.º, 165.º, 166.º e 167.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 89.º, 155.º, 156.º, 157.º, 159.º, 160.º, 161.º, 162.º, 164.º, 165.º, 166.º e 167.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 89.º — [...]
 
@@ -299,16 +360,16 @@ c) Relativamente aos depósitos constituídos em sucursais de instituições de 
 
 6 - (Anterior n.º 4.)
 
-###### Art. 2.º O presente diploma produz efeitos desde 1 de Julho de 1995.
+Art. 2.º O presente diploma produz efeitos desde 1 de Julho de 1995.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

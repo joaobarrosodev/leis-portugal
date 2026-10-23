@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/1995/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1995-563043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec02b7a66c4a0cc84e76acd799fcc239578be1d9852f49c5f166817112481693
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64484ee8a348f1c028e8fcf11c4fba1b0a2ba0e8f8d75623782ce1913428cc1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Produtores
-- Financiamento
+- Comércio
 - Cooperativa Agrícola
 - Cooperativa Agrícola de Transformação de Produtos
 - Crédito Bonificado
+- Financiamento
 - Geada
+- Ifadap
 - JURO Bonificado
 - Linha de Crédito
-- SECA
-- Produto Hortícola
 - Produção Agrícola
-- Regulamento CE
-- Região Desfavorecida
-- Ifadap
-- Comércio
 - Produto Agrícola
+- Produto Hortícola
+- Região Desfavorecida
+- Regulamento CE
+- SECA
 - Vegetais
 relationships:
 - type: cites
@@ -93,15 +93,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1978/1360/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:20Z'
   warnings: []
   errors: []
 ---
@@ -118,17 +118,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada uma linha de crédito especial para financiamento dos encargos de exploração das cooperativas, das organizações e dos agrupamentos de produtores, reconhecidos ao abrigo dos Regulamentos (CEE) n.os [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt) e [1360/78](http://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), que se dedicam à transformação e ou comercialização de produtos de origem vegetal.
+Artigo 1.º É criada uma linha de crédito especial para financiamento dos encargos de exploração das cooperativas, das organizações e dos agrupamentos de produtores, reconhecidos ao abrigo dos Regulamentos (CEE) n.os [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt) e [1360/78](http://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), que se dedicam à transformação e ou comercialização de produtos de origem vegetal.
 
-###### Art. 2.º Têm acesso à linha de crédito as entidades descritas no artigo anterior que laborem produtos das actividades afectadas, oriundos das regiões atingidas.
+Art. 2.º Têm acesso à linha de crédito as entidades descritas no artigo anterior que laborem produtos das actividades afectadas, oriundos das regiões atingidas.
 
-###### Art. 3.º - 1 - O crédito é concedido pelas instituições de crédito que celebrarem um protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e das Pescas (IFADAP), onde será estabelecida uma taxa de juro nominal máxima.
+Art. 3.º - 1 - O crédito é concedido pelas instituições de crédito que celebrarem um protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e das Pescas (IFADAP), onde será estabelecida uma taxa de juro nominal máxima.
 
 2 - O montante global de crédito a conceder não pode exceder 10 milhões de contos.
 
 3 - O montante máximo de crédito por beneficiário é de 100000 contos.
 
-###### Art. 4.º - 1 - Os empréstimos vencem juros sobre o capital em dívida à taxa de juro contratada.
+Art. 4.º - 1 - Os empréstimos vencem juros sobre o capital em dívida à taxa de juro contratada.
 
 2 - Os juros são postecipados, calculados e pagos nas datas de reembolso.
 
@@ -146,22 +146,22 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Os reembolsos de capital podem comportar até quatro anuidades de igual montante, ocorrendo o primeiro reembolso um ano após a data prevista para utilização do crédito.
 
-###### Art. 5.º As bonificações pagas pelo IFADAP às instituições de crédito nas datas do vencimento dos juros.
+Art. 5.º As bonificações pagas pelo IFADAP às instituições de crédito nas datas do vencimento dos juros.
 
-###### Art. 6.º As operações previstas na presente linha de crédito são formalizadas por contratos, cuja minuta será definida pelo IFADAP.
+Art. 6.º As operações previstas na presente linha de crédito são formalizadas por contratos, cuja minuta será definida pelo IFADAP.
 
-###### Art. 7.º As normas técnicas e financeiras necessárias à execução da medida prevista no presente diploma, bem como as zonas atingidas e as actividades afectadas, serão objecto de portaria do Ministro da Agricultura e incluídas em normativo a emitir pelo IFADAP.
+Art. 7.º As normas técnicas e financeiras necessárias à execução da medida prevista no presente diploma, bem como as zonas atingidas e as actividades afectadas, serão objecto de portaria do Ministro da Agricultura e incluídas em normativo a emitir pelo IFADAP.
 
-###### Art. 8.º Os encargos financeiros referentes à bonificação da taxa de juro dos empréstimos serão suportados pelo Ministério da Agricultura, através do Orçamento do Estado - PIDDAC.
+Art. 8.º Os encargos financeiros referentes à bonificação da taxa de juro dos empréstimos serão suportados pelo Ministério da Agricultura, através do Orçamento do Estado - PIDDAC.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

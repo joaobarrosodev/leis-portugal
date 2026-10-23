@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/1994/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1994-609310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f408a71d47a4c893cac3fbf035f9be2c1cadeb73389b426bcbb725933bfbe070
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b609af690eee6d3f3c1ffe74fb69aedbeb6176b2018be2eda34edacbfea6e5af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
+- Comissão Vitivinícola Regional de Bucelas
 - Denominação de Origem
 - Região Vinícola de Colares
-- Comissão Vitivinícola Regional de Bucelas
 - Vinha
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -80,16 +80,22 @@ relationships:
   target: celex:31988R4252
   label: null
   source: http://data.europa.eu/eli/reg/1988/4252/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 28
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:13Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +112,17 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Lei n.º 8/85, de 4 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os Estatutos das Regiões Vitivinícolas de Carcavelos e de Colares, anexos ao presente diploma, que dele fazem parte integrante.
+Artigo 1.º São aprovados os Estatutos das Regiões Vitivinícolas de Carcavelos e de Colares, anexos ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional de Bucelas, Carcavelos e Colares (CVRBCC) disciplinar a produção dos vinhos com direito às denominações de origem controlada (DOC) Bucelas, Carcavelos e Colares, a aplicação da respectiva regulamentação, a vigilância pelo cumprimento da mesma, bem como o fomento da sua qualidade e a promoção dos vinhos que beneficiem daquelas denominações.
+Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional de Bucelas, Carcavelos e Colares (CVRBCC) disciplinar a produção dos vinhos com direito às denominações de origem controlada (DOC) Bucelas, Carcavelos e Colares, a aplicação da respectiva regulamentação, a vigilância pelo cumprimento da mesma, bem como o fomento da sua qualidade e a promoção dos vinhos que beneficiem daquelas denominações.
 
 2 - Compete à CVRBCC realizar vistorias e proceder à colheita de amostras em armazéns ou instalações de vinificação, selar os produtos, podendo ainda ter acesso a toda a documentação que permita verificar a obediência aos preceitos comunitários e nacionais relativos às DOC Bucelas, Carcavelos e Colares.
 
 3 - Em caso de infracção ao disposto nos Estatutos das DOC Bucelas, Carcavelos e Colares, pode a CVRBCC proceder disciplinarmente em relação aos agentes económicos nela inscritos, de acordo com o estatuído no seu regulamento interno, sem prejuízo de a infracção poder ser configurada como crime ou contra-ordenação.
 
-###### Art. 3.º É extinta a Comissão Vitivinícola Regional de Bucelas, a que se refere o artigo 2.º do Decreto-Lei n.º 377/93, de 5 de Novembro, considerando-se que todas as competências a ela atribuídas no estatuto anexo àquele diploma passam a ser atribuídas à CVRBCC.
+Art. 3.º É extinta a Comissão Vitivinícola Regional de Bucelas, a que se refere o artigo 2.º do Decreto-Lei n.º 377/93, de 5 de Novembro, considerando-se que todas as competências a ela atribuídas no estatuto anexo àquele diploma passam a ser atribuídas à CVRBCC.
 
-###### Art. 4.º A CVRBCC está subordinada à tutela do Ministro da Agricultura, ao qual compete:
+Art. 4.º A CVRBCC está subordinada à tutela do Ministro da Agricultura, ao qual compete:
 
 a) Dirigir instruções no âmbito da política vitivinícola;
 
@@ -124,7 +130,7 @@ b) Solicitar quaisquer informações ou ordenar inspecções e inquéritos ao se
 
 c) Apreciar o orçamento e contas de exercício.
 
-###### Art. 5.º São revogados:
+Art. 5.º São revogados:
 
 a) No que respeita à DOC Carcavelos, o Decreto n.º 23763, de 12 de Abril de 1934, e, na parte aplicável, o Decreto n.º 1, de 10 de Maio de 1907, o Decreto de 1 de Outubro de 1908 e o Decreto-Lei n.º 23230, de 17 de Novembro de 1933;
 
@@ -132,15 +138,15 @@ b) No que respeita à DOC Colares, a Portaria n.º 780/83, de 25 de Julho, e, na
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - António Duarte Silva.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1994.**
+Referendado em 22 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto da Região Vitivinícola de Carcavelos
 
@@ -260,7 +266,7 @@ Nas matérias não contempladas, são aplicáveis, sucessivamente, as disposiç�
 
 Região Vitivinícola de Carcavelos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/226a00/59105914.pdf))](https://files.diariodarepublica.pt/1s/1994/09/226a00/59105914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/226a00/59105914.pdf)
 
 Estatuto da Região Vitivinícola de Colares
 
@@ -382,4 +388,4 @@ Os vinhos a que se refere o presente Estatuto só podem ser postos em circulaç�
 
 Região Vitivinícola de Colares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/226a00/59105914.pdf))](https://files.diariodarepublica.pt/1s/1994/09/226a00/59105914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/226a00/59105914.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/247/1995/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1995-566808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 252b041622a49027061b3b311a03e1374b270bc2ac5a5eb800d1415e5092dfd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad123be4846b4364810f960f836fbfd1c06a145f56af5893fe61f85d1ad746ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
+- Apoio ao Investimento
 - Comissão Administrativa
 - Comissão de Fiscalização
+- Crédito
 - Crédito ao Investimento
 - Definição de Competências
-- Apoio ao Investimento
+- Financiamento
 - Fundo de Turismo
-- Crédito
+- Infraestrutura Turística
 - Receita Própria
 - Subsídio
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:426693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620728:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426693:por
+  label: "Revogado, mantendo-se em vigor as disposições que o regulamentam até à data da entrada em vigor dos novos regulamentos,\
+    \ pelo DEC LEI.308/99.1999.08.10.MECO, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1999-426693
+  date: '1999-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:35Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +132,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Fundo de Turismo é uma pessoa colectiva pública, dotada de autonomia administrativa e financeira.
+Artigo 1.º - 1 - O Fundo de Turismo é uma pessoa colectiva pública, dotada de autonomia administrativa e financeira.
 
 2 - O património do Fundo de Turismo é constituído pela universalidade dos seus direitos e obrigações.
 
 3 - Os bens imóveis de que seja titular o Fundo de Turismo e que integrem o respectivo domínio privado podem ser alienados por qualquer forma admitida em direito.
 
-###### Art. 2.º O artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Para a prossecução das suas atribuições, compete ao Fundo de Turismo:
+Art. 3.º - 1 - Para a prossecução das suas atribuições, compete ao Fundo de Turismo:
 
 a) Conceder empréstimos;
 
@@ -154,9 +176,9 @@ g) A elaboração de estudos e projectos susceptíveis de contribuir para o dese
 
 4 - O exercício das competências previstas nas alíneas e) e f) do n.º 1 carece de autorização, a conceder por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área do turismo.
 
-###### Art. 3.º São aditados ao [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, os artigos 2.º-B, 2.º-C, 3.º-A, 5.º-A e 5.º-B, com a seguinte redacção:
+Art. 3.º São aditados ao [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, os artigos 2.º-B, 2.º-C, 3.º-A, 5.º-A e 5.º-B, com a seguinte redacção:
 
-###### Art. 2.º-B - 1 - Compete à comissão administrativa:
+Art. 2.º-B - 1 - Compete à comissão administrativa:
 
 a) Praticar os actos correspondentes à prossecução das atribuições do Fundo de Turismo;
 
@@ -182,7 +204,7 @@ l) Exercer os demais poderes necessários à prossecução dos fins e salvaguard
 
 2 - A comissão administrativa poderá ainda exercer outras competências que, no âmbito geral das atribuições do Fundo de Turismo, lhe sejam delegadas pelo membro do Governo responsável pela área do turismo.
 
-###### Art. 2.º-C - 1 - Compete à comissão de fiscalização:
+Art. 2.º-C - 1 - Compete à comissão de fiscalização:
 
 a) Dar parecer sobre as propostas de plano de actividades, orçamento e demais instrumentos de gestão previsional;
 
@@ -206,11 +228,11 @@ j) Pronunciar-se sobre quaisquer assuntos relativos à actividade do Fundo de Tu
 
 2 - No exercício das competências previstas no número anterior, a comissão de fiscalização, através do seu presidente, poderá solicitar à comissão administrativa os elementos, informações e auditorias externas julgados necessários.
 
-###### Art. 3.º-A - 1 - O crédito a conceder pelo Fundo de Turismo deve ser garantido por hipoteca sobre o imóvel onde estiver ou vier a ser implantado o empreendimento a apoiar, ou por fiança ou garantia bancária, podendo, excepcionalmente, ser aceites quaisquer outras garantias admitidas em direito.
+Art. 3.º-A - 1 - O crédito a conceder pelo Fundo de Turismo deve ser garantido por hipoteca sobre o imóvel onde estiver ou vier a ser implantado o empreendimento a apoiar, ou por fiança ou garantia bancária, podendo, excepcionalmente, ser aceites quaisquer outras garantias admitidas em direito.
 
 2 - O relatório anual de actividades do Fundo de Turismo conterá, em anexo, a relação dos subsídios concedidos no ano em causa, com menção das entidades beneficiárias e dos respectivos montantes.
 
-###### Art. 5.º-A. Constituem receitas do Fundo de Turismo:
+Art. 5.º-A. Constituem receitas do Fundo de Turismo:
 
 a) As verbas provenientes do imposto sobre o jogo e das contrapartidas das concessões das zonas de jogo, nos termos da lei;
 
@@ -234,11 +256,11 @@ j) Os saldos de gerência anterior;
 
 l) Quaisquer outras receitas, resultantes da prossecução das suas atribuições, que lhe sejam atribuídas por lei, contrato ou outro título.
 
-###### Art. 5.º-B. As certidões negativas de pagamento emitidas pela comissão administrativa do Fundo de Turismo constituem título executivo bastante, nos termos previstos na alínea d) do artigo 46.º do Código de Processo Civil.
+Art. 5.º-B. As certidões negativas de pagamento emitidas pela comissão administrativa do Fundo de Turismo constituem título executivo bastante, nos termos previstos na alínea d) do artigo 46.º do Código de Processo Civil.
 
-###### Art. 4.º O disposto no artigo 5.º-B do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, com a redacção que lhe foi dada pelo artigo anterior, não se aplica aos processos pendentes, continuando estes a reger-se pelo disposto no Código de Processo Tributário.
+Art. 4.º O disposto no artigo 5.º-B do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, com a redacção que lhe foi dada pelo artigo anterior, não se aplica aos processos pendentes, continuando estes a reger-se pelo disposto no Código de Processo Tributário.
 
-###### Art. 5.º - 1 - São revogados:
+Art. 5.º - 1 - São revogados:
 
 a) O n.º 6 do artigo 1.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), de 26 de Setembro de 1969, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 341/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1987-496078), de 21 de Outubro;
 
@@ -248,12 +270,12 @@ b) O [Decreto-Lei n.º 203/89](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Alexandre Carlos de Mello Vieira Costa Relvas.
 
-**Promulgado em 7 de Setembro de 1995.**
+Promulgado em 7 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1995.**
+Referendado em 11 de Setembro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/220/1994/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1994-218727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2fc86525384258050203f35536838aed4b3d4a477072da2c526860859abefc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: beefeef53f2a9e5efe36295224b237132b13703ac5e094926b1116eac6bb3d8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Caixa Geral de Depósitos
 - Banco de Portugal
+- Caixa Geral de Depósitos
 - Crédito Bancário
 - Informação do Consumidor
+- Instituição de Crédito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/359/1991/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/359/1991/09/21/p/dre
+- type: cites
+  target: pt:dre:301011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610910:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:41Z'
   warnings: []
   errors: []
 ---
@@ -244,15 +256,15 @@ As infracções às normas do presente diploma constituem contra-ordenação pun
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO N.º 1 — Definição de taxa nominal
 
@@ -286,7 +298,7 @@ C = capital mutuado.
 
 1 - A taxa anual efectiva corresponde à solução em r da equação seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/194a00/48704873.pdf))](https://files.diariodarepublica.pt/1s/1994/08/194a00/48704873.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/194a00/48704873.pdf)
 
 2 - Em operações onde o contrato não especifica um montante fixo de capital a emprestar ao mutuário, mas um limite máximo de crédito que este poderá utilizar, a taxa efectiva anual será calculada de acordo com os seguintes pressupostos:
 

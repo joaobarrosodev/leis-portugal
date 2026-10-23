@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/1994/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1994-276021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98a1c3b5268f8d4dc196fd17307c6ab1a373c4934ad3767e9124f5c207ac9d80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f595049e898da48c02e9141b18bb7e1a78730242c0094a6a982123df6597f341
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
 - Aproximação das Legislações
 - Bebida Alcoólica
-- Imposto Especial sobre o Consumo de Tabaco
-- Álcool
-- Produto Petrolífero
-- Feoga
-- Tabaco
 - Cobrança de Dívidas
+- Feoga
+- Imposto Especial sobre o Consumo de Tabaco
+- Produto Petrolífero
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:438041:por
@@ -84,16 +84,21 @@ relationships:
   target: celex:31992L0108
   label: null
   source: http://data.europa.eu/eli/dir/1992/108/oj
+- type: repealed_by
+  target: pt:dre:438041:por
+  label: "Revogado pelo DEC LEI.296/2003.21.11.2003.MF, DR.IS-A [270] de 21.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2003-438041
+  date: '2003-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:47Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +113,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do Decreto-Lei n.º 504-N/85, de 30 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do Decreto-Lei n.º 504-N/85, de 30 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -126,12 +131,12 @@ f) [Anterior alínea e)].
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 11 de Fevereiro de 1994.**
+Promulgado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1994.**
+Referendado em 15 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

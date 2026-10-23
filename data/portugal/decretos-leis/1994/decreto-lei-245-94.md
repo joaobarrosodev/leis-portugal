@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/1994/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1994-606527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74665124b6f6d55886683628ed861a341ef5d7d78d041a3344dba765c74443fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7252decb0d5c84cf50d8f1b236541af6f6f9fe25d3972f84f440f6cfacd172ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Convenção
 - Definição de Competências
 - Direcção Geral de Portos Navegação e Transportes Marítimos
+- Embarcação
 - Londres
 relationships:
 - type: amended_by
   target: pt:dre:280895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 210/94, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-A, 277, 3SUPL, DE 941130.\0\
+    941130."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-30'
 - type: cites
   target: celex:31986R2930
   label: null
   source: http://data.europa.eu/eli/reg/1986/2930/oj
 article_structure:
   article_count: 17
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:13Z'
   warnings: []
   errors: []
 ---
@@ -197,25 +203,25 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1994. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - José Manuel Durão Barroso - João Prates Bebiano.
 
-**Promulgado em 5 de Setembro de 1994.**
+Promulgado em 5 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1994.**
+Referendado em 8 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 
 Regras para cálculos da arqueação bruta e líquida das embarcações não abrangidas pela Convenção Internacional sobre a Arqueação dos Navios, 1969.
 
-# PARTE A
+## PARTE A
 
 A arqueação bruta (GT) e a arqueação líquida (NT) das embarcações não abrangidas pela Convenção Internacional sobre a Arqueação dos Navios, 1969, são calculadas de acordo com o anexo I da referida Convenção Internacional.
 
-# PARTE B — Método simplificado para o cálculo das arqueações bruta e líquida
+## PARTE B — Método simplificado para o cálculo das arqueações bruta e líquida
 
 1 - O método simplificado para o cálculo da arqueação líquida pode ser aplicado a embarcações de comprimento entre perpendiculares inferior a 24 m, desde que a DGPNTM considere aceitável o seu resultado.
 
@@ -247,6 +253,6 @@ NT = 0,30 x GT
 
 4 - A pedido do armador, o cálculo das arqueações bruta e líquida, pode ser efectuado de acordo com a parte A, devendo para tal ser apresentada a devida justificação.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/223a00/57825785.pdf))](https://files.diariodarepublica.pt/1s/1994/09/223a00/57825785.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/223a00/57825785.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/223a00/57825785.pdf))](https://files.diariodarepublica.pt/1s/1994/09/223a00/57825785.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/223a00/57825785.pdf)

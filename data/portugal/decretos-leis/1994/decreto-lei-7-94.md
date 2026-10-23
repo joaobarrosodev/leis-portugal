@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/009a00/01150119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/1994/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1994-531395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81fe3ab324380bcd0b6d84dc0d2574bbc0d30d7f4e3d506b16b6ec9a9e3927c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 623a99434c6ae3259953de33a281d37d5bbc139bf09efbf28e0632664869f54e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,66 @@ subjects:
 - Teatro Nacional de DONA Maria II
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19951117 - PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\
+    \ \0SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:457224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469652:por
+  label: "Extinto o Instituto das Artes Cénicas pelo DEC LEI.42/96.1996.05.07.MC DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1996-469652
+  date: '1996-05-07'
+- type: amended_by
+  target: pt:dre:652772:por
+  label: "Determinada a transição do pessoal pertencente ao quadro do TNDM para o quadro de pessoal criado no DEC LEI.244/97.18.09.1997.MC,\
+    \ DR.IS-A [216] de 18.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1997-652772
+  date: '1997-09-18'
+- type: cites
+  target: pt:dre:279586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:652771:por
+  label: "Revogado em tudo o que se refere ao Teatro Nacional de São João pelo DEC LEI.242/97.1997.09.18.MC, DR.IS-A [216],\
+    \ efectivando a extinção do Instituto das Artes Cénicas relativamente ao TNJS, que sucede na universalidade dos direitos\
+    \ e obrigações ao Insituto\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1997-652771
+  date: '1997-09-18'
+- type: repealed_by
+  target: pt:dre:652772:por
+  label: "Revogado o presente diploma pelo DEC LEI.244/97.1997.09.18.MC, DR.IS-A [216], em tudo o que nele se refere ao Teatro\
+    \ Nacional D. Maria II, efectivando a extinção do Instituto das Artes Cénicas, relativamente ao TNDM, que sucede na universalidade\
+    \ de direitos e obrigações do Instituto \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1997-652772
+  date: '1997-09-18'
+- type: repealed_by
+  target: pt:dre:457224:por
+  label: "Revogado com a entrada em vigor do DEC LEI.149/98.1998.05.25.MC DR.IS-A [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1998-457224
+  date: '1998-05-25'
 article_structure:
   article_count: 28
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:48Z'
   warnings: []
   errors: []
 ---
@@ -285,7 +332,9 @@ b) A Repartição de Administração Geral;
 
 c) A Biblioteca de Teatro.
 
-###### Artigo 18.º — Divisão de Informação e Apoio Técnico
+###### Artigo 18.º
+
+##### Divisão de Informação e Apoio Técnico
 
 À Divisão de Informação e Apoio Técnico compete:
 
@@ -425,16 +474,16 @@ c) O [Decreto-Lei n.º 378/90](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro de pessoal dirigente a que se refere o artigo 24.º, n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/009a00/01150119.pdf))](https://files.diariodarepublica.pt/1s/1994/01/009a00/01150119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/009a00/01150119.pdf)

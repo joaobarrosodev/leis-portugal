@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/035a00/06700672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/1994/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1994-524229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25dd18ec1e47b5f62c70e2dd3c20514abfb9506e8d73c65e51b4cb7c93674596
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 431533880c7b93253fd9c22db3ddc138bc5941230f997e4721d69b076e4f5016
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Electrotécnica
 - Consumo de Energia
 - Etiquetagem
+- Indústria Electrotécnica
 - Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:286756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421021:por
+  label: "Alterados os arts. 12º e 13º pelo DEC LEI.18/2000.2000.02.29.MECO DR.IS-A [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2000-421021
+  date: '2000-02-29'
 - type: cites
   target: celex:31979L0530
   label: null
@@ -84,16 +89,21 @@ relationships:
   target: celex:31992L0075
   label: null
   source: http://data.europa.eu/eli/dir/1992/75/oj
+- type: repealed_by
+  target: pt:dre:286756:por
+  label: "Revogado, a partir de 20.07.2011, pelo DEC LEI.63/2011.09.05.2011.MEID, DR.IS [89] de 09.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2011-286756
+  date: '2011-05-09'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:03Z'
   warnings: []
   errors: []
 ---
@@ -222,12 +232,12 @@ c) 10% para a Direcção-Geral de Energia.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1993. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 28 de Janeiro de 1994.**
+Promulgado em 28 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Fevereiro de 1994.**
+Referendado em 1 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

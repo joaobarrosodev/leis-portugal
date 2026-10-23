@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1995/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1995-503650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0d41501a9ba89eed6149ba53417696ea9d895d38d1ed3c8bfa98399cabf6130
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bab041dab2bfaddea3d481266ff11600488c9a4e7edcabeb0e57c8716c0c2f28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Individual de Trabalho
-- Extinção de Lugares
-- Pessoal Operário
-- Integração de Trabalhadores
 - Contratação de Pessoal
-- Pessoal Auxiliar
-- Quadro de Pessoal
+- Contrato Individual de Trabalho
 - Ensino Superior
+- Extinção de Lugares
+- Integração de Trabalhadores
+- Pessoal Auxiliar
+- Pessoal Operário
+- Quadro de Pessoal
 - Serviços de Acção Social
 - Serviços Sociais
 relationships:
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
+- type: cites
+  target: pt:dre:178103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:42Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +138,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal operário e auxiliar a contratar para o exercício de actividades nos diversos sectores dos serviços de acção social a que se refere o [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de Abril, fica sujeito ao regime do contrato individual de trabalho, não adquirindo, em caso algum, a qualidade de agente administrativo.
+Artigo 1.º - 1 - O pessoal operário e auxiliar a contratar para o exercício de actividades nos diversos sectores dos serviços de acção social a que se refere o [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de Abril, fica sujeito ao regime do contrato individual de trabalho, não adquirindo, em caso algum, a qualidade de agente administrativo.
 
 2 - O pessoal contratado nos termos do número anterior é remunerado de acordo com a escala salarial da função pública aplicável à categoria a que correspondam as funções a desempenhar.
 
-###### Art. 2.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontrem a exercer funções nos serviços de acção social do ensino superior transitam para os lugares dos quadros a que se refere o n.º 3 do artigo 29.º do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de Abril, de acordo com as seguintes regras:
+Art. 2.º - 1 - Os funcionários que à data da entrada em vigor do presente diploma se encontrem a exercer funções nos serviços de acção social do ensino superior transitam para os lugares dos quadros a que se refere o n.º 3 do artigo 29.º do [Decreto-Lei n.º 129/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1993-692654), de 22 de Abril, de acordo com as seguintes regras:
 
 a) Para a mesma carreira, categoria e escalão que o funcionário já possui;
 
@@ -134,20 +154,20 @@ b) Para a carreira e categoria que integre as funções que o funcionário efect
 
 4 - As regras de transição previstas nos números anteriores aplicam-se, com as devidas adaptações, à integração do pessoal dos Serviços Sociais da Universidade do Algarve, criados pelo [Decreto do Governo n.º 42/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/42-1985-178103), de 23 de Outubro.
 
-###### Art. 3.º - 1 - O pessoal que à data da entrada em vigor do presente diploma já exerça funções de carácter permanente nos serviços de acção social do ensino superior, com sujeição à disciplina e hierarquia, e não se enquadre no disposto no artigo anterior fica sujeito ao regime do contrato individual de trabalho, não adquirindo, em caso algum, a qualidade de agente.
+Art. 3.º - 1 - O pessoal que à data da entrada em vigor do presente diploma já exerça funções de carácter permanente nos serviços de acção social do ensino superior, com sujeição à disciplina e hierarquia, e não se enquadre no disposto no artigo anterior fica sujeito ao regime do contrato individual de trabalho, não adquirindo, em caso algum, a qualidade de agente.
 
 2 - Ao pessoal referido no número anterior é aplicável o disposto no n.º 2 do artigo 1.º
 
-###### Art. 4.º Os lugares do quadro correspondentes às carreiras de pessoal operário e auxiliar são extintos da base para o topo, à medida que vagarem.
+Art. 4.º Os lugares do quadro correspondentes às carreiras de pessoal operário e auxiliar são extintos da base para o topo, à medida que vagarem.
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

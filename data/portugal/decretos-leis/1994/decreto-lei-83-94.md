@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/1994/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1994-274032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0b4b5ed02a17e7171b12a9148824e936676446f3a2dbaf213a7fcbac0fc2a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2369dca4f36e46fd14327640d9803e1158cf06aa350e3cbaae7d3032beff8a4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Multa
+- Câmara Municipal
 - Construção Civil
 - Direcção Geral do Ordenamento do Território
 - Fiscalização
-- Licenciamento de Obras
 - Licença Municipal
-- Câmara Municipal
+- Licenciamento de Obras
+- Multa
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:331257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321281:por
+  label: "Repristinado o presente diploma, bem como a respectiva regulamentação, pela LEI.13/2000.2000.07.20.AR,DR.IS-A [166]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2000-321281
+  date: '2000-07-20'
+- type: amended_by
+  target: pt:dre:315499:por
+  label: Prorrogada a suspensão da vigência do Dec Lei 555/99 de 16-dez, bem como a repristinação do presente diploma e respectiva
+    regulamentação, pelo(a) Lei n.º 30-A/2000 - Diário da República n.º 292/2000, 2º Suplemento, Série I-A de 2000-12-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-a-2000-315499
+  date: '2000-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655682:por
+  label: "Revogado pelo DEC LEI.555/99.1999.12.16.MEPAT DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/555-1999-655682
+  date: '1999-12-16'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:07Z'
   warnings: []
   errors: []
 ---
@@ -281,12 +302,12 @@ b) A emissão de certificado por entidade que não esteja habilitada a emiti-lo 
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 25 de Fevereiro de 1994.**
+Promulgado em 25 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Março de 1994.**
+Referendado em 1 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

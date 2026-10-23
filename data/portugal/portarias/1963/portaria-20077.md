@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20077-1963-686775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86578b10092671e4fb79bdf648cbb98fc2e9cd27c7c6f83e94a25d952ae69d19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a862702efb473a5a794da728b0e80278e82d27b5cc356ed6acf453114d1fce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Autorização de Despesas
+- CABO Verde.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429848:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:12Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +112,19 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1498.º «Quota-parte da província em encargos na metrópole»:
+Artigo 1498.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 10) «Outros encargos»:
 
 Alínea j) «Quota-parte com que a província concorre para fazer face aos encargos resultantes de conferências internacionais e organismos delas derivados e outras despesas correlativas» ... 100000$00
 
-###### Artigo 1502.º «Deslocações do pessoal»:
+Artigo 1502.º «Deslocações do pessoal»:
 
 N.º 2) «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
 Alínea a) «A pagar na metrópole» ... 300000$00
 
-###### Artigo 1503.º «Diversas despesas»:
+Artigo 1503.º «Diversas despesas»:
 
 N.º 26) «Passagens a estudantes residentes no ultramar que se destinem a estudos oficiais na metrópole (Decretos n.os 39297 e 39362, de 29 de Julho e 16 de Setembro de 1953)»:
 

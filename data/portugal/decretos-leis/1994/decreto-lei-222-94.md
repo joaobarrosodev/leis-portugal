@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/1994/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1994-218744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af99fc10371763f01d635c517b51552bccf643c2cd641adecc88ae367958ed21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0264d290cb103521f6c05892852d598af42ac79c4e1bbce2821de3bd77ab789a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Criação de Serviços
 - Extinção de Serviços
-- Lisboa
-- Tribunal do Trabalho
-- Tribunal Cível
-- Tribunal de Comarca
 - Justiça
+- Lisboa
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Supremo Tribunal de Justiça
-- Reforma Judiciária
 - Ministério Público
 - Organização Judiciária
+- Porto
+- Reestruturação de Serviços
+- Reforma Judiciária
+- Supremo Tribunal de Justiça
 - Transferência de Competências
+- Tribunal
+- Tribunal Cível
 - Tribunal de Círculo
+- Tribunal de Comarca
 - Tribunal de Família
 - Tribunal de Menores
+- Tribunal do Trabalho
 - Tribunal Judicial
-- Porto
-- Tribunal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/1991/06/07/p/dre
@@ -107,16 +107,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659960:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:41Z'
   warnings: []
   errors: []
 ---
@@ -217,13 +257,13 @@ Os mapas a que se reportam os artigos 2.º, 5.º, 12.º e 21.º do [Decreto-Lei 
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/1995/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1995-144978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cd5a4d8010ba8438c863e9696208c65b5cd31a4d00a7cf9854531b43cbd88b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01c4f24e79f7ae565823097c694a49c84f2d8fc2d4a56c40934f0fdb255daa7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Aposentação
 - Aposentação Bonificada
-- Sociedade Anónima
-- CTT
 - Caixa Geral de Aposentações
+- CTT
+- Pensão de Aposentação
 - Portugal Telecom
 - Reforma Antecipada
-- Pensão de Aposentação
+- Sociedade Anónima
 - Trabalhador
 relationships:
 - type: amended_by
@@ -84,16 +84,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
+- type: cites
+  target: pt:dre:432671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406528:por
+  label: "Revogado pelo DEC LEI.324/97.1997.11.26.MF, DR.IS-A [274], salvo o disposto nas als. a) e b) do nº 1 do art. 1º,\
+    \ que passa a reportar-se a 31 de Dezembro de 2005, nos termos do disposto naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1997-406528
+  date: '1997-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:10Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +134,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os trabalhadores da Portugal Telecom, S. A., que sejam subscritores da Caixa Geral de Aposentações podem, até 31 de Dezembro de 1997, nos termos dos números seguintes, aposentar-se sem submissão a junta médica, desde que completem em alternativa:
+Artigo 1.º - 1 - Os trabalhadores da Portugal Telecom, S. A., que sejam subscritores da Caixa Geral de Aposentações podem, até 31 de Dezembro de 1997, nos termos dos números seguintes, aposentar-se sem submissão a junta médica, desde que completem em alternativa:
 
 a) 30 anos de serviço e 50 de idade;
 
@@ -136,26 +154,26 @@ b) 60 dias, contados a partir da data em que se encontrem preenchidos os requisi
 
 6 - A aposentação ao abrigo do presente diploma depende da prévia concordância da empresa, fundamentada na inexistência de prejuízo para o serviço.
 
-###### Art. 2.º - 1 - As pensões a atribuir aos trabalhadores que venham a aposentar-se serão determinadas em função do número de anos e meses de serviço, nos termos da legislação aplicável.
+Art. 2.º - 1 - As pensões a atribuir aos trabalhadores que venham a aposentar-se serão determinadas em função do número de anos e meses de serviço, nos termos da legislação aplicável.
 
 2 - As pensões referidas no número anterior beneficiarão de uma bonificação de 20% em relação ao tempo de serviço prestado na Administração-Geral dos CTT, nos Correios e Telecomunicações de Portugal, E. P., nos CTT - Correios de Portugal, S. A., na Telecom Portugal, S. A., e na Portugal Telecom, S. A., com descontos para a Caixa Geral de Aposentações, não podendo, em caso algum, o tempo de serviço relevante ser superior ao correspondente a 36 anos completos de serviço.
 
-###### Art. 3.º - 1 - Os encargos com a pensão de aposentação dos trabalhadores aposentados serão suportados integralmente pela Portugal Telecom, S. A., até à data em que o aposentado atingiria 36 anos de serviço e 60 anos de idade, se se mantivesse no activo, ou perfaça 70 anos de idade, quando se verifique esta condição.
+Art. 3.º - 1 - Os encargos com a pensão de aposentação dos trabalhadores aposentados serão suportados integralmente pela Portugal Telecom, S. A., até à data em que o aposentado atingiria 36 anos de serviço e 60 anos de idade, se se mantivesse no activo, ou perfaça 70 anos de idade, quando se verifique esta condição.
 
 2 - A Portugal Telecom, S. A., entregará à Caixa Geral de Aposentações, mensalmente, em relação a cada trabalhador aposentado ao abrigo do presente diploma, uma importância correspondente a 2,5% da remuneração considerada no cálculo da pensão de aposentação, até ao limite da bonificação do tempo de serviço.
 
-###### Art. 4.º Os trabalhadores dos extintos CTT - Correios e Telecomunicações de Portugal, E. P., que, por força do processo de cisão dos CTT - Correios e Telecomunicações de Portugal, S. A., ficaram afectos a uma das sociedades anónimas resultantes dessa cisão e que venham a ser integrados nos quadros de pessoal da outra sociedade anónima resultante do mesmo processo, precedendo acordo dos conselhos de administração de ambas as sociedades, não perdem os direitos de subscritores da Caixa Geral de Aposentações, sendo a integração na nova entidade empregadora acompanhada das respectivas responsabilidades perante aquela Caixa, independentemente das condições acordadas entre as sociedades quanto à transferência de reservas constituídas nos respectivos fundos de pensões.
+Art. 4.º Os trabalhadores dos extintos CTT - Correios e Telecomunicações de Portugal, E. P., que, por força do processo de cisão dos CTT - Correios e Telecomunicações de Portugal, S. A., ficaram afectos a uma das sociedades anónimas resultantes dessa cisão e que venham a ser integrados nos quadros de pessoal da outra sociedade anónima resultante do mesmo processo, precedendo acordo dos conselhos de administração de ambas as sociedades, não perdem os direitos de subscritores da Caixa Geral de Aposentações, sendo a integração na nova entidade empregadora acompanhada das respectivas responsabilidades perante aquela Caixa, independentemente das condições acordadas entre as sociedades quanto à transferência de reservas constituídas nos respectivos fundos de pensões.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 28 de Dezembro de 1994.**
+Promulgado em 28 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

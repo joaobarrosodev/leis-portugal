@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/1994/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1994-618126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f2090af12828c010c64c68515663cd4edeb96098540d192141c2145b160d409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d4c64bdbb3fa90323badbdcd85eb91809589616cb66719aa919265615e29dcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
+- Câmara Municipal
 - Construção Civil
 - Contra-ordenação
 - Fiscalização
-- Licenciamento de Obras
 - Licença Municipal
+- Licenciamento de Obras
 - Propriedade Privada
-- Câmara Municipal
 - Responsabilidade Civil
 - Vistoria
 relationships:
@@ -81,6 +81,11 @@ relationships:
   target: pt:dre:426157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECL-RECT 2-B/95 DE 31-JAN DR.IS-A [26]3SUPL\0UPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -105,16 +110,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/29/1992/09/05/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408368:por
+  label: "Revogado o nº 2 do art.68º-A do Dec Lei 445/91 de 20-Nov, aditado pelo presente diploma, pela LEI.22/96.1996.07.26.AR,\
+    \ DR.IS-A [172]\02]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-1996-408368
+  date: '1996-07-26'
 article_structure:
-  article_count: 137
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 136
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:18Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +278,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 17/94](https://diariodarepublica.pt/dr/detalhe/lei/17-1994-265552), de 23 de Maio, e nos termos das alíneas a) e b) do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 34.º, 35.º, 37.º, 39.º, 40.º, 42.º, 43.º, 45.º, 46.º, 52.º, 53.º, 57.º, 60.º, 61.º, 62.º, 63.º, 67.º, 68.º, 70.º e 71.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com a redacção dada pela [Lei n.º 29/92](https://diariodarepublica.pt/dr/detalhe/lei/29-1992-235289), de 5 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 34.º, 35.º, 37.º, 39.º, 40.º, 42.º, 43.º, 45.º, 46.º, 52.º, 53.º, 57.º, 60.º, 61.º, 62.º, 63.º, 67.º, 68.º, 70.º e 71.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com a redacção dada pela [Lei n.º 29/92](https://diariodarepublica.pt/dr/detalhe/lei/29-1992-235289), de 5 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Dispensa de licenciamento municipal
 
@@ -433,7 +544,9 @@ d) Se as obras não forem concluídas no prazo fixado na licença ou no prazo es
 
 6 - Caducada a licença, deve a câmara municipal notificar o seu titular para proceder à entrega do respectivo alvará e o técnico responsával para igualmente entregar o correspondente livro de obra.
 
-###### Artigo 25.º — Livro de obra
+###### Artigo 25.º
+
+## Livro de obra
 
 1 - O titular da licença de construção é obrigado a conservar o livro de obra no respectivo local, para consulta, escrituração do acto de fiscalização e das anomalias detectadas pelos técnicos das entidades fiscalizadoras, em termos a definir por portaria conjunta dos Ministros do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 
@@ -751,7 +864,7 @@ A qualificação oficial a exigir aos técnicos autores de projectos e aos técn
 
 2 - ...
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, os artigos 17.º-A, 56.º-A, 61.º-A, 67.º-A, 68.º-A, 68.º-B e 73.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, os artigos 17.º-A, 56.º-A, 61.º-A, 67.º-A, 68.º-A, 68.º-B e 73.º-A, com a seguinte redacção:
 
 ###### Artigo 17.º-A — Apresentação dos projectos das especialidades
 
@@ -809,7 +922,7 @@ Competência para a verificação do cumprimento do Regulamento de Segurança co
 
 4 - Aos edifícios abrangidos pelo presente artigo aplicam-se os regulamentos vigentes à data da atribuição da primitiva licença de construção, salvo na parte em que a câmara municipal imponha, por razões de interesse público devidamente fundamentadas, a aplicação dos regulamentos em vigor.
 
-###### Art. 3.º É acrescentada uma secção VI ao capítulo II do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com a seguinte redacção:
+Art. 3.º É acrescentada uma secção VI ao capítulo II do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com a seguinte redacção:
 
 #### SECÇÃO VI — Licenciamento de obras de demolição
 
@@ -821,21 +934,21 @@ Competência para a verificação do cumprimento do Regulamento de Segurança co
 
 3 - Em qualquer fase do processo de licenciamento da construção de novos edifícios posterior ao saneamento e apreciação liminar referidos no artigo 16.º pode também a câmara municipal autorizar, sem dependência de processo de licenciamento autónomo, as obras de demolição das edificações preexistentes.
 
-###### Art. 4.º Os prazos fixados no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com excepção do referido no seu artigo 13.º e dos fixados pelas alterações introduzidas pelo presente diploma, são reduzidos para metade, com arredondamento para o número inteiro imediatamente superior, redução que é contemplada na republicação referida no artigo 7.º
+Art. 4.º Os prazos fixados no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com excepção do referido no seu artigo 13.º e dos fixados pelas alterações introduzidas pelo presente diploma, são reduzidos para metade, com arredondamento para o número inteiro imediatamente superior, redução que é contemplada na republicação referida no artigo 7.º
 
-###### Art. 5.º - 1 - São revogados os n.os 5 e 6 do artigo 36.º, os n.os 5 e 6 do artigo 41.º e os n.os 5 e 6 do artigo 47.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
+Art. 5.º - 1 - São revogados os n.os 5 e 6 do artigo 36.º, os n.os 5 e 6 do artigo 41.º e os n.os 5 e 6 do artigo 47.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
 
 2 - São também revogados a alínea a) do artigo 1.º do [Decreto-Lei n.º 569/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/569-1976-430599), de 19 de Julho, e os artigos 7.º a 10.º do [Decreto-Lei n.º 64/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1990-332912), de 21 de Fevereiro.
 
 3 - Ficam igualmente revogadas todas as disposições legais ou regulamentares que fixem prazos para emissão de pareceres, autorizações ou aprovações de entidades exteriores ao município distintos dos previstos no presente diploma.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 351/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1993-645302), de 7 de Outubro, os proprietários de edifícios inacabados à data da entrada em vigor do presente diploma cujas licenças de construção tenham caducado podem usar da faculdade prevista no artigo 73.º-A do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, podendo a câmara municipal conceder a licença nele prevista, de acordo com o projecto inicialmente aprovado.
+Art. 6.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 351/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1993-645302), de 7 de Outubro, os proprietários de edifícios inacabados à data da entrada em vigor do presente diploma cujas licenças de construção tenham caducado podem usar da faculdade prevista no artigo 73.º-A do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, podendo a câmara municipal conceder a licença nele prevista, de acordo com o projecto inicialmente aprovado.
 
 2 - Nas obras já concluídas e cujas licenças de construção tenham caducado, podem os seus proprietários requerer a emissão da correspondente licença de utilização, beneficiando do regime dos artigos 26.º e 29.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, na redacção dada pelo presente diploma.
 
 3 - A faculdade prevista no n.º 1 deve ser exercida no prazo de um ano e apenas relativamente aos edifícios cuja licença tenha sido atribuída há mais de seis meses a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 7.º - 1 - Sempre que, nos termos de legislação especial, seja estabelecido um regime próprio para a emissão da licença de utilização, esta será emitida, no prazo de 10 dias, mediante requerimento no qual o interessado especifique:
+Art. 7.º - 1 - Sempre que, nos termos de legislação especial, seja estabelecido um regime próprio para a emissão da licença de utilização, esta será emitida, no prazo de 10 dias, mediante requerimento no qual o interessado especifique:
 
 a) A identificação do edifício ou da fracção;
 
@@ -847,23 +960,23 @@ a) Documento comprovativo da legitimidade do requerente;
 
 b) Cópia do anterior alvará de licença de utilização, quando exigível.
 
-###### Art. 8.º Até à publicação do diploma previsto no artigo 67.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, na redacção que lhe foi dada pelo presente diploma, mantém-se em vigor o artigo 15.º do [Decreto Regulamentar n.º 11/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1992-523841), de 16 de Maio, devendo os técnicos responsáveis pela direcção técnica da obra, sem prejuízo do disposto em legislação especial aplicável, reunir as condições exigíveis para a elaboração dos respectivos projectos.
+Art. 8.º Até à publicação do diploma previsto no artigo 67.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, na redacção que lhe foi dada pelo presente diploma, mantém-se em vigor o artigo 15.º do [Decreto Regulamentar n.º 11/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1992-523841), de 16 de Maio, devendo os técnicos responsáveis pela direcção técnica da obra, sem prejuízo do disposto em legislação especial aplicável, reunir as condições exigíveis para a elaboração dos respectivos projectos.
 
-###### Art. 9.º O [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com as alterações introduzidas pela [Lei n.º 29/92](https://diariodarepublica.pt/dr/detalhe/lei/29-1992-235289), de 5 de Setembro, e pelo presente diploma, é republicado em anexo, com as necessárias correcções materiais.
+Art. 9.º O [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, com as alterações introduzidas pela [Lei n.º 29/92](https://diariodarepublica.pt/dr/detalhe/lei/29-1992-235289), de 5 de Setembro, e pelo presente diploma, é republicado em anexo, com as necessárias correcções materiais.
 
-###### Art. 10.º O presente diploma entra em vigor no dia 1 de Janeiro de 1995.
+Art. 10.º O presente diploma entra em vigor no dia 1 de Janeiro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - António Duarte Silva - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1994.**
+Referendado em 22 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regime de licenciamento de obras particulares
 
@@ -1209,7 +1322,9 @@ d) Se as obras não forem concluídas no prazo fixado na licença ou no prazo es
 
 Os municípios devem dispor de regulamento do processo de fiscalização das obras sujeitas a licenciamento municipal no qual se especifiquem as normas gerais a que deve obedecer a actividade fiscalizadora, bem como as regras de conduta que devem pautar a actuação dos funcionários encarregues dessa actividade.
 
-###### Artigo 25.º — Livro de obra
+###### Artigo 25.º
+
+## Livro de obra
 
 1 - O titular da licença de construção é obrigado a conservar o livro de obra no respectivo local, para consulta, escrituração do acto de fiscalização e das anomalias detectadas pelos técnicos das entidades fiscalizadoras, em termos a definir por portaria conjunta dos Ministros do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
 

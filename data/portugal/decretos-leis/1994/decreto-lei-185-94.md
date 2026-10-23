@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/153a00/35303530.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/1994/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1994-291593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c5d0dc75d00a9a46cbae78dbd02a46dfd4c9b9809d62e172bc253bd8306402e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 503dce7e5925fce402beb341d7bf5d49ffd33fbcdca044ac467e01ed90645fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,40 @@ subjects:
 - Diário da República
 - Direito de Audição
 - Direito de Participação
+- Direitos do Utente
 - Impresso
 - Parecer
-- Direitos do Utente
 - Processo Legislativo
 relationships:
 - type: amended_by
   target: pt:dre:491203:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:667963:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 98/94, DA PCM, DE 8 DE JULHO, PUBLICADA NO DR.IS-A, 175, SUPL, DE 940730.\0\
+    \ 940730."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/98-1994-667963
+  date: '1994-07-30'
+- type: repealed_by
+  target: pt:dre:491203:por
+  label: "Revogado, a partir de 07.10.2009, pelo DEC LEI.274/2009.02.10.2009.PCM, DR.IS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/274-2009-491203
+  date: '2009-10-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:54Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +119,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A obrigação legal de audição, pelo Governo, de sujeitos ou de órgãos, públicos ou privados, representativos de quaisquer interesses colectivos, no quadro do processo legislativo, pode ser cumprida através de publicação do projecto de diploma em jornal oficial ou por consulta directa, sem prejuízo do disposto na [Lei n.º 16/79](https://diariodarepublica.pt/dr/detalhe/lei/16-1979-383648), de 26 de Maio.
+Artigo 1.º A obrigação legal de audição, pelo Governo, de sujeitos ou de órgãos, públicos ou privados, representativos de quaisquer interesses colectivos, no quadro do processo legislativo, pode ser cumprida através de publicação do projecto de diploma em jornal oficial ou por consulta directa, sem prejuízo do disposto na [Lei n.º 16/79](https://diariodarepublica.pt/dr/detalhe/lei/16-1979-383648), de 26 de Maio.
 
-###### Art. 2.º - 1 - A publicação do projecto de diploma em jornal oficial é feita em anexo à 2.ª série do Diário da República.
+Art. 2.º - 1 - A publicação do projecto de diploma em jornal oficial é feita em anexo à 2.ª série do Diário da República.
 
 2 - O prazo para apreciação pública é de 14 dias ou, quando se trate de processo urgente, de 7 dias consecutivos.
 
@@ -122,19 +137,19 @@ d) Indicação do departamento ao qual devem ser remetidos os pareceres;
 
 e) Transcrição do modelo para a emissão de parecer, que figura em anexo ao presente diploma e dele faz parte integrante.
 
-###### Art. 3.º Quando seja realizada a audição por consulta directa, o projecto deverá ser enviado, na íntegra ou na parte relativamente à qual caiba a audição, aos sujeitos ou órgãos representativos dos interesses colectivos em causa, acompanhado de uma justificação sumária e da menção do prazo para emissão do parecer.
+Art. 3.º Quando seja realizada a audição por consulta directa, o projecto deverá ser enviado, na íntegra ou na parte relativamente à qual caiba a audição, aos sujeitos ou órgãos representativos dos interesses colectivos em causa, acompanhado de uma justificação sumária e da menção do prazo para emissão do parecer.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1994. - Aníbal António Cavaco Silva.
 
-**Promulgado em 25 de Junho de 1994.**
+Promulgado em 25 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1994.**
+Referendado em 29 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Impresso a que se refere a alínea e) do n.º 3 do artigo 2.º
 

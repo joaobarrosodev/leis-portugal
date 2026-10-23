@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/174a00/48744875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/1995/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1ad3de64dbad310769c0c84c1c9c80a6429a788d39531d89280a9e6a036ef01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85ad768beea9bc912894ef0879cefdba7d2ec415fd024fe1b2e157177d9829bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Administração Central
 - Aquisição de Imóveis
-- Realojamento
-- IPSS
-- Habitação Social
-- Pessoa Coletiva de Utilidade Pública
 - Arrendamento Urbano para Habitação
 - Autarquia Local
+- Habitação Social
+- IPSS
+- Pessoa Coletiva de Utilidade Pública
+- Realojamento
 relationships:
 - type: amended_by
   target: pt:dre:281201:por
@@ -87,16 +87,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/163/1993/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/163/1993/05/07/p/dre
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478048:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:466834:por
+  label: "Revogado o art. 4.º, pelo DEC LEI.271/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-2003-466834
+  date: '2003-10-28'
+- type: repealed_by
+  target: pt:dre:281201:por
+  label: "Revogado pelo DEC LEI.135/2004.03.06.2004.MOPTH, DR.IS-A [130] de 03.06.2004, nos termos do art. 38º daquele diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2004-281201
+  date: '2004-06-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:30Z'
   warnings: []
   errors: []
 ---
@@ -121,26 +144,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Para a concretização dos programas de habitação social municipal para arrendamento destinados ao realojamento da população residente em barracas, criados pelo [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, podem os municípios proceder à aquisição de fogos no mercado.
+Artigo 1.º - 1 - Para a concretização dos programas de habitação social municipal para arrendamento destinados ao realojamento da população residente em barracas, criados pelo [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, podem os municípios proceder à aquisição de fogos no mercado.
 
 2 - Para efeitos do disposto no número anterior, os fogos a adquirir ficam sujeitos a tipologias e preços máximos, a fixar por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 2.º A aquisição de fogos prevista no artigo anterior pode ser comparticipada pelo Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e financiada pelo Instituto Nacional de Habitação (INH), de acordo com os valores resultantes da aplicação do [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 150-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1991-478048), de 22 de Abril.
+Art. 2.º A aquisição de fogos prevista no artigo anterior pode ser comparticipada pelo Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e financiada pelo Instituto Nacional de Habitação (INH), de acordo com os valores resultantes da aplicação do [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 150-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1991-478048), de 22 de Abril.
 
-###### Art. 3.º A faculdade prevista no artigo 1.º é, nos mesmos termos, extensível às instituições particulares de solidariedade social, bem como às pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais.
+Art. 3.º A faculdade prevista no artigo 1.º é, nos mesmos termos, extensível às instituições particulares de solidariedade social, bem como às pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais.
 
-###### Art. 4.º Às aquisições comparticipadas ao abrigo do presente diploma, bem como às comparticipadas ao abrigo do [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, é aplicável, com as devidas adaptações, o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio.
+Art. 4.º Às aquisições comparticipadas ao abrigo do presente diploma, bem como às comparticipadas ao abrigo do [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, é aplicável, com as devidas adaptações, o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Jorge Manuel Mendes Antas.
 
-**Promulgado em 13 de Julho de 1995.**
+Promulgado em 13 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1995.**
+Referendado em 17 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

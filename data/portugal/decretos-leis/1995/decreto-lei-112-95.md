@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/119a00/31823183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/1995/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1995-505070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 811631e04de4fca9de29470a9326f6e9489fce082a3743a82a53214d4f1b3e49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 505d062ab8c8997f58496cdce80db7711224e7c72e3ca5e2a3848fc8e8289b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,22 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Decisão CE
+- Comércio
 - Controlo Sanitário
+- Decisão CE
 - Molusco
 - Produção
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241441:por
+  label: "Aditados os anexos I e II do presente diploma, pelo DEC LEI.293/98.1998.09.18.MADRP DR.IS-A [216]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1998-241441
+  date: '1998-09-18'
 - type: cites
   target: celex:31991L0492
   label: null
@@ -86,16 +91,27 @@ relationships:
   target: celex:31992D0092
   label: null
   source: http://data.europa.eu/eli/dec/1992/92/oj
+- type: repealed_by
+  target: pt:dre:217326:por
+  label: "Revogados os arts. 6.º, 7.º, n.º 2 do art. 8.º e art. 9.º, pelo DEC LEI.383/98.1998.11.27.MADRP DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1998-217326
+  date: '1998-11-27'
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 293/98, de 18-Set, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:47Z'
   warnings: []
   errors: []
 ---
@@ -114,13 +130,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/492/CEE](http://data.europa.eu/eli/dir/1991/492/oj?locale=pt), do Conselho, de 15 de Julho de 1991, que aprova normas sanitárias relativas à produção e à colocação no mercado de moluscos bivalves vivos, bem como a Decisão n.º [92/92/CEE](http://data.europa.eu/eli/dec/1992/92/oj?locale=pt), da Comissão, de 9 de Janeiro de 1992, que fixa as exigências relativas aos equipamentos e estruturas dos centros de expedição e de depuração de moluscos bivalves vivos.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/492/CEE](http://data.europa.eu/eli/dir/1991/492/oj?locale=pt), do Conselho, de 15 de Julho de 1991, que aprova normas sanitárias relativas à produção e à colocação no mercado de moluscos bivalves vivos, bem como a Decisão n.º [92/92/CEE](http://data.europa.eu/eli/dec/1992/92/oj?locale=pt), da Comissão, de 9 de Janeiro de 1992, que fixa as exigências relativas aos equipamentos e estruturas dos centros de expedição e de depuração de moluscos bivalves vivos.
 
-###### Art. 2.º O regime estabelecido no presente diploma é extensivo à produção e colocação no mercado de equinodermes, tunicados e gastrópodes marinhos, excepto na parte que respeita à depuração.
+Art. 2.º O regime estabelecido no presente diploma é extensivo à produção e colocação no mercado de equinodermes, tunicados e gastrópodes marinhos, excepto na parte que respeita à depuração.
 
-###### Art. 3.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura, do Comércio e Turismo, da Saúde e do Mar.
+Art. 3.º As normas técnicas de execução do presente diploma são objecto de portaria conjunta dos Ministros da Agricultura, do Comércio e Turismo, da Saúde e do Mar.
 
-###### Art. 4.º - 1 - Compete ao director-geral das Pescas licenciar e proceder ao registo e à atribuição do número de controlo veterinário dos estabelecimentos de depuração e de expedição de moluscos bivalves vivos destinados ao consumo humano directo ou à transformação antes do consumo.
+Art. 4.º - 1 - Compete ao director-geral das Pescas licenciar e proceder ao registo e à atribuição do número de controlo veterinário dos estabelecimentos de depuração e de expedição de moluscos bivalves vivos destinados ao consumo humano directo ou à transformação antes do consumo.
 
 2 - São atribuições do Instituto Português de Investigação Marítima (IPIMAR), neste âmbito:
 
@@ -136,13 +152,13 @@ b) A emissão dos documentos de registo destinados à identificação dos lotes 
 
 4 - Sem prejuízo do disposto nos números anteriores, é atribuição do Instituto de Protecção da Produção Agro-Alimentar (IPPAA), como autoridade sanitária veterinária nacional, a orientação geral nos domínios hígio-sanitários abrangidos pelo presente diploma e respectiva representação a nível comunitário.
 
-###### Art. 5.º - 1 - O número de controlo veterinário é atribuído a todas as unidades já licenciadas, nos termos dos números seguintes.
+Art. 5.º - 1 - O número de controlo veterinário é atribuído a todas as unidades já licenciadas, nos termos dos números seguintes.
 
 2 - Os proprietários dos estabelecimentos de depuração e de expedição de moluscos bivalves vivos destinados ao consumo humano directo ou à transformação antes do consumo devem requerer ao director-geral das Pescas, no prazo de 90 dias contado da data da entrada em vigor do presente diploma, uma vistoria para verificação das instalações e condições de funcionamento.
 
 3 - No prazo máximo de seis meses, contado da data da entrada nos serviços do requerimento referido no número anterior, a Direcção-Geral das Pescas (DGP) procederá à vistoria dos estabelecimentos, notificando os requerentes dos resultados da mesma e da decisão tomada sobre as instalações e condições de funcionamento, fixando-lhes um prazo para a correcção de eventuais anomalias que impossibilitem a atribuição do número de controlo veterinário.
 
-###### Art. 6.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, a inobservância das normas relativas à produção e colocação no mercado de moluscos bivalves vivos e, bem assim, das normas relativas aos equipamentos e estruturas dos respectivos centros de expedição e depuração, estabelecidas nos termos do artigo 3.º do presente diploma, constituem contra-ordenação punível com coima.
+Art. 6.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, a inobservância das normas relativas à produção e colocação no mercado de moluscos bivalves vivos e, bem assim, das normas relativas aos equipamentos e estruturas dos respectivos centros de expedição e depuração, estabelecidas nos termos do artigo 3.º do presente diploma, constituem contra-ordenação punível com coima.
 
 2 - As coimas aplicáveis às pessoas singulares têm o montante mínimo de 5000$00 e o máximo de 500000$00.
 
@@ -150,15 +166,15 @@ b) A emissão dos documentos de registo destinados à identificação dos lotes 
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Art. 7.º - 1 - Simultaneamente com a coima, podem ser aplicadas as sanções acessórias previstas na lei.
+Art. 7.º - 1 - Simultaneamente com a coima, podem ser aplicadas as sanções acessórias previstas na lei.
 
 2 - Quando sejam aplicadas as sanções de encerramento de estabelecimentos ou de cancelamento de serviços, revogação de licenças e cassação de alvarás, a reabertura do estabelecimento e a emissão ou a renovação da licença e a emissão de alvará só terão lugar quando se encontrem reunidas as condições legais ou regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 8.º - 1 - Compete à DGP e à Inspecção-Geral das Actividades Económicas (IGAE) assegurar a fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação, sem prejuízo das competências atribuídas por lei a outras entidades.
+Art. 8.º - 1 - Compete à DGP e à Inspecção-Geral das Actividades Económicas (IGAE) assegurar a fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação, sem prejuízo das competências atribuídas por lei a outras entidades.
 
 2 - A instrução dos processos de contra-ordenação e a aplicação das coimas e sanções acessórias ficam sujeitas ao regime do Decreto-Lei n.º 28/84, de 20 de Janeiro.
 
-###### Art. 9.º O produto das coimas reverte:
+Art. 9.º O produto das coimas reverte:
 
 a) Em 10% para a entidade que levantou o auto;
 
@@ -168,12 +184,12 @@ c) Em 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - António Duarte Silva - José Carlos Lopes Martins - Fernando Manuel Barbosa Faria de Oliveira - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/075a00/15561557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/1994/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1994-258991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a18000e9453a549bf021e59112f80eabbc80a4000aa624acec63e90462faa1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad042d9ee0da0a295260bca745ffe20725d80ea8647fdf33d1d3d65b96270c0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Arqueologia
 - Comissão do Património Cultural Subaquático
 - Criação de Serviços
-- Mar Territorial
-- Propriedade do Estado
-- Património Cultural
 - Fiscalização
+- Mar Territorial
+- Património Cultural
 - Património Subaquático
+- Propriedade do Estado
 relationships:
 - type: amended_by
   target: pt:dre:162668:por
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/289/1993/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/289/1993/08/21/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162668:por
+  label: "Revogado o Dec Lei 289/93 de 21-Ago, alterado pelo presente diploma, pelo DEC LEI.164/97.27.06.1997.MC, DR.IS-A\
+    \ [146] de 27.06.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-1997-162668
+  date: '1997-06-27'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:10Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +126,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 69.º, 72.º e 73.º do [Decreto-Lei n.º 289/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1993-324368), de 21 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 69.º, 72.º e 73.º do [Decreto-Lei n.º 289/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1993-324368), de 21 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 69.º — [...]
 
@@ -164,12 +178,12 @@ n) ...
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

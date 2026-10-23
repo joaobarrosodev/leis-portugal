@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/023a00/04790480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/1995/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1995-140476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8151a122e4ec3dab15c11293f5cad5810d597bfd81626be83c166f8084ce6c34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81be07aaa9e994b8b10aec3e49188f7a1297d6908295266d307fd142f80e946f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:667889:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 4º e 7º do Dec Lei 125/90 de 16-Abr, com a redacção conferida pelo presente diploma, pelo DEC\
+    \ LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: cites
+  target: pt:dre:332000:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667889:por
+  label: "Revogado o Dec Lei 125/90 de 16-Abr, com as alterações constantes do presente diploma, pelo DEC LEI.59/2006.20.03.2006.MFAP,\
+    \ DR.IS-A [56] de 20.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2006-667889
+  date: '2006-03-20'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:00Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º a 7.º, 10.º, 11.º, 14.º, 15.º, 16.º e 18.º do [Decreto-Lei n.º 125/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1990-332000), de 16 de Abril, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º a 7.º, 10.º, 11.º, 14.º, 15.º, 16.º e 18.º do [Decreto-Lei n.º 125/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1990-332000), de 16 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -221,12 +237,12 @@ e) ...
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 28 de Dezembro de 1994.**
+Promulgado em 28 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

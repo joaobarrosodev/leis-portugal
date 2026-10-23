@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/049a00/09310933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/1994/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1994-517177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92c2e3d090765cc7cedfc779732401ff177c142f39db6fafcc81853f4ea6940c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3689e612f44c6198606fe76a4933b01b87f747041e78f546e747b4fd4cfb5e64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
-- Tecnologia da Informação
 - Comissão Intersectorial
 - Criação de Serviços
 - Decisão CE
 - Definição de Competências
-- Administração Pública
+- Equipamento Informático
 - Informática
 - Informatização
 - Instituto de Informática
 - Locação Financeira
-- Equipamento Informático
+- Tecnologia da Informação
 relationships:
 - type: amended_by
   target: pt:dre:311253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431036:por
+  label: "Alterado o art. 8.º, nº 5 pelo DEC LEI.78/96.1996.06.20.MF DR.IS-A [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1996-431036
+  date: '1996-06-20'
 - type: cites
   target: celex:31977L0062
   label: null
@@ -104,16 +109,21 @@ relationships:
   target: celex:31992L0050
   label: null
   source: http://data.europa.eu/eli/dir/1992/50/oj
+- type: repealed_by
+  target: pt:dre:311253:por
+  label: "Revogado pelo DEC LEI.196/99.1999.06.08.MF,DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-1999-311253
+  date: '1999-06-08'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:42Z'
   warnings: []
   errors: []
 ---
@@ -260,12 +270,12 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação, não
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 11 de Fevereiro de 1994.**
+Promulgado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1994.**
+Referendado em 15 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/1995/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1995-199157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a92db68e8d8de8ea3b73910ff2213b40cb2b4d95c59457cf22507c22d5334b87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c770315076239a04439e068ac715075ec134e417d76ca5623238b9a2ba80b91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta de Condução
-- Exame de Condução
 - Definição de Competências
 - Direcção Geral de Viação
 - Ensino de Condução
+- Exame de Condução
 - GNR
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372199:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:50Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +107,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Guarda Nacional Republicana (GNR) pode ministrar, em qualquer das suas unidades, instrução de condução das várias categorias de veículos automóveis definidas no Código da Estrada, bem como de ciclomotores.
+Artigo 1.º A Guarda Nacional Republicana (GNR) pode ministrar, em qualquer das suas unidades, instrução de condução das várias categorias de veículos automóveis definidas no Código da Estrada, bem como de ciclomotores.
 
-###### Art. 2.º - 1 - A instrução a que se refere o artigo anterior termina com um exame de condução, efectuado, com observância do disposto no Código da Estrada e nos seus regulamentos, na unidade que a ministrou.
+Art. 2.º - 1 - A instrução a que se refere o artigo anterior termina com um exame de condução, efectuado, com observância do disposto no Código da Estrada e nos seus regulamentos, na unidade que a ministrou.
 
 2 - Aos condutores aprovados no exame referido no número anterior são passados certificados de condução, de modelo a aprovar por despacho do Ministro da Administração Interna, que habilitam a conduzir unicamente veículos automóveis ou ciclomotores afectos ao serviço da GNR.
 
 3 - A apreensão dos certificados de condução cabe à GNR, podendo ter lugar por sua iniciativa ou na sequência de condenação judicial ou de aplicação de sanções no âmbito do processo contra-ordenacional.
 
-###### Art. 3.º - 1 - O titular de certificado de condução tem direito a que, mediante requerimento, lhe seja atribuída carta ou licença de condução válida para as correspondentes categorias de veículos.
+Art. 3.º - 1 - O titular de certificado de condução tem direito a que, mediante requerimento, lhe seja atribuída carta ou licença de condução válida para as correspondentes categorias de veículos.
 
 2 - Sem prejuízo do disposto no n.º 5, o requerimento pode ser formulado desde o momento da atribuição do certificado de condução até dois anos após a obtenção de licença ou de baixa de serviço ou após a passagem às situações de reserva ou de reforma.
 
@@ -117,7 +125,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - No caso de equivalência relativa a veículos de categoria para cuja condução o Código da Estrada exija idade superior a 18 anos, o requerimento só pode ser formulado a partir da data em que o requerente atinja a idade prevista no Código da Estrada.
 
-###### Art. 4.º Os certificados de condução a que se refere o n.º 2 do artigo 2.º caducam a partir do momento em que o seu titular:
+Art. 4.º Os certificados de condução a que se refere o n.º 2 do artigo 2.º caducam a partir do momento em que o seu titular:
 
 a) Seja exonerado da GNR, a seu pedido ou por motivos disciplinares;
 
@@ -125,7 +133,7 @@ b) Passe à situação de reserva;
 
 c) Transite para outros serviços.
 
-###### Art. 5.º São revogados:
+Art. 5.º São revogados:
 
 a) O [Decreto-Lei n.º 46203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46203-1965-238844), de 26 de Fevereiro de 1965;
 
@@ -133,12 +141,12 @@ b) O [Decreto-Lei n.º 207/88](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

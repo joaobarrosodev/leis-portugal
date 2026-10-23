@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/1995/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1995-484430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68054870fe7022e10641136337960ac59617d898398b214eb533149e72fba145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f11cb5e77238bb6bf8d3d49a2f414a42bc6f19f3574ccb18c6e9f32619705ff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,67 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Contravenção
-- Veículo
-- Limite de Velocidade
-- Segurança Rodoviária
 - Equipamento de Veículo
+- Limite de Velocidade
+- Multa
 - Responsabilidade Civil Automóvel
+- Segurança Rodoviária
 - Sinalização
 - Trânsito
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:200842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653138:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:35Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +143,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Têm a natureza de contra-ordenações, salvo se constituírem crimes, as infracções até agora qualificadas como contravenções e tipificadas nos seguintes diplomas legais:
+Artigo 1.º - 1 - Têm a natureza de contra-ordenações, salvo se constituírem crimes, as infracções até agora qualificadas como contravenções e tipificadas nos seguintes diplomas legais:
 
 a) [Decreto-Lei n.º 40995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40995-1957-653138), de 9 de Fevereiro de 1957;
 
@@ -131,18 +167,18 @@ h) [Portaria n.º 20393](https://diariodarepublica.pt/dr/detalhe/portaria/20393-
 
 4 - É aplicável a estas contra-ordenações o regime legal previsto para o processamento e punição das infracções ao Código da Estrada.
 
-###### Art. 2.º Aos montantes das coimas cobradas por infracções à legislação a que se refere o artigo anterior é aplicável o regime previsto no [Decreto-Lei n.º 138/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1989-625603), de 28 de Abril.
+Art. 2.º Aos montantes das coimas cobradas por infracções à legislação a que se refere o artigo anterior é aplicável o regime previsto no [Decreto-Lei n.º 138/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1989-625603), de 28 de Abril.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro.
 
-**Promulgado em 13 de Julho de 1995.**
+Promulgado em 13 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1995.**
+Referendado em 17 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

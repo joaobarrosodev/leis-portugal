@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/1995/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1995-491256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c35969fdc70bef7eda4ad836028f6656ee9d01b3cbd5e503c86e01b9fd117b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d896b31d1ea64a63e221042337d43857f16fa4dab9fc5cc382c6f10798c20a7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ensino Superior
 - Escola Superior de Belas-artes
 - Estatuto da Carreira Docente Universitária
-- Universidade do Porto
 - Integração de Trabalhadores
 - Pessoal Docente
-- Ensino Superior
 - Porto
+- Universidade do Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/1991/01/10/p/dre
@@ -82,16 +82,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/306/1993/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/306/1993/09/01/p/dre
+- type: cites
+  target: pt:dre:327661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:05Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +144,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A transição dos docentes da Escola de Belas-Artes do Porto para as categorias constantes do artigo 2.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, e alterado, por ratificação, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, é feita:
+Artigo 1.º - 1 - A transição dos docentes da Escola de Belas-Artes do Porto para as categorias constantes do artigo 2.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, e alterado, por ratificação, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, é feita:
 
 a) Da categoria de assistente eventual para a de assistente estagiário;
 
@@ -120,20 +156,20 @@ d) Da categoria de professor para a de professor catedrático de nomeação defi
 
 2 - O pessoal docente especialmente contratado como equiparado a assistente transita para a categoria de assistente convidado.
 
-###### Art. 2.º O tempo de serviço prestado nas actuais categorias da Escola Superior de Belas-Artes do Porto conta para efeitos de promoção e progressão na carreira docente universitária.
+Art. 2.º O tempo de serviço prestado nas actuais categorias da Escola Superior de Belas-Artes do Porto conta para efeitos de promoção e progressão na carreira docente universitária.
 
-###### Art. 3.º Os titulares da categoria de primeiro-assistente da Escola Superior de Belas-Artes do Porto que possuam, até à data da entrada em vigor do presente diploma, o título de professor agregado pela referida Escola e que transitem para a categoria de professor auxiliar podem apresentar-se a concurso para professor associado.
+Art. 3.º Os titulares da categoria de primeiro-assistente da Escola Superior de Belas-Artes do Porto que possuam, até à data da entrada em vigor do presente diploma, o título de professor agregado pela referida Escola e que transitem para a categoria de professor auxiliar podem apresentar-se a concurso para professor associado.
 
-###### Art. 4.º Os docentes referidos no artigo anterior podem prestar provas para obtenção do título de agregado, nos termos do [Decreto n.º 301/72](https://diariodarepublica.pt/dr/detalhe/decreto/301-1972-605815), de 14 de Agosto, com dispensa da apresentação e discussão da dissertação aí prevista.
+Art. 4.º Os docentes referidos no artigo anterior podem prestar provas para obtenção do título de agregado, nos termos do [Decreto n.º 301/72](https://diariodarepublica.pt/dr/detalhe/decreto/301-1972-605815), de 14 de Agosto, com dispensa da apresentação e discussão da dissertação aí prevista.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 6 de Julho de 1995.**
+Promulgado em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1995.**
+Referendado em 10 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

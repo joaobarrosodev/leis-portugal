@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/212a00/57635764.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/1995/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1995-563047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8d3877d7a5fec1d8ae7a46e87f26cf189611ff7cf918a292e1804ecb84c82db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3d83a9f44c478eada5f4c1ecddd01bdd1ed8b2ccaad1cbb63dac85928a14413
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,21 @@ relationships:
   target: celex:31985L0577
   label: null
   source: http://data.europa.eu/eli/dir/1985/577/oj
+- type: repealed_by
+  target: pt:dre:165020:por
+  label: "Revogado pelo DEC LEI.143/2001.2001.04.26.PCM, DR.IS-A [97] de 2001/ABR/26\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2001-165020
+  date: '2001-04-26'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:28Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +110,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 10.º, 16.º e 17.º do Decreto-Lei n.º 272/87, de 3 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 10.º, 16.º e 17.º do Decreto-Lei n.º 272/87, de 3 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Identificação do vendedor ou seus representantes
 
@@ -153,18 +158,18 @@ g) Informação sobre o direito que assiste ao consumidor de resolver o contrato
 
 A fiscalização do que se dispõe no presente diploma e a instrução dos respectivos processos competem especialmente à Inspecção-Geral das Actividades Económicas, nos termos do artigo 73.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.
 
-###### Art. 2.º É revogada a Portaria n.º 536/91, de 20 de Junho.
+Art. 2.º É revogada a Portaria n.º 536/91, de 20 de Junho.
 
-###### Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Art. 3.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - José Manuel Cardoso Borges Soeiro - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Agosto de 1995.**
+Referendado em 31 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

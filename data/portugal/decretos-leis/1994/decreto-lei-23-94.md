@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/1994/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1994-495502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e30aca40cb20461bf5cf8203660b24e3b315b27affaf6b4eb44a294c2f832592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a25fe1310f4a4a7ab8136c16032f5c75a4d6bda58162aa3b37c24b3d85263d94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Macau
-- Licenciamento
-- Operador de Transporte Aéreo
 - Aviação Civil
+- Licenciamento
+- Macau
+- Operador de Transporte Aéreo
 - Transferência de Competências
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:53Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +96,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Compete à Administração de Macau a emissão dos documentos de licenciamento e de certificação de operadores de transporte aéreo e de material e pessoal aeronáutico, no âmbito do espaço aéreo do território e do internacional confiado à jurisdição de Macau.
+Artigo 1.º Compete à Administração de Macau a emissão dos documentos de licenciamento e de certificação de operadores de transporte aéreo e de material e pessoal aeronáutico, no âmbito do espaço aéreo do território e do internacional confiado à jurisdição de Macau.
 
-###### Art. 2.º A concessão em Macau de certificados de matrícula de aeronaves constitui competência da Administração do território, a quem cabe igualmente a manutenção e actualização, no âmbito de Macau, do Registo Aeronáutico Nacional.
+Art. 2.º A concessão em Macau de certificados de matrícula de aeronaves constitui competência da Administração do território, a quem cabe igualmente a manutenção e actualização, no âmbito de Macau, do Registo Aeronáutico Nacional.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1993. - Aníbal António Cavaco Silva - José Manuel Durão Barroso - Joaquim Martins Ferreira do Amaral - Luís Manuel Gonçalves Marques Mendes.
 
 Para publicação no Boletim Oficial de Macau.
 
-**Promulgado em 6 de Janeiro de 1994.**
+Promulgado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

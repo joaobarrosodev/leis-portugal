@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/1995/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1995-145845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d8154a8228839da410a3c10587081785a429764bd3eaf5d89fde7108eb94514
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b86cdb9c1e58d1aa61f975aef1ba65e0a782b05d790b740772fb427b35c493cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bilhete de Identidade
-- Modernização Administrativa
-- Consulado
-- Criação de Serviços
-- Descentralização
 - Centro Emissor para a REDE Consular
-- Direcção Geral dos Registos e do Notariado
+- Consulado
 - Contumaz
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Orgânica
+- Criação de Serviços
 - Dados Pessoais
+- Descentralização
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Direcção Geral dos Registos e do Notariado
 - Identificação Civil
+- Modernização Administrativa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:281195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684059:por
+  label: "Alterados os arts. 1º e 3º pelo DEC LEI.115/2003.2003.06.12.MNE, DR.IS-A [135]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2003-684059
+  date: '2003-06-12'
+- type: amended_by
+  target: pt:dre:281195:por
+  label: "Alterado o art. 3º, com a redacção dada pelo Dec Lei 115/2003 de 12-Jun, pelo DEC LEI.131/2004.03.06.2004.MNE, DR.IS-A\
+    \ [130] de 03.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-2004-281195
+  date: '2004-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10/1991/04/29/p/dre
   label: null
@@ -90,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12/1991/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12/1991/05/21/p/dre
+- type: cites
+  target: pt:dre:334648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640075:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:28Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +193,9 @@ a) A Secção de Recepção e de Contabilidade;
 
 b) A Secção de Controlo de Dados e de Emissão.
 
-###### Artigo 6.º — Secção de Recepção e de Contabilidade
+###### Artigo 6.º
+
+#### Secção de Recepção e de Contabilidade
 
 Compete à Secção de Recepção e de Contabilidade:
 
@@ -184,7 +213,9 @@ f) Requisitar ao Ministério da Justiça os impressos necessários à emissão d
 
 g) Verificar a exactidão das quantias recebidas e transferidas.
 
-###### Artigo 7.º — Secção de Controlo de Dados e de Emissão
+###### Artigo 7.º
+
+#### Secção de Controlo de Dados e de Emissão
 
 Compete à Secção de Controlo de Dados e de Emissão:
 
@@ -350,12 +381,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso.
 
-**Promulgado em 22 de Dezembro de 1994.**
+Promulgado em 22 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1994.**
+Referendado em 27 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

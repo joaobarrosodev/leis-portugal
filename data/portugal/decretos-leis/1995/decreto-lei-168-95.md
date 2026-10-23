@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/1995/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1995-460650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0704f097fbd08c9ab6327937a4ca2c850722062ac28c60715d35dcf72724676c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbcb43f55eecdb58bb76e1a5df08d008208976afecdfab223738b2d12ccaf303
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/267/1992/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/267/1992/11/28/p/dre
+- type: cites
+  target: pt:dre:599729:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:00Z'
   warnings: []
   errors: []
 ---
@@ -107,16 +111,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aplicável aos solicitadores o disposto no artigo único do [Decreto-Lei n.º 267/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1992-599729), de 28 de Novembro.
+Artigo único. É aplicável aos solicitadores o disposto no artigo único do [Decreto-Lei n.º 267/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1992-599729), de 28 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Junho de 1995.**
+Referendado em 27 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

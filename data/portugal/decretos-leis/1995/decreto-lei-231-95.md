@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/1995/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1995-562272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91098dbad8384f6644cc960fcb5fe62fd9d95d9dc68ecd015bcc1e4bf6fa6e6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2db0e267fc586ccb90a64ffd1cbfb662e63352e3beaff65edc13a4fe0e508d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Banco de Portugal
+- Definição de Competências
 - Orgânica
 - Política Cambial
 relationships:
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:10Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +114,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 17.º, 18.º, 19.º, 20.º, 22.º, 25.º, 26.º, 35.º, 36.º, 46.º e 63.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 17.º, 18.º, 19.º, 20.º, 22.º, 25.º, 26.º, 35.º, 36.º, 46.º e 63.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 3.º O Banco de Portugal, como banco central da República Portuguesa, tem por atribuição principal manter a estabilidade dos preços, tendo em conta a política económica global do Governo.
+Art. 3.º O Banco de Portugal, como banco central da República Portuguesa, tem por atribuição principal manter a estabilidade dos preços, tendo em conta a política económica global do Governo.
 
-###### Art. 17.º A emissão monetária do Banco, na parte que ultrapassar o valor das disponibilidades sobre o exterior, líquidas das correspondentes responsabilidades, deve ter cobertura integral constituída pelos seguintes valores:
+Art. 17.º A emissão monetária do Banco, na parte que ultrapassar o valor das disponibilidades sobre o exterior, líquidas das correspondentes responsabilidades, deve ter cobertura integral constituída pelos seguintes valores:
 
 a) Títulos de dívida pública do Estado Português e outros créditos resultantes de transacções no mercado, nomeadamente do reporte de títulos;
 
@@ -126,7 +134,7 @@ f) ...
 
 g) ...
 
-###### Art. 18.º - 1 - Como banco central, para além da condução da política monetária, nos termos do disposto no artigo 3.º, compete especialmente ao Banco:
+Art. 18.º - 1 - Como banco central, para além da condução da política monetária, nos termos do disposto no artigo 3.º, compete especialmente ao Banco:
 
 a) Colaborar na definição e executar a política cambial;
 
@@ -138,15 +146,15 @@ d) ...
 
 2 - ...
 
-###### Art. 19.º - 1 - Compete ao Banco assegurar a centralização e elaboração das estatísticas monetárias, financeiras, cambiais e da balança de pagamentos.
+Art. 19.º - 1 - Compete ao Banco assegurar a centralização e elaboração das estatísticas monetárias, financeiras, cambiais e da balança de pagamentos.
 
 2 - O Banco pode exigir a qualquer entidade, pública ou privada, que lhe sejam fornecidas directamente as informações necessárias para cumprimento do estabelecido no número anterior ou por motivos relacionados com as suas atribuições em matéria de política monetária e cambial e de funcionamento dos sistemas de pagamentos.
 
 3 - As informações referidas no número anterior só poderão ser utilizadas para fins exclusivamente estatísticos.
 
-###### Art. 20.º Compete ao Banco de Portugal regular, fiscalizar e promover o bom funcionamento dos sistemas de pagamento.
+Art. 20.º Compete ao Banco de Portugal regular, fiscalizar e promover o bom funcionamento dos sistemas de pagamento.
 
-###### Art. 22.º - 1 - Para orientar e fiscalizar os mercados monetário, financeiro e cambial, cabe ao Banco:
+Art. 22.º - 1 - Para orientar e fiscalizar os mercados monetário, financeiro e cambial, cabe ao Banco:
 
 a) ...
 
@@ -158,11 +166,11 @@ d) ...
 
 2 - ...
 
-###### Art. 25.º - 1 - É vedado ao Banco conceder descobertos ou qualquer outra forma de crédito ao Estado e serviços ou organismos dele dependentes, a outras pessoas colectivas de direito público e a empresas públicas ou quaisquer entidades sobre as quais o Estado, as Regiões Autónomas ou as autarquias locais possam exercer, directa ou indirectamente, influência dominante.
+Art. 25.º - 1 - É vedado ao Banco conceder descobertos ou qualquer outra forma de crédito ao Estado e serviços ou organismos dele dependentes, a outras pessoas colectivas de direito público e a empresas públicas ou quaisquer entidades sobre as quais o Estado, as Regiões Autónomas ou as autarquias locais possam exercer, directa ou indirectamente, influência dominante.
 
 2 - Fica igualmente vedado ao Banco garantir quaisquer obrigações do Estado ou de outras entidades referidas no número anterior, bem como a compra directa de títulos de dívida emitidos pelo Estado ou pelas mesmas entidades.
 
-###### Art. 26.º O disposto no artigo anterior não se aplica:
+Art. 26.º O disposto no artigo anterior não se aplica:
 
 a) A quaisquer instituições de crédito e sociedades financeiras ainda que de capital público, as quais beneficiarão de tratamento idêntico ao da generalidade das mesmas instituições e sociedades;
 
@@ -170,7 +178,7 @@ b) Ao financiamento das obrigações contraídas pelo Estado perante o Fundo Mon
 
 c) A detenção, por parte do Banco, de moeda metálica emitida pelo Estado e inscrita a crédito deste, na parte em que o seu montante não exceda 10% da moeda metálica em circulação.
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 a) ...
 
@@ -214,7 +222,7 @@ d) ...
 
 e) ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) ...
 
@@ -224,13 +232,13 @@ c) Promover a criação de instituições de crédito, de sociedades financeiras
 
 d) ...
 
-###### Art. 46.º - 1 - ...
+Art. 46.º - 1 - ...
 
 2 - A atribuição de um pelouro envolve delegação de poderes, com limites e em condições fixados no acto de atribuição.
 
 3 - ...
 
-###### Art. 63.º - 1 - ...
+Art. 63.º - 1 - ...
 
 2 - ...
 
@@ -240,18 +248,18 @@ b) ...
 
 c) O remanescente para o Estado, a título de dividendos, ou para outras reservas, mediante aprovação do Ministro das Finanças, sob proposta do Conselho de Administração.
 
-###### Art. 2.º Transitoriamente, as Regiões Autónomas poderão dispor de uma conta gratuita no Banco de Portugal.
+Art. 2.º Transitoriamente, as Regiões Autónomas poderão dispor de uma conta gratuita no Banco de Portugal.
 
-###### Art. 3.º São revogados os artigos 27.º, 28.º, 29.º e 30.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro.
+Art. 3.º São revogados os artigos 27.º, 28.º, 29.º e 30.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/288/1994/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1994-534654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ad8c8e381fb59dad89408b0a34a3edcb7729370c6cf4f419239e1e30e1b9be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2f44478c217a88d8b4d316e04e3acd73a77d94d00808e5f313fa31317aa9488
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bebida não Alcoólica
+- Comércio
+- Embalagem
 - Etiquetagem
 - Fabrico Industrial
-- Embalagem
 - Proteção do Consumidor
 - Refrigerante
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227/1991/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1991/06/19/p/dre
+- type: cites
+  target: pt:dre:614781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:06Z'
   warnings: []
   errors: []
 ---
@@ -106,20 +118,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As normas técnicas relativas à definição, características, acondicionamento e rotulagem de bebidas refrigerantes destinadas à alimentação humana, com excepção das abrangidas pelo [Decreto-Lei n.º 227/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1991-659545), de 19 de Junho, e respectiva regulamentação, são objecto de portaria conjunta dos Ministros da Agricultura, da Indústria e Energia, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
+Artigo 1.º As normas técnicas relativas à definição, características, acondicionamento e rotulagem de bebidas refrigerantes destinadas à alimentação humana, com excepção das abrangidas pelo [Decreto-Lei n.º 227/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1991-659545), de 19 de Junho, e respectiva regulamentação, são objecto de portaria conjunta dos Ministros da Agricultura, da Indústria e Energia, da Saúde, do Comércio e Turismo e do Ambiente e Recursos Naturais.
 
-###### Art. 2.º Às infracções às normas técnicas referidas no artigo anterior é aplicável o regime previsto no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 2.º Às infracções às normas técnicas referidas no artigo anterior é aplicável o regime previsto no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 3.º O [Decreto-Lei n.º 93/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1989-614781), de 28 de Março, é revogado, com efeitos reportados à data da entrada em vigor da portaria referida no artigo 1.º
+Art. 3.º O [Decreto-Lei n.º 93/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1989-614781), de 28 de Março, é revogado, com efeitos reportados à data da entrada em vigor da portaria referida no artigo 1.º
 
 Visto e aprovado em Conselho de Ministros 15 de Setembro de 1994. - Aníbal António Cavaco Silva - António Duarte Silva - Luís Filipe da Conceição Pereira - Adalberto Paulo da Fonseca Mendo - Luís Maria Palha Viana da Silva - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

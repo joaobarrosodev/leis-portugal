@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/1994/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1994-275396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a91b6632762d97b53029f6c17ab16f9686e7c583640caa5a90b7f13e5e84ada2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed21dd566f66edd5d40e6412311139456240fd1fc1132e854aba73aa2d7f9104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Aposentação
 - Administração Pública
+- Aposentação
 - Caixa Geral de Aposentações
+- Função Pública
 - Pensão de Aposentação
 - Pensão de Sobrevivência
 - Segurança Social
@@ -79,16 +79,20 @@ relationships:
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:300402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:00Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - Os descontos para a aposentação e para efeito da pensão de sobrevivência, estabelecidos pelo [Decreto-Lei n.º 40-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1985-300402), de 11 de Fevereiro, passam a ser, respectivamente, de 7,5% e 2,5%.
+Artigo único. - 1 - Os descontos para a aposentação e para efeito da pensão de sobrevivência, estabelecidos pelo [Decreto-Lei n.º 40-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1985-300402), de 11 de Fevereiro, passam a ser, respectivamente, de 7,5% e 2,5%.
 
 2 - As entidades legalmente obrigadas a contribuir para o financiamento do sistema de segurança social da função pública entregarão à Caixa Geral de Aposentações as importâncias correspondentes às que resultam do disposto no número anterior.
 
@@ -119,12 +123,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 25 de Fevereiro de 1994.**
+Promulgado em 25 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Março de 1994.**
+Referendado em 1 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

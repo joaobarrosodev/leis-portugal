@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19987-1963-693423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6df933f0615627ae4b19739fd8755a45e09c4e6844ad4fb399ebc60d328446c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 641dca8d89d1c32e422a92c270e48ee97b8861caa5f818fd8ca9bc3fe1a7600f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Orçamento
+- Plano de Fomento
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:16Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Que o Governo-Geral de Angola reforce com as importâncias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional» ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958):
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional» ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958):
 
 4) «Comunicações e transportes»:
 
@@ -109,7 +121,7 @@ a) «Participação no estudo, projecto e execução de obras de interesse local
 
 2) Que para contrapartida sejam utilizadas as seguintes disponibilidades destas verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional» ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958):
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional» ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958):
 
 2) «Aproveitamento de recursos»:
 

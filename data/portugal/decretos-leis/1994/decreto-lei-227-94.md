@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/1994/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1994-657045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b420e294095f9e3c8422727477eeb30f918eca765148b05c9d4bbc097445ead
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7df358422e0dfedc2145bf90dcb8f6743e43d93c7fe8c60230a17f6fdcca835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,93 @@ subjects:
 - Código Civil
 - Código do Processo Civil
 - Código do Registo Predial
-- Poder Paternal
-- Ministério Público
 - Inventário
+- Ministério Público
+- Poder Paternal
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147251:por
+  label: "Alargado o âmbito de aplicação pelo DEC LEI.3/95.1995.01.14.MJ, DR.IS-A [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1995-147251
+  date: '1995-01-14'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 1330.º, 1332.º, 1335.º, 1342.º, 1343.º, 1344.º, 1348.º, 1349.º, 1372.º e 1379.º, todos do Código\
+    \ de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ,\
+    \ DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:632723:por
+  label: "Alterado o art. 44.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.533/99.1999.12.11.MJ DR.IS-A [287]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigos 11.º, e 12.º, o artigo 1396.º,\
+    \ do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 44º e 114º e revogado o art. 40º, al.s d), e) e f) do nº 1 do art. 44º e o art. 114º do Código\
+    \ de Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: "Alterado a partir de 02.01.2009, o artigo 1352.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez\
+    \ 1961, na redacção do presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterados, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), os arts. 2053º, 2083º, 2084º, 2086º, e 2102º, e revogada, a partir da mesma data, a al. c) do nº 1 do art.\
+    \ 2086º do Código Civil aprovado pelo Dec Lei 47344 de 25-Nov de 1966, com a redacção constante do presente diploma, pela\
+    \ LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:259267:por
+  label: "Alterados, a partir de 02.09.2013, os art.s 2053.º, 2083.º, 2084.º, 2086.º e 2102.º, na redação do presente diploma,\
+    \ pela LEI.23/2013.05.03.2013.AR, DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: cites
+  target: pt:dre:443686:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:284360:por
+  label: "Rectificado o art. 2.º [na parte que altera o n.º 1 do artigo 1326.º, o n.º 2 do artigo 1327.º, o artigo 1334.º,\
+    \ e o n.º 2 do artigo 1341.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961] do presente diploma,\
+    \ pela DECL-RECT.263-A/94.31.12.1994.PCM, DR.IS-A [302]4ºSupl de 31.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/263-a-1994-284360
+  date: '1994-12-31'
+- type: repealed_by
+  target: pt:dre:478043:por
+  label: "Revogado o Código do Notariado aprovado pelo Dec Lei 47619 de 31-Mar 1967, na redacção conferida pelo art. 5º do\
+    \ presente diploma, pelo DEC LEI.207/95.1995.08.14.MJ, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1995-478043
+  date: '1995-08-14'
 article_structure:
-  article_count: 69
+  article_count: 68
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:48Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +211,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Alterações ao Código Civil
 
-###### Artigo 1.º Os artigos 1889.º, 1890.º, 1892.º, 1937.º 1938.º, 2053.º, 2083.º, 2084.º, 2086.º e 2102.º do Código Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1889.º, 1890.º, 1892.º, 1937.º 1938.º, 2053.º, 2083.º, 2084.º, 2086.º e 2102.º do Código Civil passam a ter a seguinte redacção:
 
 ###### Artigo 1889.º — [...]
 
@@ -260,7 +329,7 @@ d) ...
 
 ### CAPÍTULO II — Alterações ao Código de Processo Civil
 
-###### Art. 2.º Os artigos 1326.º a 1353.º, 1361.º a 1369.º, 1372.º, 1373.º, 1376.º, 1379.º, 1384.º, 1396.º e 1439.º do Código de Processo Civil passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1326.º a 1353.º, 1361.º a 1369.º, 1372.º, 1373.º, 1376.º, 1379.º, 1384.º, 1396.º e 1439.º do Código de Processo Civil passam a ter a seguinte redacção:
 
 ### CAPÍTULO XVI — Do inventário
 
@@ -696,11 +765,11 @@ Em seguida dá-se vista ao Ministério Público para o mesmo fim, se tiver inter
 
 5 - É sempre admissível a cumulação dos pedidos de autorização para aceitar a herança deferida a incapaz, quando necessária, e de autorização para outorgar na respectiva partilha extrajudicial, em representação daquele; neste caso, o pedido de nomeação de curador especial, quando o representante legal concorra à sucessão com o seu representado, é dependência do processo de autorização.
 
-###### Art. 3.º São revogados os artigos 1390.º a 1394.º e 1397.º a 1403.º do Código de Processo Civil, com excepção do n.º 1 do artigo 1392.º e do n.º 1 do artigo 1399.º do mesmo Código.
+Art. 3.º São revogados os artigos 1390.º a 1394.º e 1397.º a 1403.º do Código de Processo Civil, com excepção do n.º 1 do artigo 1392.º e do n.º 1 do artigo 1399.º do mesmo Código.
 
 ### CAPÍTULO III — Alterações à legislação subsidiária
 
-###### Art. 4.º Os artigos 4.º, 5.º, 16.º, 18.º, 33.º, 96.º, 97.º, 98.º e 267.º do Código das Custas Judiciais passam a ter a seguinte redacção:
+Art. 4.º Os artigos 4.º, 5.º, 16.º, 18.º, 33.º, 96.º, 97.º, 98.º e 267.º do Código das Custas Judiciais passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -806,7 +875,7 @@ i) ...
 
 3 - As relações referidas no n.º 1 podem ser substituídas por fotocópias do termo de declaração que os interessados são obrigados a prestar para efeitos de liquidação do imposto sobre as sucessões e doações, desde que o mesmo contenha os necessários elementos.
 
-###### Art. 5.º Os artigos 63.º e 91.º do Código do Notariado passam a ter a seguinte redacção:
+Art. 5.º Os artigos 63.º e 91.º do Código do Notariado passam a ter a seguinte redacção:
 
 ###### Artigo 63.º — [...]
 
@@ -830,9 +899,9 @@ c) Se algum dos beneficiários for incapaz ou equiparado, a advertência ao repr
 
 A habilitação de herdeiros pode ser obtida por via notarial.
 
-###### Art. 6.º O artigo 26.º da Tabela de Emolumentos do Notariado, aprovada pelo [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), de 2 de Novembro, passa a ter a seguinte redacção:
+Art. 6.º O artigo 26.º da Tabela de Emolumentos do Notariado, aprovada pelo [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), de 2 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 a) ...
 
@@ -842,7 +911,7 @@ b) ...
 
 3 - Não há lugar ao agravamento a que se refere o n.º 1 quando se trate de partilha em que algum interessado seja incapaz.
 
-###### Art. 7.º Os artigos 40.º, 44.º e 114.º do Código do Registo Predial passam a ter a seguinte redacção:
+Art. 7.º Os artigos 40.º, 44.º e 114.º do Código do Registo Predial passam a ter a seguinte redacção:
 
 ###### Artigo 40.º — [...]
 
@@ -878,28 +947,28 @@ f) A obrigatoriedade de o representante legal do incapaz ou ausente em parte inc
 
 3 - ...
 
-###### Art. 8.º É revogado o artigo 158.º do Código das Custas Judiciais.
+Art. 8.º É revogado o artigo 158.º do Código das Custas Judiciais.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 9.º As remissões constantes de quaisquer disposições legais para o inventário obrigatório consideram-se feitas para os inventários em que a herança seja deferida a incapazes, ausentes em parte incerta ou pessoa colectiva.
+Art. 9.º As remissões constantes de quaisquer disposições legais para o inventário obrigatório consideram-se feitas para os inventários em que a herança seja deferida a incapazes, ausentes em parte incerta ou pessoa colectiva.
 
-###### Art. 10.º - 1 - As escrituras de partilha em que sejam interessados incapazes, ausentes em parte incerta ou pessoas colectivas estão isentas de emolumentos desde que o valor global não ultrapasse 50000$00, sendo as de habilitação, para os efeitos do presente diploma, sempre isentas.
+Art. 10.º - 1 - As escrituras de partilha em que sejam interessados incapazes, ausentes em parte incerta ou pessoas colectivas estão isentas de emolumentos desde que o valor global não ultrapasse 50000$00, sendo as de habilitação, para os efeitos do presente diploma, sempre isentas.
 
 2 - Nos restantes casos, as escrituras referidas no número anterior beneficiam de uma redução de 50%.
 
-###### Art. 11.º - 1 - O presente diploma entra em vigor 180 dias após a data da sua publicação.
+Art. 11.º - 1 - O presente diploma entra em vigor 180 dias após a data da sua publicação.
 
 2 - O disposto no presente diploma apenas se aplica aos casos em que a abertura da sucessão ocorra após a data referida no número anterior.
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

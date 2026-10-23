@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/1994/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1994-495494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f5558c71c328948dbb7d530d4aaac92ed374d4b32174b1c9e522d7645ed3084
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 719c1184c8228ce226fb4cdef919ab514ac4900ed62c80d9427b507b32a32250
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/357/1992/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/357/1992/04/22/p/dre
+- type: cites
+  target: pt:dre:217711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649957:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:41Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +119,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 10.º e 22.º do [Decreto-Lei n.º 237/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1991-649957), de 2 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 10.º e 22.º do [Decreto-Lei n.º 237/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1991-649957), de 2 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 8.º — [...]
 
@@ -125,18 +137,18 @@ a) Relativamente às SACEG, as disposições aplicáveis do Regime Geral das Ins
 
 b) ...
 
-###### Art. 2.º São revogados os artigos 5.º e 7.º, o n.º 2 do artigo 6.º e os n.os 1 e 2 do artigo 13.º do [Decreto-Lei n.º 237/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1991-649957), de 2 de Julho.
+Art. 2.º São revogados os artigos 5.º e 7.º, o n.º 2 do artigo 6.º e os n.os 1 e 2 do artigo 13.º do [Decreto-Lei n.º 237/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1991-649957), de 2 de Julho.
 
-###### Art. 3.º Enquanto não for exercida a competência estatuída no artigo 10.º do [Decreto-Lei n.º 237/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1991-649957), de 2 de Julho, com a redacção que lhe dá o presente diploma, mantém-se em vigor a [Portaria n.º 357/92](https://diariodarepublica.pt/dr/detalhe/portaria/357-1992-217711), de 22 de Abril.
+Art. 3.º Enquanto não for exercida a competência estatuída no artigo 10.º do [Decreto-Lei n.º 237/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1991-649957), de 2 de Julho, com a redacção que lhe dá o presente diploma, mantém-se em vigor a [Portaria n.º 357/92](https://diariodarepublica.pt/dr/detalhe/portaria/357-1992-217711), de 22 de Abril.
 
 Visto e aprovado em Conselho de Ministros em 18 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 6 de Janeiro de 1994.**
+Promulgado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

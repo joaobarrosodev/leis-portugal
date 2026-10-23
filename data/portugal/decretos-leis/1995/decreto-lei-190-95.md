@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/1995/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1995-484657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e6e6ef9077f31e7137dc39dd4385e4917fccfe2186ae8a9bae6dded94df5ca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a5e812298f9b3aea3ad6d4252e3a49f22a5203c88b7534047a2cc9a643c919a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,26 @@ reuse:
 subjects:
 - Alienação de BENS
 - Domínio Privado do Estado
-- Propriedade do Estado
-- Hasta Pública
 - Forças Armadas
+- Hasta Pública
 - Pessoa Coletiva
+- Propriedade do Estado
 relationships:
 - type: amended_by
   target: pt:dre:537843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406566:por
+  label: "Alterado o art. 4.º pelo DEC LEI.318/97.1997.11.25.MDN DR.IS-A [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-1997-406566
+  date: '1997-11-25'
+- type: amended_by
+  target: pt:dre:537843:por
+  label: "Alterados os arts. 508.º e 510.º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, na redacção do presente\
+    \ diploma, pelo DEC LEI.59/2004.19.03.2004.MJ, DR.IS-A [67] de 19.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2004-537843
+  date: '2004-03-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/419/1991/10/29/p/dre
   label: null
@@ -84,16 +95,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:147430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474336:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515870:por
+  label: "Rectificado pela DECL-RECT.132/95.1995.10.31.PCM, DR.IS-A [252]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/132-1995-515870
+  date: '1995-10-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:26Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +144,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É autorizada a alienação em regime de hasta pública, ou em regime de cessão a título definitivo e oneroso, a pessoas colectivas de direito público ou a instituições particulares de interesse público, dos imóveis seguintes:
+Artigo 1.º É autorizada a alienação em regime de hasta pública, ou em regime de cessão a título definitivo e oneroso, a pessoas colectivas de direito público ou a instituições particulares de interesse público, dos imóveis seguintes:
 
 a) Parcela de terreno, com a área de 660 m2, a desanexar do prédio rústico denominado «Herdade da Comporta», artigo 1, secção 03, da freguesia de Santa Maria do Castelo, município de Alcácer do Sal;
 
@@ -152,24 +184,24 @@ r) PM 5/Vila Nova da Barquinha, designado «Central Elevatória do Zêzere ou La
 
 s) Instalações da Força Aérea, designadas «Aquartelamento de Paços de Ferreira», com a área aproximada de 34000 m2, sitas na freguesia e município de Paços de Ferreira.
 
-###### Art. 2.º - 1 - São desafectados do domínio público e passam a integrar o domínio privado do Estado os prédios identificados no artigo anterior, os quais, enquanto não forem alienados, continuam afectos ao Ministério da Defesa Nacional.
+Art. 2.º - 1 - São desafectados do domínio público e passam a integrar o domínio privado do Estado os prédios identificados no artigo anterior, os quais, enquanto não forem alienados, continuam afectos ao Ministério da Defesa Nacional.
 
 2 - O presente diploma constitui documento bastante para o registo, a favor do Estado, na conservatória do registo predial respectiva, dos imóveis identificados no artigo anterior.
 
-###### Art. 3.º - 1 - À alienação dos prédios mencionados no artigo 1.º é aplicável o regime constante dos artigos 5.º, 6.º, 7.º e 10.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro, sem prejuízo do disposto no n.º 3 do artigo 3.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, no período da sua vigência.
+Art. 3.º - 1 - À alienação dos prédios mencionados no artigo 1.º é aplicável o regime constante dos artigos 5.º, 6.º, 7.º e 10.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro, sem prejuízo do disposto no n.º 3 do artigo 3.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, no período da sua vigência.
 
 2 - O disposto no presente diploma não prejudica a aplicação do regime do património cultural português, devendo o despacho conjunto a que se refere o n.º 1 do artigo 5.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro, ser assinado pelo membro do Governo responsável pela área da cultura quando estejam em causa imóveis a que se aplique aquele regime.
 
-###### Art. 4.º São revogados os Decretos n.os [500/70](https://diariodarepublica.pt/dr/detalhe/decreto/500-1970-147430), de 26 de Outubro, e [393/74](https://diariodarepublica.pt/dr/detalhe/decreto/393-1974-474336), de 28 de Agosto, relativos a servidões militares do PM 9/Penamacor e do PM 7/Aveiro, respectivamente, com efeitos reportados à data da alienação.
+Art. 4.º São revogados os Decretos n.os [500/70](https://diariodarepublica.pt/dr/detalhe/decreto/500-1970-147430), de 26 de Outubro, e [393/74](https://diariodarepublica.pt/dr/detalhe/decreto/393-1974-474336), de 28 de Agosto, relativos a servidões militares do PM 9/Penamacor e do PM 7/Aveiro, respectivamente, com efeitos reportados à data da alienação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Eduardo de Almeida Catroga.
 
-**Promulgado em 13 de Julho de 1995.**
+Promulgado em 13 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1995.**
+Referendado em 17 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

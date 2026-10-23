@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/1994/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1994-322096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 483f75f4d3c1caba31c745e37146b8f7f7e13ab0535e3d5a36a8513328ca8753
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa3040059198a9202bfc182aa822b4c6d500470fa263efe75038088b08422235
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
 subjects:
 - Aguardente
 - Armazenagem
-- Vinho
-- Denominação de Origem
+- Comércio
+- Comissão Vitivinícola Regional
 - Controlo de Qualidade
-- Região Demarcada
+- Denominação de Origem
 - Estatuto
 - Etiquetagem
 - Lourinhã
 - Ministro da Agricultura
 - Produção
-- Comissão Vitivinícola Regional
-- Comércio
+- Região Demarcada
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/34/1992/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/1992/03/07/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168233:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:51Z'
   warnings: []
   errors: []
 ---
@@ -114,15 +128,15 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Região Demarcada das Aguardentes Vínicas da Lourinhã, anexo ao presente diploma e que dele faz parte integrante, que define as condições de produção e comercialização das aguardentes vínicas aí produzidas, por forma a terem direito à denominação de origem «Lourinhã».
+Artigo 1.º É aprovado o Estatuto da Região Demarcada das Aguardentes Vínicas da Lourinhã, anexo ao presente diploma e que dele faz parte integrante, que define as condições de produção e comercialização das aguardentes vínicas aí produzidas, por forma a terem direito à denominação de origem «Lourinhã».
 
-###### Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional da Lourinhã (CVRL) disciplinar a produção das aguardentes com direito à denominação a que se refere o Estatuto mencionado no artigo anterior, bem como dos vinhos que estão na sua origem, aplicar a respectiva regulamentação e velar pelo cumprimento da mesma, bem como fomentar a sua qualidade e promover as aguardentes que beneficiem daquela denominação.
+Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional da Lourinhã (CVRL) disciplinar a produção das aguardentes com direito à denominação a que se refere o Estatuto mencionado no artigo anterior, bem como dos vinhos que estão na sua origem, aplicar a respectiva regulamentação e velar pelo cumprimento da mesma, bem como fomentar a sua qualidade e promover as aguardentes que beneficiem daquela denominação.
 
 2 - Compete igualmente à CVRL realizar vistorias e proceder à colheita de amostras em armazéns ou instalações de vinificacão e destilação, selar os produtos, podendo ainda ter acesso a toda a documentação que permita verificar a obediência aos preceitos comunitários e nacionais relativos às aguardentes vínicas com direito à denominação a que se refere o presente diploma.
 
 3 - Em caso de infracção ao disposto no Estatuto anexo, pode a CVRL proceder disciplinarmente em relação aos agentes económicos nela inscritos, de acordo com o estatuído no seu regulamento interno, sem prejuízo de a infracção poder ser configurada como crime ou contra-ordenação.
 
-###### Art. 3.º A CVRL está submetida à tutela do Ministro da Agricultura, ao qual compete:
+Art. 3.º A CVRL está submetida à tutela do Ministro da Agricultura, ao qual compete:
 
 a) Dirigir instruções no âmbito da política vitivinícola;
 
@@ -132,15 +146,15 @@ c) Apreciar o orçamento e contas de exercício.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - António Duarte Silva.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto da Região Demarcada das Aguardentes Vínicas da Lourinhã
 
@@ -230,7 +244,7 @@ b) Destilação descontínua, em alambique de cobre constituído por uma caldeir
 
 5 - As contas/idade indicativas do período de envelhecimento, são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
 
 ###### Artigo 10.º — Características químicas e organolépticas
 
@@ -244,7 +258,7 @@ b) Destilação descontínua, em alambique de cobre constituído por uma caldeir
 
 2 - A correspondência das contas/idade e das designações de venda é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
 
 ###### Artigo 12.º — Rotulagem
 
@@ -262,4 +276,4 @@ Sem prejuízo de outras exigências legais aplicáveis, todas as pessoas singula
 
 2 - A CVRL pode definir condições complementares ao presente diploma no que respeita às regras de circulação, apresentação, comercialização e utilização de embalagens, desde que possam contribuir para um controlo mais rigoroso e não contrariem a legislação nacional e comunitária sobre a matéria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)

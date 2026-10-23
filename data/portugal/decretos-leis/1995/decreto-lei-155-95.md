@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/150a00/42224227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/1995/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1995-475076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcbc9fb0dc50f98f9d01839aa8dd9c4b2624def5d15c30527affcd2f4ce66da3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fe6baea1cb8e57a95ef067206da2cb0c0790bb815a3ba67ec93111a4ca82ba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,44 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Multa
 - Construção Civil
-- Higiene do Trabalho
 - Contra-ordenação
-- Segurança no Trabalho
+- Higiene do Trabalho
 - Industrial da Construção Civil
+- Multa
 - Normas de Segurança
 - Política Social
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:466181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 15.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
 - type: cites
   target: celex:31992L0057
   label: null
   source: http://data.europa.eu/eli/dir/1992/57/oj
+- type: repealed_by
+  target: pt:dre:466181:por
+  label: Revogado a partir de 27.12.2003 pelo(a) Decreto-Lei n.º 273/2003 - Diário da República n.º 251/2003, Série I-A de
+    2003-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2003-466181
+  date: '2003-10-29'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:40Z'
   warnings: []
   errors: []
 ---
@@ -339,15 +350,15 @@ Em tudo o que não contrariar o disposto no presente diploma, mantêm-se em vigo
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1995. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 9 de Junho de 1995.**
+Promulgado em 9 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1995.**
+Referendado em 12 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Trabalhos de construção de edifícios e de engenharia civil referidos na alínea a) do artigo 3.º
 

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20269-1963-681038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32a78e1c246c33108ceebc846b0236b64d7289257d719a605fd6a58d42a7e5a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cac778308153a5a54eecdbb73043a80e2cf379673dd9b1185885bca0ce480d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Despesas Públicas
+- Forças Armadas
+- Macau.Colónia Portuguesa
+- Orçamento
+- Reforço de Verbas
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:20Z'
   warnings: []
   errors: []
 ---
@@ -89,23 +99,23 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 100000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 100000$00
 
-###### Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 200000$00
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 200000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 1650$00
+Artigo 4.º, n.º 3), alínea a) «Aquisições de utilização permanente - Material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 1650$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal - A pagar na província» ... 240000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal - A pagar na província» ... 240000$00
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal - A pagar na metrópole» ... 155000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal - A pagar na metrópole» ... 155000$00
 
-###### Artigo 10.º, n.º 9) «Encargos administrativos - Subvenção de família» ... 300000$00
+Artigo 10.º, n.º 9) «Encargos administrativos - Subvenção de família» ... 300000$00
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 50000$00
+Artigo 13.º «Despesas de anos económicos findos» ... 50000$00
 
 ... 1046650$00
 
@@ -113,59 +123,59 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 350000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 350000$00
 
-###### Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 80000$00
+Artigo 1.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 80000$00
 
-###### Artigo 1.º, n.º 4), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 212000$00
+Artigo 1.º, n.º 4), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado - Eventual» ... 212000$00
 
-###### Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Fatos de trabalho e artigos especiais para cozinheiros, motociclistas, serventes de viaturas motorizadas e blindadas, praças hospitalizadas, etc.» ... 48000$00
+Artigo 3.º, n.º 2), alínea b) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Fatos de trabalho e artigos especiais para cozinheiros, motociclistas, serventes de viaturas motorizadas e blindadas, praças hospitalizadas, etc.» ... 48000$00
 
-###### Artigo 3.º, n.º 4), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 20000$00
+Artigo 3.º, n.º 4), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 20000$00
 
-###### Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 10000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 10000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 40000$00
+Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 40000$00
 
-###### Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 10000$00
+Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 10000$00
 
-###### Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 21000$00
+Artigo 4.º, n.º 2), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 21000$00
 
-###### Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 6500$00
+Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 6500$00
 
-###### Artigo 4.º, n.º 2), alínea e) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 2500$00
+Artigo 4.º, n.º 2), alínea e) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 2500$00
 
-###### Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 3500$00
+Artigo 4.º, n.º 2), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 3500$00
 
-###### Artigo 4.º, n.º 2), alínea h) «Aquisições de utilização permanente - Móveis - Artigos para o serviço de assistência religiosa» ... 5000$00
+Artigo 4.º, n.º 2), alínea h) «Aquisições de utilização permanente - Móveis - Artigos para o serviço de assistência religiosa» ... 5000$00
 
-###### Artigo 4.º, n.º 3), alínea b) «Aquisições de utilização permanente - Material de defesa e segurança pública - Outro material não especificado» ... 1650$00
+Artigo 4.º, n.º 3), alínea b) «Aquisições de utilização permanente - Material de defesa e segurança pública - Outro material não especificado» ... 1650$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - Semoventes - Veículos com motor» ... 16500$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - Semoventes - Veículos com motor» ... 16500$00
 
-###### Artigo 5.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - Semoventes - Embarcações com motor» ... 15000$00
+Artigo 5.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - Semoventes - Embarcações com motor» ... 15000$00
 
-###### Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 30000$00
+Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 30000$00
 
-###### Artigo 6.º, n.º 3), alínea a) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados - Para usos industriais» ... 20000$00
+Artigo 6.º, n.º 3), alínea a) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados - Para usos industriais» ... 20000$00
 
-###### Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - De fogo real» ... 70000$00
+Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - De fogo real» ... 70000$00
 
-###### Artigo 6.º, n.º 4), alínea c) «Material de consumo corrente - Munições - Diversos explosivos» ... 40000$00
+Artigo 6.º, n.º 4), alínea c) «Material de consumo corrente - Munições - Diversos explosivos» ... 40000$00
 
-###### Artigo 6.º, n.º 5) «Material de consumo corrente - Artigos de embalagem» ... 17000$00
+Artigo 6.º, n.º 5) «Material de consumo corrente - Artigos de embalagem» ... 17000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 2) «Encargos das instalações - Seguros» ... 7500$00
+Artigo 9.º, n.º 2) «Encargos das instalações - Seguros» ... 7500$00
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Despesas gerais de recrutamento» ... 5000$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Despesas gerais de recrutamento» ... 5000$00
 
-###### Artigo 10.º, n.º 6), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 13500$00
+Artigo 10.º, n.º 6), alínea a) «Encargos administrativos - Prémios de transferência de fundos - A pagar na província» ... 13500$00
 
-###### Artigo 10.º, n.º 7), alínea b) «Encargos administrativos - Subsídios para funerais - A pagar na metrópole» ... 2000$00
+Artigo 10.º, n.º 7), alínea b) «Encargos administrativos - Subsídios para funerais - A pagar na metrópole» ... 2000$00
 
 ... 1046650$00
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/1994/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1994-575879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cf8353c1565bbbdf08523df052c84a741cd65f0d34f5bd48fb23867cc53d2bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4136ad9b1de96dcd0cd9332cbf0f7b7f6a8848a55adafb35f3e8d9c342073f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Empresa
 - Apoio ao Investimento
-- Projeto de Investimento
+- Empresa
 - Indústria
-- QCA
 - Modernização Industrial
-- Prorrogação de Prazo
-- Pequenas e Médias Empresas
 - Pedip II
+- Pequenas e Médias Empresas
+- Projeto de Investimento
+- Prorrogação de Prazo
+- QCA
 - Sinfepedip
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:46Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +116,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 21.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 21.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 21.º — [...]
 
@@ -120,16 +124,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - As despesas efectuadas posteriormente a 1 de Janeiro de 1994 no âmbito de projectos iniciados após aquela data abrangidos pelo presente diploma poderão ser comparticipadas desde que as respectivas candidaturas sejam apresentadas até 31 de Dezembro de 1994.
 
-###### Art. 2.º O presente diploma reporta os seus efeitos à data da entrada em vigor do decreto-lei mencionado no artigo anterior.
+Art. 2.º O presente diploma reporta os seus efeitos à data da entrada em vigor do decreto-lei mencionado no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1994. - Aníbal António Cavaco Silva Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

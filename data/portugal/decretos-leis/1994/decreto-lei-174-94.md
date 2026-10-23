@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/1994/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1994-305593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b90322517af1e86c4cd437f531ce6bcb5723e4f1bece367811fb0999233e36a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5438983c3fec7ed4927ceb108c40d148dd48b23d47841dffc8c05e7f564d8e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Tráfego Marítimo
-- Pessoal do MAR
-- Multa
-- Contra-ordenação
-- Normas de Segurança
 - Comunicações
+- Contra-ordenação
+- Embarcação
+- Equipamento de Transmissão
+- Multa
+- Navegação Marítima
+- Normas de Segurança
+- Pessoal do MAR
 - Segurança Marítima
 - Sistema Mundial de Socorro e Segurança Marítima
 - Sistema Nacional de Comunicações de Socorro e Segurança Marítima
-- Equipamento de Transmissão
-- Navegação Marítima
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:424112:por
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1992/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1992/03/31/p/dre
+- type: cites
+  target: pt:dre:190599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660279:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:41Z'
   warnings: []
   errors: []
 ---
@@ -430,12 +442,12 @@ O presente diploma entra em vigor em 1 de Agosto de 1994.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Joaquim Martins Ferreira do Amaral - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 1 de Junho de 1994.**
+Promulgado em 1 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Junho de 1994.**
+Referendado em 3 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

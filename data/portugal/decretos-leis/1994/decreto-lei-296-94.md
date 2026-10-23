@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/266a00/68676871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/1994/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1994-534618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ac90d74d5e621cf73136baaf4c2350000b7f022007f6a47869120d19d9f640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f4303474430c463dcd2e58a9a6afb9662df3688e5825f51ff8de268cdbb5835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral dos Transportes Terrestres
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional
 relationships:
@@ -76,6 +76,38 @@ relationships:
   target: pt:dre:520991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:672444:por
+  label: "Alterados a al. f) do art. 4º e o art. 14º e substituído o quadro de pessoal dirigente anexo ao presente diploma\
+    \ pelo Dec Lei.287/97.1997.10.22.MEPAT, DR.IS-A [245]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1997-672444
+  date: '1997-10-22'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integra no Ministério do Equipamento Social, a Direcção-Geral dos Transportes Terrestres, cuja Lei Orgânica foi\
+    \ aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:466831:por
+  label: "Determinada a transferência para as AMT das atribuições e competências conferidas pelo presente diploma e respectiva\
+    \ legislação complementar pelo DEC LEI.268/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003, nos termos do seu art.\
+    \ 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2003-466831
+  date: '2003-10-28'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Atribuída nova denominação à Direcção-Geral, cuja orgânica consta do presente diploma, passando a designar-se Direcção\
+    \ Geral dos Transportes Terrestres e Fluviais, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: amended_by
+  target: pt:dre:520991:por
+  label: "Determinada a sucessão do Instituto da Mobilidade e dos Transportes Terrestres, I.P. (IMTT.I.P) nas atribuições\
+    \ da DGTT constantes do presente diploma, que é revogado a partir de 01.05.2007 pelo DEC LEI.147/2007.27.04.2007.MOPTC,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2007-520991
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/1994/05/03/p/dre
   label: null
@@ -84,16 +116,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:16Z'
   warnings: []
   errors: []
 ---
@@ -394,7 +450,9 @@ d) Proceder a averiguações e instruir os processos disciplinares, inquéritos 
 
 6 - Junto da Divisão de Apoio Jurídico funcionam a Secção de Liquidação e a Secção de Revisão Tributária, às quais incumbe, respectivamente, a execução das competências de liquidação e de revisão previstas no artigo 3.º do [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), de 3 de Maio.
 
-###### Artigo 10.º — Divisão de Infra-Estruturas de Transportes
+###### Artigo 10.º
+
+##### Divisão de Infra-Estruturas de Transportes
 
 À Divisão de Infra-Estruturas de Transportes compete, em especial:
 
@@ -410,7 +468,9 @@ e) Acompanhar e desenvolver os estudos relacionados com a imputação dos custos
 
 f) Recolher e manter actualizados os dados sobre as infra-estruturas de transportes terrestres.
 
-###### Artigo 11.º — Divisão de Tarifas e Mercados
+###### Artigo 11.º
+
+##### Divisão de Tarifas e Mercados
 
 À Divisão de Tarifas e Mercados compete, em especial:
 
@@ -422,7 +482,9 @@ c) Promover a fiscalização das normas tarifárias;
 
 d) Definir e ensaiar metodologias, em articulação com as diferentes unidades orgânicas, para a incrementação de sistemas de observação de mercados.
 
-###### Artigo 12.º — Divisão de Relações Internacionais
+###### Artigo 12.º
+
+##### Divisão de Relações Internacionais
 
 À Divisão de Relações Internacionais compete, em especial:
 
@@ -432,7 +494,9 @@ b) Acompanhar e ou participar nas negociações e na elaboração de convençõe
 
 c) Apoiar e promover a participação dos serviços em organizações internacionais relevantes.
 
-###### Artigo 13.º — Divisão de Documentação e Informação
+###### Artigo 13.º
+
+##### Divisão de Documentação e Informação
 
 À Divisão de Documentação e Informação compete, em especial:
 
@@ -444,7 +508,9 @@ c) Estabelecer contactos e permutar informações com organismos nacionais, estr
 
 d) Garantir a gestão da biblioteca e promover a tradução de correspondência, artigos de revista, livros ou outra documentação.
 
-###### Artigo 14.º — Divisão de Informática
+###### Artigo 14.º
+
+##### Divisão de Informática
 
 À Divisão de Informática compete, em especial:
 
@@ -532,16 +598,16 @@ d) O [Decreto-Lei n.º 329/89](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 1 do artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/266a00/68676871.pdf))](https://files.diariodarepublica.pt/1s/1994/11/266a00/68676871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/266a00/68676871.pdf)

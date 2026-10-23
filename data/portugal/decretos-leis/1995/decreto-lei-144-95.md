@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/136a00/38603862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/1995/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1995-518659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6e89351afab0c8f84503359f8291485bdc942193dc0de00d194155cbab0b9f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f5fd0cd7a0f04dd58cce5641f285c70966e038f42d069e729301c854fbb391a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,33 @@ reuse:
 subjects:
 - Embarcação
 - Equipamento Eléctrico
-- Instalações Radioelétricas
 - Fiscalização
+- Instalações Radioelétricas
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:485058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:686805:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485058:por
+  label: "Revogado pelo DEC LEI.190/98.1998.07.10.MEPAT, DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1998-485058
+  date: '1998-07-10'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:27Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +113,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 42.º, 43.º, 45.º, 49.º a 51.º, 58.º, 66.º, 67.º e 70.º do Regulamento do Serviço Radioeléctrico das Embarcações (RSRE), aprovado pelo [Decreto n.º 45267](https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805), de 24 de Setembro de 1963, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 42.º, 43.º, 45.º, 49.º a 51.º, 58.º, 66.º, 67.º e 70.º do Regulamento do Serviço Radioeléctrico das Embarcações (RSRE), aprovado pelo [Decreto n.º 45267](https://diariodarepublica.pt/dr/detalhe/decreto/45267-1963-686805), de 24 de Setembro de 1963, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O presente Regulamento aplica-se às embarcações nacionais, com excepção das pertencentes à Marinha e de outras pertencentes ao Estado que sejam utilizadas em actividades de policiamento e fiscalização.
+Artigo 1.º O presente Regulamento aplica-se às embarcações nacionais, com excepção das pertencentes à Marinha e de outras pertencentes ao Estado que sejam utilizadas em actividades de policiamento e fiscalização.
 
 § único. Os artigos 3.º, 4.º, 5.º e 6.º do presente Regulamento não se aplicam às embarcações abrangidas pela Convenção Internacional para a Salvaguarda da Vida Humana no Mar.
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 a) ...
 
@@ -140,15 +149,15 @@ n) ...
 
 o) Auxiliar de navegação - equipamento eléctrico, electrónico ou radioeléctrico utilizado a bordo para auxílio à navegação, não incluindo esta designação os sondadores por eco para apoio à faina da pesca, nem os equipamentos que para esse fim são utilizados nas embarcações de recreio, com excepção do radar.
 
-###### Art. 42.º Após inspecção a uma instalação radioeléctrica, o inspector deve elaborar e assinar o respectivo relatório, entregando cópia do mesmo ao comandante ou responsável pela embarcação.
+Art. 42.º Após inspecção a uma instalação radioeléctrica, o inspector deve elaborar e assinar o respectivo relatório, entregando cópia do mesmo ao comandante ou responsável pela embarcação.
 
 § único. A cópia do relatório entregue ao comandante ou ao responsável pela embarcação, no caso de a instalação ter sido aprovada, substitui a licença de estação por um período de 60 dias, contados a partir da data em que ocorreu a inspecção.
 
-###### Art. 43.º Os radiogoniómetros são calibrados após a sua instalação, quando seja alterado o arranjo das antenas ou se introduzam modificações estruturais nas embarcações.
+Art. 43.º Os radiogoniómetros são calibrados após a sua instalação, quando seja alterado o arranjo das antenas ou se introduzam modificações estruturais nas embarcações.
 
-###### Art. 45.º As inspecções e calibrações são da competência da Direcção-Geral de Portos, Navegação e Transportes Marítimos (DGPNTM), podendo ser realizadas por técnicos da Marinha, quer das estações radionavais quer dos centros de comunicações Principais, ou por outros técnicos qualificados, para o efeito credenciados por aquela Direcção-Geral.
+Art. 45.º As inspecções e calibrações são da competência da Direcção-Geral de Portos, Navegação e Transportes Marítimos (DGPNTM), podendo ser realizadas por técnicos da Marinha, quer das estações radionavais quer dos centros de comunicações Principais, ou por outros técnicos qualificados, para o efeito credenciados por aquela Direcção-Geral.
 
-###### Art. 49.º As licenças de estação das embarcações têm a seguinte validade:
+Art. 49.º As licenças de estação das embarcações têm a seguinte validade:
 
 a) Ilimitada, se das instalações não fizerem parte transmissores de radiocomunicações;
 
@@ -172,13 +181,13 @@ c) Alteração dos equipamentos radioeléctricos constantes da respectiva licen�
 
 d) Alteração da entidade responsável pela liquidação das contas de rádio.
 
-###### Art. 50.º As embarcações dotadas obrigatoriamente de radiogoniómetros devem possuir a bordo uma tabela ou curva de calibração desse equipamento.
+Art. 50.º As embarcações dotadas obrigatoriamente de radiogoniómetros devem possuir a bordo uma tabela ou curva de calibração desse equipamento.
 
-###### Art. 51.º A tabela ou curva de calibração referida no artigo anterior é válida por cinco anos a contar da data da última calibração ou por um período inferior se se observarem alterações apreciáveis nos desvios, sendo verificada anualmente.
+Art. 51.º A tabela ou curva de calibração referida no artigo anterior é válida por cinco anos a contar da data da última calibração ou por um período inferior se se observarem alterações apreciáveis nos desvios, sendo verificada anualmente.
 
-###### Art. 58.º O valor das taxas a cobrar pela prestação dos serviços referidos no presente diploma é fixado por portaria do Ministro do Mar.
+Art. 58.º O valor das taxas a cobrar pela prestação dos serviços referidos no presente diploma é fixado por portaria do Ministro do Mar.
 
-###### Art. 66.º A bordo das embarcações dotadas de instalação radiotelegráfica devem existir os seguintes documentos de serviço:
+Art. 66.º A bordo das embarcações dotadas de instalação radiotelegráfica devem existir os seguintes documentos de serviço:
 
 a) Diário de serviço de radiocomunicações a aprovar por portaria do Ministro do Mar;
 
@@ -196,7 +205,7 @@ g) Vocabulário marítimo padrão;
 
 h) Manual de Busca e Salvamento da IMO - «MERSAR».
 
-###### Art. 67.º A bordo das embarcações dotadas de instalação radiotelefónica devem existir os seguintes documentos de serviço:
+Art. 67.º A bordo das embarcações dotadas de instalação radiotelefónica devem existir os seguintes documentos de serviço:
 
 a) Diário do serviço de radiocomunicações referido na alínea a) do artigo anterior;
 
@@ -210,30 +219,30 @@ e) Manual de Busca e Salvamento da IMO - «MERSAR».
 
 § único. As embarcações registadas na navegação local e as de arqueação bruta inferior a 300 t registadas na navegação costeira nacional são dispensadas dos documentos indicados nas alíneas deste artigo.
 
-###### Art. 70.º Os diários de serviço de radiocomunicações são examinados e visados a bordo no decurso das inspecções.
+Art. 70.º Os diários de serviço de radiocomunicações são examinados e visados a bordo no decurso das inspecções.
 
 § único. Os diários devem ser assinados pelo operador responsável e, no fim de cada viagem, pelo comandante ou responsável pela embarcação.
 
-###### Art. 2.º É aditado ao RSRE um artigo 44.º, com a seguinte redacção:
+Art. 2.º É aditado ao RSRE um artigo 44.º, com a seguinte redacção:
 
-###### Art. 44.º A verificação da calibração dos radiogóniometros é efectuada uma vez por ano.
+Art. 44.º A verificação da calibração dos radiogóniometros é efectuada uma vez por ano.
 
 § 1.º Quando a verificação da calibração for efectuada por elementos da tripulação, deve a mesma ser registada em livro próprio, que indicará a data, a hora, o local da operação, a estação utilizada, respectivas frequências e os azimutes visual e radiogoniométrico.
 
 § 2.º A verificação da calibração pressupõe a comparação, com um erro máximo admissível de um grau, de, pelo menos, oito azimutes visuais, obtidos a diferentes proas, com os obtidos pelo radiogoniómetro, corrigidos de acordo com a tabela de calibração existente.
 
-###### Art. 3.º São revogados os artigos 59.º e 60.º do RSRE.
+Art. 3.º São revogados os artigos 59.º e 60.º do RSRE.
 
-###### Art. 4.º O presente diploma entra em vigor 60 dias após a sua publicação.
+Art. 4.º O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral - António Baptista Duarte Silva.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

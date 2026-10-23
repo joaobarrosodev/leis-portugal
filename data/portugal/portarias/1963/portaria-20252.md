@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20252-1963-680602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62a15085ad676bf2daa6c013fee623208d9c017c0dcc5f7241f18f66649f0db0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa9d74b6add161cf3ce8ed3d0b06b8a6d35af25f49c102fb5025cfe71ee5dabc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Despesas Públicas
+- Gestão Orçamental
+- Moçambique.Colónia Portuguesa
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:59Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +121,7 @@ b) Reforçar com a importância de 200000$00 a verba do capítulo 10.º, artigo 
 
 ### CAPÍTULO 2.º — Governo da província e Representação Nacional
 
-###### Artigo 26.º «Duplicação de vencimentos» ... 7000$00
+Artigo 26.º «Duplicação de vencimentos» ... 7000$00
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
@@ -102,13 +129,13 @@ Serviços de administração civil
 
 Despesas com o pessoal:
 
-###### Artigo 40.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 3000$00
+Artigo 40.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 3000$00
 
 Corpo de Polícia de S. Tomé e Príncipe
 
 Despesas com o pessoal:
 
-###### Artigo 104.º, n.º 1) «Remunerações certas ao pessoal em exercício -Pessoal dos quadros aprovados por lei - Vencimentos» ... 18000$00
+Artigo 104.º, n.º 1) «Remunerações certas ao pessoal em exercício -Pessoal dos quadros aprovados por lei - Vencimentos» ... 18000$00
 
 ### CAPÍTULO 5.º — Serviços de Fazenda
 
@@ -116,7 +143,7 @@ Repartição Provincial dos Serviços de Fazenda e Contabilidade
 
 Despesas com o material:
 
-###### Artigo 142.º «Material de consumo corrente» ... 10000$00
+Artigo 142.º «Material de consumo corrente» ... 10000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -124,13 +151,13 @@ Serviços de obras públicas
 
 Despesas com o pessoal:
 
-###### Artigo 205.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 8000$00
+Artigo 205.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 8000$00
 
 Serviços de economia
 
 Despesas com o pessoal:
 
-###### Artigo 226.º «Remunerações certas ao pessoal em exercício»:
+Artigo 226.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
 
@@ -140,33 +167,33 @@ Centro de Informação e Turismo
 
 Despesas com o pessoal:
 
-###### Artigo 237.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10000$00
+Artigo 237.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 10000$00
 
 Serviços de transportes aéreos
 
 Despesas com o pessoal:
 
-###### Artigo 248.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 4000$00
+Artigo 248.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 4000$00
 
 Serviços meteorológicos
 
 Despesas com o pessoal:
 
-###### Artigo 257.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 5000$00
+Artigo 257.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 5000$00
 
 Pagamento de serviços:
 
-###### Artigo 265.º, n.º 1) «Diversos serviços - Publicação dos Anais do Serviço Meteorológico de S. Tomé e Príncipe» ... 10000$00
+Artigo 265.º, n.º 1) «Diversos serviços - Publicação dos Anais do Serviço Meteorológico de S. Tomé e Príncipe» ... 10000$00
 
 ### CAPÍTULO 9.º — Serviços de marinha
 
-###### Artigo 284.º «Duplicação de vencimentos» ... 5000$00
+Artigo 284.º «Duplicação de vencimentos» ... 5000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 293.º, n.º 2), alínea b) «Despesas de comunicações fora da província - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na província» ... 14000$00
+Artigo 293.º, n.º 2), alínea b) «Despesas de comunicações fora da província - Transporte de material, fretes, seguros, despachos e outras despesas conexas - A pagar na província» ... 14000$00
 
-###### Artigo 295.º «Diversas despesas»:
+Artigo 295.º «Diversas despesas»:
 
 N.º 12) «Restituição de rendimentos indevidamente cobrados» ... 4000$00
 
@@ -182,7 +209,7 @@ N.º 23) «Instituições culturais e despesas de intercâmbio cultural» .. 500
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 302.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição» ... 20000$00
+Artigo 302.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição» ... 20000$00
 
 ... 200000$00
 
@@ -200,13 +227,13 @@ Missão de Combate às Tripanossomíases
 
 Despesas com o pessoal:
 
-###### Artigo 601.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 99500$00
+Artigo 601.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 99500$00
 
 Serviços de economia e estatística geral
 
 Despesas com o pessoal:
 
-###### Artigo 971.º «Remunerações certas ao pessoal em exercício»:
+Artigo 971.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei», alínea a) «Vencimentos» ... 50000$00
 

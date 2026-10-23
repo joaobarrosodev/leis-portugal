@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/175/1995/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1995-488148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef8fceb894e886fc56c7d8f00875a8e606d104483c3d5e1ef6c393b339ae89e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae155bea2e451550676c440db0fa4deca12000bb52e6b05d4d3c0aed5be4228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,47 @@ reuse:
 subjects:
 - Administração Central
 - Administração Pública
-- Instituto Público
-- Emprego
-- Regime Jurídico
-- Mobilidade de Pessoal
-- Funcionário Público
 - Administração Regional
-- Transferência de Pessoal
 - Autarquia Local
+- Emprego
+- Funcionário Público
+- Instituto Público
+- Mobilidade de Pessoal
+- Regime Jurídico
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:545575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545575:por
+  label: "Revogado o art. 25º do Dec Lei 427/89 de 07-Dez, com a redacção conferida no presente diploma, pela LEI.53/2006.07.12.2006.AR,\
+    \ DR.IS [235] de 07.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2006-545575
+  date: '2006-12-07'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:10Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +128,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 25.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. O artigo 25.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 25.º — [...]
 
@@ -124,12 +142,12 @@ No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 184/8
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 6 de Julho de 1995.**
+Promulgado em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1995.**
+Referendado em 10 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

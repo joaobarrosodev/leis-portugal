@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/1994/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1994-574946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 371889383613ef291208c66544be9f832833af5cbcfb45d2343d76f40b0fd9bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f23e4bcfe805a0b5600c835c6269eb3b761ab8c507ac172e99c3ba09e90f46af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
+- type: cites
+  target: pt:dre:280738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:41Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +113,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É concedido à Santa Casa da Misericórdia de Lisboa (SCML) o direito de organizar e explorar um jogo denominado «Lotaria Instantânea», em regime de exclusivo, para todo o território nacional.
+Artigo 1.º - 1 - É concedido à Santa Casa da Misericórdia de Lisboa (SCML) o direito de organizar e explorar um jogo denominado «Lotaria Instantânea», em regime de exclusivo, para todo o território nacional.
 
 2 - Por Lotaria Instantânea entende-se um jogo vendido através de bilhetes onde figura, em zona reservada e vedada por película de segurança, a remover pelo jogador, um conjunto de símbolos ou números que determinarão, de forma automática, a atribuição de prémio, conforme regras indicadas no próprio bilhete.
 
-###### Art. 2.º O resultado líquido obtido com a venda da Lotaria Instantânea é distribuído da seguinte forma:
+Art. 2.º O resultado líquido obtido com a venda da Lotaria Instantânea é distribuído da seguinte forma:
 
 a) 30% para projectos especiais de apoio a crianças carenciadas, incluindo os referentes à recuperação e educação especial de crianças com deficiência, a definir por despacho do Ministro do Emprego e da Segurança Social;
 
@@ -119,20 +127,20 @@ c) 25% para aplicação em projectos especiais de ocupação de jovens, a defini
 
 d) 25% para a SCML para aplicação em projectos especiais integrados nos seus fins estatutários, a definir por despacho conjunto dos Ministros da Saúde e do Emprego e da Segurança Social.
 
-###### Art. 3.º As normas relativas à organização e funcionamento da Lotaria Instantânea, nomeadamente as condições a que obedece a habilitação aos prémios, o seu número, o preço do bilhete e o valor para prémios a retirar da receita ilíquida apurada, será objecto de regulamento, elaborado nos termos dos Estatutos da Santa Casa da Misericórdia de Lisboa, a aprovar por portaria conjunta dos Ministros da Saúde e do Emprego e da Segurança Social.
+Art. 3.º As normas relativas à organização e funcionamento da Lotaria Instantânea, nomeadamente as condições a que obedece a habilitação aos prémios, o seu número, o preço do bilhete e o valor para prémios a retirar da receita ilíquida apurada, será objecto de regulamento, elaborado nos termos dos Estatutos da Santa Casa da Misericórdia de Lisboa, a aprovar por portaria conjunta dos Ministros da Saúde e do Emprego e da Segurança Social.
 
-###### Art. 4.º O montante dos prémios caducados reverte a favor das entidades beneficiárias do produto líquido da exploração, na proporção dos respectivos benefícios.
+Art. 4.º O montante dos prémios caducados reverte a favor das entidades beneficiárias do produto líquido da exploração, na proporção dos respectivos benefícios.
 
-###### Art. 5.º São aplicáveis à Lotaria Instantânea, em tudo aquilo que não se encontrar especialmente regulado no presente diploma, as normas que disciplinam a Lotaria Nacional, designadamente as constantes do [Decreto-Lei n.º 479/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1977-280738), de 15 de Novembro.
+Art. 5.º São aplicáveis à Lotaria Instantânea, em tudo aquilo que não se encontrar especialmente regulado no presente diploma, as normas que disciplinam a Lotaria Nacional, designadamente as constantes do [Decreto-Lei n.º 479/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1977-280738), de 15 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado de 1 de Dezembro de 1994.**
+Promulgado de 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

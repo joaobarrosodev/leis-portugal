@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/1995/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1995-460645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 804c4b88e3fe6fa05f89c8aa39686459ba4f5b6faff995d1f5b909eef51e774c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d58b4ae7532848f3417ea64ce6fdc06f1a9864e717689de8fc1b472aaa9593ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Código de Processo Tributário
-- Política Fiscal
 - Dívidas ao Estado
+- Empresa
 - Evasão Fiscal
+- Política Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:626376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626376:por
+  label: "Eliminado o art. 106º-A do Código do Processo Tributário, aprovado pelo Dec Lei 154/91, de 23-abr, na redação do\
+    \ presente diploma, pela LEI.4/96.27.02.1996.AR, DR.IS-A [49] de 27.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1996-626376
+  date: '1996-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:55Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +127,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas a) e b) do n.º 1 do artigo 57.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditado ao Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, um artigo 106.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, um artigo 106.º-A, com a seguinte redacção:
 
 ###### Artigo 106.º-A — Celebração do contrato de sociedade
 
@@ -121,7 +135,7 @@ No uso da autorização legislativa concedida pelas alíneas a) e b) do n.º 1 d
 
 2 - Se tiver havido exercício anterior de funções de administração ou gerência, o sócio identificará a sociedade que pretende constituir e as sociedades em que anteriormente desempenhou essas funções.
 
-###### Art. 2.º O artigo 121.º do Código de Processo Tributário passa a ter a seguinte redacção:
+Art. 2.º O artigo 121.º do Código de Processo Tributário passa a ter a seguinte redacção:
 
 ###### Artigo 121.º — Dúvida sobre o facto tributário
 
@@ -135,12 +149,12 @@ Utilização de métodos indiciários
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 27 de Junho de 1995.**
+Promulgado em 27 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1995.**
+Referendado em 29 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

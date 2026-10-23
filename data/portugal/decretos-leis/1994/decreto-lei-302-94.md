@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/302/1994/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1994-571175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a74702a8f48c48764f606b5b27eae435c87c623502cf5c1e53c50840339ec36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92713485d651dac488763baa8caa8aaf4b8cfc083eae3e09ee1f81148c458157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Construção Civil
-- Conservador
 - Comissão de Coordenação Regional
+- Conservador
+- Construção Civil
 - Loteamento Urbano
 - Regime Jurídico
 - Registo Predial
@@ -77,20 +77,32 @@ relationships:
   target: pt:dre:645280:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:645280:por
+  label: "Alterados os arts. 2.º, 6.º, 7.º, 9.º, 11.º a 13.º, 14.º, 16.º, 22.º, 24.º, 27.º, 30.º, 32.º, 33.º, 36.º, 38.º,\
+    \ 39.º, 42.º a 44.º, 47.º, 49.º a 52.º, 54.º a 58.º, 62.º, 63.º, 68.º e 70.º (com as alterações introduzidas pelo presente\
+    \ diploma e pela Lei 25/92 de 31-Ago DR.IS-A [200] ), aditados os arts. 7.º-A, 67.º-A, 68.º-A, 70.º-A e 72.º-A, ao Dec\
+    \ Lei 448/91 de 29-Nov DR.IS-A [275], pelo DEC LEI.334/95.1995.12.28.MPLAT DR.IS-A [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1995-645280
+  date: '1995-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:26Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +123,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 34.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 34.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 34.º — [...]
 
@@ -123,16 +135,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - (Anterior n.º 3).
 
-###### Art. 2.º É revogada a alínea l) do n.º 2 do artigo 58.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
+Art. 2.º É revogada a alínea l) do n.º 2 do artigo 58.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Outubro de 1994. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

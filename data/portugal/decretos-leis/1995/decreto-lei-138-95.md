@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/136a00/38333834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/1995/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1995-518661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f26e79b8876426f2ea5d74f61dce58466c5995b049fc9c269bed5b8c21531a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f1bb1cbdf0a317679fea2b0c81e535d09ad19590ac7a395aa154ed57dbf2f68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
-- Multa
+- Abate de Animais
 - Contra-ordenação
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Doença Animal
 - Gado Bovino
-- Abate de Animais
-- Instituto de Protecção da Produção Agro-Alimentar
 - Ifadap
+- Instituto de Protecção da Produção Agro-Alimentar
+- Multa
 - Responsabilidade Financeira
 relationships:
 - type: amended_by
   target: pt:dre:487076:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:781307:por
+  label: "DC.62/98.1997.12.31.MF, DR.IIS [22], (Altera o art 14º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/62-1998-781307
+  date: '1998-01-27'
 - type: cites
   target: celex:31990D0638
   label: null
@@ -94,16 +99,22 @@ relationships:
   target: celex:31994D0511
   label: null
   source: http://data.europa.eu/eli/dec/1994/511/oj
+- type: repealed_by
+  target: pt:dre:487076:por
+  label: "Revogado pelo DEC LEI.179/98.1998.07.03.MADRP, DR.IS-A [151], com efeitos a partir da entrada em vigor da Portaria\
+    \ referida no art. 9º desse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1998-487076
+  date: '1998-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:17Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +135,7 @@ Tendo em consideração o artigo 2.º da Decisão n.º [94/511/CE](https://data.
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A aplicação e execução do programa de erradicação e de vigilância da peripneumonia contagiosa dos bovinos (PEVPCB) compete:
+Artigo 1.º A aplicação e execução do programa de erradicação e de vigilância da peripneumonia contagiosa dos bovinos (PEVPCB) compete:
 
 a) Ao Instituto de Protecção da Produção Agro-Alimentar, adiante designado por IPPAA;
 
@@ -132,7 +143,7 @@ b) Às direcções regionais de agricultura;
 
 c) Ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP.
 
-###### Art. 2.º Para efeitos do disposto no artigo anterior, compete ao IPPAA:
+Art. 2.º Para efeitos do disposto no artigo anterior, compete ao IPPAA:
 
 a) A direcção, a coordenação e o controlo das acções a desenvolver para a execução do presente diploma e das respectivas disposições regulamentares;
 
@@ -146,7 +157,7 @@ e) Preparar e apresentar trimestralmente à Comissão da CE o relatório sobre a
 
 f) Programar e enviar à Comissão o relatório anual sobre a execução técnica e financeira do programa.
 
-###### Art. 3.º Para efeitos do disposto na alínea b) do artigo 1.º, compete às direcções regionais de agricultura:
+Art. 3.º Para efeitos do disposto na alínea b) do artigo 1.º, compete às direcções regionais de agricultura:
 
 a) Executar, ao nível da respectiva área, as orientações do IPPAA;
 
@@ -156,7 +167,7 @@ c) Elaborar e enviar trimestralmente ao IPPAA os relatórios técnicos sobre a e
 
 d) Assegurar a assistência de um médico veterinário especializado na peripneumonia contagiosa dos bovinos (PPCB), com funções de inspector, nos matadouros que se encontrem localizados em regiões infectadas, que deve recolher o material necessário às análises para despiste de PPCB, procedendo ao seu envio para o Laboratório Nacional de Veterinária.
 
-###### Art. 4.º A responsabilidade financeira relativa ao programa cabe ao IFADAP, que, para efeitos do disposto na alínea c) do artigo 1.º, tem as seguintes competências:
+Art. 4.º A responsabilidade financeira relativa ao programa cabe ao IFADAP, que, para efeitos do disposto na alínea c) do artigo 1.º, tem as seguintes competências:
 
 a) Centralizar, como interlocutor do Fundo Europeu de Orientação e Garantia Agrícola - Secção Orientação, a documentação necessária à obtenção do reembolso das despesas efectuadas no âmbito do presente diploma;
 
@@ -170,11 +181,11 @@ e) Prestar todas as informações que, no âmbito da sua competência, lhe forem
 
 f) Proceder, nos prazos e de acordo com as condições previstas na lei, ao pagamento das indemnizações por abates sanitários de bovinos.
 
-###### Art. 5.º As acções de campanha do programa são executadas pelas brigadas de saneamento dos agrupamentos de defesa sanitária, adiante designados por ADS, ou por brigadas dos serviços oficiais das zonas onde ainda não existam estruturas ADS.
+Art. 5.º As acções de campanha do programa são executadas pelas brigadas de saneamento dos agrupamentos de defesa sanitária, adiante designados por ADS, ou por brigadas dos serviços oficiais das zonas onde ainda não existam estruturas ADS.
 
-###### Art. 6.º Pode ser nomeada pelo IPPAA uma comissão, designada por «célula de crise», para acompanhar a execução do programa e analisar e aplicar eventuais medidas específicas tendentes ao reforço dos objectivos deste quando, face à gravidade das situações, devam ser tomadas medidas especiais ou intensificada a mobilização dos meios de combate da doença.
+Art. 6.º Pode ser nomeada pelo IPPAA uma comissão, designada por «célula de crise», para acompanhar a execução do programa e analisar e aplicar eventuais medidas específicas tendentes ao reforço dos objectivos deste quando, face à gravidade das situações, devam ser tomadas medidas especiais ou intensificada a mobilização dos meios de combate da doença.
 
-###### Art. 7.º - 1 - Constituem contra-ordenações:
+Art. 7.º - 1 - Constituem contra-ordenações:
 
 a) O incumprimento da obrigação de notificação dos casos suspeitos ou confirmados da PPCB à autoridade sanitária veterinária;
 
@@ -196,15 +207,15 @@ g) O incumprimento das regras previstas para o repovoamento.
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Art. 8.º - 1- Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na lei geral.
+Art. 8.º - 1- Podem ser aplicadas, simultaneamente com a coima, as sanções acessórias previstas na lei geral.
 
 2 - Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares para o seu normal funcionamento.
 
-###### Art. 9.º - 1 - A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da área em que foi cometida a infracção, à qual são enviados os autos de notícia levantados por outras entidades.
+Art. 9.º - 1 - A instrução dos processos de contra-ordenação é da competência da direcção regional de agricultura da área em que foi cometida a infracção, à qual são enviados os autos de notícia levantados por outras entidades.
 
 2 - Finda a instrução, os processos são remetidos ao conselho directivo do IPPAA para aplicação da coima.
 
-###### Art. 10.º A afectação do produto das coimas cobradas em aplicação do presente diploma faz-se da seguinte forma:
+Art. 10.º A afectação do produto das coimas cobradas em aplicação do presente diploma faz-se da seguinte forma:
 
 a) 20% para a entidade que aplicou a coima;
 
@@ -214,18 +225,18 @@ c) 10% para a entidade que instruiu o processo;
 
 d) 60% para o Estado.
 
-###### Art. 11.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 11.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 12.º É revogado o Decreto-Lei n.º 104/90, de 23 de Março.
+Art. 12.º É revogado o Decreto-Lei n.º 104/90, de 23 de Março.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1995. - Aníbal António Cavaco Silva - António Duarte Silva.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

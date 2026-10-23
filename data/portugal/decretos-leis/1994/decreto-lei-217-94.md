@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/192a00/48414846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/1994/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1994-218349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f567d9b4c1f8ea82b4b787e328fc6a37c62e5b054eabba3d91e4e4bc37517466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e136d4dd99320572948135d98d5bade73ecdaa0df6561a0760b4a916ae5bee9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1994/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1994/04/26/p/dre
+- type: cites
+  target: pt:dre:250585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70139953:por
+  label: Revogado, a partir de 30.09.2015, pelo(a) Lei n.º 117/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/117-2015-70139953
+  date: '2015-08-31'
 article_structure:
-  article_count: 63
+  article_count: 62
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:36Z'
   warnings: []
   errors: []
 ---
@@ -107,27 +124,27 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 9/94](https://diariodarepublica.pt/dr/detalhe/lei/9-1994-265542), de 26 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto Disciplinar dos Médicos, anexo ao presente diploma e do qual faz parte integrante.
+Artigo 1.º É aprovado o Estatuto Disciplinar dos Médicos, anexo ao presente diploma e do qual faz parte integrante.
 
-###### Art. 2.º Aos processos pendentes à data da entrada em vigor do presente diploma são aplicáveis as seguintes regras:
+Art. 2.º Aos processos pendentes à data da entrada em vigor do presente diploma são aplicáveis as seguintes regras:
 
 a) As normas relativas à responsabilização e à qualificação de infracções constantes do Estatuto anexo são aplicáveis na medida em que forem mais favoráveis ao arguido;
 
 b) As normas processuais são de aplicação imediata.
 
-###### Art. 3.º São revogados os artigos 68.º e 71.º do [Decreto-Lei n.º 282/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1977-250585), de 5 de Julho.
+Art. 3.º São revogados os artigos 68.º e 71.º do [Decreto-Lei n.º 282/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1977-250585), de 5 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto Disciplinar dos Médicos
 

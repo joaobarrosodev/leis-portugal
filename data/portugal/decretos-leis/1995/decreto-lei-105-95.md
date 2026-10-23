@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/1995/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1995-503655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a88cb89b6ab16f03ac26e2572a2b4692820d93a19d85ba05d28a5478b54e1cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99972ddc2362fe421aa3f335b3831d9f51442aa9e2c9e76428f45b981dabfa8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:122289406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551980:por
+  label: "Alterado o art. 13º do Dec Lei 90/92, de 21-maio, na redacção do presente diploma, pelo DEC LEI.108/2012.18.05.2012.PCM,\
+    \ DR.IS [97] de 18.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2012-551980
+  date: '2012-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/90/1992/05/21/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/108/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:522994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:37Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +128,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 108/91](https://diariodarepublica.pt/dr/detalhe/lei/108-1991-674430), de 17 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 11.º e 13.º do [Decreto-Lei n.º 90/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994), de 21 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 11.º e 13.º do [Decreto-Lei n.º 90/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994), de 21 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 11.º — Direito a transporte, ajudas de custo e senhas de presença
 
@@ -128,7 +142,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 108/91](https
 
 2 - A Repartição de Administração Geral compreende a Secção de Pessoal e Assuntos Gerais e a Secção de Contabilidade, Patrimonial e Aprovisionamento.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 90/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994), de 21 de Maio, o artigo 20.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 90/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994), de 21 de Maio, o artigo 20.º-A, com a seguinte redacção:
 
 ###### Artigo 20.º-A — Receitas próprias
 
@@ -144,12 +158,12 @@ Visto e aprovado em Conselho de Ministros de
 
 30 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

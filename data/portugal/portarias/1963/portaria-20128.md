@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20128-1963-687669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d930151909027c15651fc71dbafcb5f43040d9c202a60b5a6a575e64e0bf23d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4ab4595b51694782752ad4c460da8ab925cb9399f952566596c65396ba5745e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CABO Verde.Colónia Portuguesa
+- Força Naval
+- Orçamento
+- Reforço de Verbas
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:22Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +98,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 6), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 2500$00
+Artigo 3.º, n.º 6), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 2500$00
 
 tomando como contrapartida a seguinte disponibilidade da mesma tabela de despesa:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 11.º «Abono de família» ... 2500$00
+Artigo 11.º «Abono de família» ... 2500$00
 
 Presidência do Conselho, 19 de Outubro de 1963. - Nos termos do artigo 107.º da Constituição, o Presidente do Conselho, António de Oliveira Salazar.
 

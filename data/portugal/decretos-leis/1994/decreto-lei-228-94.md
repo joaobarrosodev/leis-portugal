@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/212a00/54715472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/1994/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1994-592337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2582b841714e8e07ecc9c79adec0ad80ee552f9d2aa4480fa3c922a833b04d12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72ce6a0c615b52f120ab21f5003be4ecb7565c20a72dcf845234ba13a57ffe69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,21 @@ relationships:
   target: celex:31991L0659
   label: null
   source: http://data.europa.eu/eli/dir/1991/659/oj
+- type: repealed_by
+  target: pt:dre:226187:por
+  label: "Revogado, pelo DEC LEI.101/2005.23.06.2005.MEI, DR.IS-A [119] de 23.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2005-226187
+  date: '2005-06-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:53Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +109,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º e 16.º a 19.º do Decreto-Lei n.º 28/87, de 14 de Janeiro, com a redacção que lhe foi dada pelo artigo único do Decreto-Lei n.º 138/88, de 22 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º e 16.º a 19.º do Decreto-Lei n.º 28/87, de 14 de Janeiro, com a redacção que lhe foi dada pelo artigo único do Decreto-Lei n.º 138/88, de 22 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - É proibida a comercialização e utilização das fibras de amianto mencionadas no n.º 1) do artigo 4.º, bem como dos produtos a que as mesmas tenham sido adicionadas, à excepção do crisótilo (n.º CAS 12001-29-5).
+Art. 5.º - 1 - É proibida a comercialização e utilização das fibras de amianto mencionadas no n.º 1) do artigo 4.º, bem como dos produtos a que as mesmas tenham sido adicionadas, à excepção do crisótilo (n.º CAS 12001-29-5).
 
 2 - A comercialização e a utilização de produtos contendo fibras de crisótilo é proibida em:
 
@@ -140,11 +145,11 @@ n) Diafragmas para processos de electrólise, a partir de 31 de Dezembro de 1988
 
 o) Feltros para telhados.
 
-###### Art. 16.º - 1 - A fiscalização do cumprimento do presente diploma compete às delegações regionais da indústria e energia, à Inspecção-Geral das Actividades Económicas e à Direcção-Geral das Alfândegas, sem prejuízo das competências atribuídas por lei a outras entidades.
+Art. 16.º - 1 - A fiscalização do cumprimento do presente diploma compete às delegações regionais da indústria e energia, à Inspecção-Geral das Actividades Económicas e à Direcção-Geral das Alfândegas, sem prejuízo das competências atribuídas por lei a outras entidades.
 
 2 - As entidades fiscalizadoras, uma vez levantado o auto de notícia da infracção, procederão à instrução do respectivo processo e envio à entidade competente para a aplicação das coimas.
 
-###### Art. 17.º - 1 - Sem prejuízo de eventuais sanções de carácter penal, a violação do disposto nos artigos 5.º e 7.º a 13.º constitui contra-ordenação punível com coima de 100000$00 a 500000$00.
+Art. 17.º - 1 - Sem prejuízo de eventuais sanções de carácter penal, a violação do disposto nos artigos 5.º e 7.º a 13.º constitui contra-ordenação punível com coima de 100000$00 a 500000$00.
 
 2 - Se o infractor for uma pessoa colectiva, a coima aplicável pode elevar-se, em caso de dolo, até ao montante máximo de 6000000$00.
 
@@ -158,7 +163,7 @@ b) Suspensão de subsídios ou de benefícios de qualquer natureza atribuídos p
 
 c) Suspensão do exercício da actividade.
 
-###### Art. 18.º - 1 - A aplicação das coimas e sanções acessórias previstas no artigo anterior compete ao director da delegação regional do Ministério da Indústria e Energia em cuja área tenha sido verificada a infracção.
+Art. 18.º - 1 - A aplicação das coimas e sanções acessórias previstas no artigo anterior compete ao director da delegação regional do Ministério da Indústria e Energia em cuja área tenha sido verificada a infracção.
 
 2 - Os quantitativos das coimas aplicadas revertem para as seguintes entidades:
 
@@ -170,20 +175,20 @@ c) 20% para o serviço que tiver levantado o auto;
 
 d) 10% para a delegação regional cujo director tenha aplicado a coima.
 
-###### Art. 19.º A Direcção-Geral da Indústria acompanhará a aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar a ligação com a Comissão e os Estados membros da União Europeia.
+Art. 19.º A Direcção-Geral da Indústria acompanhará a aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar a ligação com a Comissão e os Estados membros da União Europeia.
 
-###### Art. 2.º É revogado o artigo 6.º do Decreto-Lei n.º 28/87, de 14 de Janeiro.
+Art. 2.º É revogado o artigo 6.º do Decreto-Lei n.º 28/87, de 14 de Janeiro.
 
-###### Art. 3.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
+Art. 3.º O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1994. - Aníbal António Cavaco Silva - Luís Filipe Alves Monteiro - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1994.**
+Referendado em 23 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

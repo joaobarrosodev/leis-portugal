@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/1994/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1994-291639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edc237a736e6db835c72f5451e83b5596aeabf35c705c4b7621a28de395c3367
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5538b1b451e559e14b575b1c42e13605beb1465f517eaca5424082bc587acbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Combustível
 - Concurso Público
 - Contrato de Concessão
-- Combustível
-- Lisboa
 - Gasoduto
 - Importação
+- Lisboa
 - Normas de Construção
-- Serviço Público
 - Regulamento
 - Segurança dos Edifícios
+- Serviço Público
 - ZONA Urbana
 relationships:
 - type: amended_by
   target: pt:dre:406096:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406096:por
+  label: "Alterados os arts. 1º, 2º, 3º e 7º do Dec Lei 232/90 de 16-Jul, na redacção do presente diploma, pelo DEC LEI.7/2000.2000.02.03.MECO\
+    \ DR.IS-A [28]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2000-406096
+  date: '2000-02-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/274-c/1993/08/04/p/dre
   label: null
@@ -110,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1993/10/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1993/10/18/p/dre
+- type: cites
+  target: pt:dre:217373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668725:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:54Z'
   warnings: []
   errors: []
 ---
@@ -144,9 +182,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As bases XIII, XIV, XXII, XXIII, XXVI, XXVII, XXXI, XXXVIII, XXXIX e XL do anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º As bases XIII, XIV, XXII, XXIII, XXVI, XXVII, XXXI, XXXVIII, XXXIX e XL do anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro, passam a ter a seguinte redacção:
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - ...
 
@@ -158,7 +198,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - Os preços a praticar para o GN fornecido pela concessionária aos consumidores domésticos e comerciais são fixados mediante homologação dos Ministros da Indústria e Energia e do Comércio e Turismo da proposta que lhes é apresentada pela concessionária.
 
-###### Base XIV — Revisão dos preços
+Base XIV
+
+Revisão dos preços
 
 1 - Os preços serão revistos de acordo com um mecanismo que contemplará:
 
@@ -178,7 +220,9 @@ ii) No que diz respeito à variação prevista do preço de aquisição dos gás
 
 3 - Os preços objecto de revisão são fixados mediante homologação dos Ministros da Indústria e Energia e do Comércio e Turismo da proposta que lhes é apresentada pela concessionária e cujo conteúdo deve ser, no caso previsto no n.º 4 da base anterior, negociado entre as partes.
 
-###### Base XXII — Garantia do cumprimento das obrigações contratuais
+Base XXII
+
+Garantia do cumprimento das obrigações contratuais
 
 1 - Para garantia do cumprimento das obrigações assumidas, no âmbito da concessão, deverá a concessionária prestar uma caução no montante de 200000000$00.
 
@@ -188,17 +232,23 @@ ii) No que diz respeito à variação prevista do preço de aquisição dos gás
 
 4 - ...
 
-###### Base XXIII — [...]
+Base XXIII
+
+[...]
 
 A concessionária obriga-se a manter, a expensas suas e durante todo o prazo de vigência da concessão, as infra-estruturas necessárias à exploração, em bom estado de funcionamento, conservação e segurança, efectuando para tanto as necessárias reparações e renovações por forma que as mesmas possam reverter para o Estado, no termo da concessão, em adequadas condições de funcionamento.
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 1 - A concessionária promoverá, com antecedência de dois anos relativamente à data prevista para a chegada do GN, a instituição de um centro de investigação e de formação de pessoal especializado em tecnologias e utilização final do gás natural.
 
 2 - Esta obrigação poderá ser cumprida designadamente através da instituição de centros de investigação e de formação de pessoal conjuntamente com outras concessionárias de distribuição e com a concessionária do serviço público de importação, transporte e fornecimento de gás natural ou em associação ou participação com outros centros de investigação ou de formação com objectivos idênticos.
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punidas com multa de 500000$00 a 25000000$00, variando o respectivo montante em função do grau de culpa, dos riscos daí derivados para a segurança do sistema e de terceiros, dos prejuízos efectivamente causados e da diligência que tenha posto na superação da suas consequências.
 
@@ -212,7 +262,9 @@ A concessionária obriga-se a manter, a expensas suas e durante todo o prazo de 
 
 6 - ...
 
-###### Base XXXI — [...]
+Base XXXI
+
+[...]
 
 1 - No termo da concessão, as infra-estruturas revertem para o Estado, livres de quaisquer ónus ou encargos, salvo aqueles que tiverem sido autorizados pelo Ministro da Indústria e Energia.
 
@@ -222,11 +274,15 @@ A concessionária obriga-se a manter, a expensas suas e durante todo o prazo de 
 
 4 - Para efeitos de cálculo da indemnização a que se refere o número anterior, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiências da concessionária na sua manutenção ou reparação, será determinado de acordo com o estado de funcionamento efectivo.
 
-###### Base XXXVIII — [...]
+Base XXXVIII
+
+[...]
 
 A concessionária pode recorrer aos fundos comunitários, disponibilizados ou a disponibilizar pelo concedente de acordo com os respectivos programas, para o financiamento do objecto da concessão, nos montantes que vierem a ser acordados caso a caso com o mesmo concedente e definidos no contrato de concessão e suas alterações.
 
-###### Base XXXIX — Garantia da construção das infra-estruturas
+Base XXXIX
+
+Garantia da construção das infra-estruturas
 
 1 - Para garantia do cumprimento das obrigações relativas à construção das infra-estruturas, a concessionária prestará, em simultâneo com a prevista base XXII, uma caução de valor correspondente a 20% do investimento estimado para os três anos subsequentes, a qual será anualmente actualizada.
 
@@ -234,7 +290,9 @@ A concessionária pode recorrer aos fundos comunitários, disponibilizados ou a 
 
 3 - A concessionária actualizará a caução pelo valor por si apresentado à Direcção-Geral de Energia se esta se não pronunciar em contrário no prazo de 30 dias após a apresentação dos documentos justificativos.
 
-###### Base XL — [...]
+Base XL
+
+[...]
 
 1 - Pelo incumprimento não justificado dos prazos de construção das infra-estruturas a que se obriga no contrato de concessão, a concessionária será penalizada com a multa diária de 1000000$00.
 
@@ -242,11 +300,11 @@ A concessionária pode recorrer aos fundos comunitários, disponibilizados ou a 
 
 3 - A multa diária a que se refere o n.º 1 terá natureza adstritiva, ficando a sua execução suspensa até que, por despacho do Ministro, se decida não ter havido recuperação sensível do atraso que deu lugar à sua aplicação.
 
-###### Art. 2.º - 1 - As referências feitas à concessionária do terminal e gasoduto, à transportadora ou à concessionária do gasoduto de transporte, em qualquer das bases do anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), devem entender-se como dirigidas à concessionária do serviço público da importação, transporte e fornecimento de gás natural.
+Art. 2.º - 1 - As referências feitas à concessionária do terminal e gasoduto, à transportadora ou à concessionária do gasoduto de transporte, em qualquer das bases do anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), devem entender-se como dirigidas à concessionária do serviço público da importação, transporte e fornecimento de gás natural.
 
 2 - As alterações constantes do artigo 1.º são aplicáveis igualmente às bases XIII, XIV, XXIII e XXXVIII anexas ao [Decreto-Lei n.º 333/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1991-304533), de 6 de Setembro, respeitante à concessão da rede de distribuição regional de Lisboa, sem prejuízo de o n.º 6 da base XIII anexa ao referido diploma se manter em vigor.
 
-###### Art. 3.º O artigo 31.º do [Decreto-Lei n.º 32/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1991-495570), de 16 de Janeiro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 31.º do [Decreto-Lei n.º 32/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1991-495570), de 16 de Janeiro, passa a ter a seguinte redacção:
 
 ###### Artigo 31.º — [...]
 
@@ -266,7 +324,7 @@ e) ...
 
 3 - ...
 
-###### Art. 4.º Os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 232/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1990-575770), de 16 de Julho, passam a ter a seguinte redacção:
+Art. 4.º Os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 232/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1990-575770), de 16 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -370,18 +428,18 @@ c) Normas portuguesas;
 
 d) Na falta das normas referidas nas alíneas anteriores, as aceites, para o efeito, pela Direcção-Geral de Energia.
 
-###### Art. 5.º - 1 - As sociedades concessionárias da rede de distribuição regional de gás natural poderão propor ao Ministro da Indústria e Energia a revisão dos respectivos contratos de concessão, de molde a adaptar o seu clausulado ao disposto no Código do Procedimento Administrativo e no presente diploma.
+Art. 5.º - 1 - As sociedades concessionárias da rede de distribuição regional de gás natural poderão propor ao Ministro da Indústria e Energia a revisão dos respectivos contratos de concessão, de molde a adaptar o seu clausulado ao disposto no Código do Procedimento Administrativo e no presente diploma.
 
 2 - A revisão do contrato deve fazer-se através de apostilha, que deve ser acordada e assinada até três meses após a data da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Alexandre Carlos de Mello Vieira Costa Relvas - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 1 de Junho de 1994.**
+Promulgado em 1 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Junho de 1994.**
+Referendado em 3 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

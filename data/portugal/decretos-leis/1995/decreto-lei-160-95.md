@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/1995/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1995-463657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0c654842f260cfba5198862af2671e820324cf41323236fb5dc706e30e82249
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f451237e4d0abba0976632dae665927f97df5038b77793651785bf0b8a4e27f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Sociedade Comercial
-- Contribuições e Impostos
-- IRC
 - Benefícios Fiscais
-- Direcção Geral das Contribuições e Impostos
 - Comércio
+- Contribuições e Impostos
+- Direcção Geral das Contribuições e Impostos
+- Empresa
+- IRC
+- Sociedade Comercial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1995/05/31/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527410:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:50Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +117,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 37.° da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.° da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.° O presente diploma estabelece um regime de benefícios fiscais aplicável às micro e pequenas empresas, considerando-se como tais as que, no exercício de 1995, tenham um número médio de trabalhadores superior a 3 e inferior a 20 e um volume de negócios não superior a 500000 contos.
+Artigo 1.° O presente diploma estabelece um regime de benefícios fiscais aplicável às micro e pequenas empresas, considerando-se como tais as que, no exercício de 1995, tenham um número médio de trabalhadores superior a 3 e inferior a 20 e um volume de negócios não superior a 500000 contos.
 
-###### Art. 2.° - 1 - As sociedades comerciais ou civis sob forma comercial, com sede e direcção efectiva em território português, abrangidas pelo presente diploma que se tenham constituído ou venham a constituir no ano de 1995 podem deduzir no seu lucro tributável 95% do mesmo, para efeitos de imposto sobre o rendimento das pessoas colectivas (IRC) respeitante aos exercícios de 1995, 1996 e 1997, na parte que não diga respeito a rendimentos de capitais ou rendimentos prediais.
+Art. 2.° - 1 - As sociedades comerciais ou civis sob forma comercial, com sede e direcção efectiva em território português, abrangidas pelo presente diploma que se tenham constituído ou venham a constituir no ano de 1995 podem deduzir no seu lucro tributável 95% do mesmo, para efeitos de imposto sobre o rendimento das pessoas colectivas (IRC) respeitante aos exercícios de 1995, 1996 e 1997, na parte que não diga respeito a rendimentos de capitais ou rendimentos prediais.
 
 2 - A dedução a que se refere o número anterior é feita nos termos do n.º 2) da alínea a) do n.º 1 do artigo 15.° do Código do IRC e só será aplicável quando, relativamente às sociedades em causa, se verifiquem cumulativamente os seguintes requisitos:
 
@@ -129,28 +137,28 @@ a) Os sócios pessoas singulares das sociedades aí mencionadas, bem como o seu 
 
 b) O volume de negócios seja constituído em mais de 50% por serviços relativos ao exercício de uma actividade constante da lista anexa ao Código do IRS ou por ganhos derivados da alienação de imóveis, partes de capital ou outros valores mobiliários.
 
-###### Art. 3.° A constituição e o registo das sociedades comerciais ou civis sob forma comercial mencionadas no n.º 1 do artigo anterior são isentos de quaisquer emolumentos e outros encargos legais desde que sejam observadas as condições referidas no n.º 2 do mesmo artigo.
+Art. 3.° A constituição e o registo das sociedades comerciais ou civis sob forma comercial mencionadas no n.º 1 do artigo anterior são isentos de quaisquer emolumentos e outros encargos legais desde que sejam observadas as condições referidas no n.º 2 do mesmo artigo.
 
-###### Art. 4.° O aumento do capital social das sociedades abrangidas pelo presente diploma realizado por entradas de numerário ou conversão de suprimentos em 1995 é isento de quaisquer emolumentos e outros encargos legais.
+Art. 4.° O aumento do capital social das sociedades abrangidas pelo presente diploma realizado por entradas de numerário ou conversão de suprimentos em 1995 é isento de quaisquer emolumentos e outros encargos legais.
 
-###### Art. 5.° - 1 - A sociedade deve declarar, até 31 de Dezembro de 1996, perante as entidades competentes para a liquidação dos emolumentos e encargos legais referidos nos artigos 3.° e 4.°, o cumprimento dos requisitos de que depende a sua qualificação como micro e pequena empresa, sob pena de se proceder à cobrança coerciva daquelas receitas.
+Art. 5.° - 1 - A sociedade deve declarar, até 31 de Dezembro de 1996, perante as entidades competentes para a liquidação dos emolumentos e encargos legais referidos nos artigos 3.° e 4.°, o cumprimento dos requisitos de que depende a sua qualificação como micro e pequena empresa, sob pena de se proceder à cobrança coerciva daquelas receitas.
 
 2 - Em caso de não cumprimento dos requisitos de que depende a sua qualificação como micro e pequena empresa, deve a sociedade proceder ao pagamento dos emolumentos e dos outros encargos legais referidos nos artigos 3.° e 4.° até ao fim do mês seguinte ao da verificação dessa não observância.
 
-###### Art. 6.° Relativamente às empresas abrangidas pelo presente diploma, o crédito fiscal por investimento estabelecido no [Decreto-Lei n.º 121/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1995-527410) de 31 de Maio é de 10% do investimento adicional relevante efectuado no período de tributação que se inicia em 1995, podendo o mesmo ser feito até à concorrência de 30% do montante apurado nos termos da alínea a) do n.º 1 do artigo 71.° do Código do IRC.
+Art. 6.° Relativamente às empresas abrangidas pelo presente diploma, o crédito fiscal por investimento estabelecido no [Decreto-Lei n.º 121/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1995-527410) de 31 de Maio é de 10% do investimento adicional relevante efectuado no período de tributação que se inicia em 1995, podendo o mesmo ser feito até à concorrência de 30% do montante apurado nos termos da alínea a) do n.º 1 do artigo 71.° do Código do IRC.
 
-###### Art. 7.° Compete à Direcção-Geral das Contribuições e Impostos verificar os requisitos necessários à aplicação do presente diploma, comunicando à Direcção-Geral dos Registos e do Notariado os casos de não cumprimento, para efeitos do previsto no artigo 5.°
+Art. 7.° Compete à Direcção-Geral das Contribuições e Impostos verificar os requisitos necessários à aplicação do presente diploma, comunicando à Direcção-Geral dos Registos e do Notariado os casos de não cumprimento, para efeitos do previsto no artigo 5.°
 
-###### Art. 8.° O presente diploma produz efeitos desde 1 de Janeiro de 1995, podendo ser requerida à Direcção-Geral dos Registos e do Notariado a devolução dos emolumentos e outros encargos referidos nos artigos 3.° e 4.°, entretanto pagos.
+Art. 8.° O presente diploma produz efeitos desde 1 de Janeiro de 1995, podendo ser requerida à Direcção-Geral dos Registos e do Notariado a devolução dos emolumentos e outros encargos referidos nos artigos 3.° e 4.°, entretanto pagos.
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

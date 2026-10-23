@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/044a00/07720789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7db30b96a1b1b7501c038d0719b131188bd76bcb80ec91f1118575ff934cc7ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 681d888467124624e8594763bfda352f0e66c954c56926bd896a79085be5c85b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
+- Contra-ordenação
+- Domínio Público Hídrico
 - Extracção de Inertes
 - Instituto da ÁGUA
-- Contra-ordenação
-- Recursos Hídricos
 - Licenciamento
-- Domínio Público Hídrico
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:1511695:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425291:por
+  label: "Alterados os arts. 45º, 46º, 47º e 48º, pelo DEC LEI.234/98.1998.07.22.MAM DR.IS-A [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1998-425291
+  date: '1998-07-22'
+- type: amended_by
+  target: pt:dre:553431:por
+  label: "Alterados os arts. 3º, 4º, 5º, 13º e 36º do Dec Lei 468/71 de 01-Nov, com as alterações introduzidas pelo presente\
+    \ diploma, pela LEI.16/2003.2003.06.04.AR DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2003-553431
+  date: '2003-06-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/1992/09/29/p/dre
   label: null
@@ -85,16 +96,150 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:159281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469068:por
+  label: "Revogado o presente diploma, nos termos do nº2 do art. 98º, na data da entrada em vigor dos actos legislativos previstos\
+    \ nos nºs. 1 e 2 do art. 102º pela LEI.58/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
 article_structure:
-  article_count: 90
+  article_count: 91
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:12Z'
   warnings: []
   errors: []
 ---
@@ -1321,7 +1466,9 @@ a) Memória descritiva com indicação da área a utilizar, seus limites, cultur
 
 b) Documento comprovativo da legitimidade sobre o terreno.
 
-### CAPÍTULO III — Artigo 85.º
+### CAPÍTULO III
+
+###### Artigo 85.º
 
 Fiscalização
 
@@ -1515,12 +1662,12 @@ cc) A [Portaria n.º 43/85](https://diariodarepublica.pt/dr/detalhe/portaria/43-
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Janeiro de 1994.**
+Referendado em 27 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

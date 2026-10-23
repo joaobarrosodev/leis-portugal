@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/1994/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1994-297218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23ec5aa7967268535b9d91db3ae7a64339ee195c26217cb696e4e8781d20a907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53ba3cfbec9e9fdf0897c8076542c3fe976b1e17e9a87f0f081d4231ccfef21c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/1/1994/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/1/1994/02/19/p/dre
+- type: cites
+  target: pt:dre:332906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:11Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +130,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 1/94](https://diariodarepublica.pt/dr/detalhe/lei/1-1994-516035), de 19 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Disciplinar da Polícia Judiciária, publicado em anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento Disciplinar da Polícia Judiciária, publicado em anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º O artigo 53.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 53.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 53.º — [...]
 
@@ -140,25 +156,25 @@ d) A nomeação dos secretários.
 
 3 - O Gabinete Técnico Disciplinar é dirigido por um magistrado judicial ou do Ministério Público, em comissão de serviço, sendo-lhe aplicável o disposto no artigo 98.º do presente diploma.
 
-###### Art. 3.º Os processos relativos a factos praticados antes da entrada em vigor do Regulamento regem-se pelas seguintes regras:
+Art. 3.º Os processos relativos a factos praticados antes da entrada em vigor do Regulamento regem-se pelas seguintes regras:
 
 a) As normas relativas à qualificação das infracções e às penas e medidas disciplinares constantes do Regulamento anexo são aplicáveis na medida em que forem mais favoráveis ao arguido;
 
 b) As restantes normas são de aplicação imediata.
 
-###### Art. 4.º O Regulamento entra em vigor 60 dias após a data da publicação do presente diploma.
+Art. 4.º O Regulamento entra em vigor 60 dias após a data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 1 de Julho de 1994.**
+Promulgado em 1 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Julho de 1994.**
+Referendado em 5 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento Disciplinar da Polícia Judiciária
 

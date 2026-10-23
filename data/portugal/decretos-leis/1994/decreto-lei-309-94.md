@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/309/1994/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1994-571603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1846ade163460c9cddab4b842727507cac3d1dcaf939de56e165d7ab2faaebc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72812452f669499ca378ec4d779e584621137f06e38f5b0b5061925e3b128bf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
 - Extinção de Empresas
 - Privatização
 - Rodoviária de Lisboa
 - Rodoviária Nacional Investimentos e Participações
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:563025:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563025:por
+  label: "Alterado o art. 10º pelo DEC LEI.235/95.1995.09.13.MF, DR.IS-A [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-1995-563025
+  date: '1995-09-13'
+- type: cites
+  target: pt:dre:313844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:34Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +121,11 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º l do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da sociedade Rodoviária de Lisboa, S. A., de que é única titular a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
+Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da sociedade Rodoviária de Lisboa, S. A., de que é única titular a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
 
 2 - A reprivatização referida no número anterior realizar-se-á nos termos do presente diploma.
 
-###### Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 25% do capital social da sociedade a alienar.
+Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 25% do capital social da sociedade a alienar.
 
 2 - Será ainda efectuada a alienação em bloco de um lote de acções correspondente a, pelo menos, 75% do capital social da sociedade, a alienar em leilão competitivo.
 
@@ -120,7 +133,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - Para efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas referidas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades máximas e mínimas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio em função do número de subscritores, se disso for caso.
 
@@ -130,7 +143,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 5 - Nos 15 dias seguintes ao termo do processo de reprivatização, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular.
 
-###### Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
+Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
 
 2 - A mesma resolução fixará preços especiais fixos para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
 
@@ -146,19 +159,19 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 8 - As acções adquiridas por pequenos subscritores e emigrantes não conferem o direito de voto durante o período de indisponibilidade.
 
-###### Art. 5.º As concessões de transporte colectivo de passageiros de que, nos termos da legislação em vigor, seja detentora a sociedade objecto de reprivatização à data da sua alienação e tenham o termo do seu prazo no período de cinco anos a contar daquela data serão necessariamente prorrogadas até ao fim deste período, excepto se, comprovadamente, for afectado o interesse público.
+Art. 5.º As concessões de transporte colectivo de passageiros de que, nos termos da legislação em vigor, seja detentora a sociedade objecto de reprivatização à data da sua alienação e tenham o termo do seu prazo no período de cinco anos a contar daquela data serão necessariamente prorrogadas até ao fim deste período, excepto se, comprovadamente, for afectado o interesse público.
 
-###### Art. 6.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 6.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-###### Art. 7.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
+Art. 7.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
 
-###### Art. 8.º Para efeitos da primeira assembleia geral de accionistas da Rodoviária de Lisboa, S. A., não serão consideradas as transmissões de acções subsequentes às operações de reprivatização até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Art. 8.º Para efeitos da primeira assembleia geral de accionistas da Rodoviária de Lisboa, S. A., não serão consideradas as transmissões de acções subsequentes às operações de reprivatização até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
 
-###### Art. 9.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 9.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma a sociedade deverá proceder às necessárias adaptações estatutárias.
 
-###### Art. 10.º - 1 - É extinta a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
+Art. 10.º - 1 - É extinta a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
 
 2 - A extinção efectivar-se-á no último dia do 3.º mês seguinte à reprivatização da Rodoviária de Lisboa, S. A.
 
@@ -166,12 +179,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

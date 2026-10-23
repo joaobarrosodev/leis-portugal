@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/1994/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1994-218347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cae1c6488a877418ccbff2040b7e1eb833d640881382a7a8e8db7aa208dee39e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7185654bec9a898b2aaf5bb4c2957ae81be2be2f618fe446b0e790cd925fcf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,142 @@ relationships:
   target: pt:dre:118950630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492203:por
+  label: "Alterado o art. 112º-A do Código do Registo Comercial, aprovado pelo Dec-Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.257/96.31.12.1996.MJ, DR.IS-A [302] de 31.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1996-492203
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:217934:por
+  label: "Alterado o art. 42.º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.368/98.23.11.1998.MJ, DR.IS-A [271] de 23.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/368-1998-217934
+  date: '1998-11-23'
+- type: amended_by
+  target: pt:dre:138779:por
+  label: "Determinada a suspensão da obrigatoriedade de legalização dos livros a que se refere o Art. 112º-A do Código do\
+    \ Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente diploma e do Dec Lei 257/96 de 31-Dez,\
+    \ pelo DEC LEI.105/99.1999.03.31.MJ, DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1999-138779
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:311260:por
+  label: "Alterado o art. 42.º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.198/99.1999.06.08.MJ DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1999-311260
+  date: '1999-06-08'
+- type: amended_by
+  target: pt:dre:667144:por
+  label: "Alterado o art. 15º do Código do Registo Comercial aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.410/99.1999.10.15.MJ, DR.IS-A [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/410-1999-667144
+  date: '1999-10-15'
+- type: amended_by
+  target: pt:dre:553421:por
+  label: "Alterado o art. 69º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.107/2003.2003.06.04.MF DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2003-553421
+  date: '2003-06-04'
+- type: amended_by
+  target: pt:dre:538423:por
+  label: "Alterados os art.s 9º, 10º, 64º e 69º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na\
+    \ redacção do presente diploma, pelo DEC LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004, a partir da data de entrada\
+    \ em vigor estabelecida no art. 13º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterados os art.s 14º, 15º, 27º, 69º, 70º e 112º-B do Código do Registo Comercial, aprovado pelo Dec Lei 403/86,\
+    \ de 03-Dez, na redacção do presente diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterados o nº 2 do art. 14º, al. c) do nº 1 do art. 55º e nº 4 do art. 70º do Código do Registo Comercial, aprovado\
+    \ pelo Dec Lei 403/86 de 03-Dez, na redacção do presente diploma, pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de\
+    \ 08.07.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterado, a partir de 30.03.2006, o art. 69º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 15º, 27º, 29º, 46º, 54º, 55º, 64º, 69º, 70º e 112º-B, do Código do Registo Comercial, aprovado\
+    \ pelo Dec Lei 403/86 de 03-Dez, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl]\
+    \ de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterados os arts. 15º, 29º, 42º, 46º e 112º-B e revogado o nº 4 do art. 42º do Código Registo Comercial aprovado\
+    \ pelo Dec Lei 403/86 de 03-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS\
+    \ [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:642051:por
+  label: "Alterado o art. 42º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.318/2007.26.09.2007.MJ, dr.is [186] de 26.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-2007-642051
+  date: '2007-09-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 15º, 46º, 54º e 64º e revogada a al. i) do nº 1 do art. 64º do Código do Registo Comercial, aprovado\
+    \ pelo Dec Lei 403/86, de 03-Dez, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de\
+    \ 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art. 15.º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez,\
+    \ na redacção do presente diploma, republicado pelo Dec Lei 76-A/2006 de 29-Mar, pelo DEC LEI.292/2009.13.10.2009.MFAP,\
+    \ DR.IS [198] de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:191168:por
+  label: "Alterados a partir de 03.12.2012 os arts. 42º e 46º do Código do Registo Comercial aprovado pelo Dec Lei 403/86,\
+    \ de 03-dez, na redação do presente diploma, pelo DEC LEI.250/2012.23.11.2012.MJ, DR.IS [227] de 23.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2012-191168
+  date: '2012-11-23'
+- type: amended_by
+  target: pt:dre:118950630:por
+  label: Alterado, a partir de 01.07.2019, o art. 42.º do Código do Registo Comercial aprovado pelo Dec Lei 403/86, de 03-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2019-118950630
+  date: '2019-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165254:por
+  label: "Rectificado o n.º 1 do artigo 69.º pela DECL-RECT.144/94.30.09.1994.PCM, DR.IS-A [227]2ºSupl de 30.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/144-1994-165254
+  date: '1994-09-30'
 article_structure:
-  article_count: 17
+  article_count: 16
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:36Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +232,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 9.º, 10.º, 14.º, 15.º, 27.º, 29.º, 42.º, 46.º, 54.º, 55.º, 64.º, 69.º e 70.º do Código do Registo Comercial, aprovado pelo [Decreto-Lei n.º 403/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1986-221517), de 3 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 9.º, 10.º, 14.º, 15.º, 27.º, 29.º, 42.º, 46.º, 54.º, 55.º, 64.º, 69.º e 70.º do Código do Registo Comercial, aprovado pelo [Decreto-Lei n.º 403/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1986-221517), de 3 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -364,7 +486,7 @@ e) Os previstos nas alíneas c) e d) do artigo 10.º
 
 4 - Os actos previstos nas alíneas a), q) e s) do artigo 3.º devem ainda ser publicados, por extracto, num jornal da localidade da sede da sociedade ou da região respectiva, quando respeitem a sociedades por quotas ou anónimas.
 
-###### Art. 2.º Ao Código do Registo Comercial, aprovado pelo [Decreto-Lei n.º 403/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1986-221517), de 3 de Dezembro, são aditados os artigos 112.º-A e 112.º-B, que passam a integrar um novo capítulo VIII, com a seguinte redacção:
+Art. 2.º Ao Código do Registo Comercial, aprovado pelo [Decreto-Lei n.º 403/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1986-221517), de 3 de Dezembro, são aditados os artigos 112.º-A e 112.º-B, que passam a integrar um novo capítulo VIII, com a seguinte redacção:
 
 ### CAPÍTULO VIII — Outros actos
 
@@ -394,16 +516,16 @@ e) Os previstos nas alíneas c) e d) do artigo 10.º
 
 6 - Tratando-se de projecto de fusão de sociedades, é competente para efectuar a nomeação uma das conservatórias onde estiver situada a sede de qualquer das sociedades envolvidas no processo.
 
-###### Art. 3.º O anterior capítulo VIII do diploma ora alterado passa a constituir o capítulo IX.
+Art. 3.º O anterior capítulo VIII do diploma ora alterado passa a constituir o capítulo IX.
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 28 de Julho de 1994.**
+Promulgado em 28 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1994-515807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bf74352b4f073a293ede043396afa268a8bd3a7da9d15cafb2c393dd5c0ea0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7cdfdd42dfe4cf807603819aa26bf614f0e7b1d3b4a6764c23270751b7c6333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Multa
 - Direcção Geral dos Recursos Naturais
-- Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Domínio Público Hídrico
+- Instituto da ÁGUA
+- Instituto de Estruturas Agrárias e Desenvolvimento Rural
+- Multa
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:469068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384183:por
+  label: "Alterados os arts 15º e 24º pelo Dec Lei 113/97.1997.05.10.MAM, DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-1997-384183
+  date: '1997-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
@@ -85,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:324482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469068:por
+  label: Revogado o presente diploma, nos termos do nº2 do art. 98º, na data da entrada em vigor dos actos legislativos previstos
+    nos nºs. 1 e 2 do art. 102º do presente diploma, pela LEI.58/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
 article_structure:
   article_count: 25
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:17Z'
   warnings: []
   errors: []
 ---
@@ -235,7 +258,7 @@ p = valor médio de cada metro quadrado de terreno na área contígua à área o
 
 1 - A taxa de utilização de rejeição de águas residuais é calculada de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf))](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
 
 2 - No caso de os utilizadores efectuarem tratamento de efluentes, o valor da taxa a pagar é reduzido em função da eficiência desse tratamento relativamente aos parâmetros taxados.
 
@@ -491,15 +514,15 @@ As competências atribuídas à Direcção-Geral dos Recursos Naturais pelo [Dec
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Luís António Damásio Capoulas - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Valor atribuído a cada metro cúbico de água captada (K1)
 
@@ -527,16 +550,16 @@ Em cada ano é definido por portaria do Ministro do Ambiente e Recursos Naturais
 
 O valor de C1 assume os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf))](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
 
 4 - O coeficiente de disponibilidade (C2) diz respeito ao balanço entre disponibilidades e necessidades de cada bacia hidrográfica, no período mais seco do ano.
 
 O valor de C2 assume os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf))](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
 
 5 - O coeficiente de intensidade (C3) diz respeito aos volumes captados unitariamente por cada utilizador, comparados com os recomendados pelos planos de bacia hidrográfica para cada tipo de utilização.
 
 O valor de C3 assume os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf))](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/044a00/07890795.pdf)

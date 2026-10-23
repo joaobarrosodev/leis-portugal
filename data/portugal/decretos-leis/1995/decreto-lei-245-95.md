@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/1995/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1995-563987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f55cb1ec89c52ce7efb4fcda5f258b47858fa20b281a949d729c6a9471beb67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 105bb8ba2f85faadf1c95ffb5dae2a6b601d586021dfb5596070ce5fa0a2cec2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,33 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Ajudas de Custo
-- Tempo de Serviço
-- Sanção Disciplinar
-- Reestruturação de Serviços
 - Aquisição de Bens e Serviços
-- Formação Profissional
-- Pessoal Dirigente
+- Avaliação do Pessoal
 - Comissão de Serviço
-- Segurança Interna
 - Definição de Competências
 - Diretor Geral
 - Equivalência de Categorias
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Ministro das Finanças
-- Primeiro-ministro
-- Integração de Trabalhadores
-- Orgânica
-- Serviço Público
 - Estágio de Formação
+- Formação Profissional
+- Formas de Provimento
+- Integração de Trabalhadores
+- Ministro da Administração Interna
+- Ministro das Finanças
+- Orgânica
+- Pessoal Dirigente
+- Primeiro-ministro
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Regime de Pessoal
 - Remuneração
-- Sistema de Informações da República Portuguesa
+- Sanção Disciplinar
 - Segredo Profissional
+- Segurança Interna
 - Serviço de Informações de Segurança
-- Ministro da Administração Interna
-- Avaliação do Pessoal
+- Serviço Público
+- Sistema de Informações da República Portuguesa
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:517985:por
@@ -119,16 +119,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/1995/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/1995/02/21/p/dre
+- type: cites
+  target: pt:dre:183013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469069:por
+  label: "Revoga o art. 39º do Dec Lei 225/85 de 04-Jul, alterado pelo presente diploma, pelo DEC LEI.229/2005.29.12.2005.MFAP,\
+    \ DR.IS-A [249] de 29.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2005-469069
+  date: '2005-12-29'
+- type: repealed_by
+  target: pt:dre:517985:por
+  label: "Revogado o Dec Lei 225/85 de 04-Jul, na redacção do presente diploma, pela LEI.9/2007.19.02.2007.AR, DR.IS [35]\
+    \ de 19.02.2007, sem prejuízo do disposto no art. 71º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2007-517985
+  date: '2007-02-19'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:35Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +201,7 @@ Assim:
 
 No uso da autorização legislativa conferida pelo artigo 2.º da [Lei n.º 4/95](https://diariodarepublica.pt/dr/detalhe/lei/4-1995-187112), de 21 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 19.º, 20.º, 21.º, 24.º, 26.º, 27.º, 28.º, 30.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 41.º, 42.º, 43.º, 44.º, 49.º, 57.º e 58.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, na redacção que lhe foi dada pelo [Decreto-Lei n.º 369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), de 7 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 19.º, 20.º, 21.º, 24.º, 26.º, 27.º, 28.º, 30.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 41.º, 42.º, 43.º, 44.º, 49.º, 57.º e 58.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, na redacção que lhe foi dada pelo [Decreto-Lei n.º 369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), de 7 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -499,17 +555,17 @@ d) A competência para homologar a classificação pertence ao director-geral do
 
 Quando razões de segurança interna ou relacionadas com a especificidade do serviço o justifiquem, podem os membros do Governo intervenientes determinar, referindo-o expressamente, a dispensa de publicitação dos actos necessários à execução dos diplomas do SIS.
 
-###### Art. 2.º É revogado o artigo 17.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho.
+Art. 2.º É revogado o artigo 17.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho.
 
-###### Art. 3.º As referências a direcção, a director e a director-adjunto do SIS que ainda constem dos textos dos Decretos-Leis n.os [225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013) e [369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), respectivamente de 4 de Julho e de 7 de Outubro, devem entender-se como correspondendo, as duas primeiras, a director-geral do SIS, e a terceira, a directores-gerais-adjuntos do SIS.
+Art. 3.º As referências a direcção, a director e a director-adjunto do SIS que ainda constem dos textos dos Decretos-Leis n.os [225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013) e [369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), respectivamente de 4 de Julho e de 7 de Outubro, devem entender-se como correspondendo, as duas primeiras, a director-geral do SIS, e a terceira, a directores-gerais-adjuntos do SIS.
 
-###### Art. 4.º O mapa I anexo ao [Decreto-Lei n.º 369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), de 7 de Outubro, é substituído pelo mapa I anexo ao presente diploma.
+Art. 4.º O mapa I anexo ao [Decreto-Lei n.º 369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), de 7 de Outubro, é substituído pelo mapa I anexo ao presente diploma.
 
-###### Art. 5.º A integração dos funcionários e agentes abrangidos pelo disposto na alínea b) do n.º 2 do artigo 28.º e no n.º 2 do artigo 30.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, na redacção que lhes foi dada pelo presente diploma, faz-se de acordo com a tabela de equivalências constante do mapa II anexo ao presente decreto-lei.
+Art. 5.º A integração dos funcionários e agentes abrangidos pelo disposto na alínea b) do n.º 2 do artigo 28.º e no n.º 2 do artigo 30.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), de 4 de Julho, na redacção que lhes foi dada pelo presente diploma, faz-se de acordo com a tabela de equivalências constante do mapa II anexo ao presente decreto-lei.
 
-###### Art. 6.º O artigo 3.º do [Decreto-Lei n.º 369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), de 7 de Outubro, passa a ter a seguinte redacção:
+Art. 6.º O artigo 3.º do [Decreto-Lei n.º 369/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1991-287975), de 7 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Sem prejuízo da exigência das condições e requisitos referidos nos artigos 40.º, 41.º e 42.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), dependerá de aprovação em estágio regulamentado por despacho do Ministro da Administração Interna o ingresso nas carreiras de técnico superior de informações, técnico de informações e técnico-adjunto de informações, o qual obedecerá também aos seguintes princípios:
+Art. 3.º - 1 - Sem prejuízo da exigência das condições e requisitos referidos nos artigos 40.º, 41.º e 42.º do [Decreto-Lei n.º 225/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1985-183013), dependerá de aprovação em estágio regulamentado por despacho do Ministro da Administração Interna o ingresso nas carreiras de técnico superior de informações, técnico de informações e técnico-adjunto de informações, o qual obedecerá também aos seguintes princípios:
 
 a) Os estagiários que tiverem vínculo à Administração Pública, durante o estágio, manterão o direito ao seu lugar no quadro de origem;
 
@@ -529,15 +585,15 @@ f) É aplicável aos estagiários já vinculados ao Estado a opção remunerató
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -557,4 +613,4 @@ MAPA II
 
 Tabela de equivalências a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/213a00/58025807.pdf))](https://files.diariodarepublica.pt/1s/1995/09/213a00/58025807.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/213a00/58025807.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1995/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1995-527407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40dd64a7fffac830e220a7f99f20c8b4a0365f2896b1044b3daff490dbd54bfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c81b4c7f85d45e8024bd2e0e1b841b6f63205e97321085e442a66dbffbcd0329
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Autonomia Administrativa
 - Descobrimentos Portugueses
 - Moeda Comemorativa
-- Açores
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:00Z'
   warnings: []
   errors: []
 ---
@@ -97,38 +109,38 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de duas moedas comemorativas do 1.º centenário da autonomia administrativa dos Açores e do 4.º centenário da morte de D. António, prior do Crato, com o valor facial de 100$00.
+Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de duas moedas comemorativas do 1.º centenário da autonomia administrativa dos Açores e do 4.º centenário da morte de D. António, prior do Crato, com o valor facial de 100$00.
 
 2 - As moedas referidas no número anterior serão cunhadas em liga de cupro-níquel 75/25, com 33 mm de diâmetro e 15 g de peso, com uma tolerância de mais ou menos 1,5% no peso e no toque, e terão bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso da moeda alusiva ao centenário da autonomia administrativa dos Açores apresenta, na metade inferior do campo, elementos geométricos ondulados simbolizando o mar, interceptados ao centro pelo escudo das armas nacionais, na metade superior, o logótipo oficial das comemorações deste centenário, sobreposto numa composição alegórica ao Sol, na orla superior, a legenda «República Portuguesa [([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/126a00/33973397.pdf))](https://files.diariodarepublica.pt/1s/1995/05/126a00/33973397.pdf) Açores», na orla inferior, o valor facial «100 Escudos» e, junto ao rebordo, uma cercadura de pérolas.
+Art. 2.º - 1 - A gravura do anverso da moeda alusiva ao centenário da autonomia administrativa dos Açores apresenta, na metade inferior do campo, elementos geométricos ondulados simbolizando o mar, interceptados ao centro pelo escudo das armas nacionais, na metade superior, o logótipo oficial das comemorações deste centenário, sobreposto numa composição alegórica ao Sol, na orla superior, a legenda «República Portuguesa [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126a00/33973397.pdf) Açores», na orla inferior, o valor facial «100 Escudos» e, junto ao rebordo, uma cercadura de pérolas.
 
 2 - A gravura do reverso apresenta, no centro do campo, um açor de asas abertas, tendo por cima as datas «1895/1995», em duas linhas, na orla superior, a legenda «1.º Centenário da Autonomia dos Açores», na orla inferior, nove estrelas representativas das ilhas açorianas e, junto ao rebordo, uma cercadura de pérolas.
 
-###### Art. 3.º - 1 - A gravura do anverso da moeda alusiva ao 4.º centenário da morte de D. António, prior do Crato, apresenta, na parte inferior esquerda do campo limitado por cercadura lisa, o escudo das armas nacionais, na parte superior esquerda, um açor poisado à direita, na parte direita do campo, uma composição com as cruzes que se encontram gravadas nas moedas cunhadas nos Açores em nome de D. António, respectivamente, a cruz da Ordem Militar de Santiago da Espada, a cruz da Ordem Militar de Avis, a cruz da Ordem Militar de Cristo, a cruz do monte Calvário, na orla superior, a legenda «República Portuguesa» e, na orla inferior, entre separadores de florões, o valor facial «100 Escudos».
+Art. 3.º - 1 - A gravura do anverso da moeda alusiva ao 4.º centenário da morte de D. António, prior do Crato, apresenta, na parte inferior esquerda do campo limitado por cercadura lisa, o escudo das armas nacionais, na parte superior esquerda, um açor poisado à direita, na parte direita do campo, uma composição com as cruzes que se encontram gravadas nas moedas cunhadas nos Açores em nome de D. António, respectivamente, a cruz da Ordem Militar de Santiago da Espada, a cruz da Ordem Militar de Avis, a cruz da Ordem Militar de Cristo, a cruz do monte Calvário, na orla superior, a legenda «República Portuguesa» e, na orla inferior, entre separadores de florões, o valor facial «100 Escudos».
 
 2 - A gravura do reverso apresenta, no campo limitado por cercadura lisa, o busto de D. António a três quartos à direita, de cabeça descoberta e barba, com armadura e gola encanudada, tendo à direita a cruz da Ordem de Malta, na orla superior, a legenda «D. António Prior do Crato» e, na orla inferior, entre separadores de florões, as datas «1595-1995».
 
-###### Art. 4.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 51500000$00.
+Art. 4.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 51500000$00.
 
-###### Art. 5.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 5000 espécimes numismáticos de prata, com acabamento «brilhante não circulado» (BNC), e até 10000 espécimes numismáticos de prata, com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 5.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 5000 espécimes numismáticos de prata, com acabamento «brilhante não circulado» (BNC), e até 10000 espécimes numismáticos de prata, com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 2 - Os espécimes numismáticos serão cunhados em liga de prata de toque 925/1000, com o diâmetro de 33 mm, peso de 18,5 g e o bordo serrilhado, sendo as tolerâncias no peso e no toque de mais ou menos 1/1000.
 
-###### Art. 6.º As moedas destinadas à distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal.
+Art. 6.º As moedas destinadas à distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 7.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto ao público, será afecto à Região Autónoma dos Açores, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
+Art. 7.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto ao público, será afecto à Região Autónoma dos Açores, nos termos do artigo 11.º do [Decreto-Lei n.º 293/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1986-587615), de 12 de Setembro.
 
-###### Art. 8.º As moedas cunhadas ao abrigo do presente diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 5000$00 nestas moedas.
+Art. 8.º As moedas cunhadas ao abrigo do presente diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 5000$00 nestas moedas.
 
 Visto e aprovado em Conselho de Ministros de 4 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

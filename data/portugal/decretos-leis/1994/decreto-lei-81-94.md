@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/1994/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1994-275451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9b0a4c04492a323cf582fc10992684de48d13d2a978c1aa8c8e1e7d1e6d39a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69a2df5aaaab8c2af4dda68e5de68fd3d71444ddf6b5a735fb0577e095dd109
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Comissão de Acompanhamento
 - Desenvolvimento Regional
-- Impresso
+- Direcção Geral do Desenvolvimento Regional
+- Financiamento
 - Fundo de Coesão
 - Fundos CE
+- Impresso
 - Infraestrutura dos Transportes
-- Direcção Geral do Desenvolvimento Regional
-- Proteção do Ambiente
 - Plano de Desenvolvimento
 - Projeto
+- Proteção do Ambiente
 - Regulamento
 relationships:
 - type: amended_by
@@ -99,16 +99,21 @@ relationships:
   target: celex:31993R0792
   label: null
   source: http://data.europa.eu/eli/reg/1993/792/oj
+- type: repealed_by
+  target: pt:dre:337845:por
+  label: "Revogado pelo DEC LEI.191/2000.2000.08.16.MPLA DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2000-337845
+  date: '2000-08-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:05Z'
   warnings: []
   errors: []
 ---
@@ -135,19 +140,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regulamento de Aplicação em Portugal do Fundo de Coesão/Instrumento Financeiro de Coesão e respectivos anexos, que fazem parte integrante do presente diploma.
+Artigo único. É aprovado o Regulamento de Aplicação em Portugal do Fundo de Coesão/Instrumento Financeiro de Coesão e respectivos anexos, que fazem parte integrante do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Vítor Ângelo da Costa Martins - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 11 de Fevereiro de 1994.**
+Promulgado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Fevereiro de 1994.**
+Referendado em 17 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento de Aplicação em Portugal do Fundo de Coesão/Instrumento Financeiro de Coesão
 
@@ -505,7 +510,7 @@ SIM NÃO
 
 7 - Calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf))](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
 
 Se a execução do projecto já tiver sido iniciada, indicar a situação actual dos trabalhos.
 
@@ -527,7 +532,7 @@ SIM NÃO
 
 9 - Custos totais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf))](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
 
 Notas
 
@@ -543,7 +548,7 @@ Ref. n.º...
 
 Projecto: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf))](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
 
 10 - Custos unitários:
 
@@ -595,7 +600,7 @@ SIM NÃO
 
 Em caso afirmativo, especificar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf))](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
 
 Em caso negativo, justificar: ...
 
@@ -789,7 +794,7 @@ O projecto afectará de forma significativa?
 
 Os biótopos de importância local, nacional ou internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf))](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
 
 Em caso afirmativo, de que forma?
 
@@ -837,7 +842,7 @@ Em caso afirmativo, quais?
 
 7 - Riscos. - Na zona onde se localiza o investimento existem sérios riscos de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf))](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/058a00/12081214.pdf)
 
 Em caso afirmativo, de que tipo?
 

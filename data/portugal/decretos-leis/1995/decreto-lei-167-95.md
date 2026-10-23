@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/162a00/45164518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/1995/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1995-460640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4beafef5133494c14e8634366447e2359c59bc9db7eaf17415325278c33023a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88bfbc27f383f1cd20999970323abe0444ae4e24434713d44cf7598fa71f22a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
 - Concurso Público
 - Delegação de Competências
 - Governo XII
 - Ministro das Finanças
 - Privatização
+- Sociedade Anónima
 - Tabaqueira
 relationships:
 - type: amended_by
   target: pt:dre:589278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECUSADA A RATIFICAÇÃO PELA RES 5/96 DE 15-DEZ 1995 DA AR DR.IS-A [13] DE 16/JAN/1996\0AN/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-01-16'
+- type: amended_by
+  target: pt:dre:589278:por
+  label: "Recusada a ratificação ao presente diploma, pela RES.5/96.16.01.1996.AR, DR.IS-A [13] de 16.01.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/5-1996-589278
+  date: '1996-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1991/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/1991/03/21/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471165:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:59Z'
   warnings: []
   errors: []
 ---
@@ -110,13 +128,13 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação, em duas fases, das acções representativas do capital social da Tabaqueira - Empresa Industrial de Tabacos, S. A., adiante designada por sociedade.
+Artigo 1.º É aprovada a alienação, em duas fases, das acções representativas do capital social da Tabaqueira - Empresa Industrial de Tabacos, S. A., adiante designada por sociedade.
 
-###### Art. 2.º - 1 - Na primeira fase será alienado, por concurso público, um lote indivisível de acções representativas de 80% do capital social da sociedade.
+Art. 2.º - 1 - Na primeira fase será alienado, por concurso público, um lote indivisível de acções representativas de 80% do capital social da sociedade.
 
 2 - O concurso público é aberto a entidades nacionais e estrangeiras, que poderão apresentar-se individualmente ou em agrupamento.
 
-###### Art. 3.º - 1 - Na segunda fase, reservada a trabalhadores, pequenos subscritores e emigrantes, serão alienados até 20% do capital social da sociedade.
+Art. 3.º - 1 - Na segunda fase, reservada a trabalhadores, pequenos subscritores e emigrantes, serão alienados até 20% do capital social da sociedade.
 
 2 - Para efeitos do disposto no número anterior, entendem-se por trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
@@ -124,11 +142,11 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - O pagamento das acções sobrantes referidas no número anterior poderá ser diferido, nos termos a definir na resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 5.º
 
-###### Art. 4.º - 1 - No caso de a assembleia geral da sociedade deliberar qualquer aumento de capital social antes da conclusão da operação referida no artigo anterior, o Estado é autorizado a não exercer os respectivos direitos de subscrição.
+Art. 4.º - 1 - No caso de a assembleia geral da sociedade deliberar qualquer aumento de capital social antes da conclusão da operação referida no artigo anterior, o Estado é autorizado a não exercer os respectivos direitos de subscrição.
 
 2 - No caso previsto no número anterior, o vencedor do concurso referido no artigo 2.º obriga-se a adquirir os direitos de subscrição do Estado, nos termos das disposições do caderno de encargos a que alude o n.º 2 do artigo seguinte.
 
-###### Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases do processo de reprivatização.
+Art. 5.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases do processo de reprivatização.
 
 2 - Os termos e condições do concurso público previsto no artigo 2.º constarão de um caderno de encargos, a aprovar pela resolução relativa à primeira fase do processo de alienação.
 
@@ -136,13 +154,13 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 4 - A resolução do Conselho de Ministros relativa à segunda fase da operação de alienação fixará os preços especiais e demais condições para a aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, podendo, ainda, prever que o pagamento das acções adquiridas por trabalhadores seja fraccionado ao longo do período de indisponibilidade estabelecido no n.º 1 do artigo 8.º
 
-###### Art. 6.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 4 do artigo anterior.
+Art. 6.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução do Conselho de Ministros referida no n.º 4 do artigo anterior.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a estabelecer na referida resolução, que fixará igualmente as condições de rateio.
 
 3 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas às quantidades máximas fixadas na resolução referida nos números anteriores, se as excederem.
 
-###### Art. 7.º - 1 - Durante cinco anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do concurso público, as acções adquiridas ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social da sociedade, só serão disponíveis, exceptuadas as transmissões ou onerações entre entidades que componham um eventual agrupamento vencedor efectuadas de acordo com a estratégia apresentada no âmbito do concurso público, desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize as respectivas operações.
+Art. 7.º - 1 - Durante cinco anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do concurso público, as acções adquiridas ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social da sociedade, só serão disponíveis, exceptuadas as transmissões ou onerações entre entidades que componham um eventual agrupamento vencedor efectuadas de acordo com a estratégia apresentada no âmbito do concurso público, desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize as respectivas operações.
 
 2 - Sem prejuízo do disposto no número anterior e das autorizações necessárias à detenção de participações qualificadas em sociedades em processo de reprivatização, as entidades adquirentes do lote de acções a que se refere o n.º 1 do artigo 2.º deverão, em qualquer circunstância e durante o período de indisponibilidade fixado no número anterior, deter 51% do capital social da sociedade com direito a voto, sob pena de nulidade dos respectivos actos, excepto se o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorizar a detenção de uma percentagem inferior.
 
@@ -154,7 +172,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - São nulos os acordos pelos quais os titulares das acções a que se referem os n.os 1 e 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias gerais da sociedade a realizar durante o período de indisponibilidade a que aquelas estão sujeitas.
 
-###### Art. 8.º - 1 - As acções adquiridas por trabalhadores, pequenos subscritores e emigrantes ao abrigo do n.º 1 do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
+Art. 8.º - 1 - As acções adquiridas por trabalhadores, pequenos subscritores e emigrantes ao abrigo do n.º 1 do artigo 3.º não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
 
 2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas em condições especiais, por força da titularidade daquelas a que o mesmo número se refere.
 
@@ -166,32 +184,32 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 6 - As acções referidas nos n.os 1 e 2 adquiridas por pequenos subscritores e emigrantes não conferem aos respectivos titulares o direito de voto nas assembleias gerais da sociedade durante o período de indisponibilidade previsto no n.º 1.
 
-###### Art. 9.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 5.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas à sociedade e ao concorrente vencedor.
+Art. 9.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 5.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas à sociedade e ao concorrente vencedor.
 
 2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos, os quais ficarão vinculados, nos mesmos termos, ao seu cumprimento.
 
-###### Art. 10.º Enquanto solver integralmente as suas obrigações fiscais, à sociedade fica assegurada a possibilidade de fazer reflectir nos preços de venda dos produtos de tabaco comercializados qualquer variação da carga fiscal incidente sobre esses produtos que ocorra subsequentemente à data de apresentação de proposta do concorrente vencedor.
+Art. 10.º Enquanto solver integralmente as suas obrigações fiscais, à sociedade fica assegurada a possibilidade de fazer reflectir nos preços de venda dos produtos de tabaco comercializados qualquer variação da carga fiscal incidente sobre esses produtos que ocorra subsequentemente à data de apresentação de proposta do concorrente vencedor.
 
-###### Art. 11.º Enquanto o Estado detiver pelo menos 5% do capital da sociedade, as deliberações da assembleia geral que tenham por objecto a alteração de estatutos só se consideram tomadas se não forem votadas desfavoravelmente pelo representante do Estado.
+Art. 11.º Enquanto o Estado detiver pelo menos 5% do capital da sociedade, as deliberações da assembleia geral que tenham por objecto a alteração de estatutos só se consideram tomadas se não forem votadas desfavoravelmente pelo representante do Estado.
 
-###### Art. 12.º - 1 - Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 12.º - 1 - Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
 2 - Nos 15 dias subsequentes ao termo de cada fase do processo de alienação, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas com participação igual ou superior a 5% do seu capital social, indicando a quantidade de acções de que cada um é titular.
 
-###### Art. 13.º Nos 30 dias seguintes à alienação prevista no artigo 2.º, é convocada, para se realizar no prazo mínimo permitido por lei, a assembleia geral da sociedade, a fim de serem eleitos os membros dos órgãos sociais.
+Art. 13.º Nos 30 dias seguintes à alienação prevista no artigo 2.º, é convocada, para se realizar no prazo mínimo permitido por lei, a assembleia geral da sociedade, a fim de serem eleitos os membros dos órgãos sociais.
 
-###### Art. 14.º Para realização das operações de alienação previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
+Art. 14.º Para realização das operações de alienação previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
 
-###### Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 6 de Julho de 1995.**
+Promulgado em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1995.**
+Referendado em 10 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

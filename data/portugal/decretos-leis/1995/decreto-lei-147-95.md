@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/141a00/40174019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/1995/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1995-475493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 829c153ffe7286e47646764e32520bb8d0cc6580595bed7785ab1ea63a5d29a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 942ce1eda9475db665ab4c95895faae9f087439d761c380e882096031ca0fbdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
-- Gestão de Resíduos
 - Contrato de Concessão
 - Controlo de Qualidade
 - Definição de Competências
+- Gestão de Resíduos
 - Informação do Consumidor
 - Preço
-- Serviço Público
 - Proteção do Consumidor
 - Regime Jurídico
-- Abastecimento de Água
+- Serviço Público
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
@@ -100,16 +100,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229307:por
+  label: "Revogada a a al. a) do art. 1º, o art. 2º, os nºs 1, 2, 3 e 6 do art. 3º e o art. 11º pelo DEC LEI.362/98.1998.11.18.MAM,\
+    \ DR.IS-A [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1998-229307
+  date: '1998-11-18'
+- type: repealed_by
+  target: pt:dre:488144:por
+  label: "Revogado, a partir de 01.01.2010, pelo DEC LEI.194/2009.20.08.2009.MAOTDR, DR.IS [161] de 20.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2009-488144
+  date: '2009-08-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:32Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +171,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma tem por objecto, tendo em vista assegurar a efectiva protecção dos consumidores, o seguinte:
+Artigo 1.º O presente diploma tem por objecto, tendo em vista assegurar a efectiva protecção dos consumidores, o seguinte:
 
 a) Criação do observatório nacional dos sistemas multimunicipais e municipais de captação, tratamento e distribuição de água para consumo público, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos;
 
@@ -146,7 +181,7 @@ i) Captação, tratamento e distribuição de água para consumo público;
 
 ii) Recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos.
 
-###### Art. 2.º - 1 - É criado o observatório nacional dos sistemas multimunicipais e municipais de captação, tratamento e distribuição de água para consumo público, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos, adiante designado abreviadamente por observatório.
+Art. 2.º - 1 - É criado o observatório nacional dos sistemas multimunicipais e municipais de captação, tratamento e distribuição de água para consumo público, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos, adiante designado abreviadamente por observatório.
 
 2 - O observatório é composto pelos seguintes membros:
 
@@ -156,7 +191,7 @@ b) Pelo director-geral de Concorrência e Preços;
 
 c) Por um representante da Associação Nacional de Municípios Portugueses.
 
-###### Art. 3.º - 1 - A actividade do observatório compreende:
+Art. 3.º - 1 - A actividade do observatório compreende:
 
 a) Receber, com a antecedência de 15 dias, os processos de concurso para adjudicação da concessão dos sistemas referidos no n.º 1 do artigo 4.º e emitir recomendações, quando entenda necessárias;
 
@@ -186,11 +221,11 @@ i) Alertar o Governo e as autarquias locais para a verificação de situações 
 
 6 - As contas do observatório, depois de auditadas, serão aprovadas pelo Ministro do Ambiente e Recursos Naturais e publicadas.
 
-###### Art. 4.º - 1 - O contrato de concessão poderá ter por objecto a exploração individual ou conjunta de sistemas municipais de captação, tratamento e distribuição de água, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos, com ou sem investimento da concessionária.
+Art. 4.º - 1 - O contrato de concessão poderá ter por objecto a exploração individual ou conjunta de sistemas municipais de captação, tratamento e distribuição de água, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos, com ou sem investimento da concessionária.
 
 2 - No caso de concessão conjunta de dois ou mais sistemas, cada um deverá ter contabilidade própria e autónoma, por forma a permitir um controlo efectivo da sua gestão.
 
-###### Art. 5.º - 1 - A fixação de tarifas obedecerá aos seguintes princípios, de acordo com o resultado do concurso público, quando exista:
+Art. 5.º - 1 - A fixação de tarifas obedecerá aos seguintes princípios, de acordo com o resultado do concurso público, quando exista:
 
 a) Assegurar, dentro do período da concessão, a amortização do investimento inicial a cargo da concessionária descrito em estudo económico anexo ao contrato de concessão, deduzido das comparticipações e subsídios a fundo perdido;
 
@@ -208,13 +243,13 @@ f) Assegurar o equilíbrio económico-financeiro da concessão, com uma adequada
 
 3 - Os parâmetros da fórmula de revisão deverão ser exteriores ao sector da água, águas residuais e resíduos sólidos.
 
-###### Art. 6.º A retribuição a pagar pela concessionária reverte obrigatoriamente para um plano de investimentos na expansão e renovação dos sistemas, a cargo do município concedente, e é prestada sob a forma de anuidades, que não poderão ser pagas antecipadamente.
+Art. 6.º A retribuição a pagar pela concessionária reverte obrigatoriamente para um plano de investimentos na expansão e renovação dos sistemas, a cargo do município concedente, e é prestada sob a forma de anuidades, que não poderão ser pagas antecipadamente.
 
-###### Art. 7.º - 1 - Quando se alterarem significativamente as condições de exploração do sistema ou sistemas concessionados, por determinação do concedente ou por modificação das normas legais e regulamentares em vigor à data da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico-financeiro do contrato.
+Art. 7.º - 1 - Quando se alterarem significativamente as condições de exploração do sistema ou sistemas concessionados, por determinação do concedente ou por modificação das normas legais e regulamentares em vigor à data da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico-financeiro do contrato.
 
 2 - No caso da realização de novos investimentos não previstos inicialmente, cabe ao concedente decidir a modalidade da sua execução.
 
-###### Art. 8.º - 1 - A selecção dos concorrentes obedecerá ao princípio geral de que os consumidores devem dispor, ao menor custo, de um serviço com a qualidade especificada nos documentos de concurso.
+Art. 8.º - 1 - A selecção dos concorrentes obedecerá ao princípio geral de que os consumidores devem dispor, ao menor custo, de um serviço com a qualidade especificada nos documentos de concurso.
 
 2 - Para efeitos do princípio referido no número anterior, de entre os critérios de selecção deve constar obrigatoriamente a tarifa média, com uma percentagem de ponderação não inferior a 70%.
 
@@ -222,7 +257,7 @@ f) Assegurar o equilíbrio económico-financeiro da concessão, com uma adequada
 
 4 - O prazo de concessão deverá ser proporcional ao volume de investimento a cargo da concessionária e, no caso de este não existir, não deverá exceder 15 anos.
 
-###### Art. 9.º - 1 - As cláusulas contratuais gerais inscritas nos contratos de fornecimento a celebrar entre as concessionárias e os consumidores deverão respeitar o disposto no [Decreto-Lei n.º 446/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1985-177869), de 25 de Outubro, e no artigo 7.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto.
+Art. 9.º - 1 - As cláusulas contratuais gerais inscritas nos contratos de fornecimento a celebrar entre as concessionárias e os consumidores deverão respeitar o disposto no [Decreto-Lei n.º 446/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1985-177869), de 25 de Outubro, e no artigo 7.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto.
 
 2 - As tarifas a cobrar aos utentes pela concessionária deverão obedecer, para além dos critérios estabelecidos no artigo 5.º do presente diploma, ao disposto no artigo 15.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro.
 
@@ -234,18 +269,18 @@ f) Assegurar o equilíbrio económico-financeiro da concessão, com uma adequada
 
 6 - As disposições dos números anteriores são aplicáveis, com as necessárias adaptações, à prestação dos serviços de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos.
 
-###### Art. 10.º Os funcionários das autarquias locais podem ser autorizados a exercer quaisquer cargos ou funções, em regime de requisição, nas empresas concessionárias dos sistemas referidos no n.º 1 do artigo 4.º
+Art. 10.º Os funcionários das autarquias locais podem ser autorizados a exercer quaisquer cargos ou funções, em regime de requisição, nas empresas concessionárias dos sistemas referidos no n.º 1 do artigo 4.º
 
-###### Art. 11.º A actividade do observatório e os deveres para com este enunciados no presente diploma são extensíveis, com as necessárias adaptações e tendo em vista a defesa dos interesses dos consumidores, a todos os sistemas multimunicipais e municipais de captação, tratamento e distribuição de água para consumo público, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos.
+Art. 11.º A actividade do observatório e os deveres para com este enunciados no presente diploma são extensíveis, com as necessárias adaptações e tendo em vista a defesa dos interesses dos consumidores, a todos os sistemas multimunicipais e municipais de captação, tratamento e distribuição de água para consumo público, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 31 de Maio de 1995.**
+Promulgado em 31 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Junho de 1995.**
+Referendado em 2 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

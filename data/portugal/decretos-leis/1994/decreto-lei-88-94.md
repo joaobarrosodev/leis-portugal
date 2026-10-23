@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/077a00/15901593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/1994/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1994-258157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fc828a74fc7262dd0d1044019dcf22b8fc630fe0bf28cbbdfa6ac77a2116b46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e149ce6b36b808f223f745ffc448b8501acd1f26c71ce19fd91c0279e3bfd5d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
 - Cidadão Estrangeiro
 - Dívida Pública
-- IRS
 - Investimento Estrangeiro
+- IRC
+- IRS
 - Isenção Fiscal
 - Mercado de Capitais
 - Mercado Financeiro
-- IRC
 - Obrigações do Tesouro
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:554131:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532576:por
+  label: "Prorrogado, para 31.05.1996, o prazo a que se refere a alínea b) do n.º 2 do artigo 13.º pela PORT.79/96.12.03.1996.MF,\
+    \ DR.IS-B [61] de 12.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1996-532576
+  date: '1996-03-12'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 10º pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:533809:por
+  label: "Alterado o nº 3 do art. 10º, pela LEI.16-A/2002.2002.05.31.AR, DR.IS-A [125]Supl \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-a-2002-533809
+  date: '2002-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/1991/01/22/p/dre
   label: null
@@ -88,16 +104,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496487:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:583429:por
+  label: "Revogado a partir de 01.01.2006 pelo DEC LEI.193/2005.07.11.2005.MFAP, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-2005-583429
+  date: '2005-11-07'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:13Z'
   warnings: []
   errors: []
 ---
@@ -266,12 +295,12 @@ d) Permitir à administração fiscal o acesso directo às contas previstas no a
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

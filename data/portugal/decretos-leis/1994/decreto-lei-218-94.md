@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/08/192a00/48464849.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fea4791e58481d660019c9d1836ecbfc8f4c7159f65a42e2574f7081995af97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d28b2e2b9b75cec458f2f1ff7809aff49f80d4d19e9af5f1580967f536aa094
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Ordenamento do Território
+- Açores
 - Definição de Competências
 - Direcção Regional do Ambiente e Recursos Naturais
-- Orla Costeira
-- Protecção do Litoral
-- Instituto da Conservação da Natureza
+- Domínio Público Hídrico
 - GNR
+- Instituto da ÁGUA
+- Instituto da Conservação da Natureza
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Madeira.região Autónoma
-- Domínio Público Hídrico
-- Açores
+- Protecção do Litoral
 relationships:
 - type: amended_by
   target: pt:dre:179368:por
@@ -88,16 +88,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475371:por
+  label: "Revogados os n.ºs 3, 4 e 5 do artigo 7.º, o artigo 9.º, os n.ºs 1 e 4 do artigo 10.º do Decreto-Lei n.º 309/93,\
+    \ de 2 de Setembro, relativamente aos planos de ordenamento da orla costeira, na redacção do presente diploma, pelo DEC\
+    \ LEI.151/95.24.06.1995.MPLAT, DR.IS-A [144] de 24.06.1995 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1995-475371
+  date: '1995-06-24'
+- type: repealed_by
+  target: pt:dre:179368:por
+  label: "Revogado o Dec Lei 309/93, de 02-set, na redação do presente diploma, pelo DEC LEI.159/2012.24.07.2012.MAMAOT, DR.IS\
+    \ [142] de 24.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2012-179368
+  date: '2012-07-24'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:36Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +133,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São alterados os artigos 3.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, que passam a ter a seguinte redacção:
+Artigo 1.º São alterados os artigos 3.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, que passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Objecto dos POOC
 
@@ -304,7 +321,7 @@ A aplicação de coimas e sanções acessórias compete ao capitão do porto, qu
 
 2 - No interior de áreas protegidas é da competência do ICN a emissão de licenças e a atribuição de concessões para ocupações do domínio público marítimo sob jurisdição do INAG.
 
-###### Art. 2.º Ao [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, é aditado o artigo 20.º, com a seguinte redacção:
+Art. 2.º Ao [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, é aditado o artigo 20.º, com a seguinte redacção:
 
 ###### Artigo 20.º — Regiões Autónomas
 
@@ -326,12 +343,12 @@ A aplicação de coimas e sanções acessórias compete ao capitão do porto, qu
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

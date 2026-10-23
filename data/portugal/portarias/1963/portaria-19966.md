@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19966-1963-693601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69772d812043e1d146eb7beb568b72a68f3a1a42c43d95ed1cfb9358e9feafef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95c229e03dc7ee920f0739f2b7e3e0d17c83a7ee32dba121f0a42902a8e0f8a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento
+- Comércio
+- Definição de Competências
+- Direcção Geral dos Produtos Pecuários
+- Embalagem
+- Fiscalização
+- Junta Nacional dos Produtos Pecuários
+- Lacticínios
+- Leite
+- Licenciamento
+- Lisboa
+- Porto
+- Preço
+- Preço de Venda
+- Produção Leiteira
 relationships:
 - type: amended_by
   target: pt:dre:313181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:313181:por
+  label: "Revogada pelo DEC LEI.47710.1967.05.18.MECO, DG.IS [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47710-1967-313181
+  date: '1967-05-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:44Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +167,7 @@ a) Em bilhas invioláveis: 2$80 por livro na venda a retalhistas e 3$20 por litr
 
 b) Em embalagens individuais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
 
 9.º Caberá à Junta Nacional dos Produtos Pecuários determinar a aplicação dos preços fixados na alínea a) do número anterior, tendo em conta a generalização do sistema de distribuição em bilhas invioláveis.
 
@@ -149,7 +181,7 @@ A aquisição das bilhas invioláveis bem como as despesas decorrentes do seu us
 
 Preços por garrafa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
 
 A estes preços poderá acrescer a importância de $10 por garrafa de leite pasteurizado na Central Pasteurizadora de Lisboa que for vendido para consumo de outros centros situados na área a que se refere o n.º 8.º, revertendo aquela importância a favor da entidade que efectuar o transporte.
 
@@ -157,7 +189,7 @@ A estes preços poderá acrescer a importância de $10 por garrafa de leite past
 
 14.º Os preços máximos de venda a retalhistas e as margens de comercialização correspondentes aos preços fixados no n.º 12.º serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
 
 15.º O leite pasteurizado em bilhas terá, também a partir de 15 de Julho corrente, o preço máximo de 3$10 por litro, nos postos de distribuição.
 
@@ -179,11 +211,11 @@ O preço de venda a retalhistas correspondente a estes preços será de 2$60 por
 
 Preços por garrafa ou embalagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
 
 20.º Os preços máximos de venda a retalhistas e as margens de comercialização correspondentes aos preços fixados no número anterior serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17300/10011004.pdf)
 
 21.º Os preços máximos e as margens de comercialização estabelecidos nos n.os 12.º, 14.º e 15.º serão aplicáveis ao leite pasteurizado a consumir no Porto, logo que as condições de produção das regiões que abastecem ou venham a abastecer a cidade facultarem a obtenção do produto com os requisitos e características que lhe confiram a categoria de pasteurizável.
 

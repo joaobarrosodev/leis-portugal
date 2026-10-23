@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/046a00/08460849.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/1994/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1994-515470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99643c5550def44f5172dec67b2d61453f5310850a071dd8ec6fbf2db180a919
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7666e4d5ae0f6f12ee8822119a0b5f8cbaef512f9cfa13298f961984dc73ba7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral dos Assuntos Multilaterais
-- Orgânica
-- Quadro de Pessoal
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:520985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406484:por
+  label: "Alterados os arts. 1º e 3º e revogados os arts. 5º, 6º e 10º pelo DEC LEI.330/97.1997.11.27.MNE, DR.IS-A [275]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1997-406484
+  date: '1997-11-27'
+- type: amended_by
+  target: pt:dre:520982:por
+  label: "Determinada a sucessão, nos termos do artigo 15.º, da Direcção-Geral de Política Externa relativamente às atribuições\
+    \ da Direcção-Geral dos Assuntos Multilaterais, que se extingue, cuja orgânica foi aprovada pelo presente diploma, e revogado\
+    \ o mesmo, nos termos do artigo 5.º do Decreto-Lei 201/2006, de 27 de Outubro, a partir de 01.05.2007, pelo DR.45/2007.27.04.2007.MNE,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-2007-520982
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:520985:por
+  label: "Determinada a sucessão, nos termos do artigo 11.º, da Direcção-Geral dos Assuntos Técnicos e Económicos relativamente\
+    \ às atribuições da Direcção-Geral dos Assuntos Multilaterais (que se extingue) cuja orgânica foi aprovada pelo presente\
+    \ diploma, na redacção do Decreto-Lei 330/97, de 27 de Novembro e revoga-o, nos termos do artigo 5.º do Decreto-Lei 201/2006,\
+    \ de 27 de Outubro, a partir de 01.05.2007, pelo DR.46/2007.27.04.2007.MNE, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/46-2007-520985
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:24Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +278,9 @@ j) Registar, dar expediente e arquivar a correspondência recebida ou expedida q
 
 2 - A Direcção de Serviços das Organizações Económicas Internacionais compreende duas divisões.
 
-###### Artigo 10.º — Secção Administrativa
+###### Artigo 10.º
+
+#### Secção Administrativa
 
 A Secção Administrativa é o serviço de gestão e apoio administrativo da Direcção-Geral dos Assuntos Multilaterais nas áreas de expediente geral, administração financeira e economato, ao qual compete:
 
@@ -274,15 +302,15 @@ c) Prestar o apoio administrativo que lhe for solicitado.
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro a que se refere o n.º 1 do artigo 11.º
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/250a00/64856489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/274/1994/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1994-621539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 609c155f5073954cb58c1e88d56f6be06463e9a1a479b72f48ea9dae4bc2d75a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe05d325d933811bc810c8399cb671da09624f06c0baf6e9d8a19fc38992738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Educação Pré-escolar
+- Ensino Básico
 - Formação de Professores
 - Pessoal Docente
-- Ensino Básico
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:570766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179307:por
+  label: "Alterados os arts. 3º, 4º, 5º, 6º, 7º, 8º, 13º, 14º, 15º, 18º, 19º, 20º, 24º, 25º, 26º, 27º, 28º, 29º, 30º, 31º,\
+    \ 34º, 35º, 36º, 37º, 38º, 40º, 41º, 43º, 44º, 45º, 46º, 48º, 49º E 50º, bem como a epígrafe da secção IV do capítulo\
+    \ III, do regime jurídico da formação contínua de professores, aprovado pelo presente diploma (com as alterações que lhe\
+    \ foram introduzidas pela Lei 60/93 de 20-Ago, e pelo Dec Lei 274/94 de 28-Out); aditados ao mesmo regime os arts. 25º-A,\
+    \ 27º-A, 27º-B e revogada a al. d) do nº2 do art. 29º, o nº 5 do art. 34º e os arts. 39º e 42º do citado regime, cuja\
+    \ versão consolidada pública em anexo pelo DEC LEI.207/96.1996.11.02.ME, DR.IS-A [254]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-1996-179307
+  date: '1996-11-02'
+- type: amended_by
+  target: pt:dre:331178:por
+  label: "Alterados os arts. 27.º, 27.º-A, 28.º e 39.º, com as alterações introduzidas pela Lei 60/93 de 20-Ago, pelo presente\
+    \ diploma e pelo Dec Lei 207/96 de 02-Nov, pelo DEC LEI.155/99.1999.05.10.ME DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1999-331178
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterados os arts. 5º, 6º, 13º e 14º do Regime Jurídico da Formação Contínua de Professores, aprovado pelo Dec Lei\
+    \ 249/92 de 09-Nov, na redacção do presente diploma, pelo DEC LEI.15/2007.19.01.2007.ME, DR.IS [14] de 19.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/1992/11/09/p/dre
   label: null
@@ -84,16 +106,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570766:por
+  label: Revogado, a partir de 16.02.2014, o Dec Lei 249/92 de 09-nov, alterado pelo presente diploma, pelo DEC LEI.22/2014.11.02.2014.MECI,
+    DR.IS [29] de 11.02.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2014-570766
+  date: '2014-02-11'
 article_structure:
   article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:51Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +160,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 6.º, 11.º, 13.º, 14.º, 15.º, 18.º, 21.º, 25.º, 29.º, 30.º, 31.º, 34.º, 35.º, 37.º, 38.º, 39.º, 40.º, 42.º, 44.º, 45.º, 46.º e 49.º, bem como as epígrafes da secção I do capítulo II e a do capítulo VI do regime jurídico da formação contínua de professores, aprovado pelo [Decreto-Lei n.º 249/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1992-676050), de 9 de Novembro, e alterado, por ratificação, pela [Lei n.º 60/93](https://diariodarepublica.pt/dr/detalhe/lei/60-1993-324485), de 20 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 6.º, 11.º, 13.º, 14.º, 15.º, 18.º, 21.º, 25.º, 29.º, 30.º, 31.º, 34.º, 35.º, 37.º, 38.º, 39.º, 40.º, 42.º, 44.º, 45.º, 46.º e 49.º, bem como as epígrafes da secção I do capítulo II e a do capítulo VI do regime jurídico da formação contínua de professores, aprovado pelo [Decreto-Lei n.º 249/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1992-676050), de 9 de Novembro, e alterado, por ratificação, pela [Lei n.º 60/93](https://diariodarepublica.pt/dr/detalhe/lei/60-1993-324485), de 20 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — [...]
 
@@ -314,7 +354,9 @@ c) Curso de formação de formadores, com duração superior a cento e vinte hor
 
 5 - Sem prejuízo do disposto no n.º 3 do artigo 5.º, o formador tem direito a contabilizar créditos das acções de formação que ministra, desde que estas não repitam os mesmos conteúdos programáticos, até ao limite máximo de metade do número de créditos de que necessita, em cada escalão, para progredir na carreira.
 
-### CAPÍTULO V — Artigo 35.º
+### CAPÍTULO V
+
+###### Artigo 35.º
 
 [...]
 
@@ -428,20 +470,20 @@ c) Apresentar ao Ministro da Educação e às entidades formadoras propostas par
 
 6 - ...
 
-###### Art. 2.º São revogados os artigos 8.º, 15.º, n.º 6, 16.º, n.º 2, 27.º, n.º 2, 32.º, 33.º e 41.º do regime jurídico da formação contínua de professores, aprovado pelo [Decreto-Lei n.º 249/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1992-676050), de 9 de Novembro, e alterado, por ratificação, pela [Lei n.º 60/93](https://diariodarepublica.pt/dr/detalhe/lei/60-1993-324485), de 20 de Agosto.
+Art. 2.º São revogados os artigos 8.º, 15.º, n.º 6, 16.º, n.º 2, 27.º, n.º 2, 32.º, 33.º e 41.º do regime jurídico da formação contínua de professores, aprovado pelo [Decreto-Lei n.º 249/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1992-676050), de 9 de Novembro, e alterado, por ratificação, pela [Lei n.º 60/93](https://diariodarepublica.pt/dr/detalhe/lei/60-1993-324485), de 20 de Agosto.
 
-###### Art. 3.º - 1 - As acções de formação já acreditadas e ainda não realizadas relevam para efeitos de progressão na carreira desde que satisfaçam as condições estabelecidas no n.º 3 do artigo 5.º do regime jurídico da formação contínua de professores, com a redacção que lhe foi dada pelo presente diploma.
+Art. 3.º - 1 - As acções de formação já acreditadas e ainda não realizadas relevam para efeitos de progressão na carreira desde que satisfaçam as condições estabelecidas no n.º 3 do artigo 5.º do regime jurídico da formação contínua de professores, com a redacção que lhe foi dada pelo presente diploma.
 
 2 - Para efeitos do disposto nos números anteriores, devem as entidades formadoras apresentar os projectos de formação para apreciação e decisão do Conselho Científico-Pedagógico da Formação Contínua.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/1994/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1994-624625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85e462855b606da42ca5189dfafb6c9d2a71e35a6655da2a81c1db218fd17974
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2855cf3e6fdc35448d5745bf6ff14ceeafef3a0249399e11ab6c6bb07a6956c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,46 @@ reuse:
 subjects:
 - Carta de Condução
 - Ensino de Condução
-- Veículo
 - Forças Armadas
+- Militar
 - Pessoal Civil
 - Pessoal Militarizado
-- Militar
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:144227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318084:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:35Z'
   warnings: []
   errors: []
 ---
@@ -177,12 +197,12 @@ d) O [Decreto-Lei n.º 356/81](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/1995/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1995-547995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a22e4f2318ad856c05ec3d064f321dc5294b5fdd49ac0ad7644fd808c84f4ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19d41ff81abb64f8dc831c87b3950f569c9fbcd1b1a3a41e3b4d9b741f034041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Contrato Programa
 - Cooperação Financeira
 - Cooperação Técnica
 - Projeto de Investimento
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/23/1994/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/23/1994/04/14/p/dre
+- type: cites
+  target: pt:dre:265760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:00Z'
   warnings: []
   errors: []
 ---
@@ -110,26 +122,26 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, e nos termos do disposto na alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma estabelece o regime de celebração de contratos-programa e de acordos de colaboração de natureza sectorial no âmbito da cooperação técnica e financeira entre o Estado e as freguesias.
+Artigo 1.º - 1 - O presente diploma estabelece o regime de celebração de contratos-programa e de acordos de colaboração de natureza sectorial no âmbito da cooperação técnica e financeira entre o Estado e as freguesias.
 
 2 - Os contratos-programa e os acordos de colaboração têm por objecto a execução de projectos de investimento que se compreendam no âmbito das competências das freguesias.
 
 3 - A iniciativa de propositura de contratos-programa ou acordos de colaboração cabe às freguesias, sendo privilegiados os investimentos e acções interfreguesias.
 
-###### Art. 2.º - 1 - A definição dos critérios e das prioridades de cada sector de investimento, para efeitos de apresentação de candidaturas das freguesias a contratos-programa ou de acordos de colaboração, é fixada, em cada ano, por despacho conjunto do Ministro do Planeamento e da Administração do Território e do ministro responsável pelo sector do investimento em causa.
+Art. 2.º - 1 - A definição dos critérios e das prioridades de cada sector de investimento, para efeitos de apresentação de candidaturas das freguesias a contratos-programa ou de acordos de colaboração, é fixada, em cada ano, por despacho conjunto do Ministro do Planeamento e da Administração do Território e do ministro responsável pelo sector do investimento em causa.
 
 2 - Os critérios para a determinação da participação financeira do Estado são igualmente fixados no despacho referido no número anterior.
 
-###### Art. 3.º A tudo quanto não esteja expressamente regulado no presente diploma aplica-se, com as necessárias adaptações, o [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro.
+Art. 3.º A tudo quanto não esteja expressamente regulado no presente diploma aplica-se, com as necessárias adaptações, o [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 8 de Agosto de 1995.**
+Promulgado em 8 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1995.**
+Referendado em 10 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.

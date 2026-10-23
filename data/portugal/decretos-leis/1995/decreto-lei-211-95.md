@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/1995/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1995-429399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaca6373a611eff3f09fc9994912977a524297823ffd75722013411055f200cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44695c3d72f9c7efab934d3d55548336a83c8f672c821d4ffb37347360b001e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Conta Poupança-habitação
 - Crédito à Habitação
-- Prémio
 - Habitação
-- Benefícios Fiscais
+- Prémio
 relationships:
 - type: amended_by
   target: pt:dre:583436:por
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/294/1993/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/294/1993/08/25/p/dre
+- type: cites
+  target: pt:dre:325900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550178:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:50Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +113,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 12.º do [Decreto-Lei n.º 382/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178), de 6 de Novembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 294/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1993-325900), de 25 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 12.º do [Decreto-Lei n.º 382/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1989-550178), de 6 de Novembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 294/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1993-325900), de 25 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 12.º — [...]
 
@@ -121,16 +129,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - ...
 
-###### Art. 2.º O presente diploma produz efeitos desde 30 de Junho de 1995.
+Art. 2.º O presente diploma produz efeitos desde 30 de Junho de 1995.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Jorge Manuel Mendes Antas.
 
-**Promulgado em 28 de Julho de 1995.**
+Promulgado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Agosto de 1995.**
+Referendado em 1 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.

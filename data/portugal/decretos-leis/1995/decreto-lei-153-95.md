@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/1995/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1995-475081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb85bb535050d471c4cb5869da88e264f5a74cb79901b8dccb0d3500d9b93d6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0da078d4f67a1b23af60d889208b74d26e61893b87adfb82bac345ee3fe6ddd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
 subjects:
 - Almada
 - Braga
-- Lisboa
-- Tribunal do Trabalho
+- Coimbra
+- Funchal
 - Gondomar
 - Instalação de Serviços
-- Tribunal Criminal
-- Tribunal de Comarca
+- Lisboa
 - Magistrado Judicial
 - MAIA
 - Orgânica
-- Funchal
-- Coimbra
+- Porto
 - Regulamento
 - Sintra
-- Tribunal de Círculo
-- Tribunal de Família e de Menores
-- Tribunal Judicial
-- Porto
 - Tribunal
+- Tribunal Criminal
+- Tribunal de Círculo
+- Tribunal de Comarca
+- Tribunal de Família e de Menores
+- Tribunal do Trabalho
+- Tribunal Judicial
 - Valongo
 - VILA NOVA de GAIA
 relationships:
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659960:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:39Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +155,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, alterada pelas Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/lei/49-1988-285159), de 19 de Abril, [52/88](https://diariodarepublica.pt/dr/detalhe/lei/52-1988-373603), de 4 de Maio, [24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto, e [24/92](https://diariodarepublica.pt/dr/detalhe/lei/24-1992-259072), de 20 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 33.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 312/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960), de 15 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 33.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 312/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1993-659960), de 15 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 33.º — Tribunal de Pequena Instância Criminal de Lisboa e Porto
 
@@ -137,7 +165,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https:
 
 3 - Os escrivães de direito das secções dos juízos extintos passam à situação de supranumerários, adoptando-se o critério da antiguidade relativamente às restantes categorias.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, o artigo 33.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, o artigo 33.º-A, com a seguinte redacção:
 
 ###### Artigo 33.º-A — Tribunais de Pequena Instância de Almada e Vila Nova de Gaia
 
@@ -147,21 +175,21 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 38/87](https:
 
 3 - Transitam para os Tribunais de Pequena Instância de Almada e Vila Nova de Gaia os processos de natureza cível da sua competência pendentes nas secções dos juízos de competência especializada cível dos Tribunais da Comarca de Almada e Vila Nova de Gaia, bem como o equipamento, os livros, processos, objectos e papéis findos e pendentes dos Tribunais de Pequena Instância Criminal de Almada e Vila Nova de Gaia.
 
-###### Art. 3.º Os Tribunais de Pequena Instância de Competência Específica Mista de Almada e Vila Nova de Gaia consideram-se instalados na data da entrada em vigor do presente diploma.
+Art. 3.º Os Tribunais de Pequena Instância de Competência Específica Mista de Almada e Vila Nova de Gaia consideram-se instalados na data da entrada em vigor do presente diploma.
 
-###### Art. 4.º Os mapas a que se reportam os artigos 1.º, 5.º, 12.º, 21.º e 56.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, são alterados de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 4.º Os mapas a que se reportam os artigos 1.º, 5.º, 12.º, 21.º e 56.º do [Decreto-Lei n.º 214/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1988-560020), de 17 de Junho, são alterados de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 4 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 9 de Junho de 1995.**
+Promulgado em 9 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Junho de 1995.**
+Referendado em 12 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 

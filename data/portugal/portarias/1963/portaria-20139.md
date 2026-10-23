@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1963/10/25300/16671673.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20139-1963-687853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8062d01ad801ccea8a82567249c7cac0f23ffd12d7ca93952439e0a7a9a87524
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05a13bdd94d5007493896ea96950267b9ad7a54237c3fb39fd8dad77e7f06192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adido Militar
+- Centro de Comunicações
+- Centro de Estudos Especiais da Armada
+- Chefe do Estado Maior da Armada
+- Comissão Permanente de Infra-estruturas da Armada
+- Conselho Técnico Naval
+- Criação de Serviços
+- Estado Maior da Armada
+- Instituto Superior Naval de Guerra
+- Marinha
+- Militar
+- Ministro da Marinha
+- Orgânica
+- Pessoal Civil
+- Presidente
+- Quadro de Pessoal
+- Regulamento
+- Secretaria Geral
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:654528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502222:por
+  label: Alterado o art. 14.º do Regulamento pelo(a) Portaria n.º 250/76 - Diário da República n.º 94/1976, Série I de 1976-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/250-1976-502222
+  date: '1976-04-21'
+- type: amended_by
+  target: pt:dre:138157:por
+  label: Alterada a al. d) do art 3.º, eliminadas as al. d) do art 14.º e h) do art. 15.º, aditado o art. 16.º-A, alterados
+    os arts. 18.º, 23.º do Regulamento do Estado-Maior da Armada, aprovado pela presente Portaria, pelo(a) Portaria n.º 29/77
+    - Diário da República n.º 17/1977, Série I de 1977-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1977-138157
+  date: '1977-01-21'
+- type: amended_by
+  target: pt:dre:277308:por
+  label: Alterado o art. 46.º do Regulamento pelo(a) Portaria n.º 661/77 - Diário da República n.º 248/1977, Série I de 1977-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/661-1977-277308
+  date: '1977-10-26'
+- type: amended_by
+  target: pt:dre:297577:por
+  label: Eliminado o § único do art. 52.º do Regulamento pelo(a) Portaria n.º 397/78 - Diário da República n.º 166/1978, Série
+    I de 1978-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-1978-297577
+  date: '1978-07-21'
+- type: cites
+  target: pt:dre:194829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245371:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:654528:por
+  label: "Revogada pelo DR.21/94.1994.09.01.MDN, DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-1994-654528
+  date: '1994-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:37Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +149,9 @@ REGULAMENTO DO ESTADO-MAIOR DA ARMADA
 
 #### SECÇÃO I — Objecto e constituição do Estado-Maior da Armada
 
-###### Artigo 1.º O Estado-Maior da Armada (E. M. A.) é, fundamentalmente, um organismo de estudo, concepção, previsão e orientação das actividades da Armada.
+Artigo 1.º O Estado-Maior da Armada (E. M. A.) é, fundamentalmente, um organismo de estudo, concepção, previsão e orientação das actividades da Armada.
 
-###### Art. 2.º O Estado-Maior da Armada funciona, conjuntamente, como estado-maior central - órgão de consulta e de estudo do Ministro da Marinha - e como estado-maior do chefe do Estado-Maior da Armada.
+Art. 2.º O Estado-Maior da Armada funciona, conjuntamente, como estado-maior central - órgão de consulta e de estudo do Ministro da Marinha - e como estado-maior do chefe do Estado-Maior da Armada.
 
 § 1.º Como estado-maior central compete-lhe, de uma maneira geral, estudar e informar todos os assuntos de natureza naval e pronunciar-se sobre as matérias que sejam mandadas submeter à sua apreciação.
 
@@ -108,7 +163,7 @@ b) Traduzir essas decisões em planos, directivas, instruções e ordens e asseg
 
 c) Exercer funções de supervisão no que se refere à maneira como são executadas as decisões do chefe do Estado-Maior da Armada.
 
-###### Art. 3.º O Estado-Maior da Armada compreende:
+Art. 3.º O Estado-Maior da Armada compreende:
 
 a) O chefe do Estado-Maior da Armada;
 
@@ -144,7 +199,7 @@ e) Secretaria do sub-registo;
 
 f) Biblioteca.
 
-###### Art. 4.º O chefe do Estado-Maior da Armada exerce as funções que lhe são determinadas pelo artigo 2.º do [Decreto-Lei n.º 40343](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40343-1955-245371), de 18 de Outubro de 1955.
+Art. 4.º O chefe do Estado-Maior da Armada exerce as funções que lhe são determinadas pelo artigo 2.º do [Decreto-Lei n.º 40343](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40343-1955-245371), de 18 de Outubro de 1955.
 
 § 1.º Ao abrigo do estabelecido no artigo 4.º do diploma referido no corpo deste artigo, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 44962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44962-1963-194829), de 6 de Abril de 1963, o Estado-Maior da Armada funciona sob as ordens do 1.º subchefe do mesmo Estado-Maior, por delegação do chefe do Estado-Maior da Armada.
 
@@ -152,7 +207,7 @@ f) Biblioteca.
 
 #### SECÇÃO II — Do 1.º subchefe do Estado-Maior da Armada
 
-###### Art. 5.º Ao 1.º subchefe do Estado-Maior da Armada compete:
+Art. 5.º Ao 1.º subchefe do Estado-Maior da Armada compete:
 
 a) Substituir o chefe do Estado-Maior da Armada na sua falta ou impedimento temporários;
 
@@ -170,11 +225,11 @@ g) Exercer em relação ao pessoal subordinado, em serviço no Estado-Maior da A
 
 § único. O chefe do Estado-Maior da Armada designará, por despacho, as divisões que são colocadas na directa dependência do 1.º subchefe e as que ficam subordinadas ao 2.º subchefe.
 
-###### Art. 6.º O 1.º subchefe do Estado-Maior da Armada despacha os assuntos das suas atribuições com o chefe do Estado-Maior da Armada.
+Art. 6.º O 1.º subchefe do Estado-Maior da Armada despacha os assuntos das suas atribuições com o chefe do Estado-Maior da Armada.
 
 § único. Mediante autorização do Ministro da Marinha, o chefe do Estado-Maior da Armada poderá delegar no 1.º subchefe o despacho com o Ministro da Marinha dos assuntos que não digam respeito às funções de comando e de direcção que lhe pertencem.
 
-###### Art. 7.º O 1.º subchefe do Estado-Maior da Armada é um contra-almirante.
+Art. 7.º O 1.º subchefe do Estado-Maior da Armada é um contra-almirante.
 
 § 1.º O 1.º subchefe do Estado-Maior da Armada tem a competência disciplinar designada na coluna II do quadro a que se refere o artigo 79.º do Regulamento de Disciplina Militar, no que respeita ao pessoal que presta serviço no Estado-Maior da Armada.
 
@@ -182,7 +237,7 @@ g) Exercer em relação ao pessoal subordinado, em serviço no Estado-Maior da A
 
 #### SECÇÃO III — Do 2.º subchefe do Estado-Maior da Armada
 
-###### Art. 8.º Ao 2.º subchefe do Estado-Maior da Armada compete:
+Art. 8.º Ao 2.º subchefe do Estado-Maior da Armada compete:
 
 a) Substituir o 1.º subchefe do Estado-Maior da Armada na sua falta ou impedimento temporários;
 
@@ -194,19 +249,19 @@ d) Administrar as verbas orçamentais atribuídas ao Estado-Maior da Armada;
 
 e) Exercer em relação ao pessoal que presta serviço no Estado-Maior da Armada funções análogas às que correspondem aos 2.os comandantes de unidades.
 
-###### Art. 9.º O 2.º subchefe do Estado-Maior da Armada despacha os assuntos das suas atribuições com o chefe do Estado-Maior da Armada e com o 1.º subchefe do mesmo Estado-Maior.
+Art. 9.º O 2.º subchefe do Estado-Maior da Armada despacha os assuntos das suas atribuições com o chefe do Estado-Maior da Armada e com o 1.º subchefe do mesmo Estado-Maior.
 
 § único. Como regra geral, o 2.º subchefe do Estado-Maior da Armada submeterá directamente à apreciação do chefe do Estado-Maior da Armada os assuntos que, pela sua natureza ou importância, não interessem à acção de coordenação que o 1.º subchefe deve exercer em relação a todos os trabalhos do Estado-Maior da Armada.
 
-###### Art. 10.º O 2.º subchefe do Estado-Maior da Armada é um comodoro da classe de marinha.
+Art. 10.º O 2.º subchefe do Estado-Maior da Armada é um comodoro da classe de marinha.
 
 #### SECÇÃO IV — Divisões do Estado-Maior da Armada
 
-###### Art. 11.º As divisões do Estado-Maior da Armada trabalham sob a orientação dos respectivos chefes e em estreita colaboração, não só entre si, como também com as direcções de serviços, estabelecimentos de ensino e outras unidades e serviços da Armada.
+Art. 11.º As divisões do Estado-Maior da Armada trabalham sob a orientação dos respectivos chefes e em estreita colaboração, não só entre si, como também com as direcções de serviços, estabelecimentos de ensino e outras unidades e serviços da Armada.
 
-###### Art. 12.º As divisões estudam os assuntos que lhes dizem respeito, preparam os elementos para decisão superior e elaboram, de acordo com as directivas que receberem, os necessários documentos.
+Art. 12.º As divisões estudam os assuntos que lhes dizem respeito, preparam os elementos para decisão superior e elaboram, de acordo com as directivas que receberem, os necessários documentos.
 
-###### Art. 13.º Compete, especialmente, à 1.ª Divisão - Organização:
+Art. 13.º Compete, especialmente, à 1.ª Divisão - Organização:
 
 a) Elaborar o plano geral orgânico dos comandos, forças, unidades e serviços da Armada, com vista à sua preparação militar e à execução das operações;
 
@@ -222,7 +277,7 @@ f) Estudar as propostas orçamentais com vista ao seu ajustamento às necessidad
 
 g) Estudar, no seu âmbito, as questões relativas à Marinha que resultem de acordos internacionais assinados pelo País.
 
-###### Art. 14.º Compete, especialmente, à 2.ª Divisão - Informações:
+Art. 14.º Compete, especialmente, à 2.ª Divisão - Informações:
 
 a) No que respeita a informações militares:
 
@@ -256,7 +311,7 @@ i) Orientar e coordenar a acção dos adidos navais acreditados em países estra
 
 j) Coligir e catalogar elementos respeitantes à história marítima nacional.
 
-###### Art. 15.º Compete, especialmente à 3.ª Divisão - Operações:
+Art. 15.º Compete, especialmente à 3.ª Divisão - Operações:
 
 a) Estudar os métodos de guerra naval e as possibilidades da sua aplicação às forças navais nacionais, tendo em conta a política militar naval da Nação;
 
@@ -282,7 +337,7 @@ k) Manter conhecimento actualizado sobre a atribuição, prontidão e localizaç
 
 l) Estudar os assuntos relativos ao contrôle naval e à protecção da navegação mercante e elaborar os documentos relativos à sua utilização militar.
 
-###### Art. 16.º Compete, especialmente, à 4.ª Divisão - Logística:
+Art. 16.º Compete, especialmente, à 4.ª Divisão - Logística:
 
 a) Estudar e planear, no âmbito que pertence ao Estado-Maior da Armada, a composição dos efectivos do pessoal da Armada e preparar as directivas para o recrutamento, admissão e utilização do pessoal do activo e das reservas;
 
@@ -306,7 +361,7 @@ j) Estudar, no seu âmbito, as questões relativas à marinha que resultem de ac
 
 #### SECÇÃO V — Dos chefes e adjuntos das divisões
 
-###### Art. 17.º Aos chefes de divisão compete, de uma maneira geral, dirigir os trabalhos e estudos realizados nas suas divisões e, designadamente:
+Art. 17.º Aos chefes de divisão compete, de uma maneira geral, dirigir os trabalhos e estudos realizados nas suas divisões e, designadamente:
 
 a) Distribuir os trabalhos pelas secções da sua divisão e orientar a sua execução;
 
@@ -314,9 +369,9 @@ b) Rever os trabalhos realizados pelas secções e submetê-los à apreciação 
 
 c) Manter íntima ligação entre a sua divisão e as restantes, não só no que se refere aos trabalhos que devam ser efectuados em conjunto, mas também no que respeita aos que possam interessar a outras divisões.
 
-###### Art. 18.º Ao chefe da 2.ª Divisão compete orientar superiormente o serviço de cifra, que funciona na dependência da mesma divisão, e desempenhar as funções de oficial de segurança do Estado-Maior da Armada.
+Art. 18.º Ao chefe da 2.ª Divisão compete orientar superiormente o serviço de cifra, que funciona na dependência da mesma divisão, e desempenhar as funções de oficial de segurança do Estado-Maior da Armada.
 
-###### Art. 19.º Aos oficiais adjuntos das divisões compete:
+Art. 19.º Aos oficiais adjuntos das divisões compete:
 
 a) Chefiar as secções da respectiva divisão;
 
@@ -324,21 +379,21 @@ b) Prestar serviço como adjuntos dos chefes das secções;
 
 c) Prestar serviço como adjuntos do chefe da divisão, fora do âmbito das secções.
 
-###### Art. 20.º Os chefes das divisões do Estado-Maior da Armada são capitães-de-mar-e-guerra da classe de marinha; os oficiais adjuntos das divisões são capitães-de-fragata, capitães-tenentes ou primeiros-tenentes, de qualquer classe, habilitados com o curso geral naval de guerra.
+Art. 20.º Os chefes das divisões do Estado-Maior da Armada são capitães-de-mar-e-guerra da classe de marinha; os oficiais adjuntos das divisões são capitães-de-fragata, capitães-tenentes ou primeiros-tenentes, de qualquer classe, habilitados com o curso geral naval de guerra.
 
 #### SECÇÃO VI — Do gabinete do chefe do Estado-Maior da Armada
 
-###### Art. 21.º O gabinete do chefe do Estado-Maior da Armada destina-se a servir o chefe do Estado-Maior da Armada, especialmente no que respeita a relações com os organismos ou entidades estranhas à Armada, protocolo e tarefas de secretaria e arquivo.
+Art. 21.º O gabinete do chefe do Estado-Maior da Armada destina-se a servir o chefe do Estado-Maior da Armada, especialmente no que respeita a relações com os organismos ou entidades estranhas à Armada, protocolo e tarefas de secretaria e arquivo.
 
 § único. A nomeação do chefe e adjunto do gabinete do chefe do Estado-Maior da Armada é feita por determinação do chefe do Estado-Maior da Armada.
 
 #### SECÇÃO VII — Outros organismos do Estado-Maior da Armada
 
-###### Art. 22.º As secções especiais, a que se refere o § 2.º do artigo 3.º deste regulamento, destinam-se ao estudo e coordenação de assuntos que, pela sua natureza especial, devam ser tratados no âmbito do Estado-Maior da Armada, mas apenas com carácter temporário.
+Art. 22.º As secções especiais, a que se refere o § 2.º do artigo 3.º deste regulamento, destinam-se ao estudo e coordenação de assuntos que, pela sua natureza especial, devam ser tratados no âmbito do Estado-Maior da Armada, mas apenas com carácter temporário.
 
 § único. Os chefes das secções especiais são capitães-de-fragata ou capitães-tenentes e os adjuntos são capitães-tenentes ou primeiros-tenentes, de qualquer classe.
 
-###### Art. 23.º Ao Serviço de Cifra, que funciona na dependência da 2.ª Divisão, compete:
+Art. 23.º Ao Serviço de Cifra, que funciona na dependência da 2.ª Divisão, compete:
 
 a) Estudar, planear e controlar as redes criptográficas da Armada e elaborar os sistemas criptográficos adequados;
 
@@ -352,15 +407,15 @@ e) Produzir, distribuir e controlar o material criptográfico.
 
 § único. O serviço de cifra é chefiado, em acumulação, por um dos oficiais adjuntos da 2.ª Divisão.
 
-###### Art. 24.º O serviço de publicações, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, tem por objectivo o registo, tradução, edição, reimpressão e distribuição de publicações.
+Art. 24.º O serviço de publicações, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, tem por objectivo o registo, tradução, edição, reimpressão e distribuição de publicações.
 
 § único. O serviço de publicações é chefiado, em acumulação, por um dos oficiais adjuntos das divisões, nomeado pelo 1.º subchefe do Estado-Maior da Armada.
 
-###### Art. 25.º O gabinete de fotografia e desenho, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, tem por missão executar os trabalhos de fotografia e desenho necessários ao Estado-Maior da Armada.
+Art. 25.º O gabinete de fotografia e desenho, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, tem por missão executar os trabalhos de fotografia e desenho necessários ao Estado-Maior da Armada.
 
 § único. O gabinete de fotografia e desenho é chefiado por um dos oficiais adjuntos das divisões, nomeado pelo 1.º subchefe do Estado-Maior da Armada.
 
-###### Art. 26.º A secretaria-geral, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, destina-se a:
+Art. 26.º A secretaria-geral, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, destina-se a:
 
 a) Receber, registar, distribuir e expedir toda a correspondência do Estado-Maior da Armada que não exija manuseamento especial;
 
@@ -372,27 +427,27 @@ d) Desempenhar em relação ao pessoal em serviço no Estado-Maior da Armada fun
 
 e) Elaborar e publicar a ordem do Estado-Maior da Armada.
 
-###### Art. 27.º Compete ao chefe da secretaria-geral:
+Art. 27.º Compete ao chefe da secretaria-geral:
 
 a) Chefiar a secretaria-geral para o desempenho das tarefas referidas no artigo anterior;
 
 b) Organizar e ter a seu cargo os inventários de mobiliário e de outro material do Estado-Maior da Armada.
 
-###### Art. 28.º O cargo de chefe da secretaria-geral do Estado-Maior da Armada é exercido por um capitão-de-fragata ou capitão-tenente das classes de marinha ou de administração naval.
+Art. 28.º O cargo de chefe da secretaria-geral do Estado-Maior da Armada é exercido por um capitão-de-fragata ou capitão-tenente das classes de marinha ou de administração naval.
 
-###### Art. 29.º A secretaria do sub-registo destina-se a receber, registar, expedir e arquivar a correspondência do Estado-Maior da Armada que exija um manuseamento especial.
+Art. 29.º A secretaria do sub-registo destina-se a receber, registar, expedir e arquivar a correspondência do Estado-Maior da Armada que exija um manuseamento especial.
 
-###### Art. 30.º A secretaria do sub-registo é chefiada por um oficial que satisfaça às condições exigidas para a nomeação dos oficiais adjuntos das divisões.
+Art. 30.º A secretaria do sub-registo é chefiada por um oficial que satisfaça às condições exigidas para a nomeação dos oficiais adjuntos das divisões.
 
 § único. À secretaria do sub-registo é aplicável o disposto no § único do artigo 5.º deste regulamento.
 
-###### Art. 31.º À biblioteca do Estado-Maior da Armada, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, compete propor a aquisição de livros, revistas e outros documentos com interesse para o serviço do Estado-Maior e bem assim a respectiva catalogação, conservação e distribuição para consulta.
+Art. 31.º À biblioteca do Estado-Maior da Armada, que funciona na dependência do 2.º subchefe do Estado-Maior da Armada, compete propor a aquisição de livros, revistas e outros documentos com interesse para o serviço do Estado-Maior e bem assim a respectiva catalogação, conservação e distribuição para consulta.
 
-###### Art. 32.º A biblioteca do Estado-Maior da Armada é dirigida por um oficial superior da Armada, do activo ou da reserva.
+Art. 32.º A biblioteca do Estado-Maior da Armada é dirigida por um oficial superior da Armada, do activo ou da reserva.
 
 #### SECÇÃO VIII — Do funcionamento do Estado-Maior da Armada
 
-###### Art. 33.º Ao Estado-Maior da Armada serão enviados:
+Art. 33.º Ao Estado-Maior da Armada serão enviados:
 
 a) Os relatórios dos comandantes navais e de defesas marítimas, forças e unidades, acompanhados dos relatórios dos respectivos chefes de serviço e das informações que os mesmos mereçam dos comandos superiores e dos organismos técnicos;
 
@@ -406,13 +461,13 @@ e) Relações da situação do pessoal do activo e das reservas da Marinha, da f
 
 f) Quaisquer outros elementos e documentos cujo envio com regularidade seja considerado como necessário aos trabalhos realizados no Estado-Maior da Armada.
 
-###### Art. 34.º O Estado-Maior da Armada obtém directamente dos comandos, forças, unidades e serviços da Armada e dos outros organismos do Ministério da Marinha todas as informações e elementos de que necessita.
+Art. 34.º O Estado-Maior da Armada obtém directamente dos comandos, forças, unidades e serviços da Armada e dos outros organismos do Ministério da Marinha todas as informações e elementos de que necessita.
 
 § único. As informações e elementos a que se refere o corpo deste artigo podem ser pedidos pelos subchefes do Estado-Maior da Armada ou pelos chefes das divisões.
 
-###### Art. 35.º O Estado-Maior da Armada orienta e utiliza a acção dos adidos navais, como meio de obter informações e facilidades das marinhas dos países onde aqueles adidos exercem as suas funções.
+Art. 35.º O Estado-Maior da Armada orienta e utiliza a acção dos adidos navais, como meio de obter informações e facilidades das marinhas dos países onde aqueles adidos exercem as suas funções.
 
-###### Art. 36.º Os documentos elaborados no Estado-Maior da Armada são:
+Art. 36.º Os documentos elaborados no Estado-Maior da Armada são:
 
 a) Planos, directivas, instruções e ordens;
 
@@ -422,9 +477,9 @@ c) Estudos e notas internas;
 
 d) Ofícios e notas.
 
-###### Art. 37.º Os documentos referidos na alínea a) do artigo anterior são elaborados e processados de acordo com o estabelecido no Manual de Planeamento.
+Art. 37.º Os documentos referidos na alínea a) do artigo anterior são elaborados e processados de acordo com o estabelecido no Manual de Planeamento.
 
-###### Art. 38.º Os documentos referidos na alínea b) do artigo 36.º são elaborados nas condições seguintes:
+Art. 38.º Os documentos referidos na alínea b) do artigo 36.º são elaborados nas condições seguintes:
 
 a) Pareceres - quando se destinam a expor a opinião do Estado-Maior da Armada sobre problemas de reconhecida importância;
 
@@ -436,17 +491,17 @@ c) Propostas - quando se destinam a sugerir novos procedimentos ou novas disposi
 
 § 2.º As informações e propostas são assinadas pelos subchefes do Estado-Maior da Armada ou pelos chefes das divisões, competindo ao 1.º subchefe do Estado-Maior da Armada definir as condições em que os referidos documentos são assinados pelos chefes das divisões. As informações e propostas assinadas pelos subchefes do Estado-Maior da Armada são dirigidas ao chefe do Estado-Maior da Armada e as que são assinadas pelos chefes das divisões são endereçadas aos chefes de que dependem.
 
-###### Art. 39.º Os estudos referidos na alínea c) do artigo 36.º são elaborados de acordo com o estabelecido no Manual de Planeamento e conforme a sua natureza são assinados pelo 1.º ou 2.º subchefe do Estado-Maior da Armada ou pelos chefes das divisões. As notas internas referidas na mesma alínea destinam-se ao registo da opinião dos chefes das divisões ou dos oficiais adjuntos sobre um determinado assunto.
+Art. 39.º Os estudos referidos na alínea c) do artigo 36.º são elaborados de acordo com o estabelecido no Manual de Planeamento e conforme a sua natureza são assinados pelo 1.º ou 2.º subchefe do Estado-Maior da Armada ou pelos chefes das divisões. As notas internas referidas na mesma alínea destinam-se ao registo da opinião dos chefes das divisões ou dos oficiais adjuntos sobre um determinado assunto.
 
 § único. A elaboração das notas internas referidas no corpo deste artigo é promovida pelos chefes das divisões com a finalidade de conhecerem a opinião dos oficiais adjuntos da sua divisão ou dos chefes das outras divisões sobre assuntos que estejam apreciando.
 
-###### Art. 40.º Os documentos referidos na alínea d) do artigo 36.º são elaborados de acordo com as normas em vigor no Ministério da Marinha.
+Art. 40.º Os documentos referidos na alínea d) do artigo 36.º são elaborados de acordo com as normas em vigor no Ministério da Marinha.
 
 § 1.º Os ofícios, tendo em conta a hierarquia da entidade a que são dirigidos, são assinados pelo chefe, 1.º subchefe ou 2.º subchefe do Estado-Maior da Armada.
 
 § 2.º As notas são assinadas pelos subchefes do Estado-Maior da Armada ou, quando se trate de assuntos de rotina, pelos chefes das divisões.
 
-###### Art. 41.º Para efeitos do disposto na alínea c) do § 2.º do artigo 2.º deverá o 1.º subchefe do Estado-Maior da Armada visitar, com a frequência requerida, os comandos, forças, unidades e serviços da Armada ou designar o 2.º subchefe para realizar essas visitas.
+Art. 41.º Para efeitos do disposto na alínea c) do § 2.º do artigo 2.º deverá o 1.º subchefe do Estado-Maior da Armada visitar, com a frequência requerida, os comandos, forças, unidades e serviços da Armada ou designar o 2.º subchefe para realizar essas visitas.
 
 § único. Para os fins referidos no corpo deste artigo poderá o 1.º subchefe do Estado-Maior da Armada encarregar os oficiais sob as suas ordens de todas as missões exteriores relacionadas com as atribuições do Estado-Maior da Armada e especialmente:
 
@@ -460,11 +515,11 @@ d) Desempenhar junto das autoridades estrangeiras qualquer missão que as circun
 
 e) Verificar a protecção dada às matérias classificadas nos comandos, unidades e serviços.
 
-###### Art. 42.º O 1.º subchefe do Estado-Maior da Armada promoverá reuniões dos oficiais do estado-maior, sempre que julgue conveniente adoptar esse procedimento, para a apreciação de qualquer assunto.
+Art. 42.º O 1.º subchefe do Estado-Maior da Armada promoverá reuniões dos oficiais do estado-maior, sempre que julgue conveniente adoptar esse procedimento, para a apreciação de qualquer assunto.
 
 § único. As reuniões a que se refere o corpo deste artigo são presididas pelo 1.º subchefe do Estado-Maior da Armada e nelas tomam parte o 2.º subchefe, os chefes das divisões e outros oficiais cuja assistência seja julgada vantajosa.
 
-###### Art. 43.º O 1.º subchefe do Estado-Maior da Armada poderá ordenar a constituição de comissões ou grupos de trabalho, incluindo oficiais das divisões ou de outros organismos do estado-maior para o estudo ou execução de tarefas específicas.
+Art. 43.º O 1.º subchefe do Estado-Maior da Armada poderá ordenar a constituição de comissões ou grupos de trabalho, incluindo oficiais das divisões ou de outros organismos do estado-maior para o estudo ou execução de tarefas específicas.
 
 § único. As comissões ou grupos de trabalho a que se refere o corpo deste artigo são chefiadas por um dos subchefes do Estado-Maior da Armada ou por um dos chefes de divisão.
 
@@ -472,7 +527,7 @@ e) Verificar a protecção dada às matérias classificadas nos comandos, unidad
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 44.º No âmbito do Estado-Maior da Armada funcionam os seguintes organismos:
+Art. 44.º No âmbito do Estado-Maior da Armada funcionam os seguintes organismos:
 
 a) Conselho Técnico Naval;
 
@@ -486,9 +541,9 @@ e) Centro de Estudos Especiais da Armada.
 
 #### SECÇÃO II — Do Conselho Técnico Naval
 
-###### Art. 45.º O Conselho Técnico Naval é um organismo consultivo do chefe do Estado-Maior da Armada, cumprindo-lhe estudar e dar parecer sobre assuntos de natureza técnica.
+Art. 45.º O Conselho Técnico Naval é um organismo consultivo do chefe do Estado-Maior da Armada, cumprindo-lhe estudar e dar parecer sobre assuntos de natureza técnica.
 
-###### Art. 46.º A constituição do Conselho Técnico Naval é a seguinte:
+Art. 46.º A constituição do Conselho Técnico Naval é a seguinte:
 
 Presidente - o chefe do Estado-Maior da Armada.
 
@@ -500,33 +555,33 @@ Secretário - um dos oficiais adjuntos das divisões.
 
 § 2.º Para as reuniões do Conselho Técnico Naval poderão ser convocados pelo chefe do Estado-Maior da Armada outros oficiais cuja presença for julgada necessária.
 
-###### Art. 47.º Pelo chefe do Estado-Maior da Armada poderão ser dispensados de assistir às reuniões do Conselho Técnico Naval os directores de serviços da Superintendência dos Serviços da Armada e os chefes das divisões do Estado-Maior da Armada cuja presença seja considerada como desnecessária tendo em conta a natureza dos assuntos que vão ser apreciados.
+Art. 47.º Pelo chefe do Estado-Maior da Armada poderão ser dispensados de assistir às reuniões do Conselho Técnico Naval os directores de serviços da Superintendência dos Serviços da Armada e os chefes das divisões do Estado-Maior da Armada cuja presença seja considerada como desnecessária tendo em conta a natureza dos assuntos que vão ser apreciados.
 
-###### Art. 48.º O Conselho Técnico Naval pode entregar o estudo de certos assuntos a comissões, indicando os oficiais que delas devem fazer parte, ou às direcções de serviços da Superintendência dos Serviços da Armada, devendo, em ambos os casos, ser apresentado relatório para ser discutido em nova sessão do Conselho.
+Art. 48.º O Conselho Técnico Naval pode entregar o estudo de certos assuntos a comissões, indicando os oficiais que delas devem fazer parte, ou às direcções de serviços da Superintendência dos Serviços da Armada, devendo, em ambos os casos, ser apresentado relatório para ser discutido em nova sessão do Conselho.
 
-###### Art. 49.º Serão lavradas actas das sessões do Conselho Técnico Naval, nelas ficando exarado o resumo da discussão e as conclusões, podendo os membros que assim o desejarem exprimir separadamente os seus votos.
+Art. 49.º Serão lavradas actas das sessões do Conselho Técnico Naval, nelas ficando exarado o resumo da discussão e as conclusões, podendo os membros que assim o desejarem exprimir separadamente os seus votos.
 
 § único. Nas actas a que se refere o corpo deste artigo deverá ficar registado duais os oficiais que, nos termos do disposto no artigo 47.º, foram dispensados de assistir às reuniões do Conselho.
 
 #### SECÇÃO III — Instituto Superior Naval de Guerra
 
-###### Art. 50.º O Instituto Superior Naval de Guerra funciona na dependência directa do chefe do Estado-Maior da Armada e rege-se por legislação própria.
+Art. 50.º O Instituto Superior Naval de Guerra funciona na dependência directa do chefe do Estado-Maior da Armada e rege-se por legislação própria.
 
-###### Art. 51.º Para que se mantenha uma doutrina comum no Estado-Maior da Armada e no Instituto Superior Naval de Guerra, os oficiais do Estado-Maior da Armada poderão ser designados para, em acumulação com o seu serviço, colaborar no ensino ministrado no Instituto e os professores deste estabelecimento poderão ser nomeados para prestar serviço no Estado-Maior da Armada, também em regime de acumulação.
+Art. 51.º Para que se mantenha uma doutrina comum no Estado-Maior da Armada e no Instituto Superior Naval de Guerra, os oficiais do Estado-Maior da Armada poderão ser designados para, em acumulação com o seu serviço, colaborar no ensino ministrado no Instituto e os professores deste estabelecimento poderão ser nomeados para prestar serviço no Estado-Maior da Armada, também em regime de acumulação.
 
 #### SECÇÃO IV — Outros organismos
 
-###### Art. 52.º O Centro de Comunicações da Armada rege-se por diploma próprio.
+Art. 52.º O Centro de Comunicações da Armada rege-se por diploma próprio.
 
 § único. Ao Centro de Comunicações da Armada é aplicável o disposto no § único do artigo 5.º deste regulamento.
 
-###### Art. 53.º A Comissão Permanente de Infra-Estruturas da Armada rege-se por diploma próprio.
+Art. 53.º A Comissão Permanente de Infra-Estruturas da Armada rege-se por diploma próprio.
 
 § 1.º O presidente da Comissão Permanente de Infra-Estruturas da Armada é um dos chefes de divisão do Estado-Maior da Armada, a designar pelo chefe do Estado-Maior da Armada, e o secretário da referida Comissão desempenha, cumulativamente, as funções de oficial adjunto da mesma divisão.
 
 § 2.º À Comissão Permanente de Infra-Estruturas da Armada é aplicável o disposto no § único do artigo 5.º deste regulamento.
 
-###### Art. 54.º O Centro de Estudos Especiais da Armada rege-se por diploma próprio.
+Art. 54.º O Centro de Estudos Especiais da Armada rege-se por diploma próprio.
 
 § único. Ao Centro de Estudos Especiais da Armada é aplicável o disposto no § único do artigo 5.º deste regulamento.
 
@@ -534,7 +589,7 @@ Secretário - um dos oficiais adjuntos das divisões.
 
 #### SECÇÃO I — Oficiais do Estado-Maior da Armada
 
-###### Art. 55.º São considerados oficiais do Estado-Maior da Armada:
+Art. 55.º São considerados oficiais do Estado-Maior da Armada:
 
 a) O chefe do Estado-Maior da Armada;
 
@@ -554,36 +609,36 @@ g) Os oficiais habilitados com o curso geral naval de guerra que em diligência 
 
 § 2.º Os oficiais referidos nas alíneas a), b), c) e f) do corpo deste artigo têm direito ao uso do distintivo oficial do Estado-Maior da Armada estabelecido no Plano de Uniformes dos Oficiais, Aspirantes a Oficial e Cadetes da Armada.
 
-###### Art. 56.º A nomeação do 1.º e do 2.º subchefes do Estado-Maior da Armada é feita por portaria do Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
+Art. 56.º A nomeação do 1.º e do 2.º subchefes do Estado-Maior da Armada é feita por portaria do Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
 
-###### Art. 57.º A nomeação dos oficiais referidos nas alíneas c) e e) do corpo do artigo 55.º é feita por determinação do chefe do Estado-Maior da Armada, mediante proposta do 1.º subchefe.
+Art. 57.º A nomeação dos oficiais referidos nas alíneas c) e e) do corpo do artigo 55.º é feita por determinação do chefe do Estado-Maior da Armada, mediante proposta do 1.º subchefe.
 
 § único. A escolha dos chefes e adjuntos das divisões far-se-á entre os oficiais que obtiveram melhores classificações nos cursos navais de guerra e informações favoráveis sobre a sua aptidão para os trabalhos de estado-maior.
 
-###### Art. 58.º A nomeação dos adidos navais é feita pelo Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
+Art. 58.º A nomeação dos adidos navais é feita pelo Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
 
 § 1.º Os oficiais a que se refere o corpo deste artigo são escolhidos entre os que prestam serviço no Estado-Maior da Armada.
 
 § 2.º Quando não for possível adoptar o procedimento referido no parágrafo anterior, a escolha dos adidos navais recairá nos oficiais que tenham prestado serviço no Estado-Maior da Armada ou em estados-maiores conjuntos ou combinados, por período não inferior a três anos, ou que estejam prestando serviço nestes últimos estados-maiores.
 
-###### Art. 59.º A nomeação dos oficiais referidos na alínea g) do corpo do artigo 55.º é feita por determinação do chefe do Estado-Maior da Armada, carecendo de prévia autorização ministerial quando os mesmos não façam parte da lotação do Estado-Maior da Armada.
+Art. 59.º A nomeação dos oficiais referidos na alínea g) do corpo do artigo 55.º é feita por determinação do chefe do Estado-Maior da Armada, carecendo de prévia autorização ministerial quando os mesmos não façam parte da lotação do Estado-Maior da Armada.
 
 #### SECÇÃO II — Outro pessoal militar em serviço no Estado-Maior da Armada
 
-###### Art. 60.º Os oficiais não considerados na secção anterior e os sargentos e praças que prestem serviço nos organismos referidos no artigo 3.º e respectivos parágrafos e no Centro de Comunicações da Armada são nomeados pela Direcção do Serviço do Pessoal, mediante requisição do 1.º subchefe do Estado-Maior da Armada.
+Art. 60.º Os oficiais não considerados na secção anterior e os sargentos e praças que prestem serviço nos organismos referidos no artigo 3.º e respectivos parágrafos e no Centro de Comunicações da Armada são nomeados pela Direcção do Serviço do Pessoal, mediante requisição do 1.º subchefe do Estado-Maior da Armada.
 
 § único. O pessoal a que se refere o corpo deste artigo é considerado como prestando serviço em unidade da Armada.
 
 #### SECÇÃO III — Disposições gerais
 
-###### Art. 61.º A lotação do pessoal militar do Estado-Maior da Armada é estabelecida por portaria do Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
+Art. 61.º A lotação do pessoal militar do Estado-Maior da Armada é estabelecida por portaria do Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
 
-###### Art. 62.º O pessoal em serviço no Estado-Maior da Armada não deve ser deslocado desta situação ou nomeado para quaisquer funções estranhas àquele organismo sem prévia consulta ao chefe do Estado-Maior da Armada.
+Art. 62.º O pessoal em serviço no Estado-Maior da Armada não deve ser deslocado desta situação ou nomeado para quaisquer funções estranhas àquele organismo sem prévia consulta ao chefe do Estado-Maior da Armada.
 
-###### Art. 63.º A lotação do pessoal civil em serviço no Estado-Maior da Armada será fixada por despacho do Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
+Art. 63.º A lotação do pessoal civil em serviço no Estado-Maior da Armada será fixada por despacho do Ministro da Marinha, mediante proposta do chefe do Estado-Maior da Armada.
 
-###### Art. 64.º Enquanto não for normalizada a frequência do curso geral naval de guerra podem ser nomeados adjuntos das divisões oficiais que ainda não tenham frequentado aquele curso, sendo-lhes aplicável o disposto no artigo 55.º e seus parágrafos.
+Art. 64.º Enquanto não for normalizada a frequência do curso geral naval de guerra podem ser nomeados adjuntos das divisões oficiais que ainda não tenham frequentado aquele curso, sendo-lhes aplicável o disposto no artigo 55.º e seus parágrafos.
 
-###### Art. 65.º Enquanto os quadros dos oficiais das classes de marinha e de administração naval não estiverem completamente preenchidos, a secretaria-geral pode ser chefiada por um capitão-tenente ou primeiro-tenente do serviço geral.
+Art. 65.º Enquanto os quadros dos oficiais das classes de marinha e de administração naval não estiverem completamente preenchidos, a secretaria-geral pode ser chefiada por um capitão-tenente ou primeiro-tenente do serviço geral.
 
 Ministério da Marinha, 28 de Outubro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

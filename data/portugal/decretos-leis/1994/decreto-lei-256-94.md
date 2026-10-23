@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/1994/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 556ead463425da51ee610c8b8087bca9576103a2e8b65a3bfe083fce3c66f52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cea942438ef921b6b6179ec677dcf991153e1906c9f7f0661c0f07df712cc7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
-- Fundação
 - Estatuto
+- Fundação
 - Fundação de Serralves
 relationships:
 - type: amended_by
   target: pt:dre:693461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342617:por
+  label: "Alterados os arts. 2º e 3º do Dec Lei 240-A/89 de 27-Jul e revogada a al. c) do nº 1 do art. 16º dos Estatutos aprovados\
+    \ por aquele diploma, com a redacção do presente, pelo DEC LEI.163/2001.2001.05.22.MC DR.IS-A [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2001-342617
+  date: '2001-05-22'
+- type: cites
+  target: pt:dre:175573:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:24Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +114,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 9.º, 10.º, 15.º, 17.º e 20.º dos estatutos da Fundação de Serralves, aprovados pelo [Decreto-Lei n.º 240-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-a-1989-175573), de 27 de Julho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 9.º, 10.º, 15.º, 17.º e 20.º dos estatutos da Fundação de Serralves, aprovados pelo [Decreto-Lei n.º 240-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-a-1989-175573), de 27 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 9.º Os membros do conselho de administração são designados inicialmente nas disposições transitórias destes estatutos e futuramente escolhidos pelo próprio conselho, por cooptação, nos termos dos artigos 12.º e 34.º, com excepção de dois, que serão sempre nomeados pelo Estado.
+Art. 9.º Os membros do conselho de administração são designados inicialmente nas disposições transitórias destes estatutos e futuramente escolhidos pelo próprio conselho, por cooptação, nos termos dos artigos 12.º e 34.º, com excepção de dois, que serão sempre nomeados pelo Estado.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - Os membros do conselho de administração serão sempre pessoas singulares.
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 a) Programar a actividade da Fundação e aprovar o seu orçamento;
 
@@ -124,11 +134,11 @@ d) ...
 
 e) ...
 
-###### Art. 17.º - 1 - ...
+Art. 17.º - 1 - ...
 
 2 - Os actos de alienação ou de oneração de quaisquer parcelas da Quinta de Serralves só serão válidos e eficazes se praticados em execução de uma deliberação do conselho de administração que tenha obtido o voto concordante dos administradores designados pelo estado.
 
-###### Art. 20.º - 1 - O conselho de fundadores é composto:
+Art. 20.º - 1 - O conselho de fundadores é composto:
 
 a) Por todos os fundadores referidos no artigo 35.º, bem como pelo Estado Português;
 
@@ -144,12 +154,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 2 de Outubro de 1994.**
+Promulgado em 2 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

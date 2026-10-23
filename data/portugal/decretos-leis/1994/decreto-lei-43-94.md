@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/040a00/07240731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/1994/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 288b95806f202c817f15d4b4c33398e14d7f6a28a919bd28ef4c1e9891aa625d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7c0a4c78983948078c8d6c4be3e1cb1f0ac40e46b4c3126d1d31ca8f1bbc3d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
 subjects:
 - Assistência Médica
 - Comissão de Fiscalização
-- Prevenção contra o Consumo de Droga
 - Integração de Trabalhadores
 - Orgânica
-- Toxicodependente
+- Prevenção contra o Consumo de Droga
 - Serviço de Prevenção e Tratamento da Toxicodependência
+- Toxicodependente
 - Unidade Hospitalar Especializada
 relationships:
 - type: amended_by
   target: pt:dre:401909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:230332:por
+  label: "Alterados os arts. 2º, 6º, 9º, 10º, 14º, 15º, 16º, 17º, 18º, 19º, 20º, 21º, 22º, 23º, 30º, 31º, 33º, 36º, 37º, 38º\
+    \ e revogados os arts. 24º a 28º e 39º, pelo DEC LEI.67/95.1995.04.08.MS, DR.IS-A [84]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1995-230332
+  date: '1995-04-08'
+- type: amended_by
+  target: pt:dre:164213:por
+  label: "Alterado o art. 23º e aditados os arts. 23-ºA e 23º-B ao presente diploma, com a redacção do Dec Lei 67/95 de 08-Abr,\
+    \ pelo DEC LEI.125/2001.2001.04.17.MS,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2001-164213
+  date: '2001-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -98,16 +110,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/237/1992/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/237/1992/03/24/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401909:por
+  label: "Revogado, com a redacção dada pelos Dec Lei 67/95 de 08-Abr e 125/2001 de 17-Abr, pelo DEC LEI.269-A/2002.2002.11.29.MS\
+    \ DR.IS-A [276]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-a-2002-401909
+  date: '2002-11-29'
 article_structure:
   article_count: 42
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:10Z'
   warnings: []
   errors: []
 ---
@@ -374,7 +448,9 @@ d) Promover a organização do ficheiro de legislação e toda a documentação 
 
 2 - O responsável do Gabinete Jurídico é equiparado, para todos os efeitos legais, a chefe de divisão.
 
-###### Artigo 17.º — Divisão de Documentação e Informação
+###### Artigo 17.º
+
+##### Divisão de Documentação e Informação
 
 À Divisão de Documentação e Informação compete:
 
@@ -724,15 +800,15 @@ O presente diploma reporta os seus efeitos a 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Gomes de Carvalho.
 
-**Promulgado em 6 de Janeiro de 1994.**
+Promulgado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Conteúdo funcional da carreira de técnico-adjunto de apoio psicossocial
 

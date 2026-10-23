@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/220a00/56705670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/1994/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1994-604437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51a54868ea8d5204e2ed32ec1f81ab0aba0771653b8e638cecd3dbc53d419b33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52b8dda7e7eddd51e9e96a91a1eb8fedeab1e6788ba140734f9c3034cf090172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Formação Profissional
-- Exoneração
-- Pessoal Dirigente
+- Administração Local
+- Administração Regional
+- Carreira Profissional
 - Comissão de Serviço
 - Delegação de Competências
+- Descrição de Funções
 - Estatuto
-- Carreira Profissional
+- Exoneração
+- Formação Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Função Pública
+- Horário de Trabalho
 - Incompatibilidades
 - Instituto Público
-- Descrição de Funções
-- Administração Local
-- Horário de Trabalho
+- Pessoal Dirigente
+- Recrutamento de Pessoal
 - Remuneração
-- Administração Regional
 - Substituição de Funções
 - Suspensão de Funções
 relationships:
@@ -94,16 +94,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391578:por
+  label: "Revogado pela LEI.49/99.1999.06.22.AR,DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-1999-391578
+  date: '1999-06-22'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:03Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +133,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 18.º — [...]
 
@@ -150,12 +163,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 28 de Julho de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Setembro de 1994.**
+Promulgado em 5 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1994.**
+Referendado em 8 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

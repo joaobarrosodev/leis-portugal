@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20086-1963-686813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e38f28fd8467803fcf1b654923aa598fb82ca34b6b9be7561df2768cb078fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a83ced336bed8e318c58ee0327057f6d406180a83dc27da46548650110cb975d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Orçamento
+- São Tomé e Príncipe.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344933:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:22Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +103,7 @@ Serviços de Saúde
 
 Despesas com o pessoal:
 
-###### Artigo 111.º «Remunerações certas ao pessoal em exercício»:
+Artigo 111.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
@@ -102,7 +113,7 @@ Missões Católicas Portuguesas
 
 Diversos encargos:
 
-###### Artigo 135.º «Encargos administrativos»:
+Artigo 135.º «Encargos administrativos»:
 
 N.º 2) «Gratificação especial de prémios de risco a dois irmãos de S. João de Deus, que prestam serviço no leprosário, a 1000$00 mensais (artigo 37.º do [Decreto n.º 39458](https://diariodarepublica.pt/dr/detalhe/decreto/39458-1953-344933), de 7 de Dezembro de 1953)» ... 10500$00
 
@@ -112,7 +123,7 @@ Serviços de Transportes Aéreos
 
 Despesas com o pessoal:
 
-###### Artigo 248.º «Remunerações certas ao pessoal em exercício»:
+Artigo 248.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal contratado»:
 

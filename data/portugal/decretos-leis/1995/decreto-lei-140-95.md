@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/1995/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1995-518652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bde4ae8a483a1f0685057ef3cb167eb3f77d358805c8093be81c995b39149f4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 089c1cfa9d0e54906d0fd4da9c758239b0d6e75fe35146ee9da7aa7577cec62b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Contra-ordenação
 - Contribuições da Segurança Social
 - Direito Fiscal
 - Direito Penal Económico
 - Dívidas à Segurança Social
-- Ação Social
 - Fraude Fiscal
 - Infracção Fiscal
 - Patronato
-- Sanção Penal
 - Regime Jurídico
 - Regimes de Segurança Social
+- Sanção Penal
 - Segurança Social
 - Trabalhador Independente
 relationships:
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248175:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:22Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +127,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 58.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A parte II do Regime Jurídico das Infracções Fiscais não Aduaneiras (RJIFNA), aprovado pelo [Decreto-Lei n.º 20-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1990-248175), de 15 de Janeiro, passa a ter a epígrafe «Das infracções fiscais em especial e das infracções contra a segurança social».
+Artigo 1.º A parte II do Regime Jurídico das Infracções Fiscais não Aduaneiras (RJIFNA), aprovado pelo [Decreto-Lei n.º 20-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-1990-248175), de 15 de Janeiro, passa a ter a epígrafe «Das infracções fiscais em especial e das infracções contra a segurança social».
 
-###### Art. 2.º É aditado na parte II do RJIFNA um capítulo II, com a epígrafe «Dos crimes contra a segurança social» e que integra os seguintes artigos:
+Art. 2.º É aditado na parte II do RJIFNA um capítulo II, com a epígrafe «Dos crimes contra a segurança social» e que integra os seguintes artigos:
 
 ###### Artigo 27.º-A — Fraude à segurança social
 
@@ -149,24 +157,24 @@ As entidades empregadoras que, tendo deduzido do valor das remunerações pagas 
 
 O disposto no artigo 26.º é aplicável, com as devidas adaptações, aos crimes contra a segurança social.
 
-###### Art. 3.º O capítulo II da parte II do RJIFNA passa a capítulo III.
+Art. 3.º O capítulo II da parte II do RJIFNA passa a capítulo III.
 
-###### Art. 4.º O capítulo I da parte III do RJIFNA passa a ter a epígrafe «Processo penal fiscal e de segurança social» e é-lhe aditado o seguinte artigo:
+Art. 4.º O capítulo I da parte III do RJIFNA passa a ter a epígrafe «Processo penal fiscal e de segurança social» e é-lhe aditado o seguinte artigo:
 
 ###### Artigo 51.º-A — Competência no âmbito do processo penal de segurança social
 
 Quando o processo penal respeitar a crimes contra a segurança social, os poderes conferidos nas disposições deste capítulo ao director distrital de Finanças e aos agentes de administração fiscal cabem, respectivamente, ao presidente do conselho directivo do centro regional de segurança social territorialmente competente e aos funcionários e agentes integrados na estrutura orgânico-funcional desta instituição.
 
-###### Art. 5.º O produto das multas resultante da aplicação do regime penal de segurança social constitui receita própria desta, devendo ser consignada à acção social.
+Art. 5.º O produto das multas resultante da aplicação do regime penal de segurança social constitui receita própria desta, devendo ser consignada à acção social.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

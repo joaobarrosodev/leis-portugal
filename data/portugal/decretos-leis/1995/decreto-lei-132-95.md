@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/1995/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1995-521237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a6c08bda6cca4527664ada2f5bba4eebf6482b88a1991b7623a74a7355ffd5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c1dcd3f417b9e0c5eac8a0f38f9dd674e2ff0d06bfb370d1943d3ea6b7c5a07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
 - Cisão de Empresas
 - Estatuto
 - GDP
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/1992/02/14/p/dre
@@ -83,16 +83,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/333/1991/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/333/1991/09/06/p/dre
+- type: cites
+  target: pt:dre:304533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670534:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:12Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +147,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A GDP - Gás de Portugal, S. A., adiante designada abreviadamente por GDP, procederá à constituição de novas sociedades, cujo capital será realizado por entradas em espécie, mediante transmissão de partes do seu património, ficando a pertencer à GDP, para todos os efeitos, as acções representativas da totalidade do capital social daquelas novas sociedades.
+Artigo 1.º - 1 - A GDP - Gás de Portugal, S. A., adiante designada abreviadamente por GDP, procederá à constituição de novas sociedades, cujo capital será realizado por entradas em espécie, mediante transmissão de partes do seu património, ficando a pertencer à GDP, para todos os efeitos, as acções representativas da totalidade do capital social daquelas novas sociedades.
 
 2 - Das sociedades constituídas nos termos do número anterior poderão ainda destacar-se partes de património para a constituição de outras novas sociedades ou para a realização de capital em sociedades já existentes.
 
-###### Art. 2.º - 1 - Para os efeitos do disposto no artigo anterior, o conselho de administração da GDP promoverá a avaliação do respectivo património, designadamente do imobilizado, ou a actualização de avaliações anteriormente efectuadas.
+Art. 2.º - 1 - Para os efeitos do disposto no artigo anterior, o conselho de administração da GDP promoverá a avaliação do respectivo património, designadamente do imobilizado, ou a actualização de avaliações anteriormente efectuadas.
 
 2 - A avaliação ou a actualização das avaliações a efectuar nos termos do número anterior será feita por entidade escolhida de entre as previamente qualificadas pelo Ministério das Finanças e será submetida pelo conselho de administração à aprovação da assembleia geral.
 
@@ -127,7 +159,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A transmissão do património, designadamente do imobilizado, para as sociedades a constituir, a título de entradas em espécie para realização do seu capital, ou a título de suprimentos, será efectuada pelos valores patrimoniais resultantes da reavaliação, no que se refere ao activo imobilizado corpóreo, e avaliação efectuadas.
 
-###### Art. 3.º - 1 - O conselho de administração da GDP submeterá à aprovação da assembleia geral, acompanhado da avaliação referida no artigo anterior, o plano geral das novas sociedades a constituir, com menção e justificação, designadamente dos seguintes aspectos, com as novas sociedades relacionados:
+Art. 3.º - 1 - O conselho de administração da GDP submeterá à aprovação da assembleia geral, acompanhado da avaliação referida no artigo anterior, o plano geral das novas sociedades a constituir, com menção e justificação, designadamente dos seguintes aspectos, com as novas sociedades relacionados:
 
 a) Definição do seu objecto social;
 
@@ -141,19 +173,19 @@ e) Prazo de constituição e de início de actividade das novas sociedades.
 
 2 - Os estatutos referidos na alínea c) do número anterior deverão respeitar o modelo tipo que consta do anexo ao presente diploma e do qual faz parte integrante.
 
-###### Art. 4.º Não é aplicável ao Estado, relativamente à GDP, nem a esta, relativamente às sociedades constituídas ao abrigo dos n.os 1 e 2 do artigo 1.º, o disposto nos artigos 501.º a 504.º do Código das Sociedades Comerciais.
+Art. 4.º Não é aplicável ao Estado, relativamente à GDP, nem a esta, relativamente às sociedades constituídas ao abrigo dos n.os 1 e 2 do artigo 1.º, o disposto nos artigos 501.º a 504.º do Código das Sociedades Comerciais.
 
-###### Art. 5.º - 1 - Cada uma das novas sociedades terá o capital social correspondente ao valor do activo, líquido do passivo, que para ela é destacado a esse título.
+Art. 5.º - 1 - Cada uma das novas sociedades terá o capital social correspondente ao valor do activo, líquido do passivo, que para ela é destacado a esse título.
 
 2 - A cobertura do capital social das novas sociedades pela parte do património destacado será certificada por um revisor oficial de contas.
 
-###### Art. 6.º A constituição das novas sociedades será documentada apenas pela acta da assembleia geral de onde conste a correspondente deliberação, que constitui título suficiente para os necessários registos.
+Art. 6.º A constituição das novas sociedades será documentada apenas pela acta da assembleia geral de onde conste a correspondente deliberação, que constitui título suficiente para os necessários registos.
 
-###### Art. 7.º - 1 - São transmitidas para as sociedades a constituir ao abrigo do presente diploma as posições jurídicas da GDP, nos contratos por ela celebrados, relativamente às actividades e interesses que passem a ser prosseguidos por aquelas, sem prejuízo da manutenção das garantias a elas inerentes, conforme vier a constar do plano geral referido no n.º 1 do artigo 3.º
+Art. 7.º - 1 - São transmitidas para as sociedades a constituir ao abrigo do presente diploma as posições jurídicas da GDP, nos contratos por ela celebrados, relativamente às actividades e interesses que passem a ser prosseguidos por aquelas, sem prejuízo da manutenção das garantias a elas inerentes, conforme vier a constar do plano geral referido no n.º 1 do artigo 3.º
 
 2 - Os direitos e regalias dos trabalhadores, decorrentes da lei, de instrumentos de regulação colectiva ou de contratos individuais de trabalho, não são prejudicados pela transferência para as novas sociedades, contando-se, para todos os efeitos, a antiguidade adquirida na GDP.
 
-###### Art. 8.º - 1 - A GDP fica autorizada a transmitir a sua posição contratual no contrato de concessão da rede de distribuição de gás natural de Lisboa, celebrado com o Estado Português em 16 de Dezembro de 1993, de acordo com as bases de concessão de exploração das redes de distribuição regional de gás natural, aprovadas pelos Decretos-Leis n.os [33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro, e [333/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1991-304533), de 6 de Setembro, para a nova sociedade a constituir cujo objecto social principal consista na obtenção, armazenagem e distribuição de gás combustível canalizado.
+Art. 8.º - 1 - A GDP fica autorizada a transmitir a sua posição contratual no contrato de concessão da rede de distribuição de gás natural de Lisboa, celebrado com o Estado Português em 16 de Dezembro de 1993, de acordo com as bases de concessão de exploração das redes de distribuição regional de gás natural, aprovadas pelos Decretos-Leis n.os [33/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1991-495569), de 16 de Janeiro, e [333/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1991-304533), de 6 de Setembro, para a nova sociedade a constituir cujo objecto social principal consista na obtenção, armazenagem e distribuição de gás combustível canalizado.
 
 2 - A GDP fica ainda autorizada a transmitir a propriedade das suas instalações afectas à produção e armazenagem de gás de cidade para uma sociedade que detenha a propriedade de parte ou da totalidade do património imobiliário da GDP, cujo objecto social consistirá na gestão do mesmo, devendo aquelas instalações ficar, para todos os efeitos, afectas, em regime de exclusividade, à produção e à armazenagem de gás de cidade até à sua total substituição pelo gás natural.
 
@@ -161,43 +193,43 @@ e) Prazo de constituição e de início de actividade das novas sociedades.
 
 4 - As acções representativas do capital social da sociedade para a qual venha a ser transmitida a posição contratual decorrente do contrato de concessão serão obrigatoriamente nominativas.
 
-###### Art. 9.º - 1 - A GDP e as novas sociedades a constituir nos termos do presente diploma beneficiam, no âmbito da presente reestruturação, das isenções previstas no artigo 23.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, das isenções previstas no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, designadamente de sisa, imposto do selo, taxas e emolumentos notariais e de registo comercial, predial e automóvel, bem como da possibilidade de transferência da totalidade dos prejuízos fiscais para as novas sociedades, ao abrigo e nos termos estabelecidos no n.º 6 do artigo 62.º do Código do IRC.
+Art. 9.º - 1 - A GDP e as novas sociedades a constituir nos termos do presente diploma beneficiam, no âmbito da presente reestruturação, das isenções previstas no artigo 23.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, das isenções previstas no [Decreto-Lei n.º 168/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1990-571452), de 24 de Maio, designadamente de sisa, imposto do selo, taxas e emolumentos notariais e de registo comercial, predial e automóvel, bem como da possibilidade de transferência da totalidade dos prejuízos fiscais para as novas sociedades, ao abrigo e nos termos estabelecidos no n.º 6 do artigo 62.º do Código do IRC.
 
 2 - O grupo constituído pela GDP e pelas novas sociedades, em resultado da execução do plano geral referido no n.º 1 do artigo 3.º, deverá requerer, nos termos do artigo 59.º do Código do IRC, autorização ao Ministro das Finanças para que o lucro tributável em IRC seja calculado em conjunto para todas as sociedades do grupo, mediante a consolidação dos balanços e das demonstrações de resultados das sociedades que o integram, até 30 dias a contar da data da constituição das mesmas.
 
-###### Art. 10.º As sociedades constituídas de acordo com o plano de reestruturação previsto no presente diploma podem emitir obrigações, nos termos estabelecidos na lei, desde o momento da data da sua constituição.
+Art. 10.º As sociedades constituídas de acordo com o plano de reestruturação previsto no presente diploma podem emitir obrigações, nos termos estabelecidos na lei, desde o momento da data da sua constituição.
 
-###### Art. 11.º - 1 - Após a conclusão das operações previstas no artigo 1.º, a GDP passará a ter por objecto único a gestão de participações sociais, devendo para o efeito modificar os seus estatutos e adaptar a respectiva firma nos termos do artigo 2.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
+Art. 11.º - 1 - Após a conclusão das operações previstas no artigo 1.º, a GDP passará a ter por objecto único a gestão de participações sociais, devendo para o efeito modificar os seus estatutos e adaptar a respectiva firma nos termos do artigo 2.º do [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
 
 2 - As alterações referidas no número anterior serão tituladas pela acta da assembleia geral de onde conste a correspondente deliberação, a qual constituirá título suficiente para efeitos de registo, com isenção de taxas, emolumentos e outros encargos.
 
 3 - A GDP, enquanto sociedade gestora de participações sociais, deverá enviar trimestralmente aos Ministros das Finanças e da Indústria e Energia elementos relativos à situação económica e financeira das sociedades participadas e ao controlo dessas mesmas sociedades, até ao termo dos respectivos processos de reprivatização.
 
-###### Art. 12.º As acções das sociedades a constituir ao abrigo do presente diploma poderão ser, total ou parcialmente, alienadas, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, sem por isso ser afectada a natureza da GDP enquanto sociedade gestora de participações sociais.
+Art. 12.º As acções das sociedades a constituir ao abrigo do presente diploma poderão ser, total ou parcialmente, alienadas, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, sem por isso ser afectada a natureza da GDP enquanto sociedade gestora de participações sociais.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Projecto dos estatutos das sociedades anónimas a criar por cisão da GDP
 
 ### CAPÍTULO I — Firma, duração, sede e objecto
 
-###### Artigo 1.º Por destaque do património da GDP - Gás de Portugal, S. A., nos termos do Decreto-Lei n.º 132/95, de 6 de Junho, e de harmonia com a deliberação da sua assembleia geral, tomada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma de ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
+Artigo 1.º Por destaque do património da GDP - Gás de Portugal, S. A., nos termos do Decreto-Lei n.º 132/95, de 6 de Junho, e de harmonia com a deliberação da sua assembleia geral, tomada no dia ..., conforme consta da respectiva acta, é constituída uma sociedade anónima que adopta a firma de ... e se rege pelos presentes estatutos e pela legislação geral ou especial que lhe for aplicável.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em ...
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em ...
 
 2 - Por deliberação do conselho de administração, a sociedade poderá criar e encerrar em qualquer ponto do território nacional ou fora dele agências, delegações ou qualquer outra forma de representação, bem como, ouvido o conselho fiscal, deslocar a sua sede dentro do município de ... ou para município limítrofe.
 
-###### Art. 3.º - 1 - O objecto social consiste ...
+Art. 3.º - 1 - O objecto social consiste ...
 
 2 - A sociedade pode, acessoriamente, explorar os serviços e efectuar as operações civis, comerciais, industriais e financeiras relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização.
 
@@ -205,29 +237,29 @@ Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal Ant
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de ...
+Art. 4.º - 1 - O capital social é de ...
 
 2 - O capital é dividido em ... acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções representativas do capital social da sociedade serão nominativas.
+Art. 5.º - 1 - As acções representativas do capital social da sociedade serão nominativas.
 
 2 - As acções serão emitidas como acções escriturais.
 
 3 - As acções podem ser tituladas a pedido e à custa dos interessados, podendo, nessa hipótese, haver títulos de 1 até 10000 acções.
 
-###### Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
+Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-###### Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 7.º A sociedade pode emitir obrigações, nos termos e até aos limites legais, e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º São órgãos da sociedade a assembleia geral e os conselhos de administração e fiscal.
+Art. 8.º São órgãos da sociedade a assembleia geral e os conselhos de administração e fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
+Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
 
 2 - Compete especialmente à assembleia geral:
 
@@ -243,25 +275,25 @@ e) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, pa
 
 f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 10.º As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais, podendo os accionistas ser convocados por carta registada quando todas as acções sejam nominativas.
+Art. 10.º As assembleias gerais são convocadas pelos modos exigidos por lei e com observância dos prazos mínimos legais, podendo os accionistas ser convocados por carta registada quando todas as acções sejam nominativas.
 
-###### Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar, em primeira convocação, é indispensável a presença ou representação de accionistas que detenham, pelo menos, 51% do capital.
+Art. 11.º - 1 - Para que a assembleia geral possa reunir e deliberar, em primeira convocação, é indispensável a presença ou representação de accionistas que detenham, pelo menos, 51% do capital.
 
 2 - Tanto em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da sociedade e aquisição ou alienação de acções próprias devem ser aprovadas por 51% dos votos correspondentes ao capital social, sem qualquer dedução no caso de existirem impedimentos de voto.
 
-###### Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á um voto por cada 100 acções e só os accionistas titulares do direito de voto poderão participar na assembleia.
+Art. 12.º Sem prejuízo do direito de agrupamento, contar-se-á um voto por cada 100 acções e só os accionistas titulares do direito de voto poderão participar na assembleia.
 
-###### Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
+Art. 13.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, a qual será ainda constituída por um vice-presidente e um secretário.
 
 2 - A mesa é eleita trienalmente pela própria assembleia, sendo as suas faltas supridas nos termos da lei comercial.
 
 3 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem, pelo menos, 5% do capital social.
+Art. 14.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que os conselhos de administração ou fiscal o julguem necessário e ainda quando a reunião seja requerida por accionistas que representem, pelo menos, 5% do capital social.
 
 #### SECÇÃO II — Administração
 
-###### Art. 15.º - 1 - O conselho de administração é composto por ... administradores, eleitos pela assembleia geral.
+Art. 15.º - 1 - O conselho de administração é composto por ... administradores, eleitos pela assembleia geral.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
@@ -269,7 +301,7 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - Não estando fixado expressamente pela assembleia geral o número de administradores, entender-se-á que tal número é o dos administradores efectivamente eleitos.
 
-###### Art. 16.º Ao conselho de administração compete especialmente:
+Art. 16.º Ao conselho de administração compete especialmente:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -283,11 +315,11 @@ e) Estabelecer a organização técnico-administrativa da sociedade e as normas 
 
 f) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer.
 
-###### Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou numa comissão executiva, nos termos permitidos por lei.
+Art. 17.º - 1 - O conselho de administração pode delegar a gestão corrente da sociedade num administrador ou numa comissão executiva, nos termos permitidos por lei.
 
 2 - A aquisição e a alienação de participações sociais, embora autorizadas pela assembleia geral, não se incluem nos poderes delegáveis.
 
-###### Art. 18.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 18.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -299,7 +331,7 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -311,7 +343,7 @@ c) Pela assinatura dos mandatários constituídos nos termos dos correspondentes
 
 3 - Os títulos, provisórios ou definitivos, representativos das acções da sociedade devem ter a assinatura de dois administradores, podendo uma delas ser substituída por reprodução mecânica ou chancela.
 
-###### Art. 20.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez em cada ...
+Art. 20.º - 1 - O conselho de administração deve reunir, pelo menos, uma vez em cada ...
 
 2 - Qualquer membro do conselho de administração poderá fazer-se representar numa reunião por outro administrador, mediante carta mandadeira, que será válida unicamente para essa reunião.
 
@@ -319,13 +351,13 @@ c) Pela assinatura dos mandatários constituídos nos termos dos correspondentes
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 21.º - 1 - O conselho fiscal é composto por três membros efectivos e um suplente.
+Art. 21.º - 1 - O conselho fiscal é composto por três membros efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - Os membros do conselho fiscal serão eleitos, por períodos de três anos renováveis, pela assembleia geral, que designará o presidente e fixará as respectivas remunerações.
 
-###### Art. 22.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei e nestes estatutos.
+Art. 22.º - 1 - O conselho fiscal tem a composição, a competência, os poderes e os deveres estabelecidos na lei e nestes estatutos.
 
 2 - Ao conselho fiscal compete especialmente:
 
@@ -347,7 +379,7 @@ g) Levar à consideração do conselho de administração qualquer assunto que d
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 23.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
+Art. 23.º Os lucros do exercício, apurados em conformidade com a lei, serão aplicados:
 
 a) Na constituição e, eventualmente, na reintegração da reserva legal;
 
@@ -355,6 +387,6 @@ b) O restante conforme for deliberado pela assembleia geral.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-###### Art. 24.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 24.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

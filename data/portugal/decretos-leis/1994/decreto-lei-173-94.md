@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/06/145a00/33443351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/1994/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1994-305592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3c6ecaf4d90f67fc9ba0239752b726a182507951f94e5ef21f10e0d14a58049
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2a966f2b3f22ebfe7749d651eec8cf01eac5f677262bfc97693a989f80b8ad4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,79 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Formação Permanente de Oficiais de Justiça
-- Pessoal Dirigente
+- Coimbra
 - Direcção Geral dos Serviços Judiciários
+- Évora
 - Formas de Provimento
 - Oficial de Justiça
 - Orgânica
-- Coimbra
+- Organização Judiciária
+- Pessoal Dirigente
+- Porto
 - Quadro de Pessoal
 - Regime de Pessoal
-- Évora
-- Organização Judiciária
 - Serviço Regional
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:345147:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478434:por
+  label: "Alterado os art. 3º e 4º e substituido o mapa anexo ao presente diploma, pelo DEC LEI.163/98.1998.06.24.MJ, DR.IIS\
+    \ [143] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1998-478434
+  date: '1998-06-24'
+- type: amended_by
+  target: pt:dre:534600:por
+  label: "Alterados os arts. 1º,2º,17º,19º,20º e 24º pelo DEC LEI.127/99.1999.04.21.MJ, DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-1999-534600
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:320560:por
+  label: "Extinta, com a entrada em vigor do diploma orgânico do serviço ou entidade que lhe suceder nas competências, a Direcção-Geral\
+    \ dos Serviços Judiciários pelo DEC LEI.146/2000.2000.07.18.MJ,DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2000-320560
+  date: '2000-07-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/1993/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/148/1993/05/03/p/dre
+- type: cites
+  target: pt:dre:300011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:345147:por
+  label: "Revogado pelo DEC LEI.102/2001.2001.03.29.MJ DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2001-345147
+  date: '2001-03-29'
 article_structure:
   article_count: 40
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:39Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +263,9 @@ a) A Divisão de Organização;
 
 b) A Divisão de Informática.
 
-###### Artigo 6.º — Divisão de Organização
+###### Artigo 6.º
+
+##### Divisão de Organização
 
 Compete à Divisão de Organização:
 
@@ -231,7 +275,9 @@ b) Realizar, em colaboração com a Divisão de Informática, estudos de anális
 
 c) Prestar apoio aos tribunais e aos serviços da DGSJ na realização das medidas previstas nas alíneas anteriores.
 
-###### Artigo 7.º — Divisão de Informática
+###### Artigo 7.º
+
+##### Divisão de Informática
 
 Compete à Divisão de Informática:
 
@@ -257,7 +303,9 @@ c) A Repartição de Concursos e Movimentação de Pessoal (RCMP);
 
 d) A Repartição de Registos de Pessoal (RRP).
 
-###### Artigo 9.º — Divisão de Recursos Humanos
+###### Artigo 9.º
+
+##### Divisão de Recursos Humanos
 
 Compete à DRH:
 
@@ -339,7 +387,9 @@ b) A Divisão de Gestão Patrimonial e Financeira (DGPF);
 
 c) A Repartição de Administração Patrimonial e Financeira (RAPF).
 
-###### Artigo 14.º — Divisão de Racionalização Judiciária
+###### Artigo 14.º
+
+##### Divisão de Racionalização Judiciária
 
 Compete à DRJ:
 
@@ -351,7 +401,9 @@ c) Emitir pareceres, no que respeita aos aspectos financeiros, sobre aumentos de
 
 d) Analisar e dar parecer sobre os planos, tipo de instalação e projectos de conservação ou remodelação dos edifícios afectos ao funcionamento dos tribunais e da DGSJ.
 
-###### Artigo 15.º — Divisão de Gestão Patrimonial e Financeira
+###### Artigo 15.º
+
+##### Divisão de Gestão Patrimonial e Financeira
 
 Compete à DGPF:
 
@@ -389,7 +441,9 @@ a) A Divisão de Identificação Criminal;
 
 b) A Divisão de Contumazes e Objectores de Consciência.
 
-###### Artigo 18.º — Divisão de Identificação Criminal
+###### Artigo 18.º
+
+##### Divisão de Identificação Criminal
 
 Compete à Divisão de Identificação Criminal:
 
@@ -403,7 +457,9 @@ d) Assegurar, nos termos da lei, a emissão de certificados de registo criminal 
 
 e) Realizar estudos em matéria de identificação criminal.
 
-###### Artigo 19.º — Divisão de Contumazes e Objectores de Consciência
+###### Artigo 19.º
+
+##### Divisão de Contumazes e Objectores de Consciência
 
 Compete à Divisão de Contumazes e Objectores de Consciência:
 
@@ -623,16 +679,16 @@ b) O artigo 3.º e a alínea b) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 14
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 18 de Maio de 1994.**
+Promulgado em 18 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Maio de 1994.**
+Referendado em 23 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 1 do artigo 34.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/145a00/33443351.pdf))](https://files.diariodarepublica.pt/1s/1994/06/145a00/33443351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/145a00/33443351.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/1995/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1995-463664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c58bd919a9f3500d0babb885cb2153d686345dbac5bfdebeba0a78a3a1a997c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7177b175836dd5306a7c0502f248d548f1918df6b5aa7d46464a0fd8436dc1bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Chiado
-- Renovação Urbana
-- Prorrogação de Prazo
+- Financiamento
 - Prédio Urbano
+- Prorrogação de Prazo
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:414405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213800:por
+  label: "Dada nova redacção ao art. 2º do Dec Lei 356/88, de 13-Out, alterado pelo presente diploma, pelo DEC LEI.184/96.27.09.1996.MF,\
+    \ DR.IS-A [225] de 27.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1996-213800
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:229285:por
+  label: "Dada nova redacção aos arts. 2º, 3º e 12º do Dec Lei 356/88, de 13-Out, alterados pelo presente diploma, pelo DEC\
+    \ LEI.26/98.1998.02.10.MF, DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1998-229285
+  date: '1998-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:355098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:50Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +131,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.° da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.°, 3.° e 12.° do [Decreto-Lei n.º 356/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098), de 13 de Outubro, alterado pelos Decretos-Leis n.os [174/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1990-574762), de 4 de Junho, e [342/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1993-646301), de 1 de Outubro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.°, 3.° e 12.° do [Decreto-Lei n.º 356/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098), de 13 de Outubro, alterado pelos Decretos-Leis n.os [174/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1990-574762), de 4 de Junho, e [342/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1993-646301), de 1 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.° — Objecto e formas de apoio
 
@@ -163,12 +187,12 @@ i) Aquisição de imóveis, nos termos previstos no n.º 4 do artigo 3.°
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

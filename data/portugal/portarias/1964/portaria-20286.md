@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20286-1964-222191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3490de6cf3a4d8eb5bbe97c2a53542db2a45041f264c32e82062dadfd07353f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de9c39bc72e442757ff1f506581b9a247c6380815f2b9fb91a52e9b7f47e300f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:40Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, que sejam abonadas durante o ano económico de 1964 às embaixadas e legações de Portugal abaixo designadas as seguintes importâncias mensais, a fim de ocorrerem às despesas com salários do pessoal assalariado em serviço nas mesmas embaixadas e legações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/01/00100/00020005.pdf))](https://files.diariodarepublica.pt/1s/1964/01/00100/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/01/00100/00020005.pdf)
 
 Ministério dos Negócios Estrangeiros, 2 de Janeiro de 1964. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
 

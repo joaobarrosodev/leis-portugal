@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19967-1963-693609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ed6427186558fb83c1fe6c46bdeaa24d7b806419e120459b37258b3406bfa8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8194d3d622d2bb253e1716b2a2a3ea78b39b102bc02200101e29e051fa247dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Económica
+- Empréstimo
+- Forças Armadas
+- Impresso
 relationships:
 - type: amended_by
   target: pt:dre:281421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281421:por
+  label: Substituído o modelo de impresso SS/Emp. para apresentação de petição de empréstimos à Caixa Económica das Forças
+    Armadas, aprovado pela presente portaria, pelo(a) Portaria n.º 722/77 - Diário da República n.º 270/1977, Série I de 1977-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/722-1977-281421
+  date: '1977-11-22'
+- type: cites
+  target: pt:dre:282136:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:49Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +105,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, apro
 
 Presidência do Conselho, 25 de Julho de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/17400/10051006.pdf))](https://files.diariodarepublica.pt/1s/1963/07/17400/10051006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/17400/10051006.pdf)
 
 Presidência do Conselho, 25 de Julho de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.

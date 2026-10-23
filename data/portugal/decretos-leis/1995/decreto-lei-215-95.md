@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/08/193a00/52385241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/1995/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1995-431792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad4eea7fcb6cbedb8d5ef480c6d87636b527ef379ddb09e2cf61990770de73d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33a2a8a78321656a9b130997c3f4d6def86a47470194b64b737b37138fa40aa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Administração Central
-- Função Pública
-- Concurso
 - Administração Pública
+- Concurso
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Prazo
+- Função Pública
 - Funcionário Público
 - Gestão de Recursos Humanos
+- Prazo
+- Recrutamento de Pessoal
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:484843:por
@@ -85,16 +85,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484843:por
+  label: "Revogado pelo DEC LEI.204/98.1998.07.11.PCM, DR.IS-A [158], considerando válidos os concursos que, devendo ter sido\
+    \ abertos ao abrigo da al. b) do nº 1 do art. 38º do Dec Lei 498/88 de 30-Dez, o foram sob a forma de processo comum.\
+    \ Mantidos em vigor os programas de provas aprovados ao abrigo do presente Dec Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1998-484843
+  date: '1998-07-11'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:55Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +128,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo n.º 2 do artigo 8.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 8.º, 9.º, 11.º, 16.º, 18.º, 22.º a 24.º, 26.º a 28.º, 32.º, 34.º, 36.º, 38.º e 39.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 8.º, 9.º, 11.º, 16.º, 18.º, 22.º a 24.º, 26.º a 28.º, 32.º, 34.º, 36.º, 38.º e 39.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — [...]
 
@@ -399,22 +414,22 @@ b) As secretarias-gerais ou outros serviços competentes em matéria de organiza
 
 2 - ...
 
-###### Art. 2.º - São revogados os artigos 37.º e 44.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+Art. 2.º - São revogados os artigos 37.º e 44.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
 
-###### Art. 3.º - 1 - No procedimento de concurso regulado pelo [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, não há lugar à audiência dos interessados, regulada pelos artigos 100.º a 105.º do Código do Procedimento Administrativo, no caso de o número de candidatos ser superior a 20.
+Art. 3.º - 1 - No procedimento de concurso regulado pelo [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, não há lugar à audiência dos interessados, regulada pelos artigos 100.º a 105.º do Código do Procedimento Administrativo, no caso de o número de candidatos ser superior a 20.
 
 2 - O disposto no número anterior aplica-se também aos regimes de recrutamento e selecção de pessoal das carreiras constantes do n.º 2 do artigo 3.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
 
-###### Art. 4.º - O presente diploma não se aplica aos concursos cujos avisos de abertura tenham sido publicitados até à sua data de entrada em vigor, sem prejuízo da aplicação imediata do disposto no artigo anterior.
+Art. 4.º - O presente diploma não se aplica aos concursos cujos avisos de abertura tenham sido publicitados até à sua data de entrada em vigor, sem prejuízo da aplicação imediata do disposto no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 28 de Julho de 1995.**
+Promulgado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Agosto de 1995.**
+Referendado em 2 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.

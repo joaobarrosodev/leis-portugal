@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/1994/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1994-535795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 470bda3320b34adb626adcf435270b5dfc630713fab0f1000c822bb9de278fe7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 368472fef9b997b3797f90b6dd4f26259dcc6f8990abdc2ba8bd61ac40d98000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direitos de Saque
 - Banco de Portugal
+- Direitos de Saque
 - Fundo para o Ambiente Global
-- Ministro das Finanças
 - Junta de Crédito Público
+- Ministro das Finanças
 - Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/257/1992/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/257/1992/11/20/p/dre
+- type: cites
+  target: pt:dre:584255:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:56Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +110,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A participação de Portugal no Fundo para o Ambiente do Globo (FAG) faz-se mediante uma contribuição de 4 milhões de direitos de saque especiais.
+Artigo 1.º - 1 - A participação de Portugal no Fundo para o Ambiente do Globo (FAG) faz-se mediante uma contribuição de 4 milhões de direitos de saque especiais.
 
 2 - A contribuição a que se refere o número anteriro será feita através de quatro notas promissórias, de igual montante, a emitir anualmente em 30 de Novembro, de 1994 a 1997, e a resgatar de acordo com as necessidades de desembolso do Fundo.
 
-###### Art. 2.º - 1 - Cabe ao Ministro das Finanças praticar todos os actos necessários à realização do previsto no artigo anterior, nomeadamente emitir os títulos de obrigação representados por promissórias e proceder ao seu depósito junto do Fundo.
+Art. 2.º - 1 - Cabe ao Ministro das Finanças praticar todos os actos necessários à realização do previsto no artigo anterior, nomeadamente emitir os títulos de obrigação representados por promissórias e proceder ao seu depósito junto do Fundo.
 
 2 - A emissão das referidas promissórias fica a cargo da Junta do Crédito Público e nelas constarão os seguintes elementos:
 
@@ -126,20 +130,20 @@ e) Os diplomas que autorizam a emissão.
 
 3 - As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, com a faculdade de delegar, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 3.º O Banco de Portugal será o depositário dos activos em escudos e de outros activos do FAG.
+Art. 3.º O Banco de Portugal será o depositário dos activos em escudos e de outros activos do FAG.
 
-###### Art. 4.º A representação do Governo perante o FAG será assegurada pelo Ministro das Finanças.
+Art. 4.º A representação do Governo perante o FAG será assegurada pelo Ministro das Finanças.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1994.**
+Referendado em 14 de Outubro de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

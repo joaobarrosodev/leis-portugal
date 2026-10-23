@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20232-1963-683832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2e062a3134da83ae5162787348815f320ada9bba8cd652f5f522cbe290b5101
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e232b1bca1f1e385736a67d04a3899ea6baab1d55881db10c4961e7aab649e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Força Aérea
+- Forças Armadas
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:342607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:33Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +105,10 @@ Aeródromo de manobra n.º 1
 
 A) Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/12/28800/19451946.pdf))](https://files.diariodarepublica.pt/1s/1963/12/28800/19451946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/28800/19451946.pdf)
 
 B) Sargentos e praças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/12/28800/19451946.pdf))](https://files.diariodarepublica.pt/1s/1963/12/28800/19451946.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/28800/19451946.pdf)
 
 Secretaria de Estado da Aeronáutica, 9 de Dezembro de 1963. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.

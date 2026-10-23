@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e68079fcc7f04ac944d72d302eec6d9512fddd8d4a3c50bfe0eb5975a5af3cc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69f2758dfc234a6dd100e7fc3262cb2ce7d6601ca95acc80db095e6e48d2c018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,27 +71,61 @@ subjects:
 - Criação de Serviços
 - Definição de Competências
 - Fundos CE
-- QCA
 - Orgânica
+- QCA
 relationships:
 - type: amended_by
   target: pt:dre:481161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621551:por
+  label: "Alterado o artigo 4.º pelo DEC LEI.1/96.04.01.1996.MPLAT, DR.IS-A [3] de 04.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-1996-621551
+  date: '1996-01-04'
+- type: amended_by
+  target: pt:dre:423674:por
+  label: "Alterados os arts. 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 35.º, 36.º, 38.º,\
+    \ 39.º, 40.º, 41.º, e 43.º e revogado o nº 2 do art. 23.º do Dec Lei 99/94 de 19-Abr DR.IS-A [91], na redacção dada pelo\
+    \ Dec Lei 1/96 de 04-Jan pelo DEC LEI.208/98.1998.07.14.MEPAT DR.IS-A [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-1998-423674
+  date: '1998-07-14'
+- type: amended_by
+  target: pt:dre:481161:por
+  label: "Extinta a Comissão de Coordenação do Fundo Social Europeu, criada pelo presente diploma, pelo DEC LEI.2/2003.2003.01.06.MSST,\
+    \ DR.IS-A [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2003-481161
+  date: '2003-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/1994/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1994/03/10/p/dre
+- type: cites
+  target: pt:dre:275451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:27Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +184,9 @@ d) Transparência, rigor e eficácia da gestão dos recursos financeiros;
 
 e) Reforço dos mecanismos de controlo e avaliação.
 
-###### Artigo 3.º — Divisão da estrutura orgânica
+###### Artigo 3.º
+
+##### Divisão da estrutura orgânica
 
 1 - A estrutura orgânica relativa à execução do QCA divide-se nos dois seguintes níveis:
 
@@ -572,12 +608,12 @@ As acções que beneficiem da contribuição financeira das Comunidades Europeia
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 31 de Março de 1994.**
+Promulgado em 31 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1994.**
+Referendado em 6 de Abril de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

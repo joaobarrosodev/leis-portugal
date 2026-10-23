@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/1995/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1995-527644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c882a13a993368447d1e8c3dab923e92bbf6380232889b3d367102893c807e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bbe8d64d1e6f9465d0c73e4777bb2047e76511b6652b0061cf6ec0581336865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Aquisição de Bens e Serviços
 - Concurso Público
 - Contrato
 - Empreitada de Obras Públicas
 - SECA
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:219548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219548:por
+  label: "Prorrogado até 31 de Outubro de 1996 o prazo previsto no art. 2º, pelo DEC LEI.172/96.1996.09.20.MAM, DR.IS-A [219]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1996-219548
+  date: '1996-09-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:53Z'
   warnings: []
   errors: []
 ---
@@ -106,22 +112,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma cria um regime excepcional de contratação de empreitada de obras públicas, fornecimento de bens, bem como de aquisição de serviços, quando tenham em vista acorrer ou prevenir situações extraordinárias de seca, motivadas por condições climatéricas adversas.
+Artigo 1.º O presente diploma cria um regime excepcional de contratação de empreitada de obras públicas, fornecimento de bens, bem como de aquisição de serviços, quando tenham em vista acorrer ou prevenir situações extraordinárias de seca, motivadas por condições climatéricas adversas.
 
-###### Art. 2.º Fica o Ministério do Ambiente e Recursos Naturais excepcionalmente autorizado a proceder, até 31 de Dezembro de 1995, ao ajuste directo dos contratos referidos no artigo anterior cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior a 50 milhões de escudos.
+Art. 2.º Fica o Ministério do Ambiente e Recursos Naturais excepcionalmente autorizado a proceder, até 31 de Dezembro de 1995, ao ajuste directo dos contratos referidos no artigo anterior cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior a 50 milhões de escudos.
 
-###### Art. 3.º Os estudos e projectos necessários à execução dos trabalhos poderão ser obtidos com dispensa de concurso público ou limitado e de consulta a três entidades, desde que o seu custo seja inferior a 10 milhões de escudos, não considerando o IVA.
+Art. 3.º Os estudos e projectos necessários à execução dos trabalhos poderão ser obtidos com dispensa de concurso público ou limitado e de consulta a três entidades, desde que o seu custo seja inferior a 10 milhões de escudos, não considerando o IVA.
 
-###### Art. 4.º O presente diploma reporta os seus efeitos à data da sua aprovação.
+Art. 4.º O presente diploma reporta os seus efeitos à data da sua aprovação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 15 de Maio de 1995.**
+Promulgado em 15 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Maio de 1995.**
+Referendado em 17 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

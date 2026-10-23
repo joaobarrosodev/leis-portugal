@@ -48,36 +48,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20212-1963-683781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63b91842b5885c914c37bbedfecf7978a27363962d31699c2c725a76ed9af7d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4af5deafdc8e5309e3b595d8318433ea88f6762b8fc9e1fc9cc05c2b5a601805
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Colonial
+- Angola.Colónia Portuguesa
+- Autorização de Despesas
+- Orçamento
+- Plano de Fomento
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627459:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:07Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +122,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 15383729$68, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 1) «Conhecimento científico do território»:
 
@@ -116,7 +146,7 @@ a) «Agricultura, silvicultura e pecuária»:
 
 2) Um de 150000000$00, tomando como contrapartida o empréstimo da Companhia de Diamantes de Angola, autorizado pelo [Decreto-Lei n.º 45061](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45061-1963-627458), de 5 de Junho último, consignado a reforçar as seguintes verbas da mesma tabela de despesa com estas importâncias:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 2) «Aproveitamentos de recursos»:
 
@@ -166,7 +196,7 @@ g) «Telecomunicações» ... 5000000$00
 
 1.º A reforçar com as seguintes quantias as verbas da mesma tabela de despesa que se indicam:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 4) «Comunicações e transportes»:
 
@@ -178,7 +208,7 @@ a) «Construção e apetrechamento de instalações escolares» ... 2747027$25
 
 2.º A dotar estas verbas da mesma tabela de despesa com estas importâncias:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 2) «Aproveitamento de recursos»:
 
@@ -192,7 +222,7 @@ b) «Electricidade e indústrias»:
 
 4) Um de 157180000$00, tomando como contrapartida igual quantia a sair do empréstimo do Banco de Angola, autorizado pelo [Decreto n.º 44429](https://diariodarepublica.pt/dr/detalhe/decreto/44429-1962-164591), de 29 de Junho de 1962, destinado a reforçar com as seguintes quantias estas verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 1518.º «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 2) «Aproveitamentos de recursos»:
 

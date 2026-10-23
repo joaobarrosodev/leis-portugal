@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/298/1994/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1994-546453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e49e04303feef488a63e3485805388e0cc7727d0dab8047d3d3b1bdc4c0dbb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d28b2d7877cfec0e637cf8c06e57f0585d7f9e9aa7a3897b558738d8e1b521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Destacamento de Pessoal
 - Estatuto
 - Estatuto dos Militares da Guarda Nacional Republicana
-- Licença de Trabalho
 - GNR
+- Licença de Trabalho
 - Orgânica
 - Pessoal Militarizado
 - Prestação de Serviços
@@ -90,16 +90,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/265/1993/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/265/1993/07/31/p/dre
+- type: cites
+  target: pt:dre:267033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451022:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.01.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:19Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +136,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 231/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1993-267033), de 26 de Junho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 17.º do [Decreto-Lei n.º 231/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1993-267033), de 26 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 17.º — Processo de requisição
 
@@ -134,7 +152,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - As decisões tomadas pelos comandos locais devem ser comunicadas de imediato ao escalão superior.
 
-###### Art. 2.º São aditados os artigos 17.º-A e 17.º-B ao [Decreto-Lei n.º 231/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1993-267033), de 26 de Junho, com a seguinte redacção:
+Art. 2.º São aditados os artigos 17.º-A e 17.º-B ao [Decreto-Lei n.º 231/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1993-267033), de 26 de Junho, com a seguinte redacção:
 
 ###### Artigo 17.º-A — Prestação de serviços especiais
 
@@ -156,7 +174,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - A prestação e o pagamento das acções previstas nos números anteriores serão objecto de portaria conjunta dos Ministros da Administração Interna, da Justiça e das Finanças.
 
-###### Art. 3.º O artigo 176.º do [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, passa a ter a seguinte redacção:
+Art. 3.º O artigo 176.º do [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 176.º — Licença por motivo de transferência
 
@@ -164,7 +182,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - O militar que seja transferido ou deslocado do continente para as Regiões Autónomas ou entre elas ou destas para o continente tem direito a 15 dias de licença por motivo de transferência.
 
-###### Art. 4.º São aditados os artigos 21.º-A e 21.º-B ao [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, com a seguinte redacção:
+Art. 4.º São aditados os artigos 21.º-A e 21.º-B ao [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, com a seguinte redacção:
 
 ###### Artigo 21.º-A — Alojamento
 
@@ -198,18 +216,18 @@ d) For assegurado o transporte diário por conta do Estado entre a localidade da
 
 e) O afastamento do militar da sua residência habitual se ficar a dever a deslocação em serviço pela qual perceba ajudas de custo, nos termos da legislação respectiva.
 
-###### Art. 5.º - 1 - Têm direito a um suplemento de residência, nos termos estabelecidos no artigo 21.º-A aditado pelo presente diploma ao [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, e por um período até 24 meses, quando se proceda à extinção da unidade em que prestavam serviço, desde que ocorra até 31 de Dezembro de 1997, os oficiais, sargentos e praças da Guarda colocados por imposição em local distanciado de mais de 30 km da localidade sede do comando da unidade extinta ou da localidade da sua residência habitual.
+Art. 5.º - 1 - Têm direito a um suplemento de residência, nos termos estabelecidos no artigo 21.º-A aditado pelo presente diploma ao [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, e por um período até 24 meses, quando se proceda à extinção da unidade em que prestavam serviço, desde que ocorra até 31 de Dezembro de 1997, os oficiais, sargentos e praças da Guarda colocados por imposição em local distanciado de mais de 30 km da localidade sede do comando da unidade extinta ou da localidade da sua residência habitual.
 
 2 - Não é concedido suplemento de residência nos casos em que previamente tenha havido um pedido de colocação cujo destino coincida com o destino da colocação referida no número anterior.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Novembro de 1994.**
+Referendado em 16 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

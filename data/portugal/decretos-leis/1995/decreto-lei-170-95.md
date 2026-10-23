@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/1995/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1995-462028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fdbfbfd1c11b4145a79faff363a8418d0daa20d24588d3dfc51e80c36dccff9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0738111bf6fcfc32ab9850cbbe131a3c8fb48f5b93946a5ac6b9c5bafc390edd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Portuguesa de História
+- Conselho Académico
 - Estatuto
 - Presidente
 - Secretário Geral
 - Vice-presidente
-- Academia Portuguesa de História
-- Conselho Académico
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400470:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:05Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +108,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 24.º, 27.º, 28.º, 29.º, 34.º e 55.º dos Estatutos da Academia Portuguesa da História, aprovados pelo [Decreto-Lei n.º 357/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1984-400470), de 31 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 24.º, 27.º, 28.º, 29.º, 34.º e 55.º dos Estatutos da Academia Portuguesa da História, aprovados pelo [Decreto-Lei n.º 357/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1984-400470), de 31 de Outubro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) ...
 
@@ -124,7 +128,7 @@ f) ...
 
 ### CAPÍTULO II — Académicos, presidentes de honra e beneméritos
 
-###### Art. 5.º Os académicos agrupam-se nas seguintes categorias:
+Art. 5.º Os académicos agrupam-se nas seguintes categorias:
 
 a) De mérito;
 
@@ -134,11 +138,11 @@ c) De número;
 
 d) Correspondentes.
 
-###### Art. 6.º - 1 - Os académicos de mérito são eleitos de entre os de número ou de entre os historiadores nacionais e estrangeiros que mereçam ser distinguidos pela sua obra histórica ou serviços excepcionais.
+Art. 6.º - 1 - Os académicos de mérito são eleitos de entre os de número ou de entre os historiadores nacionais e estrangeiros que mereçam ser distinguidos pela sua obra histórica ou serviços excepcionais.
 
 2 - O título de académico honorário pode ser conferido a personalidades nacionais ou estrangeiras de reconhecido prestígio que hajam prestado relevantes serviços à Academia ou à cultura.
 
-###### Art. 8.º - 1 - Os académicos correspondentes não excederão os 190, com a seguinte distribuição:
+Art. 8.º - 1 - Os académicos correspondentes não excederão os 190, com a seguinte distribuição:
 
 a) Cidadãos portugueses - até 80;
 
@@ -150,11 +154,11 @@ d) Nacionais de outros países não compreendidos nas alíneas anteriores - até
 
 2 - ...
 
-###### Art. 9.º - 1 - ...
+Art. 9.º - 1 - ...
 
 2 - Pode haver outro presidente de honra, se algum académico português de mérito ou de número for distinguido com essa qualidade, caso em que abre vaga na sua cadeira e fica equiparado, com direitos e deveres, aos académicos de número.
 
-###### Art. 10.º - 1 - Passam automaticamente a supranumerários os académicos correspondentes que, residindo no País, não tomem parte, sem motivo justificado, nas actividades da Academia por período superior a três anos consecutivos.
+Art. 10.º - 1 - Passam automaticamente a supranumerários os académicos correspondentes que, residindo no País, não tomem parte, sem motivo justificado, nas actividades da Academia por período superior a três anos consecutivos.
 
 2 - Os supranumerários abrem vaga na sua anterior categoria podendo nela reingressar se durante os dois anos imediatos retomarem a efectividade da vida académica.
 
@@ -164,11 +168,11 @@ d) Nacionais de outros países não compreendidos nas alíneas anteriores - até
 
 5 - O académico em relação ao qual se verifique a situação de renúncia tácita não pode ser readmitido na Academia.
 
-###### Art. 11.º - 1 - As vagas de académicos de número ou de académicos correspondentes devem ser oportunamente comunicadas, em sessão plenária ordinária da assembleia de académicos.
+Art. 11.º - 1 - As vagas de académicos de número ou de académicos correspondentes devem ser oportunamente comunicadas, em sessão plenária ordinária da assembleia de académicos.
 
 2 - Pode ser atribuído o título de benemérito a pessoas singulares ou colectivas que contribuam de forma relevante para o maior incentivo e melhor projecção das actividades da Academia.
 
-###### Art. 12.º - 1 - A admissão de académicos correspondentes, a elevação de académicos a categoria superior, a eleição de presidentes de honra e de académicos honorários e a atribuição do título de benemérito, assim como a passagem à situação de supranumerários, podem ser propostas:
+Art. 12.º - 1 - A admissão de académicos correspondentes, a elevação de académicos a categoria superior, a eleição de presidentes de honra e de académicos honorários e a atribuição do título de benemérito, assim como a passagem à situação de supranumerários, podem ser propostas:
 
 a) ...
 
@@ -178,7 +182,7 @@ b) ...
 
 3 - ...
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - Se nessa sessão a assembleia considerar a proposta suficientemente apreciada, fixa-se nova sessão após 15 dias, no mínimo, a fim de se proceder à respectiva votação.
 
@@ -186,9 +190,9 @@ b) ...
 
 4 - As votações fazem-se necessariamente por escrutínio secreto, salvo para as eleições do presidente de honra, de académicos de mérito ou honorários e para atribuição do título de benemérito, e considera-se aprovada a proposta que obtenha o mínimo de dois terços dos votos entrados nas urnas.
 
-###### Art. 14.º Os académicos são iguais em direitos e deveres dentro da categoria a que pertencem.
+Art. 14.º Os académicos são iguais em direitos e deveres dentro da categoria a que pertencem.
 
-###### Art. 15.º - 1 - Constituem direitos dos académicos:
+Art. 15.º - 1 - Constituem direitos dos académicos:
 
 a) ...
 
@@ -206,9 +210,9 @@ f) ...
 
 3 - ...
 
-###### Art. 16.º Mediante a exibição do cartão de identidade académica, os académicos têm livre entrada, com dispensa de quaisquer formalidades ou taxas, em todas as bibliotecas, arquivos, museus, estações arqueológicas e outros centros de investigação do Estado ou outras entidades públicas, inclusive secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes assegurado, quando dele careçam, gabinete ou local adequado para os seus estudos, assim como proporcionadas outras facilidades que justificadamente solicitem.
+Art. 16.º Mediante a exibição do cartão de identidade académica, os académicos têm livre entrada, com dispensa de quaisquer formalidades ou taxas, em todas as bibliotecas, arquivos, museus, estações arqueológicas e outros centros de investigação do Estado ou outras entidades públicas, inclusive secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes assegurado, quando dele careçam, gabinete ou local adequado para os seus estudos, assim como proporcionadas outras facilidades que justificadamente solicitem.
 
-###### Art. 17.º Constituem deveres dos académicos:
+Art. 17.º Constituem deveres dos académicos:
 
 a) ...
 
@@ -220,19 +224,19 @@ d) ...
 
 e) Proferir, dentro do ano académico imediato ao preenchimento das respectivas vagas, o «elogio histórico» dos académicos em cujas cadeiras sucedem, ou saudar os novos recipiendários, quando para o efeito sejam designados em sessão geral da assembleia de académicos, sob proposta do conselho académico.
 
-###### Art. 18.º - 1 - Os presidentes de honra e os académicos de mérito encontram-se equiparados, no que respeita a direitos e deveres, aos académicos de número, embora possuam apenas capacidade eleitoral activa.
+Art. 18.º - 1 - Os presidentes de honra e os académicos de mérito encontram-se equiparados, no que respeita a direitos e deveres, aos académicos de número, embora possuam apenas capacidade eleitoral activa.
 
 2 - Os académicos honorários não possuem capacidade eleitoral activa ou passiva para os cargos académicos.
 
 3 - É facultativo o cumprimento dos deveres estatutários pelos presidentes de honra e académicos de mérito e honorários.
 
-###### Art. 19.º Constituem deveres dos académicos correspondentes os indicados nas alíneas a), c) e d) do artigo 17.º
+Art. 19.º Constituem deveres dos académicos correspondentes os indicados nas alíneas a), c) e d) do artigo 17.º
 
-###### Art. 20.º - 1 - Os académicos estrangeiros de qualquer categoria são dispensados da comparência às sessões e da colaboração permanente, mas devem manter o contacto com a Academia através do envio de comunicações e outros estudos, podendo ser-lhes atribuídas comissões académicas nos seus ou noutros países.
+Art. 20.º - 1 - Os académicos estrangeiros de qualquer categoria são dispensados da comparência às sessões e da colaboração permanente, mas devem manter o contacto com a Academia através do envio de comunicações e outros estudos, podendo ser-lhes atribuídas comissões académicas nos seus ou noutros países.
 
 2 - Quando residam ou se encontrem em Portugal, os académicos estrangeiros ficam equiparados aos nacionais da respectiva categoria.
 
-###### Art. 24.º - 1 - A assembleia dos académicos funciona em sessões plenárias, quando nelas participam académicos de todas as categorias, e em sessões restritas, que se circunscrevam aos de número, assim como aos presidentes de honra e académicos de mérito que hajam sido de número.
+Art. 24.º - 1 - A assembleia dos académicos funciona em sessões plenárias, quando nelas participam académicos de todas as categorias, e em sessões restritas, que se circunscrevam aos de número, assim como aos presidentes de honra e académicos de mérito que hajam sido de número.
 
 2 - ...
 
@@ -240,7 +244,7 @@ e) Proferir, dentro do ano académico imediato ao preenchimento das respectivas 
 
 4 - ...
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 a) ...
 
@@ -254,7 +258,7 @@ e) ...
 
 f) ...
 
-###### Art. 28.º - 1 - As sessões plenárias ordinárias da assembleia são reservadas a académicos, sem prejuízo de os seus equiparados, nos termos do n.º 1 do artigo 24.º, poderem assistir às sessões restritas a académicos de número.
+Art. 28.º - 1 - As sessões plenárias ordinárias da assembleia são reservadas a académicos, sem prejuízo de os seus equiparados, nos termos do n.º 1 do artigo 24.º, poderem assistir às sessões restritas a académicos de número.
 
 2 - Tanto as sessões plenárias extraordinárias da assembleia como as sessões solenes se encontram abertas a pessoas estranhas à Academia.
 
@@ -262,11 +266,11 @@ f) ...
 
 4 - ...
 
-###### Art. 29.º - 1 - ...
+Art. 29.º - 1 - ...
 
 2 - As actas das sessões plenárias ordinárias, extraordinárias e solenes são publicadas no Boletim da Academia após a sua aprovação.
 
-###### Art. 34.º - 1 - ...
+Art. 34.º - 1 - ...
 
 a) ...
 
@@ -280,7 +284,7 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Art. 55.º - 1 - ...
+Art. 55.º - 1 - ...
 
 a) ...
 
@@ -292,22 +296,22 @@ d) ...
 
 2 - ...
 
-###### Art. 2.º É aditado aos Estatutos da Academia Portuguesa da História, aprovados pelo [Decreto-Lei n.º 357/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1984-400470), de 31 de Outubro, o artigo 64.º, com a seguinte redacção:
+Art. 2.º É aditado aos Estatutos da Academia Portuguesa da História, aprovados pelo [Decreto-Lei n.º 357/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1984-400470), de 31 de Outubro, o artigo 64.º, com a seguinte redacção:
 
-###### Art. 64.º - 1 - Os actuais académicos de mérito nacionais que não possuírem a categoria de académicos de número mantêm a sua designação, sendo equiparados a académicos honorários em deveres e direitos consignados nos presentes Estatutos.
+Art. 64.º - 1 - Os actuais académicos de mérito nacionais que não possuírem a categoria de académicos de número mantêm a sua designação, sendo equiparados a académicos honorários em deveres e direitos consignados nos presentes Estatutos.
 
 2 - Os actuais académicos supranumerários passam a ser designados «Correspondentes supranumerários».
 
-###### Art. 3.º Todas as referências feitas nos Estatutos, aprovados pelo [Decreto-Lei n.º 357/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1984-400470), de 31 de Outubro, a sessões gerais da assembleia devem entender-se como relativas a sessões plenárias.
+Art. 3.º Todas as referências feitas nos Estatutos, aprovados pelo [Decreto-Lei n.º 357/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1984-400470), de 31 de Outubro, a sessões gerais da assembleia devem entender-se como relativas a sessões plenárias.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Junho de 1995.**
+Referendado em 30 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

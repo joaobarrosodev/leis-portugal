@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/171a00/47494751.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/1995/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1995-484985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1ad449644d127ecf548849cff2adaaa58f26a03a30d6515907d2b5d1b9f0623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97c9314b456863afb6d52f9f774f87501efd95657207a6616efc80c6ec053098
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Consulta Médica
-- Férias
-- Junta Médica
-- Faltas
-- Licença sem Vencimento
-- Exame Médico
 - Administração Local
-- Remuneração
+- Consulta Médica
 - Doença
+- Exame Médico
+- Faltas
+- Férias
+- Função Pública
 - Funcionário Público
+- Junta Médica
+- Licença sem Vencimento
+- Remuneração
 - Verificação da Doença
 relationships:
 - type: amended_by
@@ -88,16 +88,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:152334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515869:por
+  label: "Rectificado pela DECL-RECT.129/95.1995.10.20.PCM, DR.IS-A [252]2ºSupl de 31/Out/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/129-1995-515869
+  date: '1995-10-20'
+- type: repealed_by
+  target: pt:dre:138777:por
+  label: "Revogado o presente diploma, rectificado pela Decl-Rect 129/95, de 31-Out, pelo DEC LEI.100/99.1999.03.31.PCM, DR.IS-A\
+    \ [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1999-138777
+  date: '1999-03-31'
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:10Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +143,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo n.º 1 do artigo 8.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 7.º, 17.º, 20.º, 27.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º e 90.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 7.º, 17.º, 20.º, 27.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º e 90.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — Duração especial das férias
 
@@ -224,7 +251,7 @@ c) A actuação do funcionário ou agente indicie, em matéria de faltas por doe
 
 5 - Quando o período de licença exceder dois anos determina a abertura de vaga, tendo o funcionário, no momento do regresso, direito a ser provido em vaga da sua categoria e ficando como supranumerário do quadro enquanto a mesma não ocorrer.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, o artigo 100.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, o artigo 100.º-A, com a seguinte redacção:
 
 ###### Artigo 100.º-A — Autorização para consultas médicas e exames complementares de diagnóstico
 
@@ -234,16 +261,16 @@ c) A actuação do funcionário ou agente indicie, em matéria de faltas por doe
 
 3 - As ausências referidas neste artigo são consideradas, para todos os efeitos legais, como serviço efectivo.
 
-###### Art. 3.º O novo regime de abono do vencimento de exercício perdido, previsto no artigo 27.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, entra em vigor em 1 de Janeiro de 1996.
+Art. 3.º O novo regime de abono do vencimento de exercício perdido, previsto no artigo 27.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, entra em vigor em 1 de Janeiro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 6 de Julho de 1995.**
+Promulgado em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Julho de 1995.**
+Referendado em 10 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

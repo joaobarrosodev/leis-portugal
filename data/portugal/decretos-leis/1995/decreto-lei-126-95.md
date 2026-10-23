@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/127a00/34563456.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/1995/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1995-527070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eb0ca073d1290f6fc352f28af2a36134699c321d0156a3c50ab45aef9aca888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0c0cf267257d5b8f84bfac67ddeef94f93ce9558494ed2a8fa13f2400db6cba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aposentação
+- PSP
 - Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:491437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491437:por
+  label: "Extinta, a partir de 01.01.2010, a gratificação do Corpo de Segurança Pessoal, e revogado, a partir da mesma data,\
+    \ o presente diploma pelo DEC LEI.299/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2009-491437
+  date: '2009-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/321/1994/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/321/1994/12/29/p/dre
+- type: cites
+  target: pt:dre:322095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:05Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +122,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - 1 - O pessoal do Corpo de Segurança Pessoal previsto no artigo 48.º do [Decreto-Lei n.º 321/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1994-322095), de 29 de Dezembro, que presta serviço de segurança pessoal junto de altas entidades nacionais e estrangeiras, tem direito à gratificação mensal estabelecida no artigo 2.º do [Decreto-Lei n.º 148/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1989-611726), de 8 de Maio, nos mesmos termos em que é atribuído ao Corpo de Intervenção e ao Grupo de Operações Especiais.
+Artigo único. - 1 - O pessoal do Corpo de Segurança Pessoal previsto no artigo 48.º do [Decreto-Lei n.º 321/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1994-322095), de 29 de Dezembro, que presta serviço de segurança pessoal junto de altas entidades nacionais e estrangeiras, tem direito à gratificação mensal estabelecida no artigo 2.º do [Decreto-Lei n.º 148/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1989-611726), de 8 de Maio, nos mesmos termos em que é atribuído ao Corpo de Intervenção e ao Grupo de Operações Especiais.
 
 2 - A gratificação referida no número anterior conta para os efeitos da alínea a) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, sendo sujeita aos descontos legais.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

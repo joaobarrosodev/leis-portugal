@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/310/1994/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1994-571604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1615049a11633a33964b100288270226d9566f6c9817ff97b6ca3d6bb913f48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de2adbe9ceee43f879b580d89569abc8f1297f951da7215e165b1ec888f32092
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Interesse Público
 - Universidade
-- Estabelecimento de Ensino
-- Ensino Superior
 - Universidade Independente
 relationships:
 - type: amended_by
@@ -78,15 +78,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:36Z'
   warnings: []
   errors: []
 ---
@@ -103,22 +103,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É reconhecido o interesse público da UNI - Universidade Independente, estabelecimento de ensino superior particular, de que é entidade instituidora a SIDES - Sociedade Independente para o Desenvolvimento do Ensino Superior, S. A.
+Artigo 1.º É reconhecido o interesse público da UNI - Universidade Independente, estabelecimento de ensino superior particular, de que é entidade instituidora a SIDES - Sociedade Independente para o Desenvolvimento do Ensino Superior, S. A.
 
-###### Art. 2.º O estabelecimento de ensino referido no artigo anterior é reconhecido como universidade.
+Art. 2.º O estabelecimento de ensino referido no artigo anterior é reconhecido como universidade.
 
-###### Art. 3.º Constituem objectivos da UNI - Universidade Independente ministrar cursos de ensino universitário de diferentes áreas científicas, nomeadamente Engenharia de Recursos Naturais, Engenharia Civil, Engenharia Industrial, Engenharia Electrotécnica, Engenharias Informáticas, Gestão de Empresas, Economia, Ciências da Comunicação, Administração Regional e Autárquica, Direito e Relações Internacionais.
+Art. 3.º Constituem objectivos da UNI - Universidade Independente ministrar cursos de ensino universitário de diferentes áreas científicas, nomeadamente Engenharia de Recursos Naturais, Engenharia Civil, Engenharia Industrial, Engenharia Electrotécnica, Engenharias Informáticas, Gestão de Empresas, Economia, Ciências da Comunicação, Administração Regional e Autárquica, Direito e Relações Internacionais.
 
-###### Art. 4.º A UNI - Universidade Independente funciona nas instalações que lhe são afectas, em Lisboa, na Rua do Telhal, aos Olivais, 8 e 8-A.
+Art. 4.º A UNI - Universidade Independente funciona nas instalações que lhe são afectas, em Lisboa, na Rua do Telhal, aos Olivais, 8 e 8-A.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1994. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

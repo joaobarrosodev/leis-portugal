@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/1995/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1995-461217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e56e1318db0887c5a10446d4525d68c07b19b6494f4232ceff972924f82b4bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f60b28c12e926cefd44b716462727ed45813054da13d52fde0c7db13cfe3b8eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,44 +67,88 @@ reuse:
 subjects:
 - Adopção
 - Alienação de BENS
+- Arrendamento Urbano para Habitação
+- Casamento
 - Código Civil
 - Cônjuge
 - Conservador
+- Conservatória do Registo Civil
 - Contrato de Mútuo
 - Definição de Competências
+- Direito Civil
 - Divórcio
 - Menoridade
 - Poder Paternal
 - Prazo de Validade
+- Prédio Urbano
 - Presunção
 - Processo Judicial
 - Regime Jurídico
 - Registo Civil
 - Renda Vitalícia
-- Casamento
-- Direito Civil
-- Conservatória do Registo Civil
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223195:por
+  label: "Alterados os art.s 1143º e 1239º do Código Civil, aprovado pelo Dec Lei 47344 de 25-Nov 1966, na redacção do presente\
+    \ diploma, pelo DEC LEI.343/98.06.11.1998.MF, DR.IS-A [257] de 06.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterado, a partir de 01.01.2002, o art. 1832º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov 1966, na\
+    \ redacção do presente diploma, pelo DEC LEI.273/2001.13.10.2001.MJ, DR.IS-A [238] de 13.10.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:499204:por
+  label: "Alterados os arts. 731º e 1143º do Código Civil aprovado pelo Dec Lei 47344 de 25-Nov 1966, com a redacção constante\
+    \ do presente diploma, pelo DEC LEI.263-A/2007.23.07.2007.MJ, DR.IS [140-Supl] de 23.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-a-2007-499204
+  date: '2007-07-23'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o art. 1710.º do Código Civil, aprovado pelo DecLei 47344, de 25-Nov 1966, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 1143º e 1239º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção do\
+    \ presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterados os art.s 1773º e 1778º-A do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov de 1966, na redacção\
+    \ do presente diploma, pela LEI.61/2008.31.10.2008.AR, DR.IS [212] de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3/1995/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/1995/02/20/p/dre
+- type: cites
+  target: pt:dre:187695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:55Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +185,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 3/95](https://diariodarepublica.pt/dr/detalhe/lei/3-1995-187695), de 20 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 731.º, 1143.º, 1239.º, 1604.º, 1609.º, 1611.º, 1612.º, 1710.º, 1773.º, 1795.º-C, 1832.º e 1833.º do Código Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 731.º, 1143.º, 1239.º, 1604.º, 1609.º, 1611.º, 1612.º, 1710.º, 1773.º, 1795.º-C, 1832.º e 1833.º do Código Civil passam a ter a seguinte redacção:
 
 ###### Artigo 731.º — [...]
 
@@ -241,7 +285,7 @@ As convenções antenupciais só são válidas se forem celebradas por escritura
 
 A declaração de inexistência de posse de estado a que se refere o n.º 2 do artigo anterior é proferida em processo especial e os seus efeitos restringem-se ao disposto naquele preceito.
 
-###### Art. 2.º É aditado à subsecção II do capítulo XII do livro IV do Código Civil o artigo 1778.º-A, com a seguinte redacção:
+Art. 2.º É aditado à subsecção II do capítulo XII do livro IV do Código Civil o artigo 1778.º-A, com a seguinte redacção:
 
 ###### Artigo 1778.º-A — Divórcio decretado pelo conservador
 
@@ -249,7 +293,7 @@ A declaração de inexistência de posse de estado a que se refere o n.º 2 do a
 
 2 - As decisões proferidas nestes termos produzem os mesmos efeitos das sentenças judiciais sobre idêntica matéria.
 
-###### Art. 3.º O artigo 84.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, passa a ter seguinte redacção:
+Art. 3.º O artigo 84.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, passa a ter seguinte redacção:
 
 ###### Artigo 84.º
 
@@ -261,16 +305,16 @@ A declaração de inexistência de posse de estado a que se refere o n.º 2 do a
 
 4 - A transferência do direito ao arrendamento para o cônjuge do arrendatário, por efeito de acordo homologado pelo juiz ou pelo conservador do registo civil, consoante os casos, ou por decisão judicial, deve ser notificada oficiosamente ao senhorio.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 15 de Setembro de 1995.
+Art. 4.º O presente diploma entra em vigor no dia 15 de Setembro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 11 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

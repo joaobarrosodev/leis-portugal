@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/313/1994/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1994-574943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b006b36b9aa2e609f394594e8d2d780094a203ebf5231449fbc9a0cbcad44cfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd61be5b78d3a93f8190b00d64cdd5720461677f2fb97959f571e74a0d02c3d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Interesse Público
 - Universidade
-- Estabelecimento de Ensino
-- Ensino Superior
 - Universidade Moderna
 relationships:
 - type: amended_by
   target: pt:dre:481354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2128137:por
+  label: "Tornado público o registo de denominação do estabelecimento de ensino reconhecido pelo presente diploma, pelo AV.2734/2005(^2ªSérie).01.03.2005.DGES-MCIES,\
+    \ DR.IIS [53] de 16.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2734-2005-2128137
+  date: '2005-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1240/1993/12/04/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/949/1991/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/949/1991/09/18/p/dre
+- type: cites
+  target: pt:dre:301418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661314:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:41Z'
   warnings: []
   errors: []
 ---
@@ -117,22 +139,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É reconhecido o interesse público da Universidade Moderna, estabelecimento de ensino superior particular de que é entidade instituidora a DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L.
+Artigo 1.º É reconhecido o interesse público da Universidade Moderna, estabelecimento de ensino superior particular de que é entidade instituidora a DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L.
 
-###### Art. 2.º O estabelecimento de ensino referido no artigo anterior é reconhecido como universidade.
+Art. 2.º O estabelecimento de ensino referido no artigo anterior é reconhecido como universidade.
 
-###### Art. 3.º Constituem objectivos da Universidade Moderna ministrar cursos de ensino universitário de diferentes áreas científicas, designadamente de Ciências do Desenvolvimento e Cooperação, Direito, Engenharia e Gestão da Produção, Engenharia de Projectos e Gestão de Obras, Estudos Europeus, Informática de Gestão, Investigação Social Aplicada e Organização e Gestão de Empresas.
+Art. 3.º Constituem objectivos da Universidade Moderna ministrar cursos de ensino universitário de diferentes áreas científicas, designadamente de Ciências do Desenvolvimento e Cooperação, Direito, Engenharia e Gestão da Produção, Engenharia de Projectos e Gestão de Obras, Estudos Europeus, Informática de Gestão, Investigação Social Aplicada e Organização e Gestão de Empresas.
 
-###### Art. 4.º A Universidade Moderna é autorizada a funcionar em Lisboa, nas instalações que lhe são afectas na Travessa da Saúde, 2-A, e no Porto, nas instalações que lhe são afectas na Rua de Augusto Rosa, 24.
+Art. 4.º A Universidade Moderna é autorizada a funcionar em Lisboa, nas instalações que lhe são afectas na Travessa da Saúde, 2-A, e no Porto, nas instalações que lhe são afectas na Rua de Augusto Rosa, 24.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1994. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

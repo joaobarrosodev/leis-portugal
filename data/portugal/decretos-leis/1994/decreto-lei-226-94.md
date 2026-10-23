@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/1994/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1994-657630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd2b04388e5923791b5a9f61c0dca0c4e4160e8e28200a6b6bfadd4585228507
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a12147bd4697d796d191aef4a15c3e9e6fa76a0785cfe3ec2c8925141d89b5f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ subjects:
 - Alienação de Acções
 - Quimigal
 - Venda Directa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:48Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +108,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A QUIMIGAL - Química de Portugal, S. A., fica desde já autorizada a proceder à venda directa da participação social que detém no L. P. Q. - Laboratórios Pró-Qualidade, S. A., atendendo à estratégia definida para o sector e à realidade dos mercados nacional e internacional.
+Artigo 1.º A QUIMIGAL - Química de Portugal, S. A., fica desde já autorizada a proceder à venda directa da participação social que detém no L. P. Q. - Laboratórios Pró-Qualidade, S. A., atendendo à estratégia definida para o sector e à realidade dos mercados nacional e internacional.
 
-###### Art. 2.º O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, as operações a realizar no processo previsto no artigo anterior.
+Art. 2.º O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, as operações a realizar no processo previsto no artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1994.**
+Referendado em 22 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

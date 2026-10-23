@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/261a00/68076808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/281/1994/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1994-533824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e117bd77cc3965ea032954f527946f8567405d2649d8c522deac6e6b86a044c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6ba98857d293849c46efac70eb1a10786b8507650beba77db2fbdf4ac5960dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
 - Contra-ordenação
 - Direcção Geral de Viação
-- Veículo
-- Limite de Velocidade
 - Equipamento de Veículo
+- Limite de Velocidade
+- Multa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:608745:por
@@ -89,16 +89,27 @@ relationships:
   target: celex:31992L0094
   label: null
   source: http://data.europa.eu/eli/dir/1992/94/oj
+- type: repealed_by
+  target: pt:dre:223835:por
+  label: "Revogado pelo DEC LEI.2/98.1998.01.03.MAI DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1998-223835
+  date: '1998-01-03'
+- type: repealed_by
+  target: pt:dre:608745:por
+  label: "Revogado no que se refere aos dispositivos limitadores de velocidade [anteriomente totalmente revogado pelo Dec\
+    \ Lei 2/98 de 03-Jan] pelo DEC LEI.46/2005.23.02.2005.MAI, DR.IS-A [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2005-608745
+  date: '2005-02-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:59Z'
   warnings: []
   errors: []
 ---
@@ -115,11 +126,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O limite geral de velocidade instantânea dos veículos pesados de passageiros em auto-estrada é de 110 km/hora.
+Artigo 1.º O limite geral de velocidade instantânea dos veículos pesados de passageiros em auto-estrada é de 110 km/hora.
 
-###### Art. 2.º Os automóveis pesados de mercadorias com peso bruto superior a 12000 kg e os automóveis pesados de passageiros com peso bruto superior a 10000 kg devem estar equipados com um dispositivo limitador de velocidade regulado para uma velocidade máxima de, respectivamente, 85 km/hora e 100 km/hora.
+Art. 2.º Os automóveis pesados de mercadorias com peso bruto superior a 12000 kg e os automóveis pesados de passageiros com peso bruto superior a 10000 kg devem estar equipados com um dispositivo limitador de velocidade regulado para uma velocidade máxima de, respectivamente, 85 km/hora e 100 km/hora.
 
-###### Art. 3.º Estão dispensados da instalação de limitadores de velocidade:
+Art. 3.º Estão dispensados da instalação de limitadores de velocidade:
 
 a) Os veículos das Forças Armadas, da protecção civil, dos serviços de bombeiros e das forças responsáveis pela manutenção da ordem pública;
 
@@ -129,15 +140,15 @@ c) Os veículos utilizados para ensaios científicos em estrada;
 
 d) Os veículos unicamente utilizados para serviços públicos, em áreas urbanas.
 
-###### Art. 4.º Todos os limitadores de velocidades devem ostentar, em local facilmente acessível, marca de homologação conforme a Directiva n.º [92/94/CEE](http://data.europa.eu/eli/dir/1992/94/oj?locale=pt), de 31 de Março de 1992, devendo essa marca ser claramente legível e indelével.
+Art. 4.º Todos os limitadores de velocidades devem ostentar, em local facilmente acessível, marca de homologação conforme a Directiva n.º [92/94/CEE](http://data.europa.eu/eli/dir/1992/94/oj?locale=pt), de 31 de Março de 1992, devendo essa marca ser claramente legível e indelével.
 
-###### Art. 5.º Os veículos equipados com dispositivos limitadores de velocidade devem possuir em local visível, na cabina, uma placa informativa da instalação daquele dispositivo, de modelo a aprovar por despacho do director-geral de Viação.
+Art. 5.º Os veículos equipados com dispositivos limitadores de velocidade devem possuir em local visível, na cabina, uma placa informativa da instalação daquele dispositivo, de modelo a aprovar por despacho do director-geral de Viação.
 
-###### Art. 6.º - 1 - Os dispositivos limitadores de velocidade só podem ser instalados por entidades reconhecidas pelo Ministério da Indústria e Energia, no âmbito do Sistema Português da Qualidade, ou por organismo congénere de outro Estado membro da União Europeia.
+Art. 6.º - 1 - Os dispositivos limitadores de velocidade só podem ser instalados por entidades reconhecidas pelo Ministério da Indústria e Energia, no âmbito do Sistema Português da Qualidade, ou por organismo congénere de outro Estado membro da União Europeia.
 
 2 - Os requisitos a observar pelas entidades referidas no número anterior para efeitos do reconhecimento, bem como a localização das selagens e a marca do instalador, serão definidos por portaria do Ministro da Indústria e Energia.
 
-###### Art. 7.º - 1 - Constitui contra-ordenação, punível com coima de 5000$00 a 25000$00:
+Art. 7.º - 1 - Constitui contra-ordenação, punível com coima de 5000$00 a 25000$00:
 
 a) A falta ou ilegibilidade da marca de homologação;
 
@@ -159,7 +170,7 @@ e) A violação das selagens;
 
 f) A não instalação destes aparelhos, quando devida.
 
-###### Art. 8.º - 1 - Sem prejuízo do estabelecido na Portaria n.º 324/94, de 27 de Maio, o disposto no presente diploma é aplicável:
+Art. 8.º - 1 - Sem prejuízo do estabelecido na Portaria n.º 324/94, de 27 de Maio, o disposto no presente diploma é aplicável:
 
 a) Decorridos 180 dias a partir da entrada em vigor da portaria a que se refere o n.º 2 do artigo 6.º do presente diploma, aos veículos afectos ao transporte internacional, matriculados depois de 1 de Janeiro de 1988;
 
@@ -171,12 +182,12 @@ b) A partir de 1 de Janeiro de 1996, aos veículos destinados exclusivamente ao 
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Luís Filipe da Conceição Pereira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

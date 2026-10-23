@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20296-1964-222204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cb45a19bcb713357bef1405d94b74797569b7ac632adee452eb76f8625da56d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 989eff248ccc7b7f8513fa2468e278bb71bc70d455150bde94165e83acfb3447
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306207:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:55Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que o artigo 2.º da [Portaria n.º 15782](https://diariodarepublica.pt/dr/detalhe/portaria/15782-1956-306207), de 20 de Março de 1956, alterado pela [Portaria n.º 16473](https://diariodarepublica.pt/dr/detalhe/portaria/16473-1957-251845), de 20 de Novembro de 1957, passe a ter a seguinte redacção:
 
-###### Art. 2.º A Comissão Central de Pescarias tem a seguinte constituição:
+Art. 2.º A Comissão Central de Pescarias tem a seguinte constituição:
 
 Presidente: o director das Pescarias ou um oficial general ou superior de marinha, na situação de reserva.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/1995/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1995-505068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d00760c4f942fd4874d66757005dbaf20920347fe8b4cc42fe5ad62bb586e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93e1cf35e03d18d25188ad588b1a93ed7824f9b875ba114b495538b2c490b0a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
 subjects:
 - Descobrimentos Portugueses
 - Moeda Comemorativa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:45Z'
   warnings: []
   errors: []
 ---
@@ -101,29 +117,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas, com o valor facial de 200$00, alusivas à conquista de Malaca, às primeiras expedições e viagens às ilhas Molucas, às ilhas de Solor e de Timor e às costas da Austrália.
+Artigo 1.º - 1 - É autorizada a cunhagem pela Imprensa Nacional-Casa da Moeda, E. P. (INCM), de uma série de quatro moedas comemorativas, com o valor facial de 200$00, alusivas à conquista de Malaca, às primeiras expedições e viagens às ilhas Molucas, às ilhas de Solor e de Timor e às costas da Austrália.
 
 2 - Cada uma das moedas referidas no número anterior será cunhada em liga de cuproníquel de toque 75/25, com 36 mm de diâmetro e 21 g de peso, com uma tolerância de mais ou menos 1,5% do peso e no toque, e terá bordo serrilhado.
 
-###### Art. 2.º - 1 - A gravura do anverso da moeda alusiva à conquista de Malaca apresenta, no lado direito do campo, uma representação da nau-capitania de Afonso de Albuquerque, cujo nome, Flor de la Mar, aparece inscrito ao nível da linha de água, no lado esquerdo, o escudo das armas nacionais, tendo por baixo a data «1995», na orla superior, a legenda «República Portuguesa» e, na orla inferior, o valor facial «200 Esc.».
+Art. 2.º - 1 - A gravura do anverso da moeda alusiva à conquista de Malaca apresenta, no lado direito do campo, uma representação da nau-capitania de Afonso de Albuquerque, cujo nome, Flor de la Mar, aparece inscrito ao nível da linha de água, no lado esquerdo, o escudo das armas nacionais, tendo por baixo a data «1995», na orla superior, a legenda «República Portuguesa» e, na orla inferior, o valor facial «200 Esc.».
 
 2 - A gravura do reverso apresenta, no lado direito do campo, a figura de Afonso de Albuquerque, de pé e corpo inteiro, inspirada na iconografia do século XVI, no lado esquerdo, uma representação da Porta de Santiago da muralha da Fortaleza de Malaca, na orla inferior, a legenda «Afonso de Albuquerque» e, na orla superior, com separadores de flores-de-lis, a legenda «Melaka. 1511. Malaca».
 
-###### Art. 3.º - 1 - A gravura do anverso da moeda alusiva à chegada às ilhas Molucas apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo o valor facial de «200 Esc.» em duas linhas, no centro e lado direito, a legenda «República/Portuguesa/1995», em três linhas, na parte superior do campo, uma representação da planta do cravinho e, na parte inferior, uma representação da planta e do fruto da noz-moscada.
+Art. 3.º - 1 - A gravura do anverso da moeda alusiva à chegada às ilhas Molucas apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo o valor facial de «200 Esc.» em duas linhas, no centro e lado direito, a legenda «República/Portuguesa/1995», em três linhas, na parte superior do campo, uma representação da planta do cravinho e, na parte inferior, uma representação da planta e do fruto da noz-moscada.
 
 2 - A gravura do reverso apresenta, no lado direito do campo, uma representação do arquipélago das Molucas, tendo assinalado em inscrição os nomes das ilhas de Ternate e de Tidore, na parte inferior do campo, uma nau portuguesa navegando ao encontro das ilhas e, na parte superior, a legenda «Ilhas das Especiarias/Molucas/1512», em três arcos de círculo concêntricos.
 
-###### Art. 4.º - 1 - A gravura do anverso da moeda alusiva à chegada às ilhas de Solor e de Timor apresenta, na parte superior do campo, o escudo das armas nacionais, no lado direito, o valor facial «200 Esc.», em duas linhas, na parte inferior, uma nau portuguesa quinhentista, no lado esquerdo, uma representação da árvore do sândalo, na orla superior, a legenda «República Portuguesa», na orla inferior, a era «1995» e, junto ao rebordo, uma dupla cercadura de triângulos.
+Art. 4.º - 1 - A gravura do anverso da moeda alusiva à chegada às ilhas de Solor e de Timor apresenta, na parte superior do campo, o escudo das armas nacionais, no lado direito, o valor facial «200 Esc.», em duas linhas, na parte inferior, uma nau portuguesa quinhentista, no lado esquerdo, uma representação da árvore do sândalo, na orla superior, a legenda «República Portuguesa», na orla inferior, a era «1995» e, junto ao rebordo, uma dupla cercadura de triângulos.
 
 2 - A gravura do reverso apresenta, no centro do campo, uma representação cartográfica das ilhas de Solor, Atauro e Timor, tendo sobreposta ao centro a cruz da Ordem de Cristo, rodeada por diversos elementos alegóricos e representativos dos mitos, tradições, usos e costumes do povo maubere, designadamente a cobra, símbolo das forças primordiais geradoras de vida, o búfalo, símbolo de riqueza, o cavalo timorense, o crocodilo, da lenda da criação de Timor, e o diadema, insígnia de chefia, no lado inferior direito, a representação de um régulo de meio corpo de perfil à esquerda, com as suas insígnias e panos tradicionais e, junto ao rebordo, uma dupla cercadura de triângulos.
 
-###### Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao reconhecimento da Austrália apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo a data «1995», no lado direito, uma esfera armilar de recorte quinhentista, na parte inferior do campo, o valor facial «200 Esc.», na orla superior, uma cercadura de pérolas e, na orla inferior, a legenda «República Portuguesa».
+Art. 5.º - 1 - A gravura do anverso da moeda alusiva ao reconhecimento da Austrália apresenta, no lado esquerdo do campo, o escudo das armas nacionais, tendo por baixo a data «1995», no lado direito, uma esfera armilar de recorte quinhentista, na parte inferior do campo, o valor facial «200 Esc.», na orla superior, uma cercadura de pérolas e, na orla inferior, a legenda «República Portuguesa».
 
 2 - A gravura do reverso apresenta, no centro do campo, o contorno do mapa da Austrália tendo sobreposto um perfil da costa, na metade inferior, três caravelas redondas portuguesas navegando para leste, na parte inferior direita, as datas «1522/1525», em duas linhas, na orla superior, uma cercadura de pérolas e, na orla inferior, a legenda «Austrália».
 
-###### Art. 6.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 159200000$00.
+Art. 6.º O limite de emissão de cada uma destas moedas comemorativas é fixado em 159200000$00.
 
-###### Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 20000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 20000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 1000 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 4000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof) e até 1000 espécimes numismáticos de platina com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
+Art. 7.º - 1 - Dentro do limite estabelecido no número anterior, a INCM é autorizada a cunhar de cada uma destas moedas até 20000 espécimes numismáticos de prata com acabamento «brilhante não circulado» (BNC), até 20000 espécimes numismáticos de prata com acabamento «prova numismática» (proof), até 1000 espécimes numismáticos de paládio com acabamento «prova numismática» (proof), até 4000 espécimes numismáticos de ouro com acabamento «prova numismática» (proof) e até 1000 espécimes numismáticos de platina com acabamento «prova numismática» (proof), destinados à comercialização, nos termos do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio.
 
 2 - Os espécimes numismáticos de prata serão cunhados em liga de prata de toque 925/1000, com diâmetro de 36 mm, peso de 26,5 g e bordo serrilhado, sendo as tolerâncias no peso e no toque de mais ou menos 1/1000.
 
@@ -133,20 +149,20 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, Governo d
 
 5 - Os espécimes numismáticos de platina serão cunhados em metal fino 999,5/1000, com diâmetro de 36 mm, peso de 31,119 g e bordo serrilhado, sendo as tolerâncias no peso de mais ou menos 2/1000.
 
-###### Art. 8.º As moedas destinadas à distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal.
+Art. 8.º As moedas destinadas à distribuição pública pelo respectivo valor facial são postas em circulação por intermédio e sob requisição do Banco de Portugal.
 
-###### Art. 9.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto do público, será afecto nos termos do artigo 8.º do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, com a redacção que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 260/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1987-419474), de 29 de Junho.
+Art. 9.º O diferencial entre o valor facial e os correspondentes custos de produção, relativamente às moedas efectivamente colocadas junto do público, será afecto nos termos do artigo 8.º do [Decreto-Lei n.º 391/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1986-221497), de 22 de Novembro, com a redacção que lhe foi dada pelo artigo 3.º do [Decreto-Lei n.º 260/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1987-419474), de 29 de Junho.
 
-###### Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
+Art. 10.º As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém poderá ser obrigado a receber em qualquer pagamento mais de 10000$00 nestas moedas.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/293/1994/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1994-534586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a70d073639f485199a39b58cc7462542470dfcf4167a667642dae469052f6406
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbc946c624bb7ffe63c5186e3ca07e6899a6903dffbe0960875e62076485eec9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
 - Conselho Nacional de Turismo
 - Extinção de Serviços
-relationships: []
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:372424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419074:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:14Z'
   warnings: []
   errors: []
 ---
@@ -105,18 +113,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinto o Conselho Nacional de Turismo (CNT).
+Artigo 1.º É extinto o Conselho Nacional de Turismo (CNT).
 
-###### Art. 2.º São revogados os Decretos-Leis n.os [234/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1987-419074), de 12 de Junho, e [245/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1988-372424), de 13 de Julho.
+Art. 2.º São revogados os Decretos-Leis n.os [234/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1987-419074), de 12 de Junho, e [245/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1988-372424), de 13 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1994. - Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

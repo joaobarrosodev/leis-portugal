@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/208/1994/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1994-223069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b00a6ff4b95da0c8ac1f4fcf0f54e205be655f85f3f86f71a8f1b6df8e9572e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3fe15cef093f4335dbd3ddf71c14107174a89725c15d465bdc9a8771151ac64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,36 @@ subjects:
 - Adjudicação por Concurso Público
 - Adjudicação sem Concurso Público
 - Administração Central
-- Garantia
+- Administração Local
+- Administração Regional
 - Concurso Público
 - Contencioso Administrativo
 - Contrato
-- Rescisão de Contrato
 - Empreitada de Obras Públicas
 - Fiscalização
+- Garantia
 - Obras Públicas
-- Administração Local
 - Regime Jurídico
-- Administração Regional
+- Rescisão de Contrato
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/405/1993/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/405/1993/12/10/p/dre
+- type: cites
+  target: pt:dre:553397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:26Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +116,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 130.º, 217.º e 233.º do [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 130.º, 217.º e 233.º do [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 130.º — Morte, interdição ou falência do empreiteiro
 
@@ -162,7 +166,7 @@ c) ...
 
 3 - ...
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, o artigo 236.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 405/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1993-553397), de 10 de Dezembro, o artigo 236.º-A, com a seguinte redacção:
 
 ###### Artigo 236.º-A
 
@@ -172,12 +176,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 12 de Julho de 1994.**
+Promulgado em 12 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Julho de 1994.**
+Referendado em 14 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

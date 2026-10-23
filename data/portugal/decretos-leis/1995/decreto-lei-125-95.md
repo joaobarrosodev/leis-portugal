@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/126a00/33993405.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/1995/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1995-527406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2570bf7b7903c0527425427f82f899ace7e0a2b467625b4de06e94f022a775dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f08224a093cb4d7ead705fc322c01173e30ad586a704ab9e50a6f99dcd261a89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,88 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Apoio Técnico
 - Assistência Médica
 - Atleta de ALTA Competição
-- Financiamento
+- Avaliação de Conhecimentos
+- Bolsa de Estudos
 - Bolsa de Formação Profissional
-- Formação Profissional
+- Deficiente
 - Definição de Competências
 - Desporto de ALTA Competição
 - Dispensa de Serviço
-- Serviço Militar
+- Ensino
+- Financiamento
+- Formação Profissional
 - Horário Escolar
 - Instituto do Desporto
-- Ensino
 - Pessoal Docente
 - Prémio Desportivo
-- Avaliação de Conhecimentos
 - Regime Jurídico
-- Bolsa de Estudos
+- Seguro Desportivo
+- Serviço Militar
 - Setor Privado
 - Setor Público
-- Seguro Desportivo
 - Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:490957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405681:por
+  label: "Alterados os arts. 4º, 5º, 19º, 24º, 27º e aditado o art. 5º-A pelo DEC LEI.123/96.1996.08.10.PCM, DR.IS-A [185]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1996-405681
+  date: '1996-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/1992/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/143/1992/07/20/p/dre
+- type: cites
+  target: pt:dre:292114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490957:por
+  label: "Revogado, a partir de 06.10.2009, o presente diploma, alterado pelo Dec Lei 123/96 de 10-Ago, revogado a partir\
+    \ da mesma data, pelo DEC LEI.272/2009.01.10.2009.PCM, DR.IS [191] de 01.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-2009-490957
+  date: '2009-10-01'
 article_structure:
   article_count: 41
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:03Z'
   warnings: []
   errors: []
 ---
@@ -435,12 +475,12 @@ O disposto no presente diploma é aplicável, com as necessárias adaptações, 
 
 Visto e aprovado em Conselho de Ministros de 9 de Março de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/173a00/48454847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/1995/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1995-484652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03e3786a848985aa0cdce7bf4493537f1b003c6a39cd23712e62a739bab7cce8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a7e14661bbb0eb1feb0e3380ef00daea9c37e6d461bd37ed0d1d4e4268ece39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Equivalência de Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Habilitações Literárias
 - Livre Prestação de Serviços
 - Veterinário
 relationships:
@@ -78,6 +78,11 @@ relationships:
   target: pt:dre:604779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482627:por
+  label: "Substituido, na redacção do presente diploma, pelo DEC LEI.242/2003.2003.10.07.MADRP DR.IS-A [232]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2003-482627
+  date: '2003-10-07'
 - type: cites
   target: celex:31968R1612
   label: null
@@ -102,16 +107,21 @@ relationships:
   target: celex:31990L0658
   label: null
   source: http://data.europa.eu/eli/dir/1990/658/oj
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 6
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:30Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +144,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aditados os artigos 1.º-A e 3.º-A ao Decreto-Lei n.º 399/89, de 10 de Novembro, com a seguinte redacção:
+Artigo 1.º São aditados os artigos 1.º-A e 3.º-A ao Decreto-Lei n.º 399/89, de 10 de Novembro, com a seguinte redacção:
 
 ###### Artigo 1.º-A — Formação veterinária
 
@@ -176,7 +186,7 @@ b) Se facultarem o exercício das actividades de médico veterinário em todo o 
 
 c) Se acompanhados de um atestado passado pelas autoridades competentes alemãs comprovativo de que aqueles nacionais se dedicaram efectiva e licitamente às actividades em causa na Alemanha durante, pelo menos, três anos consecutivos dos cinco anos que precederem a emissão do atestado.
 
-###### Art. 2.º Os artigos 2.º, 3.º e 14.º do Decreto-Lei n.º 399/89, de 10 de Novembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 3.º e 14.º do Decreto-Lei n.º 399/89, de 10 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Diplomas
 
@@ -196,7 +206,7 @@ c) Se acompanhados de um atestado passado pelas autoridades competentes alemãs 
 
 Sem prejuízo do disposto na alínea a) do artigo 16.º, a Ordem dos Médicos Veterinários é a autoridade competente para o desempenho das atribuições previstas no presente diploma.
 
-###### Art. 3.º As alíneas 3), 5) e 11) do anexo I passam a ter a seguinte redacção:
+Art. 3.º As alíneas 3), 5) e 11) do anexo I passam a ter a seguinte redacção:
 
 3) Alemanha:
 
@@ -204,15 +214,15 @@ Zeugnis uber die tierarztlide Staatsprufung, (certificado de exame de Estado de 
 
 5) Grécia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/173a00/48454847.pdf))](https://files.diariodarepublica.pt/1s/1995/07/173a00/48454847.pdf), (diploma de veterinário da) Faculdade de Ciências Geotécnicas da Universidade Aristóteles de Salónica ou da Escola de Veterinária Aristóteles de Salónica;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/173a00/48454847.pdf), (diploma de veterinário da) Faculdade de Ciências Geotécnicas da Universidade Aristóteles de Salónica ou da Escola de Veterinária Aristóteles de Salónica;
 
 11) Espanha:
 
-## Título de licenciado em Veterinária (título de licenciado em Medicina Veterinária), emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade.
+Título de licenciado em Veterinária (título de licenciado em Medicina Veterinária), emitido pelo Ministério da Educação e da Ciência ou pelo reitor de uma universidade.
 
-###### Art. 4.º O anexo do Decreto-Lei n.º 399/89, de 10 de Novembro, passa a designar-se como «anexo I».
+Art. 4.º O anexo do Decreto-Lei n.º 399/89, de 10 de Novembro, passa a designar-se como «anexo I».
 
-###### Art. 5.º Ao Decreto-Lei n.º 399/89, de 10 de Novembro, é acrescentado um anexo II, com a seguinte redacção:
+Art. 5.º Ao Decreto-Lei n.º 399/89, de 10 de Novembro, é acrescentado um anexo II, com a seguinte redacção:
 
 ## Anexo II — Programa de Estudos para os Veterinários
 
@@ -312,12 +322,12 @@ A repartição do ensino teórico e prático entre os diferentes grupos de maté
 
 Visto e aprovado em Conselho de Ministros de 14 de Junho de 1995. - Aníbal António Cavaco Silva - António Duarte Silva - Maria Manuela Dias Ferreira Leite - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 13 de Julho de 1995.**
+Promulgado em 13 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Julho de 1995.**
+Referendado em 17 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

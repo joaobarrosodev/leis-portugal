@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/020a00/04110453.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/1995/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1995-139270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f0707a84f110e21315922555636dc632e44f3172d59e777e6eedb5d6364990
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1540522a3ba3eb5c8050dac808d1a28c4d03f5bd4091cb81ffbe140a76e7c63a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,50 @@ subjects:
 - Código da Propriedade Industrial
 - Denominação de Origem
 - Instituto Nacional da Propriedade Industrial
+- Invenção
+- Marca Registada
 - Patente
 - Propriedade Industrial
-- Marca Registada
-- Invenção
 relationships:
 - type: amended_by
   target: pt:dre:220563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterado o art. 43º do Código da Propriedade Industrial DEC LEI.375-A/99.1999.09.20.MJ,DR.IS-A [220]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
 - type: cites
   target: celex:31989L0104
   label: null
   source: http://data.europa.eu/eli/dir/1989/104/oj
+- type: corrected_by
+  target: pt:dre:481570:por
+  label: "Rectificado pela DECL-RECT.35-A/95.29.04.1995.PCM, DR.IS-A [100]2ºSupl de 29.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/35-a-1995-481570
+  date: '1995-04-29'
+- type: repealed_by
+  target: pt:dre:406480:por
+  label: "Revogado o art. 3º pelo DEC LEI.141/96.1996.08.23.MECO, DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1996-406480
+  date: '1996-08-23'
+- type: repealed_by
+  target: pt:dre:220563:por
+  label: "Revogado a partir de 01/07/2003, com a redacção dada pelo Dec Lei 141/96 de 23-Ago e art. 7º do Dec Lei 375-A/99\
+    \ de 20-Set, pelo DEC LEI.36/2003.2003.03.05.MECO DR.IS-A [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2003-220563
+  date: '2003-03-05'
 article_structure:
-  article_count: 294
-  section_count: 66
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 293
+  section_count: 67
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:50Z'
   warnings: []
   errors: []
 ---
@@ -112,27 +133,27 @@ Assim:
 
 No uso da autorização legislativa concedida pela Lei n.º 11/94, de 11 de Maio, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Código da Propriedade Industrial, que se publica em anexo ao presente diploma e dele faz parte integrante.
+Artigo 1.º É aprovado o Código da Propriedade Industrial, que se publica em anexo ao presente diploma e dele faz parte integrante.
 
-###### Art. 2.º Mantém-se a competência do Tribunal da Comarca de Lisboa nos precisos termos que lhe é atribuída pelo artigo 203.º do Código da Propriedade Industrial, aprovado pelo Decreto n.º 30679, de 24 de Agosto de 1940.
+Art. 2.º Mantém-se a competência do Tribunal da Comarca de Lisboa nos precisos termos que lhe é atribuída pelo artigo 203.º do Código da Propriedade Industrial, aprovado pelo Decreto n.º 30679, de 24 de Agosto de 1940.
 
-###### Art. 3.º As patentes cujos pedidos foram apresentados antes da entrada em vigor do presente diploma conservam a duração que lhes era atribuída pelo artigo 7.º do Código da Propriedade Industrial, aprovado pelo Decreto n.º 30679, de 24 de Agosto de 1940.
+Art. 3.º As patentes cujos pedidos foram apresentados antes da entrada em vigor do presente diploma conservam a duração que lhes era atribuída pelo artigo 7.º do Código da Propriedade Industrial, aprovado pelo Decreto n.º 30679, de 24 de Agosto de 1940.
 
-###### Art. 4.º - 1 - Os modelos de utilidade concedidos antes da entrada em vigor do presente diploma caducarão 15 anos após o vencimento da primeira anuidade que ocorra depois da entrada em vigor do mesmo diploma.
+Art. 4.º - 1 - Os modelos de utilidade concedidos antes da entrada em vigor do presente diploma caducarão 15 anos após o vencimento da primeira anuidade que ocorra depois da entrada em vigor do mesmo diploma.
 
 2 - Os pedidos de modelos de utilidade efectuados antes da entrada em vigor do presente diploma e concedidos posteriormente caducarão ao fim de 15 anos a contar da data da concessão.
 
-###### Art. 5.º - 1 - Os modelos e desenhos industriais concedidos antes da entrada em vigor do presente diploma caducarão 25 anos após o vencimento da primeira anuidade que ocorra depois da entrada em vigor do mesmo diploma.
+Art. 5.º - 1 - Os modelos e desenhos industriais concedidos antes da entrada em vigor do presente diploma caducarão 25 anos após o vencimento da primeira anuidade que ocorra depois da entrada em vigor do mesmo diploma.
 
 2 - Os pedidos de modelos e desenhos industriais efectuados antes da entrada em vigor do presente diploma e concedidos posteriormente caducarão ao fim de 25 anos a contar da data da concessão.
 
-###### Art. 6.º Os registos concedidos antes da entrada em vigor do presente diploma manterão a validade que lhes era atribuída pela legislação anterior até à primeira renovação que ocorra depois dessa data, passando as futuras renovações a ser feitas pelo período de 20 anos.
+Art. 6.º Os registos concedidos antes da entrada em vigor do presente diploma manterão a validade que lhes era atribuída pela legislação anterior até à primeira renovação que ocorra depois dessa data, passando as futuras renovações a ser feitas pelo período de 20 anos.
 
-###### Art. 7.º - 1 - Aos pedidos de caducidade de patentes, modelos, desenhos ou registos ainda não decididos à data de entrada em vigor deste diploma aplica-se o regime em vigor à data do pedido.
+Art. 7.º - 1 - Aos pedidos de caducidade de patentes, modelos, desenhos ou registos ainda não decididos à data de entrada em vigor deste diploma aplica-se o regime em vigor à data do pedido.
 
 2 - Para os pedidos de registo de marcas ainda não despachados, o prazo de um ano referido no n.º 5 do artigo 183.º contar-se-á a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 8.º São revogados:
+Art. 8.º São revogados:
 
 a) A Lei n.º 1972, de 21 de Junho de 1938;
 
@@ -156,23 +177,25 @@ j) O Decreto-Lei n.º 40/87, de 27 de Janeiro;
 
 l) O Decreto-Lei n.º 332/89, de 27 de Setembro.
 
-###### Art. 9.º O Código da Propriedade Industrial entra em vigor a 1 de Junho de 1995.
+Art. 9.º O Código da Propriedade Industrial entra em vigor a 1 de Junho de 1995.
 
 Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 28 de Dezembro de 1994.**
+Promulgado em 28 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DA PROPRIEDADE INDUSTRIAL
 
-## TÍTULO I — Parte geral
+## TÍTULO I
+
+## Parte geral
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -2094,7 +2117,7 @@ A duração do registo é de 10 anos contados da data da respectiva concessão, 
 
 ###### Artigo 206.º — Indicação do registo
 
-Durante a vigência do registo pode o seu titular usar nos produtos as palavras «Marca registada», ou as iniciais «M. R.», ou ainda simplesmente o sinal «R» ou «[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/020a00/04110453.pdf))](https://files.diariodarepublica.pt/1s/1995/01/020a00/04110453.pdf)».
+Durante a vigência do registo pode o seu titular usar nos produtos as palavras «Marca registada», ou as iniciais «M. R.», ou ainda simplesmente o sinal «R» ou «[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/020a00/04110453.pdf)».
 
 ###### Artigo 207.º — Direitos conferidos pelo registo
 

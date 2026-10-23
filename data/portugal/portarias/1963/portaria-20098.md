@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20098-1963-687401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5e182d0acdc4df1d1591eedc472becef5e37b8dfaec0493f93644b67a3508f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a9d48ce9efdc26447825b2f23a0345674eeed7edf22fcdc53438f19272b268b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Fiscal
+- Autorização de Despesas
+- Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica
+- Guiné.Colónia Portuguesa
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:38Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +113,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
-###### Artigo 124.º, n.º 1), alínea a) «Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+Artigo 124.º, n.º 1), alínea a) «Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
 
 ### CAPÍTULO 5.º — Serviços de Fazenda
 
-###### Artigo 156.º, n.º 2) «Serviços das alfândegas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 15000$00
+Artigo 156.º, n.º 2) «Serviços das alfândegas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 15000$00
 
 ### CAPÍTULO 6.º — Serviços de justiça
 
-###### Artigo 176.º, n.º 1), alínea a) «Conservatória do Registo Predial e Comercial - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 25000$00
+Artigo 176.º, n.º 1), alínea a) «Conservatória do Registo Predial e Comercial - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 25000$00
 
-###### Artigo 183.º, n.º 1), alínea a) «Conservatória do Registo Civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 18814$00
+Artigo 183.º, n.º 1), alínea a) «Conservatória do Registo Civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 18814$00
 
 ... 78814$00
 
@@ -111,7 +135,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
-###### Artigo 122.º «Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
+Artigo 122.º «Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 11000$00
 

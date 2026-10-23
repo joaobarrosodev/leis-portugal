@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/172a00/48024811.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/1995/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1995-484671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02e3db76cc55943e0f2c390574ee56c32dd4f2af4f0e832bc8589fde0a957a94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 292ee413aaabc86bf907b0a1b0c0f23babb576f42b8a4f677cee42926ebba153
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
-- Multa
 - Contra-ordenação
 - Contrato de Concessão
 - Definição de Competências
 - Direcção Geral de Energia
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 - Licenciamento
+- Multa
 - Normas de Segurança
 - Rede Nacional de Transporte de Energia Elétrica
 - Regime Jurídico
@@ -86,20 +86,34 @@ relationships:
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517247:por
+  label: "Alterados os arts 24º e 29º bem como a base XXII do anexo pelo DEC LEI.56/97.1997.03.14.MECO, DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1997-517247
+  date: '1997-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540627:por
+  label: "Revogado pelo Dec Lei.172/2006.23.08.2006.MEI, DR.IS [162] de 23.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-2006-540627
+  date: '2006-08-23'
 article_structure:
   article_count: 30
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:20Z'
   warnings: []
   errors: []
 ---
@@ -432,27 +446,31 @@ Fazem parte da RNT, enquanto subsistirem, os equipamentos de média tensão inte
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 10 de Julho de 1995.**
+Promulgado em 10 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1995.**
+Referendado em 12 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Bases da concessão da Rede Nacional de Transporte de Energia Eléctrica
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 1 - A concessão tem por objecto a gestão técnica global do Sistema Eléctrico de Serviço Público (SEP) e a exploração, em regime de serviço público, da Rede Nacional de Transporte de Energia Eléctrica (RNT), bem como a construção das infra-estruturas que a integram.
 
 2 - Mediante autorização do Ministro da Indústria e Energia, solicitada caso a caso, a concessionária pode exercer outras actividades com fundamento no proveito daí resultante para o interesse da concessão ou dos clientes.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - A actividade da concessão compreende:
 
@@ -466,7 +484,9 @@ d) A gestão técnica global do SEP através da coordenação, nos pontos de lig
 
 2 - A área da concessão abrange todo o território do continente.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - A concessão tem a duração de 50 anos, contados a partir da data da celebração do respectivo contrato.
 
@@ -474,7 +494,9 @@ d) A gestão técnica global do SEP através da coordenação, nos pontos de lig
 
 3 - O disposto no número anterior não impede que o concedente e a concessionária acordem, até ao termo do respectivo prazo, na renovação da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessão é exercida em regime de serviço público, sendo as suas actividades consideradas para todos os efeitos de utilidade pública.
 
@@ -488,7 +510,9 @@ b) Da recepção e entrega de energia eléctrica, se efectuadas através das lig
 
 4 - O exclusivo previsto nesta base não prejudica o exercício por terceiros do direito de acesso à rede.
 
-###### Base V — Princípios aplicáveis às relações com os produtores, distribuidores e outros utilizadores da RNT
+Base V
+
+Princípios aplicáveis às relações com os produtores, distribuidores e outros utilizadores da RNT
 
 1 - A concessionária não pode estabelecer diferenças de tratamento nas suas relações com os produtores, distribuidores e outros utilizadores da RNT que não resultem de condicionalismos legais ou regulamentares ou da aplicação de critérios decorrentes de uma conveniente e adequada gestão técnica global do SEP, bem como de condicionalismos de natureza contratual, desde que sancionados pela Entidade Reguladora.
 
@@ -496,7 +520,9 @@ b) Da recepção e entrega de energia eléctrica, se efectuadas através das lig
 
 ### CAPÍTULO II — Bens e meios afectos à concessão
 
-###### Base VI — Bens da concessão
+Base VI
+
+Bens da concessão
 
 1 - Consideram-se afectos à concessão os bens que constituem a RNT, designadamente:
 
@@ -516,7 +542,9 @@ c) Outros bens móveis ou imóveis necessários ao desempenho das actividades ob
 
 d) As relações jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de recepção e de entrega de energia eléctrica, bem como os direitos de transporte através de redes situadas no exterior da área da concessão.
 
-###### Base VII — Inventário do património
+Base VII
+
+Inventário do património
 
 1 - A concessionária deve elaborar um inventário do património afecto à concessão que mantém actualizado e à disposição do concedente.
 
@@ -524,11 +552,15 @@ d) As relações jurídicas directamente relacionadas com a concessão, nomeadam
 
 3 - Os bens e direitos patrimoniais tornados desnecessários às actividades concedidas são abatidos ao inventário da concessão, mediante prévio pedido de autorização da concessionária à DGE, que se considera deferido se esta não se opuser no prazo de 30 dias.
 
-###### Base VIII — Manutenção dos bens e meios afectos à concessão
+Base VIII
+
+Manutenção dos bens e meios afectos à concessão
 
 A concessionária deve, durante o prazo de vigência da concessão, manter, a expensas suas, em bom estado de funcionamento, conservação e segurança os bens e meios a ela afectos, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço concedido.
 
-###### Base IX — Propriedade ou posse dos bens
+Base IX
+
+Propriedade ou posse dos bens
 
 1 - A concessionária detém a propriedade ou posse dos bens que integram a concessão até à extinção desta.
 
@@ -538,17 +570,23 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 ### CAPÍTULO III — Obrigações, responsabilidade e fiscalização da concessionária
 
-###### Base X — Garantia do abastecimento
+Base X
+
+Garantia do abastecimento
 
 A concessionária deve assegurar o fornecimento de energia eléctrica aos distribuidores vinculados e a entrega aos consumidores ligados à RNT, nos termos previstos no presente diploma.
 
-###### Base XI — Planos de investimento
+Base XI
+
+Planos de investimento
 
 1 - A concessionária deve elaborar periodicamente o plano de investimentos na RNT, o qual deve ser submetido a parecer da Entidade Reguladora.
 
 2 - A concessionária deve observar na remodelação e expansão da RNT os prazos de execução adequados à satisfação das necessidades do abastecimento de energia eléctrica.
 
-###### Base XII — Projectos
+Base XII
+
+Projectos
 
 1 - Constitui obrigação da concessionária a concepção e a elaboração dos projectos relativos à remodelação e expansão da RNT.
 
@@ -556,25 +594,35 @@ A concessionária deve assegurar o fornecimento de energia eléctrica aos distri
 
 3 - A aprovação dos projectos é feita através do processo de licenciamento previsto no Regulamento de Licenças para Instalações Eléctricas.
 
-###### Base XIII — Normas gerais relativas ao atravessamento de terrenos públicos ou dos particulares
+Base XIII
+
+Normas gerais relativas ao atravessamento de terrenos públicos ou dos particulares
 
 No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XIV — Cumprimento dos regulamentos
+Base XIV
+
+Cumprimento dos regulamentos
 
 No estabelecimento e exploração da RNT, a concessionária deve cumprir as normas e regulamentos aplicáveis.
 
-###### Base XV — Informações
+Base XV
+
+Informações
 
 A concessionária tem a obrigação de fornecer ao concedente, através da DGE, todos os elementos relativos à concessão que esta entenda dever solicitar-lhe.
 
-###### Base XVI — Fiscalização
+Base XVI
+
+Fiscalização
 
 1 - Sem prejuízo dos poderes cometidos a outras entidades, nomeadamente os atribuídos por lei à Inspecção-Geral de Finanças, cabe à DGE a fiscalização da concessão, nomeadamente do cumprimento das disposições legais e do contrato de concessão.
 
 2 - Para efeitos do disposto no número anterior, a concessionária deve prestar todas as informações e facultar todos os documentos que lhe forem solicitados, bem como permitir o livre acesso das entidades fiscalizadoras a quaisquer instalações.
 
-###### Base XVII — Responsabilidade civil
+Base XVII
+
+Responsabilidade civil
 
 1 - Para efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse da concessionária.
 
@@ -584,17 +632,23 @@ A concessionária tem a obrigação de fornecer ao concedente, através da DGE, 
 
 ### CAPÍTULO IV — Direitos e prerrogativas da concessionária
 
-###### Base XVIII — Utilização do domínio público
+Base XVIII
+
+Utilização do domínio público
 
 1 - No estabelecimento de instalações da RNT ou de outras infra-estruturas integrantes da concessão, bem como na constituição dos sítios para centros electroprodutores vinculados, a concessionária tem o direito de utilizar os bens do Estado e das autarquias locais, incluindo os do domínio público, nos termos da lei.
 
 2 - A faculdade de utilização dos bens dominiais do Estado e das autarquias locais resulta da aprovação dos respectivos projectos ou de despacho ministerial, sem prejuízo da formalização da respectiva cedência nos termos da lei.
 
-###### Base XIX — Expropriações e servidões
+Base XIX
+
+Expropriações e servidões
 
 A concessionária só pode solicitar a expropriação ou a constituição de servidões após a aprovação, pelo director-geral de Energia, dos projectos ou anteprojectos das infra-estruturas ou instalações da RNT, nos termos da legislação aplicável, cabendo à concessionária o pagamento das indemnizações a que derem lugar.
 
-###### Base XX — Medidas de protecção
+Base XX
+
+Medidas de protecção
 
 1 - Quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas e bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança da zona afectada.
 
@@ -602,7 +656,9 @@ A concessionária só pode solicitar a expropriação ou a constituição de ser
 
 ### CAPÍTULO V — Transporte de energia eléctrica e gestão global do SEP
 
-###### Base XXI — Transporte de energia eléctrica
+Base XXI
+
+Transporte de energia eléctrica
 
 1 - A concessionária deve assegurar o transporte de energia eléctrica, através da RNT, em condições técnicas e económicas adequadas.
 
@@ -624,7 +680,9 @@ g) Assegurar o cumprimento dos padrões de qualidade de serviço que lhe sejam a
 
 h) Planear e promover o desenvolvimento e a desclassificação de instalações da RNT.
 
-###### Base XXII — Gestão técnica global do SEP
+Base XXII
+
+Gestão técnica global do SEP
 
 1 - A concessionária, no âmbito do exercício da sua actividade, tem a seu cargo a gestão técnica global do SEP, competindo-lhe, nomeadamente:
 
@@ -644,15 +702,21 @@ g) Promover as consultas com vista à concretização dos contratos de produçã
 
 h) Celebrar contratos de vinculação com os produtores e distribuidores vinculados, bem como os demais contratos inerentes ao exercício da actividade.
 
-###### Base XXIII — Ordem de mérito
+Base XXIII
+
+Ordem de mérito
 
 Para efeito do disposto na alínea a) da base anterior, a utilização por ordem de mérito dos diversos meios disponíveis para o abastecimento dos consumos, consiste no cumprimento das disposições relevantes do Código do Despacho, por forma a assegurar a minimização dos custos globais de produção e de transporte, tendo em conta, nomeadamente, eventuais restrições de natureza contratual ou técnica.
 
-###### Base XXIV — Equipamento de comando, controlo, protecção e medida
+Base XXIV
+
+Equipamento de comando, controlo, protecção e medida
 
 A concessionária tem o direito de montar, nas instalações dos produtores, distribuidores e consumidores a ela ligados, bem como nas de outras entidades que façam parte do sistema de acerto de contas, equipamentos para a aquisição de dados e para a realização de operações de telecomando e de telecomunicação, bem como sistemas de protecção nos pontos de ligação da sua rede com as instalações daquelas entidades.
 
-###### Base XXV — Informações a prestar à concessionária
+Base XXV
+
+Informações a prestar à concessionária
 
 1 - A concessionária pode exigir dos produtores vinculados e não vinculados com mais de 10 MVA ligados às redes do SEP, quer na fase de projecto, quer durante a exploração do centro electroprodutor, informação relativa às características e parâmetros dos equipamentos por eles operados, de modo a permitir a simulação de exploração do sistema electroprodutor e a coordenação das instruções do despacho centralizado para a exploração e funcionamento dos grupos geradores.
 
@@ -662,7 +726,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 ### CAPÍTULO VI — Garantias do cumprimento do contrato de concessão
 
-###### Base XXVI — Caução
+Base XXVI
+
+Caução
 
 1 - Para garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se o Ministro da Indústria e Energia assim o determinar, prestar uma caução no valor de 300000000$00.
 
@@ -674,7 +740,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 5 - A caução pode ser prestada por depósito, por dinheiro, por garantia bancária autónoma ou qualquer outra forma prevista na lei, cujo texto deve ser previamente aprovado pela DGE.
 
-###### Base XXVII — Responsabilidade da concessionária por incumprimento
+Base XXVII
+
+Responsabilidade da concessionária por incumprimento
 
 1 - Por violação do contrato de concessão a concessionária incorre em responsabilidade perante o concedente.
 
@@ -684,7 +752,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 4 - Na situação prevista no número anterior a concessionária deve tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas.
 
-###### Base XXVIII — Multas contratuais
+Base XXVIII
+
+Multas contratuais
 
 1 - Pelo incumprimento de obrigações assumidas no âmbito do contrato de concessão, pode a concessionária ser punida com multa de 5000000$00 a 100000000$00, variando o respectivo montante em função do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efectivamente causados e da diligência que tenha posto na superação das consequências.
 
@@ -694,7 +764,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 4 - O pagamento das multas não isenta a concessionária de responsabilidade civil, criminal ou contra-ordenacional em que incorrer.
 
-###### Base XXIX — Sequestro
+Base XXIX
+
+Sequestro
 
 1 - O concedente, mediante despacho do Ministro da Indústria e Energia, pode tomar conta da concessão quando se verificarem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e dos equipamentos que sejam susceptíveis de comprometer a regularidade do serviço.
 
@@ -708,7 +780,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 ### CAPÍTULO VII — Alteração e extinção do contrato de concessão
 
-###### Base XXX — Alteração do contrato de concessão
+Base XXX
+
+Alteração do contrato de concessão
 
 1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo, desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
@@ -716,7 +790,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual, desde que a concessionária, neste último caso, não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão financeira.
 
-###### Base XXXI — Extinção da concessão
+Base XXXI
+
+Extinção da concessão
 
 1 - A extinção da concessão opera a transmissão para o Estado dos bens e meios a ela afectos, nos termos do presente diploma.
 
@@ -724,7 +800,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 3 - A tomada de posse da concessão pelo Estado é precedida de vistoria ad perpetuam rei memoriam, realizada pela DGE, a que assistem representantes da concessionária.
 
-###### Base XXXII — Rescisão do contrato por incumprimento
+Base XXXII
+
+Rescisão do contrato por incumprimento
 
 1 - O concedente, pelo Ministro da Indústria e Energia, pode rescindir o contrato quando ocorra qualquer dos seguintes factos:
 
@@ -756,7 +834,9 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 6 - A rescisão do contrato de concessão produz os seus efeitos desde a data da sua comunicação à outra parte por carta registada com aviso de recepção.
 
-###### Base XXXIII — Resgate da concessão
+Base XXXIII
+
+Resgate da concessão
 
 1 - O resgate da concessão processa-se nos termos do presente diploma, mediante carta registada com aviso de recepção, com pelo menos, um ano de antecedência em relação à data de efectivação do resgate.
 
@@ -764,7 +844,9 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 3 - A assunção de obrigações por parte do Estado é feita sem prejuízo do seu direito de regresso sobre a concessionária, pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
 
-###### Base XXXIV — Transmissão e oneração da concessão
+Base XXXIV
+
+Transmissão e oneração da concessão
 
 1 - Sob pena de nulidade dos respectivos actos ou contratos, a concessionária não pode, sem prévia autorização do Ministro da Indústria e Energia, transmitir, subconceder ou onerar, por qualquer forma, a concessão.
 
@@ -776,11 +858,15 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 ### CAPÍTULO VIII — Composição de litígios
 
-###### Base XXXV — Litígios entre o concedente e a concessionária
+Base XXXV
+
+Litígios entre o concedente e a concessionária
 
 O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à solução legal ou segundo a equidade, conforme nelas se determinar, de quaisquer questões emergentes do contrato de concessão.
 
-###### Base XXXVI — Litígios entre a concessionária, produtores, distribuidores e terceiros
+Base XXXVI
+
+Litígios entre a concessionária, produtores, distribuidores e terceiros
 
 1 - A concessionária e as entidades titulares de licenças vinculadas de produção ou de distribuição, bem como terceiros que se encontrem ligados à RNT, podem celebrar convenções de arbitragem para solução dos litígios emergentes dos respectivos contratos ou aderir a processos de arbitragem realizados junto da Entidade Reguladora.
 

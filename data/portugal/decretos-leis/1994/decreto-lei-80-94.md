@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/1994/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1994-275401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9b1adba4814ff2a4f5633d428168b9bcc2fdd7460d0b393ef74ad2b1f74931d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 578be0c5890dbf05edd686be88eb7dc1718821212b625882a53a2a5240e49190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Contrato de Concessão
 - Enatur
 - Estoril
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:03Z'
   warnings: []
   errors: []
 ---
@@ -105,27 +109,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A ENATUR, Empresa Nacional de Turismo, S. A., adiante desinada por ENATUR, S. A., é autorizada a celebrar contrato de concessão da concepção, construção e exploração de uma estrutura de acolhimento de exposições e congressos no Estoril, denominada «Centro de Exposições e Congressos».
+Artigo 1.º A ENATUR, Empresa Nacional de Turismo, S. A., adiante desinada por ENATUR, S. A., é autorizada a celebrar contrato de concessão da concepção, construção e exploração de uma estrutura de acolhimento de exposições e congressos no Estoril, denominada «Centro de Exposições e Congressos».
 
-###### Art. 2.º São atribuídos à ENATUR, S. A., em representação do Estado, os poderes gerais de concedente e, bem assim, os estabelecidos nas bases gerais da concessão, constantes do anexo I ao presente diploma, do qual faz parte integrante.
+Art. 2.º São atribuídos à ENATUR, S. A., em representação do Estado, os poderes gerais de concedente e, bem assim, os estabelecidos nas bases gerais da concessão, constantes do anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Art. 3.º O Centro de Exposições e Congressos será implantado num terreno do domínio privado do Estado identificado no anexo II ao presente diploma, do qual faz parte integrante.
+Art. 3.º O Centro de Exposições e Congressos será implantado num terreno do domínio privado do Estado identificado no anexo II ao presente diploma, do qual faz parte integrante.
 
-###### Art. 4.º - 1 - Durante o período da concessão, a entidade concessionária utiliza em exclusivo e a título gratuito o terreno a que se refere o artigo anterior.
+Art. 4.º - 1 - Durante o período da concessão, a entidade concessionária utiliza em exclusivo e a título gratuito o terreno a que se refere o artigo anterior.
 
 2 - A não utilização ou a afectação do terreno a fim diverso do previsto no número anterior constitui causa de extinção da concessão.
 
-###### Art. 5.º - 1 - O contrato de concessão será precedido de concurso público, que se regerá pelo regime jurídico da empreitada de obras públicas, observando-se ainda as normas sobre a realização de despesas com a aquisição de bens e serviços pelos organismos e serviços do Estado.
+Art. 5.º - 1 - O contrato de concessão será precedido de concurso público, que se regerá pelo regime jurídico da empreitada de obras públicas, observando-se ainda as normas sobre a realização de despesas com a aquisição de bens e serviços pelos organismos e serviços do Estado.
 
 2 - O concurso será aberto no prazo máximo de 120 dias a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 6.º - 1 - O contrato de concessão será outorgado nos termos das bases gerais da concessão.
+Art. 6.º - 1 - O contrato de concessão será outorgado nos termos das bases gerais da concessão.
 
 2 - A adjudicação da concessão, bem como a rescisão do respectivo contrato, carece de aprovação pelo membro do Governo com tutela sobre o turismo.
 
 3 - Ao membro do Governo com tutela sobre o turismo compete ainda aprovar, sob proposta da entidade concessionária, o regulamento de exploração e utilização do Centro de Exposições e Congressos.
 
-###### Art. 7.º - 1 - Os subsídios a conceder pelo Estado, até ao montante de 900000000$00, para a construção do Centro de Exposições e Congressos podem ser atribuídos a fundo perdido, devendo, em tal caso, ser entregues à entidade concessionária à medida e em função da execução das obras, salvo quanto a uma parcela correspondente a 25% do valor total, a qual, mediante garantia a estipular no acto da adjudicação, poderá ser entregue na data deste.
+Art. 7.º - 1 - Os subsídios a conceder pelo Estado, até ao montante de 900000000$00, para a construção do Centro de Exposições e Congressos podem ser atribuídos a fundo perdido, devendo, em tal caso, ser entregues à entidade concessionária à medida e em função da execução das obras, salvo quanto a uma parcela correspondente a 25% do valor total, a qual, mediante garantia a estipular no acto da adjudicação, poderá ser entregue na data deste.
 
 2 - Os subsídios referidos no número anterior serão entregues pelo Fundo de Turismo à ENATUR, S. A., mediante plano de utilização, a aprovar pelo membro do Governo com tutela sobre o turismo, que deverá contemplar as aplicações financeiras remuneratórias das parcelas desses subsídios que estiverem por utilizar.
 
@@ -133,29 +137,35 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 10 de Fevereiro de 1994.**
+Promulgado em 10 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Fevereiro de 1994.**
+Referendado em 16 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Bases gerais da concessão do Centro de Exposições e Congressos do Estoril
 
 ### CAPÍTULO I — Da concessão
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 A concessão tem por objecto a concepção, construção e exploração de uma estrutura de acolhimento de exposições e congressos no Estoril, designada «Centro de Exposições e Congressos».
 
-###### Base II — Forma de concessão
+Base II
+
+Forma de concessão
 
 A concessão da concepção, construção e exploração do Centro de Exposições e Congressos será feita unitariamente, regendo-se as relações entre a entidade concedente e a concessionária, na falta de disposição especial, pelos princípios gerais vigentes em matéria de contratos administrativos.
 
-###### Base III — Estabelecimento da concessão
+Base III
+
+Estabelecimento da concessão
 
 1 - O Centro de Exposições e Congressos será instalado no terreno identificado no anexo II, compreendendo as infra-estruturas, os bens móveis e imóveis, as instalações e os equipamentos que venham a ser construídos, fornecidos, e montados pela entidade concessionária, em conformidade com o caderno de encargos.
 
@@ -177,7 +187,9 @@ v) 3 salas de reuniões com, pelo menos, 70 lugares cada.
 
 5 - A entidade concessionária poderá dotar o Centro de Exposições e Congressos de uma estrutura hoteleira e de um espaço comercial na área não compreendida na zona de exposições e congressos.
 
-###### Base IV — Concepção e construção
+Base IV
+
+Concepção e construção
 
 1 - No tocante à concepção e construção do Centro de Exposições e Congressos, a entidade concessionária obriga-se a:
 
@@ -193,11 +205,15 @@ e) Realizar as obras necessárias aos acessos ao Centro de Exposições e Congre
 
 2 - Na realização das obras serão observadas as regras das empreitadas de obras públicas.
 
-###### Base V — Prazos de execução
+Base V
+
+Prazos de execução
 
 O programa da concessão e os prazos parcelares para a sua concepção, construção e entrada em exploração serão estabelecidos no contrato de concessão.
 
-###### Base VI — Prazo de concessão
+Base VI
+
+Prazo de concessão
 
 1 - O prazo da concessão do Centro de Congressos e Exposições não poderá exceder 40 anos contados a partir da data da celebração do respectivo contrato.
 
@@ -205,13 +221,17 @@ O programa da concessão e os prazos parcelares para a sua concepção, constru�
 
 ### CAPÍTULO II — Da concessionária
 
-###### Base VII — Sociedade concessionária
+Base VII
+
+Sociedade concessionária
 
 1 - A entidade a quem for adjudicada a concessão deverá revestir a forma de sociedade anónima, com um capital integralmente realizado não inferior a 750000000$00.
 
 2 - A situação líquida da sociedade concessionária não poderá ser inferior a 25% do activo total líquido, obrigando-se esta a realizar os aumentos de capital que para tanto sejam necessários.
 
-###### Base VIII — Responsabilidade da concessionária
+Base VIII
+
+Responsabilidade da concessionária
 
 1 - Pelo incumprimento de obrigações emergentes do contrato de concessão, quando não lhe corresponda outra sanção, a concessionária será punida, pela concedente, com multa de 500000$00 a 10000000$00.
 
@@ -223,7 +243,9 @@ O programa da concessão e os prazos parcelares para a sua concepção, constru�
 
 5 - O montante das multas que não forem pagas voluntariamente até 30 dias após a data da notificação será levantado, pela concedente, da caução a que se refere a base seguinte.
 
-###### Base IX — Caução
+Base IX
+
+Caução
 
 1 - A concessionária prestará caução, à ordem da concedente, de valor não inferior a 150000000$00, para garantir o pontual cumprimento das obrigações assumidas no contrato de concessão e o pagamento das multas que lhe forem aplicadas pela concedente.
 
@@ -237,7 +259,9 @@ O programa da concessão e os prazos parcelares para a sua concepção, constru�
 
 6 - A caução poderá ser levantada, a pedido da concessionária, seis meses após o termo da concessão, podendo a concedente autorizar um levantamento parcial logo após o termo da concessão.
 
-###### Base X — Actos a aprovar pela concedente
+Base X
+
+Actos a aprovar pela concedente
 
 Carecem da aprovação escrita da concedente, para além dos especialmente previstos, os actos da concessionária que tenham por fim ou efeito:
 
@@ -251,11 +275,15 @@ d) A interrupção ou cessação de qualquer das actividades exploradas no Centr
 
 ### CAPÍTULO III — Da exploração da concessão
 
-###### Base XI — Regime de exploração
+Base XI
+
+Regime de exploração
 
 O Centro de Exposições e Congressos será explorado de forma regular e contínua, nos termos a estabelecer no contrato de concessão e no regulamento de exploração e utilização a que se refere a base XIII.
 
-###### Base XII — Licenciamento da exploração
+Base XII
+
+Licenciamento da exploração
 
 1 - A exploração do Centro de Exposições e Congressos só poderá iniciar-se quando a concessionária dispuser das licenças exigidas por lei para o exercício das actividades compreendidas na concessão.
 
@@ -263,13 +291,17 @@ O Centro de Exposições e Congressos será explorado de forma regular e contín
 
 3 - A concessionária dará conhecimento à concedente da data prevista para o início da exploração com, pelo menos, 60 dias de antecedência.
 
-###### Base XIII — Regulamento de exploração e utilização do Centro de Exposições e Congressos
+Base XIII
+
+Regulamento de exploração e utilização do Centro de Exposições e Congressos
 
 1 - A concessionária deverá elaborar o regulamento de exploração e utilização do Centro de Exposições e Congressos, bem como as alterações ao mesmo, e submetê-los à aprovação do membro do Governo com tutela sobre o turismo.
 
 2 - Do regulamento de exploração e utilização do Centro de Exposições e Congressos, e deverão constar as normas respeitantes à execução de todas as operações a efectuar no Centro de Exposições e Congressos e às condições de prestação dos respectivos serviços, designadamente as expressamente indicadas no contrato de concessão.
 
-###### Base XIV — Obrigações da concessionária relativas à exploração
+Base XIV
+
+Obrigações da concessionária relativas à exploração
 
 Compete à concessionária, no âmbito da exploração do Centro de Exposições e Congressos, sem prejuízo da competência atribuída a outras entidades:
 
@@ -285,11 +317,15 @@ e) Executar e fazer executar as determinações da concedente, nos precisos term
 
 f) Requerer à concedente a adopção das medidas necessárias para garantir a continuidade e regularidade da exploração, sempre que não lhe compita adoptá-las.
 
-###### Base XV — Cobrança de taxas pela concessionária
+Base XV
+
+Cobrança de taxas pela concessionária
 
 As taxas a cobrar pelos serviços prestados serão estabelecidas pela concessionária, devendo esta informar a concedente com, pelo menos, 30 dias de antecedência da entrada em vigor das mesmas.
 
-###### Base XVI — Conservação dos bens afectos à concessão
+Base XVI
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, por sua conta e responsabilidade, todos os que se destruírem ou se mostrarem inadequados para os fins a que se destinam por desgaste físico, avaria, deterioração ou simples obsolência.
 
@@ -299,13 +335,17 @@ As taxas a cobrar pelos serviços prestados serão estabelecidas pela concession
 
 4 - Se a concessionária não executar as reparações e beneficiações nos prazos estabelecidos ou não proceder de acordo com as determinações da concedente, esta poderá mandar executar as obras ou substituir os equipamentos, retirando do fundo de conservação e renovação e ou da caução as importâncias necessárias para o efeito.
 
-###### Base XVII — Pessoal da concessionária
+Base XVII
+
+Pessoal da concessionária
 
 1 - O pessoal a afectar à exploração do Centro de Exposições e Congressos será recrutado pela concessionária, sob a sua responsabilidade, devendo possuir habilitações e formação adequadas para a realização do serviço que lhe for cometido e estar equipado com uniforme próprio.
 
 2 - Anualmente, a concessionária dará conhecimento à concedente do quadro de pessoal afecto à exploração do Centro de Exposições e Congressos.
 
-###### Base XVIII — Fiscalização
+Base XVIII
+
+Fiscalização
 
 1 - As instalações do Centro de Exposições e Congressos e as actividades nele exercidas pela concessionária serão objecto de fiscalização por parte da concedente, cabendo à concessionária cumprir, nos prazos que lhe forem fixados, as determinações daquela emanadas por escrito.
 
@@ -327,17 +367,23 @@ e) Efectuar, a pedido da fiscalização e na presença dos seus agentes, ensaios
 
 f) Participar imediatamente à concedente todos os eventos e deficiências que ameacem ou prejudiquem a regularidade e continuidade dos serviços, bem como as interrupções que se verificarem.
 
-###### Base XIX — Subconcessão
+Base XIX
+
+Subconcessão
 
 À subconcessão da concessão, ainda que parcial, aplica-se, com as necessárias adaptações, a base XXI.
 
 ### CAPÍTULO IV — Da modificação e extinção da concessão
 
-###### Base XX — Modificação unilateral
+Base XX
+
+Modificação unilateral
 
 Sempre que razões de interesse público o imponham, a concedente poderá alterar unilateralmente o contrato de concessão, sem embargo do direito de a concessionária ser ressarcida dos danos que lhe advenham desse facto.
 
-###### Base XXI — Exploração por terceiros
+Base XXI
+
+Exploração por terceiros
 
 1 - A concessionária poderá ceder a terceiros a exploração das actividades hoteleira e de exploração comercial compreendidas na concessão.
 
@@ -347,7 +393,9 @@ Sempre que razões de interesse público o imponham, a concedente poderá altera
 
 4 - A concessionária responde pelos serviços prestados por terceiros nos termos em que o faria se por ela fossem prestados.
 
-###### Base XXII — Sequestro
+Base XXII
+
+Sequestro
 
 1 - A concedente poderá tomar conta da administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja iminente a sua cessação total ou parcial por causa imputável à concessionária ou se houver graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -357,7 +405,9 @@ Sempre que razões de interesse público o imponham, a concedente poderá altera
 
 4 - Se a concessionária não retomar a exploração ou, caso o faça, continuarem a verificar-se graves deficiências na organização e no funcionamento dos serviços, a concedente poderá rescindir o contrato de concessão.
 
-###### Base XXIII — Termo da concessão e reversão dos bens
+Base XXIII
+
+Termo da concessão e reversão dos bens
 
 1 - A concessão termina pelo decurso do prazo, pela rescisão e por revogação.
 
@@ -365,7 +415,9 @@ Sempre que razões de interesse público o imponham, a concedente poderá altera
 
 3 - Sem embargo do disposto no n.º 3 da base seguinte, o Estado, uma vez terminada a concessão, entra imediatamente na posse dos bens a ela afectos, não cabendo à concessionária, em caso algum, direito de retenção sobre esses bens.
 
-###### Base XXIV — Termo da concessão pelo decurso do prazo
+Base XXIV
+
+Termo da concessão pelo decurso do prazo
 
 1 - Iniciado o último ano do prazo da concessão, a concessionária não poderá, sem autorização da concedente, celebrar e rescindir contratos de trabalho, observando-se, quanto a estes, uma vez terminada a concessão, o disposto no artigo 37.º do [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969.
 
@@ -377,7 +429,9 @@ Sempre que razões de interesse público o imponham, a concedente poderá altera
 
 5 - Pelas instalações que se encontrem em construção no termo do prazo da concessão a concessionária terá direito a uma compensação correspondente ao valor pelo qual essas instalações se encontram contabilizadas, desde que fiscalmente aceite.
 
-###### Base XXV — Rescisão do contrato
+Base XXV
+
+Rescisão do contrato
 
 1 - A concedente pode rescindir o contrato de concessão sempre que do incumprimento de obrigações da concessionária resultem graves perturbações na organização e no funcionamento do Centro de Exposições e Congressos.
 
@@ -409,14 +463,18 @@ h) A falência da concessionária, salvo se a concedente autorizar os credores a
 
 7 - A rescisão prevista neste artigo não constitui a concedente no dever de indemnizar a concessionária.
 
-###### Base XXVI — Revogação
+Base XXVI
+
+Revogação
 
 As partes podem, mediante acordo, a todo o tempo, revogar o contrato.
 
 ### CAPÍTULO V — Da arbitragem
 
-###### Base XXVII — Arbitragem
+Base XXVII
+
+Arbitragem
 
 As partes poderão recorrer à arbitragem para resolver os litígios relativos à intepretação e execução do contrato.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/057a00/12011205.pdf))](https://files.diariodarepublica.pt/1s/1994/03/057a00/12011205.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/057a00/12011205.pdf)

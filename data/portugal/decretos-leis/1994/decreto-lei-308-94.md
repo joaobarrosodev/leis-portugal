@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/1994/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1994-571602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7025fec0bc6b64f5663fa83bbd9441402be141f7205df6587ed2e15054203f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e31a2bed7b051cb2c91056132bfdb05b34a75926199650c78a94c1ad5559c5e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/266/1992/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/266/1992/11/28/p/dre
+- type: cites
+  target: pt:dre:575570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599731:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:32Z'
   warnings: []
   errors: []
 ---
@@ -106,26 +114,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada uma linha de crédito bonificado a favor dos municípios, destinada ao financiamento complementar dos projectos comparticipados por subsídios do FEDER, no âmbito dos programas operacionais incluídos na prioridade n.º 4 do Quadro Comunitário de Apoio.
+Artigo 1.º É criada uma linha de crédito bonificado a favor dos municípios, destinada ao financiamento complementar dos projectos comparticipados por subsídios do FEDER, no âmbito dos programas operacionais incluídos na prioridade n.º 4 do Quadro Comunitário de Apoio.
 
-###### Art. 2.º O crédito é concedido pela Caixa Geral de Depósitos até ao limite total de 20 milhões de contos, sendo financiado em partes iguais por fundos próprios e por fundos provenientes de empréstimo do Banco Europeu de Investimento (BEI).
+Art. 2.º O crédito é concedido pela Caixa Geral de Depósitos até ao limite total de 20 milhões de contos, sendo financiado em partes iguais por fundos próprios e por fundos provenientes de empréstimo do Banco Europeu de Investimento (BEI).
 
-###### Art. 3.º - 1 - As condições de acesso à linha de crédito, os limites aos montantes de cada empréstimo, bem como o prazo e a forma de utilização, serão definidos em protocolo a celebrar entre o Ministério das Finanças, o Ministério do Planeamento e da Administração do Território e a Caixa Geral de Depósitos.
+Art. 3.º - 1 - As condições de acesso à linha de crédito, os limites aos montantes de cada empréstimo, bem como o prazo e a forma de utilização, serão definidos em protocolo a celebrar entre o Ministério das Finanças, o Ministério do Planeamento e da Administração do Território e a Caixa Geral de Depósitos.
 
 2 - No protocolo referido no número anterior serão definidas as condições financeiras dos empréstimos, nas quais, além da bonificação do FEDER, se inclui uma bonificação à taxa de juro no montante de 10% da taxa de referência para cálculo de bonificações.
 
 3 - Os encargos com a bonificação adicional à concedida pelo FEDER são suportados pelo Estado, através da Direcção-Geral do Tesouro, relativamente à parte da linha de crédito financiada com o empréstimo do BEI, e pela Caixa Geral de Depósitos, relativamente à parte financiada com recursos próprios daquela instituição.
 
-###### Art. 4.º Para cobertura dos encargos originados pela bonificação da taxa de juro a suportar pelo Estado serão inscritas no Orçamento do Estado as verbas necessárias.
+Art. 4.º Para cobertura dos encargos originados pela bonificação da taxa de juro a suportar pelo Estado serão inscritas no Orçamento do Estado as verbas necessárias.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

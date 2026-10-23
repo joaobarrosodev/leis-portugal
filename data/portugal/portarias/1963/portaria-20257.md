@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20257-1963-680462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdc378e4007dc925780a98802c13744d043dc1dd68552ed7639925f6927a55fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6a2d1ac8bdb4417c4eff8c549e806481c32728f0543bd4252b18e3b7bf7f70c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Despesas Públicas
+- Forças Armadas
+- Gestão Orçamental
+- Reforço de Verbas
+- São Tomé e Príncipe.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:05Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +99,17 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 4500$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 4500$00
 
-###### Artigo 3.º, n.º 7) «Outras despesas com o pessoal - Subvenção de família a praças» ... 5000$00
+Artigo 3.º, n.º 7) «Outras despesas com o pessoal - Subvenção de família a praças» ... 5000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 28500$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 28500$00
 
-###### Artigo 11.º «Abono de família» ... 25000$00
+Artigo 11.º «Abono de família» ... 25000$00
 
-###### Artigo 12.º «Despesas de anos económicos findos» ... 73731$50
+Artigo 12.º «Despesas de anos económicos findos» ... 73731$50
 
 ... 136731$50
 
@@ -107,23 +117,23 @@ tomando como contrapartida as seguintes disponibilidades da mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 6), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 2000$00
+Artigo 3.º, n.º 6), alínea a) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na província» ... 2000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 6000$00
+Artigo 4.º, n.º 2), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 6000$00
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 12000$00
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 12000$00
 
-###### Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 30000$00
+Artigo 6.º, n.º 2), alínea a) «Material de consumo corrente - Artigos de expediente e diverso material não especificado - Para serviço geral» ... 30000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Recrutas do ultramar» ... 84731$50
+Artigo 10.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Recrutas do ultramar» ... 84731$50
 
-###### Artigo 10.º, n.º 7), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicidade de éditos e de anúncios» ... 1000$00
+Artigo 10.º, n.º 7), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicidade de éditos e de anúncios» ... 1000$00
 
-###### Artigo 10.º, n.º 9), alínea a) «Encargos administrativos - Subsídios para funerais - A pagar na província» ... 1000$00
+Artigo 10.º, n.º 9), alínea a) «Encargos administrativos - Subsídios para funerais - A pagar na província» ... 1000$00
 
 ... 136731$50
 

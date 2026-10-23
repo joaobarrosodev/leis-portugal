@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 168/1994, 1º Suplemento, Série I-A de 1994-07-22
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4054-(2) a 4054-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/168a01/00020009.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/1994/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1994-513421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee98c7cac5f4a1f941966976c993b56a0feb76072496f5092327f1c221bd95fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb8c498b6eb94faef4652ff74ebd23a1567479338c0f10c1465d62309cf366f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,28 @@ subjects:
 - Definição de Competências
 - Extinção de Serviços
 - Integração de Trabalhadores
-- Orgânica
 - Jnict
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:401914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 113/94 DE 17-AGO DR.IS-A [201]SUPL DE 31/AGO/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-08-31'
+- type: amended_by
+  target: pt:dre:401914:por
+  label: "Extinta a JNICT, com a entrada em vigor dos diplomas orgânicos dos organismos referidos no nº 1 do art. 5º do Dec\
+    \ Lei 144/96, de 26-Ago DR.IS-A [197]; e cometidas as atribuições constantes das als. b), c), d), h) e i), al. g) e al.\
+    \ a), e) e f) do art. 3º, do presente diploma, respectivamente para o Observatório das Ciências e das Tecnologias, o Instituto\
+    \ de Cooperação Científica e Tecnológica Internacional e Fundação para a Ciência e a Tecnologia, pelo citado Dec Lei;\
+    \ e transitou a Comissão Permanente Invotan, instituída pelo art. 11º, para o Instituto de Cooperação Científica e Tecnológica\
+    \ Internacional, através do mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-1996-401914
+  date: '1996-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
   label: null
@@ -97,16 +112,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/723/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/723/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:194380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690580:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:16Z'
   warnings: []
   errors: []
 ---
@@ -385,7 +492,7 @@ f) Participar às entidades competentes as irregularidades que detectar na gest�
 
 a) Recolher e tratar a informação destinada a caracterizar e acompanhar tendências mundiais na área da C&T, bem como as estratégias de desenvolvimento científico e tecnológico com interesse para Portugal;
 
-b) Proceder ao tratamento da informação relativa aos principais programas de IDT em curso no País e a sua articulação com os programas internacionais de C&T;
+b) Proceder ao tratamento da informação relativa aos principais programas de IDT em curso no País e a sua articulação com os programas internacionais de C&T
 
 c) Promover a realização de análises descritivas e estruturais do esforço nacional em C&T, identificando áreas tecnológicas com especial relevância para a modernização e diversificação do aparelho produtivo nacional, com vista à determinação de necessidades em matéria de IDT;
 
@@ -405,7 +512,9 @@ a) A Divisão de Gestão de Projectos;
 
 b) A Divisão de Formação e Apoio à Comunidade Científica.
 
-###### Artigo 17.º — Divisão de Gestão de Projectos
+###### Artigo 17.º
+
+##### Divisão de Gestão de Projectos
 
 À Divisão de Gestão de Projectos compete:
 
@@ -419,11 +528,13 @@ d) Apoiar projectos de IDT e de inovação entre unidades de investigação e un
 
 e) Promover a realização de acções de divulgação de C&T.
 
-###### Artigo 18.º — Divisão de Formação e Apoio à Comunidade Científica
+###### Artigo 18.º
+
+##### Divisão de Formação e Apoio à Comunidade Científica
 
 À Divisão de Formação e Apoio à Comunidade Científica compete:
 
-a) Assegurar a gestão dos programas de formação e mobilidade de recursos humanos na área de C&T;
+a) Assegurar a gestão dos programas de formação e mobilidade de recursos humanos na área de C&T
 
 b) Preparar a avaliação de programas de formação e apoio à comunidade científica;
 
@@ -445,11 +556,13 @@ a) A Divisão de Cooperação Internacional;
 
 b) A Divisão de Assuntos Europeus.
 
-###### Artigo 20.º — Divisão de Cooperação Internacional
+###### Artigo 20.º
+
+##### Divisão de Cooperação Internacional
 
 À Divisão de Cooperação Internacional compete:
 
-a) Colaborar, em coordenação com o Gabinete de Planeamento e Estatística, na preparação da definição de políticas de cooperação em matéria de C&T;
+a) Colaborar, em coordenação com o Gabinete de Planeamento e Estatística, na preparação da definição de políticas de cooperação em matéria de C&T
 
 b) Apoiar a participação da comunidade científica nacional nas organizações internacionais de investigação científica e tecnológica de que Portugal seja membro;
 
@@ -463,7 +576,9 @@ f) Colaborar na negociação e redacção de instrumentos internacionais de coop
 
 g) Preparar, para sujeição, pelo presidente, a homologação do Ministro do Planeamento e da Administração do Território, as propostas de nomeação dos delegados nacionais aos comités da OCDE, prestando-lhes o respectivo apoio, bem como aos peritos dos comités da OTAN.
 
-###### Artigo 21.º — Divisão de Assuntos Europeus
+###### Artigo 21.º
+
+##### Divisão de Assuntos Europeus
 
 À Divisão de Assuntos Europeus compete:
 
@@ -573,7 +688,7 @@ Compete ao Núcleo de Informação e Sistemas:
 
 a) Assegurar a ligação às fontes mundiais de informação científica e técnica, através do acesso em linha de bases e bancos de dados nacionais e estrangeiros, e colaborar em catálogos colectivos nacionais, estrangeiros e de organizações internacionais;
 
-b) Proceder ao tratamento da documentação que deve alimentar a base de dados nacional das publicações periódicas de C&T;
+b) Proceder ao tratamento da documentação que deve alimentar a base de dados nacional das publicações periódicas de C&T
 
 c) Fornecer apoio informático às diferentes actividades da JNICT;
 
@@ -711,14 +826,14 @@ r) A [Portaria n.º 209/91](https://diariodarepublica.pt/dr/detalhe/portaria/209
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 23 de Junho de 1994.**
+Promulgado em 23 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Julho de 1994.**
+Referendado em 1 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/168a01/00020009.pdf))](https://files.diariodarepublica.pt/1s/1994/07/168a01/00020009.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/168a01/00020009.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/265a00/68446845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/291/1994/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1994-534577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 557b8c87f555f8782b3836a3035ee896d1e362d3774e5c0bef17c4f0b3594b33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efba05e61cc00ea754736673c6dab0ab43a62fadf2d9f56e2e2de5d8d0ce4f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
 - Carteira Profissional
-- Jornalista
+- Comissão da Carteira Profissional do Jornalista
 - Comunicação Social
 - Definição de Competências
+- Eleição
 - Jornalismo
-- Comissão da Carteira Profissional do Jornalista
+- Jornalista
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:688062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:512831:por
+  label: "Alterado o art. 4º pela LEI.14/95.1995.05.05.AR, DR.IS-A [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-1995-512831
+  date: '1995-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/ac/445/1993/08/13/p/dre
+- type: cites
+  target: pt:dre:356104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393865:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:688062:por
+  label: "Revogado pelo DEC LEI.305/97.1997.11.11.PCM DR.IS-A [261] de 1997.11.11C\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1997-688062
+  date: '1997-11-11'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:11Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +136,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/lei/62-1979-369816), de 20 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 8.º, 10.º, 15.º e 17.º do Regulamento da Carteira Profissional do Jornalista, aprovado pelo [Decreto-Lei n.º 513/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1979-393865), de 24 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 8.º, 10.º, 15.º e 17.º do Regulamento da Carteira Profissional do Jornalista, aprovado pelo [Decreto-Lei n.º 513/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1979-393865), de 24 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -200,7 +222,7 @@ c) Um representante das empresas de comunicação social.
 
 4 - ...
 
-###### Art. 2.º São aditados ao Regulamento da Carteira Profissional do Jornalista, aprovado pelo [Decreto-Lei n.º 513/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1979-393865), de 24 de Dezembro, os artigos 2.º-A, 2.º-B e 2.º-C, com a seguinte redacção:
+Art. 2.º São aditados ao Regulamento da Carteira Profissional do Jornalista, aprovado pelo [Decreto-Lei n.º 513/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1979-393865), de 24 de Dezembro, os artigos 2.º-A, 2.º-B e 2.º-C, com a seguinte redacção:
 
 ###### Artigo 2.º-A — Funcionamento
 
@@ -218,20 +240,20 @@ c) Um representante das empresas de comunicação social.
 
 O título provisório, a carteira profissional e o cartão de identificação de equiparado a jornalista são autenticados pela Comissão e devem ser assinados pelos respectivos titulares.
 
-###### Art. 3.º Os jornalistas portadores de título profissional actualizado até à data da publicação do Acórdão do Tribunal Constitucional n.º 445/93 devem, no prazo de 60 dias a contar da data de entrada em funcionamento da Comissão, proceder à entrega dos respectivos títulos, para efeitos de validação.
+Art. 3.º Os jornalistas portadores de título profissional actualizado até à data da publicação do Acórdão do Tribunal Constitucional n.º 445/93 devem, no prazo de 60 dias a contar da data de entrada em funcionamento da Comissão, proceder à entrega dos respectivos títulos, para efeitos de validação.
 
 2 - Para efeitos do disposto no número anterior, a data de início de funções da Comissão é publicitada no Diário da República.
 
-###### Art. 4.º A convocatória e organização da eleição dos representantes dos jornalistas profissionais na Comissão cabem ao Gabinete de Apoio à Imprensa, que, para o efeito, deve solicitar, designadamente às associações sindicais dos jornalistas, todos os elementos necessários à elaboração dos respectivos cadernos eleitorais.
+Art. 4.º A convocatória e organização da eleição dos representantes dos jornalistas profissionais na Comissão cabem ao Gabinete de Apoio à Imprensa, que, para o efeito, deve solicitar, designadamente às associações sindicais dos jornalistas, todos os elementos necessários à elaboração dos respectivos cadernos eleitorais.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Maria Manuela Dias Ferreira Leite - José Bernardo Veloso Falcão e Cunha - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

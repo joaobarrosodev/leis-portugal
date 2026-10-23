@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/127a00/34563457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/1995/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1995-527068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7e9ef29e4098eb5570d717c3e352df777ebd4e5aa64b8582a4c81914b7fd131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb9200f393782bd8ac5403be8ee88e59050cdef78f7b3256e274af77dc08a7fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Sociedade Comercial
 - Código das Sociedades Comerciais
-- Contabilidade
 - Código do Registo Comercial
+- Contabilidade
 - Plano Oficial de Contabilidade
 - Registo Comercial
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:492428:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterado o Plano Oficial de Contabilidade, aprovado pelo Dec Lei 410/89, de 21-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
 - type: cites
   target: celex:31968L0151
   label: null
@@ -99,16 +105,22 @@ relationships:
   target: celex:31990L0605
   label: null
   source: http://data.europa.eu/eli/dir/1990/605/oj
+- type: repealed_by
+  target: pt:dre:492428:por
+  label: "Revogado pelo DEC LEI.158/2009.13.07.2009.MFAP, DR.IS [133] de 13.07.2009, nos termos do estabelecido no seu art.\
+    \ 16º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2009-492428
+  date: '2009-07-13'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:07Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +137,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É alterado o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 410/89, de 21 de Novembro, em conformidade com os aditamentos constantes do anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É alterado o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 410/89, de 21 de Novembro, em conformidade com os aditamentos constantes do anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º O artigo 2.º do Decreto-Lei n.º 238/91, de 2 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 2.º do Decreto-Lei n.º 238/91, de 2 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -141,19 +153,19 @@ b) Sob a forma de sociedade em nome colectivo ou sociedade em comandita simples,
 
 c) Sob a forma de sociedade em nome colectivo ou sociedade em comandita simples, sempre que todos os sócios de responsabilidade ilimitada se encontrem eles próprios organizados segundo qualquer das formas previstas nas alíneas anteriores.
 
-###### Art. 3.º O disposto no presente diploma aplica-se, a partir do exercício de 1995, às contas anuais e às contas consolidadas das sociedades por ele abrangidas.
+Art. 3.º O disposto no presente diploma aplica-se, a partir do exercício de 1995, às contas anuais e às contas consolidadas das sociedades por ele abrangidas.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

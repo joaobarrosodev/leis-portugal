@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/1994/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1994-253859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1962c0e1ba6b80e97df7bfb822ef6b6e65eb16d91046e084b805f27a15f8eac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 889ff3f056e07741f00e4ef5676d68326b0e7723fccecad86c2f1bd16584ecb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Doença Animal
-- Multa
 - Contra-ordenação
 - Controlo Sanitário
-- Saúde Pública
+- Doença Animal
 - Fiscalização
 - Instituto de Protecção da Produção Agro-Alimentar
+- Multa
+- Produto Alimentar
 - Produto Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:497674:por
@@ -89,16 +89,21 @@ relationships:
   target: celex:31992L0117
   label: null
   source: http://data.europa.eu/eli/dir/1992/117/oj
+- type: repealed_by
+  target: pt:dre:497674:por
+  label: "Revogado pelo DEC LEI.212/2003.2003.09.17.MADRP DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2003-497674
+  date: '2003-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:20Z'
   warnings: []
   errors: []
 ---
@@ -117,19 +122,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/117/CEE](https://data.europa.eu/eli/dir/1992/117/oj?locale=pt), do Conselho, de 17 de Dezembro, relativa às medidas de protecção contra as zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/117/CEE](https://data.europa.eu/eli/dir/1992/117/oj?locale=pt), do Conselho, de 17 de Dezembro, relativa às medidas de protecção contra as zoonoses e certos agentes zoonóticos em animais e produtos de origem animal a fim de evitar focos de infecção e de intoxicação de origem alimentar.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 3.º Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA), na qualidade de autoridade sanitária, o controlo e a aplicação da disciplina instituída pelo presente diploma e respectiva regulamentação.
+Art. 3.º Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA), na qualidade de autoridade sanitária, o controlo e a aplicação da disciplina instituída pelo presente diploma e respectiva regulamentação.
 
-###### Art. 4.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, a inobservância das medidas relativas à protecção contra as zoonoses e agentes zoonóticos, estabelecidas nos termos do artigo 2.º, constitui contra-ordenação punível, pelo presidente do conselho directivo do IPPAA, com coima de 5000$00 a 500000$00.
+Art. 4.º - 1 - Sem prejuízo do disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, a inobservância das medidas relativas à protecção contra as zoonoses e agentes zoonóticos, estabelecidas nos termos do artigo 2.º, constitui contra-ordenação punível, pelo presidente do conselho directivo do IPPAA, com coima de 5000$00 a 500000$00.
 
 2 - A negligência e a tentativa são puníveis.
 
 3 - As coimas aplicadas às pessoas colectivas poderão elevar-se até ao montante máximo de 6000000$00, em caso de dolo, e 3000000$00, em caso de negligência.
 
-###### Art. 5.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+Art. 5.º - 1 - Podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
 
 a) Apreensão de animais;
 
@@ -139,7 +144,7 @@ c) Encerramento do estabelecimento ou cancelamento de serviços, licenças ou al
 
 2 - Quando seja aplicada a sanção acessória de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou renovação da licença ou alvará só terão lugar quando se encontrarem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 6.º O produto das coimas reverte:
+Art. 6.º O produto das coimas reverte:
 
 a) Em 30% para o IPPAA;
 
@@ -147,16 +152,16 @@ b) Em 10% para a entidade que levantou o auto;
 
 c) Em 60% para o Estado.
 
-###### Art. 7.º Compete ao IPPAA, sem prejuízo das competências atribuídas por lei a outras entidades, assegurar a fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação.
+Art. 7.º Compete ao IPPAA, sem prejuízo das competências atribuídas por lei a outras entidades, assegurar a fiscalização do cumprimento das normas constantes do presente diploma e respectiva regulamentação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

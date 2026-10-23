@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/035a00/06610668.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1994-524225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 516174e880d180f722e1f59476c92af8567ec03dbf2c592a15e32d2096c8f155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f86cfa18876dd6f5e1bc3227df7a9bdbeec660c8ae980ead7064a572158dd9b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartório Notarial
-- Serviços de Registo e Notariado
 - Conservatória do Registo Automóvel
+- Conservatória do Registo Civil
 - Conservatória do Registo Comercial
 - Conservatória do Registo Predial
 - Conservatória dos Registos Centrais
 - Definição de Competências
 - Direcção Geral dos Registos e do Notariado
-- Ministério da Justiça
 - Gabinete de Estudos e Planeamento
+- Ministério da Justiça
 - Orgânica
 - Registo Nacional de Pessoas Coletivas
-- Conservatória do Registo Civil
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:388183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:199115:por
+  label: "Alterados os arts. 3º, 4º, 7º, 10º a 14º, 21º e 24º, aditados os arts. 14º-A a 14º-H e revogado o art. 30º pelo\
+    \ DEC LEI.225/96.1996.11.27.MJ, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-1996-199115
+  date: '1996-11-27'
+- type: amended_by
+  target: pt:dre:359542:por
+  label: "Alterados os art 5º e 6º pelo Dec Lei 148/97.1997.06.12.MJ, DR.IS-A [134] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1997-359542
+  date: '1997-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/1993/05/03/p/dre
   label: null
@@ -91,16 +102,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/34/1993/02/13/p/dre
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:440852:por
+  label: "RECTIFICADO PELA DECL-RECT 52/94 DE 29-ABR DR.IS-A [100]2SUPL DE 30/ABR/1994\0994"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/52-1994-440852
+  date: '1994-04-30'
+- type: repealed_by
+  target: pt:dre:388183:por
+  label: "Revogado pelo DEC LEI.87/2001.2001.03.17.MJ,DR.IS-A [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2001-388183
+  date: '2001-03-17'
 article_structure:
   article_count: 33
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:02Z'
   warnings: []
   errors: []
 ---
@@ -649,16 +714,16 @@ O presente diploma reporta os seus efeitos a 1 de Fevereiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1993. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 28 de Janeiro de 1994.**
+Promulgado em 28 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Fevereiro de 1994.**
+Referendado em 1 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/035a00/06610668.pdf))](https://files.diariodarepublica.pt/1s/1994/02/035a00/06610668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/035a00/06610668.pdf)

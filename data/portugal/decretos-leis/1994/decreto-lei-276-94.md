@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/253a00/65566569.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/1994/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1994-621311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40edc028bd6f8575bbca31dc5b7455ebb3d2927bf2e4883ddddb5ae4d1087dfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3048235f49454b99fd80e552ba4506c6e9b348752f042b3d7362db796453e86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- CMVM
+- Comércio
 - Fundo de Investimento
 - Fundo de Investimento Mobiliário
 - Mercado Financeiro
 - Mercado Inter-bancário
 - Regime Jurídico
 - Regulamento
-- CMVM
 - Sociedade Gestora de Fundos de Investimento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:263687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:690073:por
+  label: "Alterado o art. 44º pelo DEC LEI.308/95.1995.11.20.MF, DR.IS-A [268]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1995-690073
+  date: '1995-11-20'
+- type: amended_by
+  target: pt:dre:406527:por
+  label: "Alterados os arts. 6º, 13º, 17º, 18º, 23º, 25º, 26º, 28º, 31º, 32º e 58º pelo DEC LEI.323/97.1997.11.26.MF, DR.IS-A\
+    \ [274]I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1997-406527
+  date: '1997-11-26'
+- type: amended_by
+  target: pt:dre:423199:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 12.º, 13.º, 16.º, 17.º, 18.º, 20.º, 21.º, 23.º, 24.º, 25.º, 27.º,\
+    \ 28.º, 29.º, 30.º, 33.º, 34.º, 35.º, 37.º, 38.º, 40.º, 42.º, 48.º, 49.º, 50.º, 53.º, 56.º e 58.º e aditados os arts.\
+    \ 25.º-A, 25.º-B, 47.º-A, 47.º-B, 50.º-A, 50.º-B, 50.º-C e 51.º-A, pelo DEC LEI.323/99.1999.08.13.MF DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1999-423199
+  date: '1999-08-13'
+- type: amended_by
+  target: pt:dre:263687:por
+  label: "Alterados os arts. 7º, 8º, 18º e 35º, com a redacção dada pelo Dec Lei 323/99 de 13-Ago, pelo DEC LEI.62/2002.2002.03.20.MF\
+    \ DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2002-263687
+  date: '2002-03-20'
 - type: cites
   target: celex:31985L0611
   label: null
   source: http://data.europa.eu/eli/dir/1985/611/oj
+- type: repealed_by
+  target: pt:dre:476110:por
+  label: "Revogado, a partir de 1 de Janeiro de 2004, pelo DEC LEI.252/2003.17.10.2003.MF, DR.IS-A [241] de 17.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2003-476110
+  date: '1994-11-02'
 article_structure:
   article_count: 60
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:52Z'
   warnings: []
   errors: []
 ---
@@ -834,15 +863,15 @@ O Decreto-Lei n.º 229-C/88, de 4 de Julho, e a Portaria n.º 422-B/88, de 4 de 
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO A — I - Informações relativas ao fundo
 

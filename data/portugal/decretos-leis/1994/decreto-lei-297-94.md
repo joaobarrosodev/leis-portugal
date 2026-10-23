@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/269a00/69166917.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/297/1994/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1994-550839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 922bc751e2df3c6caac204003c31d3333295d53f208c1955e8a8541a0e3c4fe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07d25f28dddf84ddfb506cf79fa54f1e3a898427a637a1fe97b9d4c71e1a1afd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vila Franca de Xira
-- Gestão de Resíduos
-- Sociedade Anónima
+- Amadora
+- Autarquia Local
 - Contrato de Concessão
+- Gestão de Resíduos
 - Lisboa
+- Loures
+- Resíduo Urbano
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos das Regiões de
   Lisboa e do Oeste
-- Loures
-- Tratamento de Resíduos
-- Resíduo Urbano
-- Amadora
 - Sistema Multimunicipal de Valorização e Tratamento de Resíduos Sólidos Urbanos de Lisboa Norte
-- Autarquia Local
+- Sociedade Anónima
+- Tratamento de Resíduos
+- Vila Franca de Xira
 relationships:
 - type: amended_by
   target: pt:dre:335430:por
@@ -92,16 +92,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335430:por
+  label: Revogado, a partir de 20.06.2010, sem prejuízo do disposto o art. 13.º, pelo DEC LEI.68/2010.15.06.2010.MAOT, DR.IS
+    [114] de 15.06.201, bem como determinada a substituição, pelo sistema criado pelo citado diploma, do sistema multimunicipal
+    criado pelo presente diploma, e constituída a sociedade VALORSUL, S.A (Ver Notas)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2010-335430
+  date: '2010-06-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:17Z'
   warnings: []
   errors: []
 ---
@@ -124,15 +139,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criado o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos de Lisboa Norte, integrado pelos municípios de Lisboa, Amadora, Loures e Vila Franca de Xira.
+Artigo 1.º É criado o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos de Lisboa Norte, integrado pelos municípios de Lisboa, Amadora, Loures e Vila Franca de Xira.
 
-###### Art. 2.º - 1 - Os municípios de Lisboa, Amadora, Loures e Vila Franca de Xira serão os iniciais utilizadores do tratamento de resíduos do sistema multimunicipal agora criado, podendo o mesmo ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
+Art. 2.º - 1 - Os municípios de Lisboa, Amadora, Loures e Vila Franca de Xira serão os iniciais utilizadores do tratamento de resíduos do sistema multimunicipal agora criado, podendo o mesmo ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
 
 2 - O interesse público referido no número anterior é reconhecido pelo Ministro do Ambiente e Recursos Naturais sob proposta da sociedade concessionária, ouvidos os municípios referidos no artigo 1.º
 
 3 - Sempre que o interesse público, reconhecido por despacho do Ministro do Ambiente e Recursos Naturais e ouvida a concessionária, o justifique, podem outras entidades entregar à sociedade concessionária os seus resíduos sólidos urbanos, ou equiparados nos termos da lei, para tratamento.
 
-###### Art. 3.º - 1 - O exclusivo da exploração e gestão do sistema multimunicipal de Lisboa Norte é atribuído em regime de concessão, nos termos do diploma que aprova as bases da concessão do serviço público de exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos, a uma sociedade anónima de capitais públicos ou maioritariamente públicos a criar nos termos da lei comercial.
+Art. 3.º - 1 - O exclusivo da exploração e gestão do sistema multimunicipal de Lisboa Norte é atribuído em regime de concessão, nos termos do diploma que aprova as bases da concessão do serviço público de exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos, a uma sociedade anónima de capitais públicos ou maioritariamente públicos a criar nos termos da lei comercial.
 
 2 - O objecto da concessão abrange a construção das infra-estruturas necessárias e a prestação de serviço público de valorização e tratamento dos resíduos sólidos urbanos.
 
@@ -140,7 +155,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - O contrato de concessão é outorgado pelo Ministro do Ambiente e Recursos Naturais e é celebrado logo que for verificada a conformidade do pacto social e da minuta de concessão com os preceitos deste diploma, do diploma que aprova as bases da concessão do serviço público de exploração e gestão dos sistemas multimunicipais de tratamento de resíduos sólidos urbanos e demais legislação aplicável em matéria de valorização e tratamento de resíduos sólidos urbanos.
 
-###### Art. 4.º Podem ser sócios fundadores da sociedade a constituir as seguintes entidades:
+Art. 4.º Podem ser sócios fundadores da sociedade a constituir as seguintes entidades:
 
 a) Município de Lisboa;
 
@@ -156,7 +171,7 @@ f) Empresa Geral do Fomento, S. A.;
 
 g) Electricidade de Portugal, S. A., ou qualquer sociedade que com esta se encontre em relação de domínio ou de grupo.
 
-###### Art. 5.º - 1 - A sociedade futura concessionária poderá contratar com terceiros a concepção e fornecimento de cada uma das unidades do sistema integrado de valorização e tratamento de resíduos sólidos urbanos, bem como das infra-estruturas complementares.
+Art. 5.º - 1 - A sociedade futura concessionária poderá contratar com terceiros a concepção e fornecimento de cada uma das unidades do sistema integrado de valorização e tratamento de resíduos sólidos urbanos, bem como das infra-estruturas complementares.
 
 2 - A adjudicação da construção da central de tratamento de resíduos sólidos é precedida de concurso público.
 
@@ -164,12 +179,12 @@ g) Electricidade de Portugal, S. A., ou qualquer sociedade que com esta se encon
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Novembro de 1994.**
+Referendado em 4 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

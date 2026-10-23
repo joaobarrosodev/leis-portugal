@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/1994/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1994-657626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e509244f6f685a616cae7f3289640ffff633dd2fc1896ddd6d6826f15c0fd4fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f71443ff2ccc98661e5332d8a44ef12e1e834f0059bb05000239dd64060ab8b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contribuições e Impostos
 - Benefícios Fiscais
+- Contribuições e Impostos
 - Segurança Social
 relationships:
 - type: amended_by
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/394/1993/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/394/1993/11/24/p/dre
+- type: cites
+  target: pt:dre:674024:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:48Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +112,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As importâncias devidas por contribuições, impostos, taxas ou outras receitas administradas pela Direcção-Geral das Contribuições e Impostos provenientes de obrigações cujo prazo de cobrança voluntária tenha terminado até 31 de Dezembro de 1993 poderão ser satisfeitas nos termos constantes do presente diploma.
+Artigo 1.º As importâncias devidas por contribuições, impostos, taxas ou outras receitas administradas pela Direcção-Geral das Contribuições e Impostos provenientes de obrigações cujo prazo de cobrança voluntária tenha terminado até 31 de Dezembro de 1993 poderão ser satisfeitas nos termos constantes do presente diploma.
 
-###### Art. 2.º - 1 - As dívidas exigidas em processos executivos podem ser regularizadas nas seguintes condições:
+Art. 2.º - 1 - As dívidas exigidas em processos executivos podem ser regularizadas nas seguintes condições:
 
 a) Pagamento da quantia exequenda na totalidade, independentemente do valor da dívida, até 30 de Novembro de 1994, com dispensa de juros de mora e de custas e redução a 20% dos juros compensatórios;
 
@@ -136,7 +140,7 @@ c) Redução das custas a 3% da quantia exequenda, a título de taxa de justiça
 
 6 - Para os efeitos da alínea b) do n.º 2 do artigo 4.º, os juros de mora serão os contados até ao mês da entrada em vigor, inclusive, deste diploma.
 
-###### Art. 3.º - 1 - As infracções originadas pelo incumprimento da obrigação de imposto, designadamente as provenientes de autoliquidação ou retenção na fonte, praticadas até 31 de Dezembro de 1993, poderão, desde que não tenha sido iniciado processo executivo, ser regularizadas nos termos dos números seguintes.
+Art. 3.º - 1 - As infracções originadas pelo incumprimento da obrigação de imposto, designadamente as provenientes de autoliquidação ou retenção na fonte, praticadas até 31 de Dezembro de 1993, poderão, desde que não tenha sido iniciado processo executivo, ser regularizadas nos termos dos números seguintes.
 
 2 - Existindo auto de notícia ou equiparado:
 
@@ -152,7 +156,7 @@ b) Pagamento do imposto e juros compensatórios nos termos estabelecidos nas al�
 
 6 - Nas situções previstas no n.º 3, o não cumprimento das condições impostas neste diploma implica o imediato levantamento de auto de notícia.
 
-###### Art. 4.º - 1 - Nos casos referidos no n.º 1 do artigo 2.º, e nos n.os 2 e 3 do artigo anterior, poderá ser concedido um regime excepcional quando as dívidas excederem 100000000$00, e desde que os contribuintes apresentem notórias dificuldades financeiras e previsíveis consequências económicas graves, mediante o alargamento do número de prestações mensais até 10 anos, redução de juros de mora a 75% e aplicação do regime previsto no artigo 2.º, com excepção do n.º 1 e da alínea b) do n.º 2.
+Art. 4.º - 1 - Nos casos referidos no n.º 1 do artigo 2.º, e nos n.os 2 e 3 do artigo anterior, poderá ser concedido um regime excepcional quando as dívidas excederem 100000000$00, e desde que os contribuintes apresentem notórias dificuldades financeiras e previsíveis consequências económicas graves, mediante o alargamento do número de prestações mensais até 10 anos, redução de juros de mora a 75% e aplicação do regime previsto no artigo 2.º, com excepção do n.º 1 e da alínea b) do n.º 2.
 
 2 - Os benefícios serão concedidos por despacho do director-geral das Contribuições e Impostos, sobre requerimento fundamentado, apresentado pelo interessado, nos 30 dias subsequentes à data da entrada em vigor do presente diploma, na repartição de finanças da área da sua sede ou domicílio, o qual oferecerá garantia, com o pedido, nos termos do artigo 282.º do Código de Processo Tributário, ou penhora que garanta a totalidade do imposto em dívida e do acrescido.
 
@@ -160,15 +164,15 @@ b) Pagamento do imposto e juros compensatórios nos termos estabelecidos nas al�
 
 4 - No caso de indeferimento do pedido de concessão do regime excepcional as quantias entregues serão tidas em conta para efeitos de pagamento em 60 prestações ou no número de prestações que tiver sido concedido pela entidade competente, nos termos e com os benefícios previstos para esse regime.
 
-###### Art. 5.º - 1 - Às infracções respeitantes ao incumprimento de obrigações tributárias acessórias praticadas até 31 de Dezembro de 1993, e desde que não tenha sido iniciado o processo executivo da multa ou coima, será aplicado o mínimo da multa ou coima, estabelecido na lei, reduzido a 10%, desde que o seu pagamento se efectue até 30 de Novembro de 1994.
+Art. 5.º - 1 - Às infracções respeitantes ao incumprimento de obrigações tributárias acessórias praticadas até 31 de Dezembro de 1993, e desde que não tenha sido iniciado o processo executivo da multa ou coima, será aplicado o mínimo da multa ou coima, estabelecido na lei, reduzido a 10%, desde que o seu pagamento se efectue até 30 de Novembro de 1994.
 
 2 - Nas situações regularizadas nos termos do número anterior não são devidas custas no respectivo processo de transgressão ou contra-ordenação.
 
 3 - Se a infracção consistir na falta de apresentação de declarações, participações ou outros documentos com interesse para o apuramento da situação tributária do infractor, ou na sua inexactidão, este só poderá beneficiar do regime previsto no n.º 1 se, até 30 de Novembro de 1994, suprir ou corrigir a falta.
 
-###### Art. 6.º Poderão igualmente beneficiar do regime previsto no presente diploma os terceiros que efectuem de pronto o pagamento nos termos dos artigos 111.º e 112.º do Código de Processo Tributário.
+Art. 6.º Poderão igualmente beneficiar do regime previsto no presente diploma os terceiros que efectuem de pronto o pagamento nos termos dos artigos 111.º e 112.º do Código de Processo Tributário.
 
-###### Art. 7.º - 1 - Poderão beneficiar do regime previsto no presente diploma os terceiros que assumam a dívida, desde que prestem garantia, nos termos do artigo 282.º do Código de Processo Tributário, mediante requerimento fundamentado dirigido ao director-geral das Contribuições e Impostos.
+Art. 7.º - 1 - Poderão beneficiar do regime previsto no presente diploma os terceiros que assumam a dívida, desde que prestem garantia, nos termos do artigo 282.º do Código de Processo Tributário, mediante requerimento fundamentado dirigido ao director-geral das Contribuições e Impostos.
 
 2 - O despacho de aceitação da assunção da dívida e das garantias previstas no número anterior determina a extinção das garantias que tenham sido prestadas pelo devedor ou levantamento da penhora eventualmente constituída no mesmo processo.
 
@@ -178,25 +182,25 @@ b) Pagamento do imposto e juros compensatórios nos termos estabelecidos nas al�
 
 5 - O novo devedor só ficará sub-rogado nos direitos da Fazenda Pública após o pagamento da totalidade das prestações.
 
-###### Art. 8.º - 1 - A aplicação do presente diploma não suspende o andamento dos processos de execução fiscal ou a sua instauração, devendo os mesmos prosseguir os seus termos até à efectivação da penhora.
+Art. 8.º - 1 - A aplicação do presente diploma não suspende o andamento dos processos de execução fiscal ou a sua instauração, devendo os mesmos prosseguir os seus termos até à efectivação da penhora.
 
 2 - Nos processos em que já se encontre designada data para a venda dos bens penhorados suspender-se-á a mesma se o executado efectuar o pagamento da primeira prestação até àquela data ou comprovar ter requerido a concessão dos benefícios excepcionais a que alude o artigo 4.º
 
-###### Art. 9.º Os prazos de prescrição das dívidas e do procedimento judicial suspendem-se durante o período do pagamento em prestações.
+Art. 9.º Os prazos de prescrição das dívidas e do procedimento judicial suspendem-se durante o período do pagamento em prestações.
 
-###### Art. 10.º - 1 - Mantêm-se em vigor os regimes de pagamento em prestações já autorizados, salvo se o interessado declarar, por escrito ou termo no processo, até 30 de Novembro de 1994, a sua opção pelo regime previsto no presente diploma.
+Art. 10.º - 1 - Mantêm-se em vigor os regimes de pagamento em prestações já autorizados, salvo se o interessado declarar, por escrito ou termo no processo, até 30 de Novembro de 1994, a sua opção pelo regime previsto no presente diploma.
 
 2 - As garantias prestadas em relação aos regimes prestacionais já autorizados serão mantidas na íntegra, caso o contribuinte opte pela aplicação do presente diploma.
 
 3 - O presente diploma não prejudica a aplicação de outros regimes legais vigentes mais favoráveis aos infractores ou executados.
 
-###### Art. 11.º - 1 - Ficam abrangidas pelo presente diploma as dívidas cujo prazo de pagamento voluntário deveria ter terminado até 31 de Dezembro de 1993, mas cujas liquidações apenas venham a ser notificadas até 31 de Outubro de 1994.
+Art. 11.º - 1 - Ficam abrangidas pelo presente diploma as dívidas cujo prazo de pagamento voluntário deveria ter terminado até 31 de Dezembro de 1993, mas cujas liquidações apenas venham a ser notificadas até 31 de Outubro de 1994.
 
 2 - As disposições do presente diploma aplicam-se às situações referidas no número anterior, desde que o contribuinte efectue o pagamento da totalidade da dívida ou da primeira prestação até 30 de Novembro de 1994.
 
 3 - Os pedidos a formular nos termos do artigo 4.º e até 30 de Novembro de 1994 e cuja decisão venha a depender de informação dos serviços de inspecção tributária, ainda que respeite ao correcto apuramento do imposto em dívida, poderão ser decididos sem dependência dessa formalidade.
 
-###### Art. 12.º O presente diploma é aplicável ao incumprimento de obrigações para as instituições de previdência ou de segurança social e das quotizações para o Fundo de Desemprego, com as seguintes especificidades:
+Art. 12.º O presente diploma é aplicável ao incumprimento de obrigações para as instituições de previdência ou de segurança social e das quotizações para o Fundo de Desemprego, com as seguintes especificidades:
 
 a) O produto das coimas resultantes da aplicação do regime de contra-ordenações da segurança social constitui receita própria desta, devendo ser consignado à acção social e pago em conjunto com a primeira prestação;
 
@@ -208,28 +212,28 @@ d) O requerimento referido no artigo 7.º será dirigido ao presidente do Instit
 
 e) As importâncias pagas pelos executados em processo de execução fiscal e devidas às instituições de previdência ou de segurança social exequentes são mensalmente depositadas na Caixa Geral de Depósitos, à ordem do Instituto de Gestão Financeira da Segurança Social.
 
-###### Art. 13.º Os pagamentos, nos termos e para os efeitos do presente diploma, apenas poderão ser efectuados nas tesourarias da Fazenda Pública da área da residência ou sede do contribuinte, com excepção das situações referidas na alínea b) do artigo anterior.
+Art. 13.º Os pagamentos, nos termos e para os efeitos do presente diploma, apenas poderão ser efectuados nas tesourarias da Fazenda Pública da área da residência ou sede do contribuinte, com excepção das situações referidas na alínea b) do artigo anterior.
 
-###### Art. 14.º - 1 - Para efeitos de determinação do número das prestações será considerada a totalidade das dívidas à administração fiscal, independentemente da fase em que as mesmas se encontrem.
+Art. 14.º - 1 - Para efeitos de determinação do número das prestações será considerada a totalidade das dívidas à administração fiscal, independentemente da fase em que as mesmas se encontrem.
 
 2 - O disposto no número anterior é igualmente aplicável às dívidas à segurança social.
 
-###### Art. 15.º - 1 - Caso o contribuinte seja simultaneamente devedor à administração fiscal e às instituições de segurança social, só lhe será aplicado o disposto no presente diploma se regularizar as dívidas a ambas as entidades, nos termos aqui previstos.
+Art. 15.º - 1 - Caso o contribuinte seja simultaneamente devedor à administração fiscal e às instituições de segurança social, só lhe será aplicado o disposto no presente diploma se regularizar as dívidas a ambas as entidades, nos termos aqui previstos.
 
 2 - Os benefícios estabelecidos neste diploma cessam logo que o pagamento de qualquer das prestações não seja efectuado no prazo do seu vencimento, prosseguindo os processos, nesse caso, a sua tramitação normal, nomeadamente no que se refere à contabilização do acrescido nos termos da lei em vigor.
 
 3 - O não cumprimento de qualquer obrigação tributária principal, ou de contribuição para as instituições de segurança social, vencida após 1 de Janeiro de 1994, implica a cessação dos benefícios, nos termos do número anterior, sendo levadas em conta, todavia, as importâncias pagas.
 
-###### Art. 16.º O presente diploma entra em vigor no último dia do mês da sua publicação.
+Art. 16.º O presente diploma entra em vigor no último dia do mês da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Agosto de 1994.**
+Referendado em 22 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

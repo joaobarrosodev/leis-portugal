@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/172a00/47724783.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/1995/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b42f14a87d7e9316fe34b4bf36cf2653121280e3c7ed3d5974b9db5820bf246f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556ff85b20545356858e08a64e01fc9002853bd1f6393fd2616a508b537c83fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
 - Contrato de Concessão
 - Definição de Competências
 - Direcção Geral de Energia
-- Política Energética
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 - Licenciamento
-- Serviço Público
+- Política Energética
 - Produção de Energia Elétrica
 - Rede Nacional de Transporte de Energia Elétrica
 - Regime Jurídico
 - Regulamento
 - Regulamento do Acesso as Redes e as Interligações
 - Regulamento do Despacho
+- Serviço Público
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico Independente
-- Sistema Elétrico Nacional
 - Sistema Eléctrico não Vinculado
+- Sistema Elétrico Nacional
 relationships:
 - type: amended_by
   target: pt:dre:636739:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517247:por
+  label: "Alterados os arts 9º, 11º, 12º, 14º, 21º, 30º, 37º, 49º, 56º, 57º, 65º e 67º pelo Dec Lei.56/97.1997.03.14.MECO,\
+    \ DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1997-517247
+  date: '1997-03-14'
+- type: amended_by
+  target: pt:dre:330216:por
+  label: "Alterados os arts. 19º, 25º, 28º e revogado o art. 56º, na redacção do Dec Lei 56/97 de 14-Mai, pelo DEC LEI.198/2000.2000.08.24.MECO,\
+    \ DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2000-330216
+  date: '2000-08-24'
+- type: amended_by
+  target: pt:dre:300579:por
+  label: "Alterada a redacção dos arts. 1.º, 5.º, 6.º, 7.º, 29.º, 30.º, 32.º, 40.º, 41.º, 42.º e 52.º pelo DEC LEI.69/2002.2002.03.25.MECO\
+    \ DR.IS-A [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2002-300579
+  date: '2002-03-25'
+- type: amended_by
+  target: pt:dre:303141:por
+  label: "Alterados os arts. 1º, 3º, 49º e 51º bem como o anexo deste diploma, com a redacção conferida pelos Dec Lei 56/97\
+    \ de 14-Mar, 24/99 de 28-Jan e 198/2000 de 24-Ago, pelo DEC LEI.85/2002.2002.04.06.MECO DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2002-303141
+  date: '2002-04-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1994/05/19/p/dre
   label: null
@@ -104,16 +128,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/74-a/1993/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/74-a/1993/01/19/p/dre
+- type: cites
+  target: pt:dre:262841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:180468:por
+  label: "Revogado o nº 1 do art. 27º pelo DEC LEI.24/99.1999.01.28.MECO, DR.IS-A [23] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-1999-180468
+  date: '1999-01-28'
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: Revogado o presente diploma, na redacção dada pelos Dec Lei 56/97 de 14-Mar, 24/99 de 28-Jan, 198/2000 de 24-Ago,
+    69/2002 de 25-Mar e 85/2002 de 06-Abr, pelo DEC LEI.29/2006.15.02.2006.MEI, DR.IS-A [33] de 15.02.2006, que mantém, no
+    entanto, na titularidade da REN - Rede Eléctrica Nacional, S.A . a concessão da RNT, atribuída pelo art. 64º do presente
+    diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
 article_structure:
   article_count: 68
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:15Z'
   warnings: []
   errors: []
 ---
@@ -822,15 +887,15 @@ Exceptuam-se do disposto no n.º 1 do artigo 14.º, para além dos casos previst
 
 Visto e aprovado em Conselho de Ministros de 23 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 10 de Julho de 1995.**
+Promulgado em 10 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1995.**
+Referendado em 12 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

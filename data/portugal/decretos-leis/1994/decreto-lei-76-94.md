@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/1994/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1994-275470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51422d57a12bbf70cd0166f481c16a98dccd4056af10f27c0f0f153a8423f5ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6368216c8cefeca544d6fa71be77c458e61bd5956c84437c1a2af76eb28e1826
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/14-a/1991/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/14-a/1991/01/09/p/dre
+- type: cites
+  target: pt:dre:374243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402704:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:57Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +113,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º a 5.º, 7.º, 8.º e 9.º do [Decreto-Lei n.º 14-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-1991-402704), de 9 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º a 5.º, 7.º, 8.º e 9.º do [Decreto-Lei n.º 14-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-1991-402704), de 9 de Janeiro, passam a ter a seguinte redacção:
 
-###### Art. 2.º O GATTEL tem como atribuições a realização, a coordenação e o controlo das actividades necessárias à promoção da construção e exploração da segunda travessia rodoviária do Tejo na região de Lisboa.
+Art. 2.º O GATTEL tem como atribuições a realização, a coordenação e o controlo das actividades necessárias à promoção da construção e exploração da segunda travessia rodoviária do Tejo na região de Lisboa.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 2 - ...
 
@@ -131,7 +139,7 @@ g) Um representante de cada uma das seguintes Câmaras Municipais: Lisboa, Loure
 
 4 - O mandato dos membros dos órgãos do GATTEL tem a duração de três anos, renovável, mantendo-se aqueles em exercício até à efectiva substituição ou declaração de cessação de funções.
 
-###### Art. 4.º - 1 - O presidente da comissão instaladora é nomeado por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações, no qual será fixado o seu estatuto remuneratório.
+Art. 4.º - 1 - O presidente da comissão instaladora é nomeado por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do Ministro das Obras Públicas, Transportes e Comunicações, no qual será fixado o seu estatuto remuneratório.
 
 2 - ...
 
@@ -141,7 +149,7 @@ g) Um representante de cada uma das seguintes Câmaras Municipais: Lisboa, Loure
 
 5 - (Anterior n.º 6.)
 
-###### Art. 5.º - 1 - Compete à comissão instaladora:
+Art. 5.º - 1 - Compete à comissão instaladora:
 
 a) Realizar o concurso público internacional para a concessão da concepção, do projecto, da construção, do financiamento, da exploração e da manutenção da nova travessia rodoviária do Tejo, em Lisboa, nas suas diferentes fases;
 
@@ -177,7 +185,7 @@ n) Praticar todos os actos necessários à gestão do GATTEL e à administraçã
 
 5 - (Anterior n.º 4.)
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - Constituem receitas do GATTEL:
 
@@ -191,9 +199,9 @@ a) Os encargos com o respectivo funcionamento e com o cumprimento das suas atrib
 
 b) Os custos de aquisição, manutenção e conservação de bens, equipamentos ou serviços que tenha de utilizar.
 
-###### Art. 8.º (Anterior artigo 9.º)
+Art. 8.º (Anterior artigo 9.º)
 
-###### Art. 9.º São conferidos ao GATTEL, para além de outros que lhe venham a ser expressamente atribuídos por lei:
+Art. 9.º São conferidos ao GATTEL, para além de outros que lhe venham a ser expressamente atribuídos por lei:
 
 a) Os poderes para, segundo a lei, agir como entidade expropriante dos imóveis que sejam necessários à prossecução dos seus fins;
 
@@ -201,32 +209,32 @@ b) O direito de utilizar e administrar os bens do domínio público ou privado d
 
 c) Os poderes e prerrogativas do Estado quanto à protecção e defesa administrativa da posse dos bens a que se refere a alínea anterior.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 14-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-1991-402704), de 9 de Janeiro, os artigos 10.º, 11.º e 12.º, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 14-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-1991-402704), de 9 de Janeiro, os artigos 10.º, 11.º e 12.º, com a seguinte redacção:
 
-###### Art. 10.º - 1 - A gestão patrimonial e financeira do GATTEL, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às empresas públicas.
+Art. 10.º - 1 - A gestão patrimonial e financeira do GATTEL, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às empresas públicas.
 
 2 - O plano de actividades e o orçamento anuais estão sujeitos à aprovação do Ministro das Obras Públicas, Transportes e Comunicações.
 
 3 - O relatório e as contas anuais devem ser submetidos à aprovação do Ministro das Obras Públicas, Transportes e Comunicações até 31 de Março do ano seguinte àquele a que respeitam.
 
-###### Art. 11.º O património do GATTEL é constituído pelos direitos e obrigações adquiridos para o exercício da sua actividade.
+Art. 11.º O património do GATTEL é constituído pelos direitos e obrigações adquiridos para o exercício da sua actividade.
 
-###### Art. 12.º - 1 - O apoio técnico e administrativo ao GATTEL será prestado por um núcleo de apoio técnico e por um secretariado permanente.
+Art. 12.º - 1 - O apoio técnico e administrativo ao GATTEL será prestado por um núcleo de apoio técnico e por um secretariado permanente.
 
 2 - Para efeitos do disposto no número anterior, o GATTEL poderá recorrer aos instrumentos gerais de mobilidade e à contratação de pessoal nos termos da lei geral do trabalho.
 
 3 - Ao pessoal técnico e administrativo que desempenhe funções no GATTEL não são aplicáveis os limites estabelecidos no artigo 22.º e no n.º 1 do artigo 25.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio.
 
-###### Art. 3.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 16 de Fevereiro de 1994.**
+Promulgado em 16 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1994.**
+Referendado em 18 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

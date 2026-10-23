@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/136a00/38503858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/1995/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1995-518658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea20a343db126d19850f59cdd24960a6172cd522c4a3f6e3c9282e739a1e688d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 598c824bda3e4bcd79d9626dbc1785b1949a285850fcc90077b75e47272c6335
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Sociedade Anónima
-- Sistema Multimunicipal de Saneamento da Costa do Estoril
+- Amadora
+- Autarquia Local
+- Cascais
 - Contrato de Concessão
 - Estatuto
+- Estoril
 - Extinção de Serviços
 - Gabinete de Saneamento Básico da Costa do Estoril
-- Estoril
-- Sanest
-- Poluição da água
-- Amadora
-- Cascais
+- Gestão de Resíduos
 - Oeiras
+- Poluição da água
+- Sanest
 - Sintra
+- Sistema Multimunicipal de Saneamento da Costa do Estoril
+- Sociedade Anónima
 - Transferência Patrimonial
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:67348947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621765:por
+  label: "Alterado o art. 11.º, pela LEI.92-A/95.1995.12.28.AR DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/92-a-1995-621765
+  date: '1995-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/372/1993/10/29/p/dre
   label: null
@@ -102,16 +107,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348947:por
+  label: Revogado, a partir de 30.06.2015, o presente diploma, alterado pela Lei 92-A/95 de 28-dez; pelo(a) Decreto-Lei n.º
+    94/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29; e extinto, a partir da referida data, nos termos do
+    disposto no n.º 2 do art. 2.º daquele diploma, o Sistema multimunicipal de abastecimento de água e de saneamento da Costa
+    do Estoril, criado pelo citado diploma, por agregação com o Sistema multimunicipal de abastecimento de água e saneamento
+    do Norte Alentejano, com o Sistema multimunicipal de abastecimento de água e de saneamento do Alto Zêzere e Côa, com o
+    Sistema multimunicipal de saneamento de águas residuais da península de Setúbal, com o Sistema multimunicipal de saneamento
+    do Tejo e Trancão, com o Sistema multimunicipal de abastecimento de água e de saneamento de Raia, Zêzere e Nabão, com
+    o Sistema multimunicipal de abastecimento de água e de saneamento do Oeste, e com o Sistema multimunicipal de abastecimento
+    de água e de saneamento do Centro Alentejo; assim como é extinta, a partir da mesma data, nos termos do disposto nos n.ºs
+    2 a 10 do art. 4.º do Dec Lei 94/2015, a sociedade SANEST – Saneamento da Costa do Estoril, S.A., criada pelo art. 2.º
+    do presente diploma, e determinada a transferência do respetivo património global para a sociedade ora criada, Águas de
+    Lisboa e Vale do Tejo, S.A., a qual sucede em todos os direitos e obrigações da concessionária extinta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2015-67348947
+  date: '2015-05-29'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:23Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +191,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criado, nos termos e para os efeitos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, o Sistema Multimunicipal de Saneamento da Costa do Estoril, adiante designado por Sistema, para recolha, tratamento e rejeição de efluentes dos municípios de Amadora, Cascais, Oeiras e Sintra.
+Artigo 1.º - 1 - É criado, nos termos e para os efeitos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, o Sistema Multimunicipal de Saneamento da Costa do Estoril, adiante designado por Sistema, para recolha, tratamento e rejeição de efluentes dos municípios de Amadora, Cascais, Oeiras e Sintra.
 
 2 - O Sistema criado pelo presente diploma legal compreende o Sistema de Saneamento Básico da Costa do Estoril, a que se refere o [Decreto-Lei n.º 91/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1988-285937), de 12 de Março.
 
@@ -142,11 +199,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - A exploração e a gestão referidas no número anterior abrangem a conclusão da concepção e construção das obras e equipamentos, bem como a sua exploração, reparação, renovação e manutenção.
 
-###### Art. 2.º - 1 - É criada a sociedade anónima SANEST - Saneamento da Costa do Estoril, S. A., adiante designada por SANEST, S. A.
+Art. 2.º - 1 - É criada a sociedade anónima SANEST - Saneamento da Costa do Estoril, S. A., adiante designada por SANEST, S. A.
 
 2 - É extinto o Gabinete de Saneamento Básico da Costa do Estoril.
 
-###### Art. 3.º - 1 - A exploração e gestão do Sistema consubstancia um serviço público a exercer em regime de exclusivo.
+Art. 3.º - 1 - A exploração e gestão do Sistema consubstancia um serviço público a exercer em regime de exclusivo.
 
 2 - São objectivos fundamentais da exploração e gestão do Sistema contribuir para o desenvolvimento económico nacional e para o bem-estar das populações, assegurando, nomeadamente:
 
@@ -156,11 +213,11 @@ b) A progressiva redução dos custos através da racionalidade e eficácia dos 
 
 3 - Fora do âmbito do serviço público referido no n.º 1, a recolha dos efluentes obedece à legislação geral aplicável.
 
-###### Art. 4.º São aprovados os estatutos da SANEST, S. A., constantes do anexo I a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 4.º São aprovados os estatutos da SANEST, S. A., constantes do anexo I a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
-###### Art. 5.º A SANEST, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pelas normas cuja aplicação decorra do objecto da sociedade.
+Art. 5.º A SANEST, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pelas normas cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 6.º - 1 - O capital social da SANEST, S. A., é de 2000000000$00, representado por 1720000 acções da classe A, de 1000$00 cada uma, e 280000 acções da classe B, também de 1000$00 cada uma.
+Art. 6.º - 1 - O capital social da SANEST, S. A., é de 2000000000$00, representado por 1720000 acções da classe A, de 1000$00 cada uma, e 280000 acções da classe B, também de 1000$00 cada uma.
 
 2 - São titulares originários das acções da SANEST, S. A., a IPE - Águas de Portugal, Sociedade Gestora de Participações Sociais, S. A., com 51% do capital social, e os municípios de Amadora, Cascais, Oeiras e Sintra, com um total de 49% do capital social, sendo as acções repartidas da seguinte forma:
 
@@ -172,7 +229,7 @@ b) Cada um dos municípios de Amadora, Cascais, Oeiras e Sintra: 175000 acções
 
 4 - A transmissão de acções em violação do disposto no número anterior é nula.
 
-###### Art. 7.º - 1 - A concessão da exploração e gestão do Sistema opera-se por contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente e Recursos Naturais. e a SANEST, S. A., nos termos das bases anexas ao presente diploma e que dele fazem parte integrante (anexo II).
+Art. 7.º - 1 - A concessão da exploração e gestão do Sistema opera-se por contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente e Recursos Naturais. e a SANEST, S. A., nos termos das bases anexas ao presente diploma e que dele fazem parte integrante (anexo II).
 
 2 - A concessão à SANEST, S. A., é por 25 anos, contados a partir da celebração do contrato referido no número anterior, e substitui a associação de utilizadores prevista no artigo 11.º do [Decreto-Lei n.º 91/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1988-285937) como entidade gestora do Sistema.
 
@@ -188,83 +245,83 @@ c) Equipamentos complementares.
 
 5 - O investimento da concessionária será objecto de remuneração adequada, nos termos a fixar no contrato de concessão, ponderando-se a sua repercussão nas tarifas.
 
-###### Art. 8.º A concessão a que o presente diploma se refere rege-se por este, pelo artigo 4.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, com a redacção dada pelo [Decreto-Lei n.º 372/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), de 29 de Outubro, pelas disposições aplicáveis do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, e pelo respectivo contrato de concessão.
+Art. 8.º A concessão a que o presente diploma se refere rege-se por este, pelo artigo 4.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, com a redacção dada pelo [Decreto-Lei n.º 372/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), de 29 de Outubro, pelas disposições aplicáveis do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, e pelo respectivo contrato de concessão.
 
-###### Art. 9.º - 1 - É transferido para a SANEST, S. A., o património actual do Gabinete de Saneamento Básico da Costa do Estoril, designadamente o correspondente às obras já realizadas, constituindo o respectivo valor um subsídio a fundo perdido, nos termos da alínea a) do n.º 1 do artigo 22.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.
+Art. 9.º - 1 - É transferido para a SANEST, S. A., o património actual do Gabinete de Saneamento Básico da Costa do Estoril, designadamente o correspondente às obras já realizadas, constituindo o respectivo valor um subsídio a fundo perdido, nos termos da alínea a) do n.º 1 do artigo 22.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.
 
 2 - São também transferidos para a SANEST, S. A., todos os direitos, designadamente os reais, que decorrem da implantação ou construção do Sistema e incidam sobre prédios em que o mesmo esteja implantado ou construído ou sobre todos aqueles que sejam objecto de quaisquer ónus ou limitações em função de tal implantação ou construção.
 
 3 - A SANEST, S. A., goza de isenção de sisa relativa à transmissão de imóveis prevista no número anterior, de acordo com o [Decreto-Lei n.º 404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro.
 
-###### Art. 10.º - 1 - O presente diploma constitui, sem necessidade de apresentação de qualquer outro documento e com dispensa de trato sucessivo, título necessário e suficiente para os registos em nome da SANEST, S. A., dos direitos mencionados no artigo anterior, os quais deverão ser realizados oficiosamente ou a requerimento da SANEST, S. A., sem quaisquer taxas, custos ou emolumentos, pelas conservatórias do registo predial, repartições de finanças e outras repartições públicas.
+Art. 10.º - 1 - O presente diploma constitui, sem necessidade de apresentação de qualquer outro documento e com dispensa de trato sucessivo, título necessário e suficiente para os registos em nome da SANEST, S. A., dos direitos mencionados no artigo anterior, os quais deverão ser realizados oficiosamente ou a requerimento da SANEST, S. A., sem quaisquer taxas, custos ou emolumentos, pelas conservatórias do registo predial, repartições de finanças e outras repartições públicas.
 
 2 - Os direitos referidos no n.º 3 do artigo anterior abrangem também as servidões administrativas, que ficam sujeitas a registo, constituídas para a implantação ou construção do Sistema, nos termos conjugados do Código das Expropriações e dos artigos 3.º e 5.º do [Decreto-Lei n.º 34021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34021-1944-561799), de 11 de Outubro de 1944.
 
-###### Art. 11.º - 1 - Não são transferidos para a SANEST, S. A., os direitos e obrigações do Gabinete de Saneamento Básico da Costa do Estoril não previstos no presente diploma, nem quaisquer obrigações perante titulares de quaisquer direitos emergentes da implantação ou construção do Sistema efectuados pelo Gabinete de Saneamento Básico da Costa do Estoril.
+Art. 11.º - 1 - Não são transferidos para a SANEST, S. A., os direitos e obrigações do Gabinete de Saneamento Básico da Costa do Estoril não previstos no presente diploma, nem quaisquer obrigações perante titulares de quaisquer direitos emergentes da implantação ou construção do Sistema efectuados pelo Gabinete de Saneamento Básico da Costa do Estoril.
 
 2 - Não são, designadamente, transferidos para a SANEST, S. A., os direitos e obrigações do Gabinete de Saneamento Básico da Costa do Estoril emergentes de contratos de empréstimo, empreitada ou fornecimento, prestação de serviços e arrendamento.
 
 3 - O disposto no número anterior não prejudica a previsão constante do artigo 9.º, cuja aplicação, no que respeita aos materiais ainda a fornecer pelos empreiteiros, terá lugar à medida que estes vão sendo incorporados no solo, e não compreende os direitos e obrigações do Gabinete de Saneamento Básico da Costa do Estoril emergentes de contratos de prestação de serviços respeitantes a projectos de obras ainda não adjudicadas, que são transferidos para a SANEST, S. A.
 
-###### Art. 12.º A SANEST, S. A., enquanto for concessionária do Sistema, fica licenciada para a recolha, o tratamento e a rejeição dos efluentes líquidos provenientes da recolha domiciliária efectuada pelos municípios de Amadora, Cascais, Oeiras e Sintra.
+Art. 12.º A SANEST, S. A., enquanto for concessionária do Sistema, fica licenciada para a recolha, o tratamento e a rejeição dos efluentes líquidos provenientes da recolha domiciliária efectuada pelos municípios de Amadora, Cascais, Oeiras e Sintra.
 
-###### Art. 13.º As entradas iniciais de capital dos accionistas devem ser realizadas no prazo de cinco dias a partir da data de entrada em vigor do presente diploma.
+Art. 13.º As entradas iniciais de capital dos accionistas devem ser realizadas no prazo de cinco dias a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 14.º - 1 - A realização das entradas iniciais de capital e a realização da assembleia geral da SANEST, S. A., com o objectivo referido no artigo 18.º são condições da outorga do contrato de concessão e dos contratos de recolha, que, por sua vez, são condição suspensiva da atribuição da concessão.
+Art. 14.º - 1 - A realização das entradas iniciais de capital e a realização da assembleia geral da SANEST, S. A., com o objectivo referido no artigo 18.º são condições da outorga do contrato de concessão e dos contratos de recolha, que, por sua vez, são condição suspensiva da atribuição da concessão.
 
 2 - No prazo de cinco dias após a realização da assembleia geral referida no número anterior, serão celebrados em simultâneo o contrato de concessão e os contratos de recolha.
 
 3 - No contrato de concessão outorgará, em representação do Estado, o Ministro do Ambiente e Recursos Naturais.
 
-###### Art. 15.º - 1 - Os municípios utilizadores devem efectuar a ligação ao Sistema explorado e gerido pela concessionária.
+Art. 15.º - 1 - Os municípios utilizadores devem efectuar a ligação ao Sistema explorado e gerido pela concessionária.
 
 2 - A articulação entre o Sistema explorado e gerido pela concessionária e o sistema correspondente de cada um dos municípios utilizadores será assegurada através de contratos de recolha a celebrar entre a concessionária e cada um dos municípios.
 
-###### Art. 16.º - 1 - São transmitidos para o Instituto da Água todos os direitos e obrigações do Gabinete de Saneamento Básico da Costa do Estoril que não são transferidos para a SANEST, S. A.
+Art. 16.º - 1 - São transmitidos para o Instituto da Água todos os direitos e obrigações do Gabinete de Saneamento Básico da Costa do Estoril que não são transferidos para a SANEST, S. A.
 
 2 - Cabe ao Instituto da Água, enquanto dono da obra nos contratos referidos no n.º 2 do artigo 11.º, exercer todos os direitos perante os empreiteiros, projectistas e demais prestadores de serviços que sejam necessários para a SANEST, S. A., e corresponder às suas obrigações como concessionária do Sistema.
 
-###### Art. 17.º É revogado o [Decreto-Lei n.º 91/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1988-285937), de 12 de Março.
+Art. 17.º É revogado o [Decreto-Lei n.º 91/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1988-285937), de 12 de Março.
 
-###### Art. 18.º É convocada a assembleia geral da SANEST, S. A., a qual deve reunir na sede da sociedade no 10.º dia posterior à data de entrada em vigor do presente diploma ou no 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 18.º É convocada a assembleia geral da SANEST, S. A., a qual deve reunir na sede da sociedade no 10.º dia posterior à data de entrada em vigor do presente diploma ou no 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 16 de Maio de 1995.**
+Promulgado em 16 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Maio de 1995.**
+Referendado em 18 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Estatutos da concessionária
 
 ### CAPÍTULO I — Denominação, duração e sede
 
-###### Artigo 1.º A sociedade adopta a denominação de SANEST - Saneamento da Costa do Estoril, S. A., e durará por tempo indeterminado.
+Artigo 1.º A sociedade adopta a denominação de SANEST - Saneamento da Costa do Estoril, S. A., e durará por tempo indeterminado.
 
-###### Art. 2.º - 1 - A sede social é na ETAR da Guia, freguesia e município de Cascais.
+Art. 2.º - 1 - A sede social é na ETAR da Guia, freguesia e município de Cascais.
 
 2 - Por deliberação do conselho de administração poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como poderá ser mudada a sede social para outro local sito no mesmo município ou em município limítrofe.
 
 ### CAPÍTULO II — Objecto
 
-###### Art. 3.º - 1 - A sociedade tem por objecto social exclusivo a exploração e gestão do Sistema Multimunicipal de Saneamento da Costa do Estoril.
+Art. 3.º - 1 - A sociedade tem por objecto social exclusivo a exploração e gestão do Sistema Multimunicipal de Saneamento da Costa do Estoril.
 
 2 - Incluem-se no objecto social da sociedade, nomeadamente, a construção, extensão, reparação, renovação, manutenção e melhoria das obras e equipamentos necessários para o desenvolvimento da actividade prevista no número anterior.
 
-###### Art. 4.º A sociedade poderá participar em quaisquer outras sociedades ou entidades legais com objecto similar ou complementar do seu.
+Art. 4.º A sociedade poderá participar em quaisquer outras sociedades ou entidades legais com objecto similar ou complementar do seu.
 
 ### CAPÍTULO III — Capital social, acções e obrigações
 
-###### Art. 5.º - 1 - O capital social e de 2000000000$00, encontrando-se realizado em 1200000000$00, devendo o remanescente, na importância de 800000000$00, ser realizado em dinheiro, por uma vez, até um ano contado da constituição da sociedade, de acordo com as chamadas do conselho de administração feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento da realização das entradas.
+Art. 5.º - 1 - O capital social e de 2000000000$00, encontrando-se realizado em 1200000000$00, devendo o remanescente, na importância de 800000000$00, ser realizado em dinheiro, por uma vez, até um ano contado da constituição da sociedade, de acordo com as chamadas do conselho de administração feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento da realização das entradas.
 
 2 - O capital social é representado por 2000000 de acções com o valor nominal de 1000$00 cada uma, sendo 1720000 da classe A e 280000 da classe B.
 
-###### Art. 6.º - 1 - Quaisquer eventuais aumentos de capital social serão realizados através da emissão de acções da classe A, ou das classes A e B, devendo as acções da classe A representar sempre pelo menos 51% do capital social com direito a voto.
+Art. 6.º - 1 - Quaisquer eventuais aumentos de capital social serão realizados através da emissão de acções da classe A, ou das classes A e B, devendo as acções da classe A representar sempre pelo menos 51% do capital social com direito a voto.
 
 2 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.
 
@@ -278,7 +335,7 @@ Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal Ant
 
 7 - As deliberações de aumento de capital deverão prever para os accionistas preferentes um prazo de realização das entradas não inferior a 60 dias.
 
-###### Art. 7.º - 1 - As acções da classe A são e serão sempre nominativas; as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador, a pedido do accionista e mediante deliberação da assembleia geral.
+Art. 7.º - 1 - As acções da classe A são e serão sempre nominativas; as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador, a pedido do accionista e mediante deliberação da assembleia geral.
 
 2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
 
@@ -288,7 +345,7 @@ Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal Ant
 
 5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
 
-###### Art. 8.º - 1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 4 do artigo 6.º e, sempre sem prejuízo do aí disposto no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
+Art. 8.º - 1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 4 do artigo 6.º e, sempre sem prejuízo do aí disposto no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
 
 2 - A transmissão de acções em violação do disposto no número anterior é nula.
 
@@ -298,11 +355,11 @@ Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal Ant
 
 5 - A sociedade primeiro e depois todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B, estando o respectivo exercício sujeito, com as devidas adaptações, às mesmas condições estabelecidas no número anterior.
 
-###### Art. 9.º - 1 - Mediante deliberação dos sócios, a sociedade poderá amortizar quaisquer acções que forem penhoradas, arrestadas, arroladas, incluídas em massa falida, que forem apreendidas no âmbito de qualquer acção judicial ou que estiverem em condições de ser transmitidas judicialmente.
+Art. 9.º - 1 - Mediante deliberação dos sócios, a sociedade poderá amortizar quaisquer acções que forem penhoradas, arrestadas, arroladas, incluídas em massa falida, que forem apreendidas no âmbito de qualquer acção judicial ou que estiverem em condições de ser transmitidas judicialmente.
 
 2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
-###### Art. 10.º - 1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei.
+Art. 10.º - 1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei.
 
 2 - As obrigações emitidas pela sociedade aplica-se o disposto no n.º 4 do artigo 7.º
 
@@ -310,39 +367,39 @@ Visto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal Ant
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 11.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 11.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
-###### Art. 12.º - 1 - Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente pelo menos 10% do capital social.
+Art. 12.º - 1 - Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente pelo menos 10% do capital social.
 
 2 - No caso de a minoria prevista no número anterior representar pelo menos, 49% do capital social, tem direito a designar mais um administrador, para além do administrador eleito ao abrigo do número anterior, se o conselho de administração for composto de cinco administradores, e ainda o vice-presidente da mesa da assembleia geral e o vogal do conselho fiscal que não seja revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
 #### SECÇÃO II — Assembleia geral
 
-###### Art. 13.º - 1 - Os accionistas com direito a voto poderão participar nas assembleias gerais, desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em 1.ª convocatória.
+Art. 13.º - 1 - Os accionistas com direito a voto poderão participar nas assembleias gerais, desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em 1.ª convocatória.
 
 2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
 
-###### Art. 14.º - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+Art. 14.º - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
 
 2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.
 
 3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.
 
-###### Artigo 15.º - 1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
+Artigo 15.º - 1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
 
 2 - A assembleia geral reunirá ainda sempre que o requeiram o conselho de administração, o conselho fiscal ou os accionistas que representem pelo menos 5% do capital social.
 
 3 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da assembleia geral, indicando com precisão os assuntos a incluir na ordem do dia e justificando a necessidade da reunião da assembleia.
 
-###### Art. 16.º - 1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória, enquanto forem nominativas todas as acções da sociedade.
+Art. 16.º - 1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória, enquanto forem nominativas todas as acções da sociedade.
 
 2 - A assembleia geral pode deliberar em 1.ª convocação desde que estejam presentes ou representados accionistas que detenham mais de dois terços do capital social.
 
 3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
 
-###### Art. 17.º - 1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
+Art. 17.º - 1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
 
 2 - Compete, em especial, à assembleia:
 
@@ -364,7 +421,7 @@ h) Fixar as remunerações dos órgãos sociais da sociedade, podendo esta compe
 
 #### SECÇÃO III — Administração da sociedade
 
-###### Art. 18.º - 1 - A administração da sociedade será exercida por um conselho de administração, composto por três ou cinco membros.
+Art. 18.º - 1 - A administração da sociedade será exercida por um conselho de administração, composto por três ou cinco membros.
 
 2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente.
 
@@ -372,11 +429,11 @@ h) Fixar as remunerações dos órgãos sociais da sociedade, podendo esta compe
 
 4 - Os administradores terão direito a complementos de pensão de reforma.
 
-###### Art. 19.º O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
+Art. 19.º O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
 
-###### Art. 20.º O conselho de administração poderá delegar num administrador ou numa comissão executiva de três administradores a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
+Art. 20.º O conselho de administração poderá delegar num administrador ou numa comissão executiva de três administradores a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
 
-###### Art. 21.º - 1 - A sociedade obriga-se perante terceiros:
+Art. 21.º - 1 - A sociedade obriga-se perante terceiros:
 
 a) Pela assinatura conjunta de dois administradores, um dos quais deve pertencer à comissão executiva, quando esta exista;
 
@@ -386,13 +443,13 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 2 - Nos documentos de mero expediente e quando se trate de endosso de letras, recibos, cheques ou quaisquer outros documentos, cujo produto de desconto ou de cobrança se destine a ser creditado em conta da sociedade aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado.
 
-###### Art. 22.º - 1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.
+Art. 22.º - 1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.
 
 2 - Independentemente do disposto no número anterior, o conselho de administração reunirá pelo menos uma vez por mês.
 
 3 - Os membros do conselho de administração serão convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada ou se se tratar de reuniões com periodicidade fixa, do conhecimento de todos os administradores, caso em que é dispensada a convocatória.
 
-###### Art. 23.º - 1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
+Art. 23.º - 1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
 2 - Qualquer administrador poderá fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, a qual poderá ser enviada por telecópia, válida apenas para uma reunião.
 
@@ -400,15 +457,15 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 #### SECÇÃO IV — Fiscalização da sociedade
 
-###### Art. 24.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por três membros efectivos e um suplente.
+Art. 24.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por três membros efectivos e um suplente.
 
 2 - Um dos membros efectivos e o suplente serão revisores oficiais de contas ou sociedades de revisores oficiais de contas.
 
-###### Art. 25.º O conselho fiscal reunirá todos os trimestres e sempre que tal for solicitado por qualquer dos seus membros ou pelo conselho de administração.
+Art. 25.º O conselho fiscal reunirá todos os trimestres e sempre que tal for solicitado por qualquer dos seus membros ou pelo conselho de administração.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 26.º - 1 - O ano social coincide com o ano civil.
+Art. 26.º - 1 - O ano social coincide com o ano civil.
 
 2 - Os resultados apurados em cada exercício, exceptuada a parte destinada à constituição ou reintegração da reserva legal, terão a aplicação que a assembleia geral deliberar.
 
@@ -420,11 +477,15 @@ I
 
 Disposições e princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão tem por conteúdo a exploração e a gestão, em regime de exclusivo, do sistema multimunicipal de recolha, tratamento e rejeição de efluentes da Costa do Estoril e integrará parcialmente a sua concepção e construção.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A actividade da concessão compreende a recolha de efluentes canalizados pelos serviços municipais competentes e o respectivo tratamento e rejeição.
 
@@ -438,7 +499,9 @@ c) O controlo dos parâmetros sanitários dos efluentes tratados e dos meios rec
 
 3 - A concessionária não poderá exercer actividades diferentes daquelas que constituem o objecto da concessão.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A concessionária obriga-se a assegurar, de forma regular, contínua e eficiente, a recolha, tratamento e rejeição de efluentes canalizados pelos municípios utilizadores cujo destino seja o sistema;
 
@@ -450,7 +513,9 @@ c) O controlo dos parâmetros sanitários dos efluentes tratados e dos meios rec
 
 5 - A reposição referida no número anterior terá lugar nos termos a determinar no contrato de concessão, que poderão integrar, por opção do concedente, ouvida a concessionária, a prorrogação do prazo da concessão e a compensação directa à concessionária ou ainda, desde que, com o acordo da concessionária, a revisão das tarifas, nos termos dos critérios mencionados na base XIV.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - A concessão terá a duração de 25 anos a contar da data de celebração do presente contrato.
 
@@ -458,11 +523,15 @@ c) O controlo dos parâmetros sanitários dos efluentes tratados e dos meios rec
 
 3 - Para efeitos do número anterior, serão considerados casos de força maior os factos de terceiro por que a concessionária não seja responsável e para os quais não haja contribuído e, bem assim, qualquer outro facto natural ou situação imprevisível ou inevitável cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da concessionária, tais como actos de guerra ou subversão, epidemias, ciclones, tremores de terra, fogo, raio, inundações e greves gerais ou sectoriais.
 
-###### Base V — Características dos efluentes
+Base V
+
+Características dos efluentes
 
 O contrato de concessão fixará as obrigações da concessionária respeitantes às características da recolha, tratamento e rejeição dos efluentes.
 
-###### Base VI — Princípios aplicáveis às relações com os utilizadores
+Base VI
+
+Princípios aplicáveis às relações com os utilizadores
 
 A concessionária é obrigada, mediante contrato, a assegurar aos utilizadores a recolha, tratamento e rejeição dos efluentes que estes lhe entreguem, devendo tratá-los sem discriminações ou diferenças que não resultem apenas da aplicação de critérios ou de condicionalismos legais ou regulamentares ou ainda de diversidade manifesta das condições técnicas de exploração.
 
@@ -470,7 +539,9 @@ II
 
 Dos bens e meios afectos à concessão
 
-###### Base VII — Estabelecimento da concessão
+Base VII
+
+Estabelecimento da concessão
 
 1 - Integram a concessão:
 
@@ -482,7 +553,9 @@ c) Todas as obras, máquinas e aparelhagem e respectivos acessórios utilizados 
 
 2 - As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos de construção.
 
-###### Base VIII — Bens e outros meios afectos à concessão
+Base VIII
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infra-estruturas.
 
@@ -494,7 +567,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) A totalidade das relações jurídicas que se encontrem em cada momento necessariamente conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de materiais necessários à mesma.
 
-###### Base IX — Propriedade dos bens afectos à concessão
+Base IX
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam ao Estado e aos municípios.
 
@@ -504,7 +579,9 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 4 - Sem prejuízo do previsto na base XXIII, os bens e direitos afectos à concessão só poderão ser vendidos, ou transmitidos por qualquer outro modo, ou onerados após devida autorização do Ministro do Ambiente e Recursos Naturais.
 
-###### Base X — Redes de colectores e outros órgãos pertencentes aos municípios
+Base X
+
+Redes de colectores e outros órgãos pertencentes aos municípios
 
 1 - As redes de colectores de recolha de efluentes pertencentes aos municípios utilizadores poderão, mediante prévio acordo, ser por estes cedidas à concessionária, a título gratuito ou oneroso, na parte em que sejam indispensáveis à exploração por parte desta.
 
@@ -512,13 +589,17 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 3 - O contrato de concessão poderá também prever, mediante prévio acordo com os municípios utilizadores, que certos órgãos, designadamente destinados à recolha e rejeição de efluentes, sejam construídos ou ampliados por aqueles municípios, ficando na sua propriedade e constando o seu elenco e características de mapa anexo ao contrato.
 
-###### Base XI — Inventário
+Base XI
+
+Inventário
 
 1 - A concessionária elaborará e manterá actualizado um inventário do património afecto à concessão, que deverá enviar anualmente ao Ministro do Ambiente e Recursos Naturais, ou a entidade por ele designada, até ao final do mês de Janeiro, devidamente certificado por auditor aceite pelo concedente.
 
 2 - Este inventário comportará a avaliação da aptidão de cada bem para desempenhar a sua função no sistema e das suas condições de conservação e funcionamento, a identificação do proprietário de cada bem, quando diferente da concessionária, e a menção dos ónus ou encargos que recaem sobre os bens afectos a concessão.
 
-###### Base XII — Manutenção dos bens e meios afectos à concessão
+Base XII
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
@@ -528,7 +609,9 @@ III
 
 Condições financeiras
 
-###### Base XIII — Financiamento
+Base XIII
+
+Financiamento
 
 1 - A concessionária adoptará e executará, tanto na construção das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
 
@@ -544,7 +627,9 @@ d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
 3 - O contrato de concessão integrará a previsão das condições aplicáveis às comparticipações financeiras e subsídios referidos na alínea b) do número anterior.
 
-###### Base XIV — Critérios para a fixação das tarifas ou valores garantidos
+Base XIV
+
+Critérios para a fixação das tarifas ou valores garantidos
 
 1 - As tarifas ou valores garantidos serão fixados por forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -562,7 +647,9 @@ e) Assegurar, quando seja caso disso, o pagamento das despesas de funcionamento 
 
 f) Assegurar uma adequada remuneração dos capitais próprios da concessionária.
 
-###### Base XV — Fixação e revisão das tarifas ou valores garantidos
+Base XV
+
+Fixação e revisão das tarifas ou valores garantidos
 
 1 - O contrato de concessão e o contrato de recolha a celebrar entre a concessionária e cada um dos utilizadores deverão fixar as tarifas ou os valores garantidos e a forma e periodicidade da sua revisão, tendo em atenção os critérios definidos na base anterior.
 
@@ -572,11 +659,15 @@ IV
 
 Construção das infra-estruturas
 
-###### Base XVI — Construção das infra-estruturas
+Base XVI
+
+Construção das infra-estruturas
 
 A construção das infra-estruturas para efeitos das presentes bases compreende também, para além da sua concepção e projecto, a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e, bem assim, a constituição das servidões necessárias.
 
-###### Base XVII — Utilização do domínio público
+Base XVII
+
+Utilização do domínio público
 
 1 - A concessionária terá o direito de utilizar o domínio público do Estado ou dos municípios utilizadores, neste caso mediante afectação, para efeitos de implantação e exploração das infra-estruturas da concessão.
 
@@ -584,13 +675,17 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 3 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas, é aplicado o disposto no Código das Expropriações, correndo por conta da concessionária as compensações respeitantes à parte do sistema implantada sob sua direcção.
 
-###### Base XVIII — Servidões e expropriações
+Base XVIII
+
+Servidões e expropriações
 
 1 - A concessionária poderá constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
 
 2 - As servidões e as expropriações resultam da aprovação dos respectivos projectos pelo Ministro do Ambiente e Recursos Naturais ou de declaração de utilidade pública, simultânea ou subsequente, nos termos da lei aplicável, correndo por conta da concessionária as correspondentes indemnizações respeitantes à parte do sistema implantada sob sua direcção.
 
-###### Base XIX — Prazos de construção e data limite para a entrada em serviço do sistema multimunicipal
+Base XIX
+
+Prazos de construção e data limite para a entrada em serviço do sistema multimunicipal
 
 1 - O contrato de concessão deverá fixar prazos em cujo termo todas as obras deverão estar concluídas.
 
@@ -600,19 +695,25 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionaria enviará trimestralmente ao Ministro do Ambiente e Recursos Naturais um relatório sobre o estado de avanço das obras.
 
-###### Base XX — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XX
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constitui encargo e é da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde perante o concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
 
-###### Base XXI — Aprovação dos projectos de construção
+Base XXI
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, deverão ser elaborados com respeito da regulamentação vigente em Portugal e exigem a aprovação prévia do Ministro do Ambiente e Recursos Naturais.
 
 2 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no número anterior considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se deve pronunciar nos termos do n.º 3 do artigo 3.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro.
 
-###### Base XXII — Prazos a observar na construção
+Base XXII
+
+Prazos a observar na construção
 
 A concessionária assegurará que os trabalhos sejam efectuados nos prazos fixados.
 
@@ -620,7 +721,9 @@ V
 
 Relações com o concedente
 
-###### Base XXIII — Poderes do concedente
+Base XXIII
+
+Poderes do concedente
 
 1 - O concedente, além de outros poderes conferidos pelas presentes bases ou pela lei, tem os seguintes poderes de tutela:
 
@@ -644,7 +747,9 @@ iii) Os orçamentos anuais de exploração, de investimento e financeiros, bem c
 
 3 - O contrato de concessão poderá ainda prever outros poderes de fiscalização do concedente, designadamente o poder de apreciar certos actos de gestão da concessionária mediante a respectiva suspensão, autorização ou aprovação.
 
-###### Base XXIV — Exercício dos poderes do concedente e comissão de acompanhamento da concessão
+Base XXIV
+
+Exercício dos poderes do concedente e comissão de acompanhamento da concessão
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de recolha, tratamento e rejeição de efluentes que lhe forem conferidos por lei são exercidos pelo Ministro do Ambiente e Recursos Naturais, com a faculdade de delegação em comissão de acompanhamento da concessão.
 
@@ -652,7 +757,9 @@ iii) Os orçamentos anuais de exploração, de investimento e financeiros, bem c
 
 3 - A comissão de acompanhamento da concessão é composta por três a cinco membros, devendo o respectivo despacho de constituição fixar o limite máximo das suas despesas de funcionamento, que são da responsabilidade das respectivas concessionárias, bem como os poderes que o Ministro do Ambiente e Recursos Naturais nela delegue nos termos do n.º 1.
 
-###### Base XXV — Fiscalização
+Base XXV
+
+Fiscalização
 
 1 - O concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -662,11 +769,15 @@ iii) Os orçamentos anuais de exploração, de investimento e financeiros, bem c
 
 4 - As condições financeiras da concessão estão ainda sujeitas a fiscalização pela Inspecção-Geral de Finanças, nos termos previstos nos n.os 1 e 2 desta base, sem prejuízo dos poderes gerais que lhe são atribuídos por lei.
 
-###### Base XXVI — Responsabilidade civil extracontratual
+Base XXVI
+
+Responsabilidade civil extracontratual
 
 A responsabilidade civil extracontratual da concessionária deverá estar coberta por seguro de acordo com habituais práticas vigentes no mercado segurador e de montante aprovado pelo Ministro do Ambiente e Recursos Naturais.
 
-###### Base XXVII — Caução referente à exploração
+Base XXVII
+
+Caução referente à exploração
 
 1 - Para garantia do cumprimento dos deveres contratuais emergentes da concessão, deverá a concessionária prestar uma caução de valor adequado a definir no contrato de concessão, a qual não poderá ser inferior a 50000000$00.
 
@@ -680,7 +791,9 @@ VI
 
 Relações com os utilizadores
 
-###### Base XXVIII — Obrigação de recolha
+Base XXVIII
+
+Obrigação de recolha
 
 1 - A concessionária obriga-se a recolher de cada um dos utilizadores, mediante contrato, os efluentes provenientes dos respectivos sistemas municipais, com ressalva das situações previstas no contrato de concessão e no próprio contrato de recolha e, designadamente, das situações respeitantes a casos específicos de efluentes industriais que, pela sua especial agressividade ou toxicidade, ponham em causa a conservação do próprio sistema.
 
@@ -690,13 +803,17 @@ Relações com os utilizadores
 
 4 - Os contratos de concessão e de recolha fixarão também os valores garantidos mínimos a receber pela concessionária, ou os volumes mínimos de efluentes a afluir ao sistema, de que a concessionária carece, como condição a garantir a todo o tempo pelo utilizador para equilíbrio da concessão, independentemente da recolha efectiva de efluentes em relação ao utilizador.
 
-###### Base XXIX — Medição e facturação dos efluentes
+Base XXIX
+
+Medição e facturação dos efluentes
 
 1 - Os efluentes serão medidos nas circunstâncias e pelos meios definidos no contrato de concessão.
 
 2 - A facturação da recolha dos efluentes pela concessionária terá periodicidade mensal.
 
-###### Base XXX — Regulamentos de exploração e serviço
+Base XXX
+
+Regulamentos de exploração e serviço
 
 1 - Os regulamentos de exploração e serviço serão elaborados pela concessionária e submetidos a parecer dos municípios utilizadores, a emitir no prazo de 60 dias.
 
@@ -706,7 +823,9 @@ Relações com os utilizadores
 
 4 - Os regulamentos de exploração e serviço que a concessionária emane vinculam os utilizadores, desde que devidamente aprovados.
 
-###### Base XXXI — Ligação técnica entre o sistema multimunicipal e o sistema municipal
+Base XXXI
+
+Ligação técnica entre o sistema multimunicipal e o sistema municipal
 
 1 - A concessionária assegurará as condições técnicas necessárias à ligação entre o sistema multimunicipal e os diversos sistemas municipais da área correspondente ao seu sistema multimunicipal.
 
@@ -714,17 +833,23 @@ Relações com os utilizadores
 
 3 - Os encargos com a ligação técnica entre os dois sistemas referidos nos números anteriores serão facturados autonomamente pela concessionária a cada um dos utilizadores.
 
-###### Base XXXII — Reparações
+Base XXXII
+
+Reparações
 
 A concessionária é responsável pela conservação e reparação dos meios necessários à ligação técnica dos sistemas multimunicipal e municipal.
 
-###### Base XXXIII — Concessão do sistema municipal do utilizador
+Base XXXIII
+
+Concessão do sistema municipal do utilizador
 
 1 - A concessionária não se poderá opor à transmissão da posição contratual de cada um dos utilizadores para uma concessionária do respectivo sistema municipal de recolha, tratamento e rejeição de efluentes.
 
 2 - Em caso de transmissão da posição contratual dos utilizadores, estes respondem solidariamente com o cessionário respectivo.
 
-###### Base XXXIV — Suspensão da exploração
+Base XXXIV
+
+Suspensão da exploração
 
 1 - Em caso de mora nos pagamentos pelos utilizadores que se prolongue para além de 90 dias, a concessionária poderá suspender total ou parcialmente a exploração do sistema até que se encontre pago o debito correspondente.
 
@@ -736,7 +861,9 @@ VII
 
 Sanções
 
-###### Base XXXV — Multas contratuais
+Base XXXV
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de 1000000$00 a 50000000$00, segundo a sua gravidade, a qual será aferida em função dos riscos para a segurança do sistema e para a regularidade da exploração e dos prejuízos resultantes.
 
@@ -748,7 +875,9 @@ Sanções
 
 5 - As multas que não forem pagas voluntariamente até 30 dias após a data da notificação poderão ser levantadas da caução prestada pela concessionária.
 
-###### Base XXXVI — Sequestro
+Base XXXVI
+
+Sequestro
 
 1 - O concedente poderá intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -762,13 +891,17 @@ VIII
 
 Modificação e extinção da concessão
 
-###### Base XXXVII — Trespasse da concessão
+Base XXXVII
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem autorização do Ministro do Ambiente e Recursos Naturais.
 
 2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição da autorização do trespasse.
 
-###### Base XXXVIII — Subconcessão
+Base XXXVIII
+
+Subconcessão
 
 1 - A concessionária não pode subconceder, no todo ou em parte, a concessão sem autorização do Ministro do Ambiente e Recursos Naturais.
 
@@ -776,11 +909,15 @@ Modificação e extinção da concessão
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantêm os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXXIX — Modificação da concessão
+Base XXXIX
+
+Modificação da concessão
 
 Sem prejuízo do disposto no n.º 3 da base III, o contrato de concessão apenas pode ser alterado por acordo entre o concedente e a concessionária.
 
-###### Base XL — Rescisão do contrato
+Base XL
+
+Rescisão do contrato
 
 1 - O concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -806,13 +943,17 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
 
-###### Base XLI — Termo do prazo da concessão
+Base XLI
+
+Termo do prazo da concessão
 
 1 - No termo da concessão e sem prejuízo do disposto nas bases IX e X, o Estado entrará na posse dos bens da concessionária afectos à concessão sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados também os representantes da concessionária.
 
 2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema.
 
-###### Base XLII — Resgate da concessão
+Base XLII
+
+Resgate da concessão
 
 1 - O concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual, mediante aviso prévio feito à concessionária por carta registada com aviso de recepção com, pelo menos, um ano de antecedência.
 
@@ -828,6 +969,8 @@ IX
 
 Contencioso
 
-###### Base XLIII — Arbitragem
+Base XLIII
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão poderá o Estado celebrar convenções de arbitragem.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/172a00/48174824.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/1995/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1995-484669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:38:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 711096cc393d908176773157102bef0a8acf17cd14cc25c4c29473b784886167
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 554c1181a0b051ba27ea516ce0179346722d26b86b9f214b7ed64417d00ba62f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
 - Comissão Instaladora
 - Conselho Tarifário
 - Criação de Serviços
 - Direcção Geral de Energia
+- Energia Elétrica
 - Entidade Reguladora do Sector Eléctrico
 - Estatuto
 - Orgânica
@@ -84,20 +84,55 @@ relationships:
   target: pt:dre:683861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241399:por
+  label: "Alterado o art. 36º pelo DEC LEI.157/96.1996.08.31.MECO, DR:IS-A [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-1996-241399
+  date: '1996-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/1995/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/182/1995/07/27/p/dre
+- type: cites
+  target: pt:dre:448682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:507062:por
+  label: "Revogados os artºs. 12º. e 14º. e alterados os artºs. 4º., 6º., 7º., 11º., 26º., 31º. e 35º. pelo DEC LEI.44/97.1997.02.20.MECO\
+    \ DR.IS-A [43]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1997-507062
+  date: '1997-02-20'
+- type: repealed_by
+  target: pt:dre:303200:por
+  label: "Revogado com excepção do art. 4.º do presente diploma, pelo DEC LEI.97/2002.2002.04.12.MECO DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2002-303200
+  date: '2002-04-12'
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: "Revogado o art. 4º deste diploma, na redacção dada pelo Dec Lei 44/97 de 20-Fev e mantido em vigor pelo Dec Lei\
+    \ 97/2002 de 12-Abr, pelo DEC LEI.29/2006.15.02.2006.MEI, DR.IS-A [33] de 15.02.2006, que mantém, contudo, a vigência\
+    \ do referido art. 4º até 31.12.2006.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
 article_structure:
   article_count: 42
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:38:25Z'
   warnings: []
   errors: []
 ---
@@ -570,12 +605,12 @@ d) Regulamento do Acesso às Redes e às Interligações.
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 10 de Julho de 1995.**
+Promulgado em 10 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1995.**
+Referendado em 12 de Julho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

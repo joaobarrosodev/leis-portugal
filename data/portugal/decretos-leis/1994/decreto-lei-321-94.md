@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/1994/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1994-322095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eec543763bced37439a524588187704c425f5b074ea42c889521f4602ce1352
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca897d2a961b04867528ae6f083960627097e7aec902f77160c76580332fa56b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,51 +66,109 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono de Instalação
-- PSP
-- Tempo de Serviço
 - Aposentação
 - Bilhete de Identidade
-- Pessoal Dirigente
+- Carreira Profissional
 - Comando Geral da Polícia de Segurança Pública
 - Conselho Superior de Justiça e Disciplina
 - Conselho Superior de Polícia
 - Corpo de Intervenção
+- Descrição de Funções
 - Escola Prática de Polícia
 - Escola Superior da Polícia
-- Carreira Profissional
 - Formas de Provimento
 - Licença sem Vencimento
 - Limite de Idade
 - Nomeação
 - Orgânica
-- Descrição de Funções
 - Pessoal Civil
+- Pessoal Dirigente
 - Pessoal Militarizado
 - Prestação de Serviços
 - Promoção Profissional
+- PSP
 - Regime de Pessoal
 - Requisição de Pessoal
 - Subsídio de Residência
+- Tempo de Serviço
 - Uso e porte de arma
 relationships:
 - type: amended_by
   target: pt:dre:180022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575732:por
+  label: "Alterados os arts. 23º e 147º pelo DEC LEI.255/95.1995.09.30.MAI, DR.IS-A [227]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1995-575732
+  date: '1995-09-30'
+- type: amended_by
+  target: pt:dre:261165:por
+  label: "Alterado o artigo 60.º pelo DEC LEI.2-A/96.13.01.1996.MAI, DR.IS-A [11]Supl de 13.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-a-1996-261165
+  date: '1996-01-13'
+- type: amended_by
+  target: pt:dre:239779:por
+  label: "Derrogados os art. 119º, a al. b), nº 1 do art. 122º e o art. 133º pelo DEC LEI.320/98.1998.10.27.MAI, DR.IS-A [248],\
+    \ durante a vigência do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1998-239779
+  date: '1998-10-27'
+- type: amended_by
+  target: pt:dre:180022:por
+  label: "Mantido em vigor, em tudo o que não o contrariar, quanto ao estatuto do respectio pessoal, pela LEI.5/99.1999.01.27.AR\
+    \ DR.IS-A [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-1999-180022
+  date: '1999-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/1994/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/170/1994/06/24/p/dre
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662361:por
+  label: null
+  source: null
 article_structure:
   article_count: 148
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:47Z'
   warnings: []
   errors: []
 ---
@@ -1759,18 +1817,18 @@ b) O [Decreto-Lei n.º 204-A/89](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - José Manuel Durão Barroso.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro a que se refere o artigo 71.º
 
 Principais funções do pessoal técnico policial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74627482.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74627482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/300a00/74627482.pdf)

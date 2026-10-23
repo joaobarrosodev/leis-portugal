@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/1994/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1994-257586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1317cc52afbc3a94f4c8a0e80243765af7f3c66d9b3bbbc0a63bc19c9293e612
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 102984307ee47c9a669bb7cda48a63804b4a844a58cbe1f92329a32c0bb27dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Turismo
+- Apoio ao Investimento
 - Comunidade Europeia
 - Criação de Empresas
 - Desenvolvimento Industrial
-- Política Industrial
 - Desenvolvimento Regional
 - FEDER
-- Apoio ao Investimento
+- Financiamento
 - Incentivos ao Desenvolvimento
-- Setúbal
-- VALE do AVE
-- Programa Renaval
-- Regime de Auxílios a Pequenos Investimentos em Setúbal
-- Pequenas e Médias Empresas
-- Sistema de Incentivos Financeiros ao Investimento no Turismo
-- Sistema de Incentivos ao Potencial Endogeno
-- Sistema de Incentivos de BASE Regional
 - Infraestrutura Turística
 - Operação Integrada de Desenvolvimento do VALE do AVE
+- Pequenas e Médias Empresas
+- Política Industrial
+- Programa Renaval
+- Regime de Auxílios a Pequenos Investimentos em Setúbal
+- Setúbal
+- Sistema de Incentivos ao Potencial Endogeno
+- Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Turismo
+- VALE do AVE
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/1992/05/30/p/dre
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/422/1991/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422/1991/10/30/p/dre
+- type: cites
+  target: pt:dre:183654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517186:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:23Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +153,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Pelo presente diploma cessa a possibilidade de apresentação de novas candidaturas:
+Artigo único. Pelo presente diploma cessa a possibilidade de apresentação de novas candidaturas:
 
 a) Ao Regime de Auxílios a Pequenos Investimentos em Setúbal (RAPIS), criado pelo [Decreto-Lei n.º 422/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1991-322285), de 30 de Outubro;
 
@@ -147,12 +167,12 @@ e) Ao Sistema de Incentivos ao Potencial Endógeno (SIPE), criado pelo [Decreto-
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

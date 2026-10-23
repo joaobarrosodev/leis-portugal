@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/243a00/63766378.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/1994/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1994-625996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aa9d0ffbd251aa2ef7d6aac4556b601fee2593d4cfb5fd1b5f292d8465119a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07b9b634870508c4fe37772b27e10a3f3c5ab7cf6a615fab525a6be628dd9277
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,52 @@ subjects:
 - Cidadão Estrangeiro
 - Conservatória dos Registos Centrais
 - Emolumento
-- Países de Língua Portuguesa
 - Naturalização
 - Nome Civil
+- Países de Língua Portuguesa
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:216911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571070:por
+  label: "Alterados os artºs. 6, 7, 8, 29, 32, 33, 47 e 56 pelo DEC LEI.37/97.1997.01.31.MJ DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1997-571070
+  date: '1997-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/25/1994/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/1994/08/19/p/dre
+- type: cites
+  target: pt:dre:218490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216911:por
+  label: "Revogado o Dec Lei 322/82 de 12-Ago, com a redacção conferida no presente diploma, pelo DEC LEI.237-A/2006.14.12.2006.MJ,\
+    \ DR.IS [239-Supl] de 14.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-a-2006-216911
+  date: '2006-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:25Z'
   warnings: []
   errors: []
 ---
@@ -108,23 +131,23 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pelas Leis n.os [37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro, e [25/94](https://diariodarepublica.pt/dr/detalhe/lei/25-1994-218490), de 19 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 9.º, 11.º, 15.º, 18.º, 22.º, 33.º, 34.º, 47.º, 55.º e 59.º do [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), de 12 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 9.º, 11.º, 15.º, 18.º, 22.º, 33.º, 34.º, 47.º, 55.º e 59.º do [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), de 12 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 2 - A declaração ou o pedido de inscrição devem ser instruídos com prova da nacionalidade portuguesa de um dos progenitores efectuada pelos meios previstos na lei da nacionalidade que lhe seja aplicável.
 
-###### Art. 9.º - 1 - Os indivíduos nascidos em território português, filhos de estrangeiros que aqui residam, com título válido de autorização de residência, há, pelo menos, 6 ou 10 anos, conforme se trate, respectivamente, de cidadãos nacionais de países de língua oficial portuguesa ou de outros países, e desde que não se encontrem ao serviço do respectivo Estado, que pretendam que lhes seja atribuída a nacionalidade portuguesa devem declarar que querem ser portugueses.
+Art. 9.º - 1 - Os indivíduos nascidos em território português, filhos de estrangeiros que aqui residam, com título válido de autorização de residência, há, pelo menos, 6 ou 10 anos, conforme se trate, respectivamente, de cidadãos nacionais de países de língua oficial portuguesa ou de outros países, e desde que não se encontrem ao serviço do respectivo Estado, que pretendam que lhes seja atribuída a nacionalidade portuguesa devem declarar que querem ser portugueses.
 
 2 - ...
 
 3 - ...
 
-###### Art. 11.º - 1 - O estrangeiro casado há mais de três anos com nacional português, se, na constância do matrimónio, quiser adquirir a nacionalidade, deve declará-lo.
+Art. 11.º - 1 - O estrangeiro casado há mais de três anos com nacional português, se, na constância do matrimónio, quiser adquirir a nacionalidade, deve declará-lo.
 
 2 - ...
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 2 - ...
 
@@ -148,7 +171,7 @@ g) Documento comprovativo de ter cumprido as leis do recrutamento militar do pa�
 
 5 - ...
 
-###### Art. 18.º - 1 - ...
+Art. 18.º - 1 - ...
 
 2 - Se tiver sido requerida dispensa de algum elemento, do cumprimento de alguma das suas formalidades ou de qualquer requisito de naturalização, será a petição imediatamente submetida, através do Serviço de Estrangeiros e Fronteiras, a despacho do Ministro da Administração Interna.
 
@@ -174,7 +197,7 @@ g) Documento comprovativo de ter cumprido as leis do recrutamento militar do pa�
 
 13 - ...
 
-###### Art. 22.º - 1 - Todo aquele que requeira registo de aquisição da nacionalidade portuguesa, por efeito da vontade ou por adopção, deve:
+Art. 22.º - 1 - Todo aquele que requeira registo de aquisição da nacionalidade portuguesa, por efeito da vontade ou por adopção, deve:
 
 a) Comprovar por meio documental, testemunhal ou qualquer outro legalmente admissível a ligação efectiva à comunidade nacional;
 
@@ -186,19 +209,19 @@ c) Ser ouvido, em auto, acerca da existência de quaisquer outros factos suscept
 
 3 - Se o conservador dos Registos Centrais tiver conhecimento de factos susceptíveis de fundamentarem a oposição à aquisição da nacionalidade portuguesa, deve participá-lo ao Ministério Público junto do Tribunal da Relação de Lisboa, remetendo-lhe todos os elementos de que dispuser.
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 2 - Os registos de naturalização devem conter, em especial, a data do respectivo decreto.
 
-###### Art. 34.º - 1 - O registo de naturalização faz-se à vista do exemplar do Diário da República em que haja sido feita a publicação do respectivo decreto.
+Art. 34.º - 1 - O registo de naturalização faz-se à vista do exemplar do Diário da República em que haja sido feita a publicação do respectivo decreto.
 
 2 - ...
 
-###### Art. 47.º - 1 - As declarações para fins de atribuição, aquisição e perda da nacionalidade portuguesa podem ser prestadas directamente na Conservatória dos Registos Centrais ou por intermédio de serviços consulares ou de conservatórias do registo civil.
+Art. 47.º - 1 - As declarações para fins de atribuição, aquisição e perda da nacionalidade portuguesa podem ser prestadas directamente na Conservatória dos Registos Centrais ou por intermédio de serviços consulares ou de conservatórias do registo civil.
 
 2 - ...
 
-###### Art. 55.º - 1 - Aquele que pretenda adquirir a nacionalidade portuguesa pode requerer, no auto de declaração respectivo ou no requerimento de naturalização, o aportuguesamento dos elementos constitutivos do nome próprio, a conformação do nome completo às regras legais portuguesas sobre a sua composição ou, se já tiver assento de nascimento lavrado no registo civil português com nome diverso do que usa, a adopção desse nome.
+Art. 55.º - 1 - Aquele que pretenda adquirir a nacionalidade portuguesa pode requerer, no auto de declaração respectivo ou no requerimento de naturalização, o aportuguesamento dos elementos constitutivos do nome próprio, a conformação do nome completo às regras legais portuguesas sobre a sua composição ou, se já tiver assento de nascimento lavrado no registo civil português com nome diverso do que usa, a adopção desse nome.
 
 2 - ...
 
@@ -210,7 +233,7 @@ c) Ser ouvido, em auto, acerca da existência de quaisquer outros factos suscept
 
 6 - Sempre que o nome seja alterado, a nova composição será averbada ao assento de nascimento respectivo, se já lavrado ou a lavrar por transcrição; tratando-se de assento a lavrar por inscrição ou de registo de nacionalidade, mencionar-se-á no texto o novo nome e averbar-se-á a forma originária.
 
-###### Art. 59.º ...
+Art. 59.º ...
 
 a) Aos Serviços de Estrangeiros e Fronteiras e de Identificação Civil, todas as alterações de nacionalidade que registar;
 
@@ -218,7 +241,7 @@ b) ...
 
 c) Às representações consulares ou a outras autoridades estrangeiras, o registo de alterações de nacionalidade dos respectivos nacionais, quando existir acordo ou outra convenção internacional que o imponha.
 
-###### Art. 2.º - 1 - O pedido de reconhecimento da nacionalidade portuguesa previsto no n.º 3 do artigo 2.º da [Lei n.º 25/94](https://diariodarepublica.pt/dr/detalhe/lei/25-1994-218490), de 19 de Agosto, deve ser apresentado na Conservatória dos Registos Centrais, directamente ou por intermédio de serviços consulares ou de conservatórias do registo civil portugueses.
+Art. 2.º - 1 - O pedido de reconhecimento da nacionalidade portuguesa previsto no n.º 3 do artigo 2.º da [Lei n.º 25/94](https://diariodarepublica.pt/dr/detalhe/lei/25-1994-218490), de 19 de Agosto, deve ser apresentado na Conservatória dos Registos Centrais, directamente ou por intermédio de serviços consulares ou de conservatórias do registo civil portugueses.
 
 2 - O pedido, assinado pelo interessado ou, quando seja o caso, pelo cônjuge sobrevivo ou por descendente, com reconhecimento da sua assinatura, deve conter:
 
@@ -236,20 +259,20 @@ b) O número e ano dos assentos do registo civil português interno ou consular 
 
 7 - São gratuitos os actos, documentos e registos respeitantes ao reconhecimento da nacionalidade portuguesa regulado no presente artigo.
 
-###### Art. 3.º São revogados os n.os 2 e 3 do artigo 19.º e o artigo 20.º do [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), de 12 de Agosto.
+Art. 3.º São revogados os n.os 2 e 3 do artigo 19.º e o artigo 20.º do [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), de 12 de Agosto.
 
-###### Art. 4.º O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
 Para ser publicado no Boletim Oficial de Macau.
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1994. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/046a00/08300835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5182bd33227d879d075a0e8a1088bee49c65cee502f95ee2bf89c588b2bb3635
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e52f79ebdcc6367fd88872b1d0cac668dd46bbf17f38fb76fff438f6431332c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Auditoria Jurídica
 - Comissão Consultiva para a Cooperação
 - Comissão Interministerial para a Cooperação
 - Comissão Interministerial para as Migrações e Comunidades Portuguesas
 - Comissão Interministerial para os Assuntos Comunitários
 - Comissão Nacional da Organização Marítima Internacional
+- Conselho das Comunidades Portuguesas
+- Departamento de Assuntos Jurídicos
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
 - Direcção Geral das Relações Bilaterais
 - Direcção Geral de Cooperação
 - Direcção Geral de Pessoal
+- Direcção Geral de Política Externa
 - Direcção Geral dos Assuntos Comunitários
 - Direcção Geral dos Assuntos Consulares e da Administração Financeira e Patrimonial
 - Direcção Geral dos Assuntos Multilaterais
 - Direcção Geral dos Negócios Político-económicos
-- Profissão Diplomática
 - Extinção de Serviços
 - Formas de Provimento
-- Secretaria Geral
 - Fundo para a Cooperação Económica
+- Fundo para as Relações Internacionais
 - Gabinete de Informação e Imprensa
 - Inspecção Diplomática e Consular
 - Instituto Camões
 - Instituto da Cooperação Portuguesa
 - Instituto de Apoio à Emigração e às Comunidades Portuguesas
+- Instituto Diplomático
 - Instituto para a Cooperação Económica
 - Integração de Trabalhadores
-- Auditoria Jurídica
-- Conselho das Comunidades Portuguesas
-- Departamento de Assuntos Jurídicos
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Fundo para as Relações Internacionais
-- Instituto Diplomático
-- Protocolo do Estado
-- Orgânica
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Profissão Diplomática
+- Protocolo do Estado
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
-- Direcção Geral de Política Externa
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19950715 - ALTERADO O ART 32 PELO DEC LEI 169/95 DE 15-JUL DR.IS-A [162] E TORNADO APLICÁVEL O DISPOSTO NO NUM 2\
+    \ DO ART 17 DO PRESENTE DIPLOMA, AOS CARGOS CONSTANTES DO NUM 1 DO CITADO DIPLOMA \0 DIPLOMA"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:545648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241642:por
+  label: "Alterado o art. 14º pela LEI.48/96.1996.09.04.AR, DR.IS-A [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-1996-241642
+  date: '1996-09-04'
+- type: amended_by
+  target: pt:dre:694050:por
+  label: "Alterado o art. 19º pelo DEC LEI.45/2006.24.02.2006.MNE, DR.IS-A [40] de 24.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2006-694050
+  date: '2006-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/1991/03/21/p/dre
   label: null
@@ -119,16 +134,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/1992/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1992/05/06/p/dre
+- type: cites
+  target: pt:dre:176994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545648:por
+  label: "Revogado o presente diploma, e determinada a extinção, sendo objecto de fusão: da Direcção-Geral dos Assuntos Multilaterais,\
+    \ cujas atribuições, nos termos de al. a) do nº 3 do art. 27.º, são integradas na Direcção-Geral de Política Externa e\
+    \ na Direcção-Geral dos Assuntos Técnicos e Económicos; - da Direcção-Geral das Relações Bilaterais, cujas atribuições,\
+    \ nos termos da al. b) do nº 3 do art. 27.º, são transferidas para a direcção-Geral de Política Externa, para a Direcção-Geral\
+    \ dos Assuntos Europeus e para a Direcção-Geral dos Assuntos Técnicos e Económicos;as; - do Gabinete de Organização, Planeamento\
+    \ e Avaliação, cujas atribuições, nos termos da al. d) do nº 3 do art. 27.º são integradas na Secretaria-Geral; e a reestruturação\
+    \ da Direcção-Geral dos Assuntos Comunitários, que, nos termos do nº 4 do art. 27.º, passa a denominar-se Direcção-Geral\
+    \ dos Assuntos Europeus, pelo DEC LEI.204/2006.27.10.2006.MNE, DR.IS [208] de 27.10.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-2006-545648
+  date: '2006-10-27'
 article_structure:
   article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:17Z'
   warnings: []
   errors: []
 ---
@@ -537,12 +648,12 @@ o) O [Decreto Regulamentar n.º 27/87](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso - António Fernando Couto dos Santos.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

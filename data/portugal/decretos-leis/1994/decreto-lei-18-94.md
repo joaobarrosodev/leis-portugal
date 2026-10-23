@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/1994/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1994-496130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ac3afc884999b57096db74f951daca727dbc4544378ff6fe4c2228703fbd2ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4fa034043f00981cd36879364739f4fff3fff6ea404ed4f0d2caaf1f40fbcfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Carreira Profissional
+- Definição de Competências
 - Inspecção Geral e Auditoria de Gestão
 - Orgânica
 - Pessoal de Inspecção
@@ -75,20 +75,50 @@ relationships:
   target: pt:dre:331838:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331838:por
+  label: "Alterado o quadro de pessoal da carreira de inspecção, constante do Dec Lei 192/91, de 21-Mai, DR.IS-A [116], na\
+    \ redacção do presente diploma, pelo DR.7/2001.2001.05.28.MADRP, DR.IS-B [123] de 28/MAI/2001\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2001-331838
+  date: '2001-05-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/192/1991/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/192/1991/05/21/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640076:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:45Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +133,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 3.º, 6.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 192/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076), de 21 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 3.º, 6.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 192/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076), de 21 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Competências
 
@@ -199,7 +229,7 @@ b) Inspector técnico-administrativo - de entre indivíduos habilitados com curs
 
 3 - O estágio para ingresso na carreira de inspector técnico-administrativo rege-se pelo disposto no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
 
-###### Art. 2.º São aditados ao capítulo II do [Decreto-Lei n.º 192/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076), de 21 de Maio, os artigos 6.º-A, 7.º-A e 8.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao capítulo II do [Decreto-Lei n.º 192/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076), de 21 de Maio, os artigos 6.º-A, 7.º-A e 8.º-A, com a seguinte redacção:
 
 ###### Artigo 6.º-A — Serviços de Auditoria de Acções Conjunturais e de Gestão (SACOG)
 
@@ -231,16 +261,16 @@ d) Desenvolver e gerir aplicações informáticas, nomeadamente bases de dados s
 
 Junto do director-geral funciona o Secretariado de Apoio, chefiado por um chefe de secção, com competência para assegurar as tarefas de apoio à direcção e aos serviços operativos de inspecção e de auditoria no âmbito do controlo da movimentação dos inspectores e acompanhamento dos trabalhos de inspecção, organização dos processos internos do serviço, tratamento de texto e reprodução dos processos inspectivos.
 
-###### Art. 3.º São revogados a alínea c) do n.º 2 e o n.º 5 do artigo 8.º do [Decreto-Lei n.º 192/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076).
+Art. 3.º São revogados a alínea c) do n.º 2 e o n.º 5 do artigo 8.º do [Decreto-Lei n.º 192/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1991-640076).
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

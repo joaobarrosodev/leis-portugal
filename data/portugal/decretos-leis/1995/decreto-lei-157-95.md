@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/154a00/42944294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/1995/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1995-463656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d457d89873d9a282970de44cd39919aa6c425d0188c9dc2c4e37ed4a18c7a73b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cd3acc72a48b5c936c0d1f50be23c57fdf77ef8eaef55cc76740d8cf9ecc36c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Direito de Antena
-- Teledistribuição
-- Madeira.região Autónoma
-- Regime Jurídico
 - Açores
+- Direito de Antena
+- Madeira.região Autónoma
+- Multa
+- Regime Jurídico
+- Teledistribuição
 - Televisão
 relationships:
 - type: amended_by
   target: pt:dre:652875:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412047:por
+  label: "Derrogados os nºs 1 e 2 do art. 11º, na redacção dada pelo presente diploma ao Dec Lei 292/91 de 13-Ago, pelo DEC\
+    \ LEI.120/96.1996.08.07.MEPAT, DR.IS-A [182]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1996-412047
+  date: '1996-08-07'
+- type: amended_by
+  target: pt:dre:652875:por
+  label: "Totalmente revogado pelo DEC LEI.241/97.1997.09.18.MEPAT, DR.IS-A [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1997-652875
+  date: '1997-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre
+- type: cites
+  target: pt:dre:355960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:45Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +139,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 58/90](https://diariodarepublica.pt/dr/detalhe/lei/58-1990-556661), de 7 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.° da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.° Os artigos 17.° e 19.° do [Decreto-Lei n.º 292/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1991-676043), de 13 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.° Os artigos 17.° e 19.° do [Decreto-Lei n.º 292/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1991-676043), de 13 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 17.° — Coimas
 
@@ -138,16 +165,16 @@ c) ...
 
 5 - Os operadores de rede de distribuição por cabo que utilizem meios radioeléctricos como suporte de transmissão ficam obrigados a proceder à codificação dos programas distribuídos.
 
-###### Art. 2.° As autorizações já concedidas para o exercício de actividade de operador de rede de distribuição por cabo nas Regiões Autónomas podem ser alteradas, nos termos do presente diploma, a pedido do respectivo titular.
+Art. 2.° As autorizações já concedidas para o exercício de actividade de operador de rede de distribuição por cabo nas Regiões Autónomas podem ser alteradas, nos termos do presente diploma, a pedido do respectivo titular.
 
 Visto e aprovado em Conselho de Ministros de 18 de Maio de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Martins Ferreira do Amaral - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

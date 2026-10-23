@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/1994/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1994-223062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e4b90a5f9aee70e216745e5c5710b8d80bba654a19c31cfe7780357310e626d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88d699f9d3cc550b0b4ce425adf505636adfa8166a752da0f43523b054e19583
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Gabinete de Gestão Financeira
+- Gestão Financeira
 - Ministério da Justiça
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:337781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:21Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +100,18 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São revogados os §§ 1.º do artigo 14.º e 1.º e 2.º do artigo 16.º e o corpo do artigo 20.º do [Decreto-Lei n.º 35483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35483-1946-337781), de 2 de Fevereiro de 1946.
+Artigo 1.º São revogados os §§ 1.º do artigo 14.º e 1.º e 2.º do artigo 16.º e o corpo do artigo 20.º do [Decreto-Lei n.º 35483](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35483-1946-337781), de 2 de Fevereiro de 1946.
 
-###### Art. 2.º A competência em matéria de orçamentos de delegação dos tribunais, englobando antecipações de duodécimos e alterações orçamentais, bem como de contas de gerência, são atribuídas ao Gabinete de Gestão Financeira do Ministério da Justiça.
+Art. 2.º A competência em matéria de orçamentos de delegação dos tribunais, englobando antecipações de duodécimos e alterações orçamentais, bem como de contas de gerência, são atribuídas ao Gabinete de Gestão Financeira do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 12 de Julho de 1994.**
+Promulgado em 12 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Julho de 1994.**
+Referendado em 14 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

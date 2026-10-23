@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/044a00/07680771.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/1994/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1994-515808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0b3901782cbda644d63630ed9ec37f61e6b5ee2df3c15ac0f7d606521928b5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a52330b0f5048510cf202abfe5c28c2cc3f5bc71f9befe570268aa23fa324fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Instituto da ÁGUA
+- Bacia Hidrográfica
 - Conselho de Bacia
+- Conselho Nacional da ÁGUA
 - Criação de Serviços
-- Recursos Hídricos
 - Definição de Competências
 - Direcção Regional do Ambiente e Recursos Naturais
+- Domínio Público Hídrico
 - Extinção de Serviços
+- Gabinete da Navegabilidade do Douro
 - Gestão dos Recursos
-- Conselho Nacional da ÁGUA
-- Proteção do Ambiente
+- Instituto da ÁGUA
 - Planeamento
 - Plano de Bacia Hidrográfica
-- Bacia Hidrográfica
-- Zona de Proteção
 - Plano Nacional da ÁGUA
-- Domínio Público Hídrico
-- Gabinete da Navegabilidade do Douro
+- Proteção do Ambiente
+- Recursos Hídricos
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:469068:por
@@ -92,16 +92,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:324338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324482:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157639:por
+  label: "Revogados os art 9º e 10º pelo Dec Lei 166/97.1997.07.02.MAM, DR.IS-A [150] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1997-157639
+  date: '1997-07-02'
+- type: repealed_by
+  target: pt:dre:469068:por
+  label: Revogado o presente diploma, nos termos do nº2 do art. 98º, na data da entrada em vigor dos actos legislativos previstos
+    nos nºs. 1 e 2 do art. 102º pela LEI.58/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/58-2005-469068
+  date: '2005-12-29'
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:11Z'
   warnings: []
   errors: []
 ---
@@ -476,12 +495,12 @@ As acções e medidas definidas nos planos de recursos hídricos devem ser previ
 
 Visto e aprovado em Conselho de Ministros de 7 de Outubro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - António José Fernandes de Sousa - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Janeiro de 1994.**
+Referendado em 25 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

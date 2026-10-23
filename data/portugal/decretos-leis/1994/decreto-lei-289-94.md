@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/263a00/68216822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/289/1994/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1994-534655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c96d9cbd698bf0d6236c9defa140a4a2dd90d1146d4d2404ab3ed9cd918f5bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed5224ca1499a9f4f2c0fbc238769617d3dfceed216ecaac1860f442238d4bd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Fabrico Industrial
 - Fiscalização
-- Medicamento
 - Inspecção Geral das Actividades Económicas
 - Instituto de Protecção da Produção Agro-Alimentar
 - Licenciamento
+- Medicamento
 - Medicina Veterinária
-- Comércio
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:553875:por
@@ -92,16 +92,21 @@ relationships:
   target: celex:31992L0018
   label: null
   source: http://data.europa.eu/eli/dir/1992/18/oj
+- type: repealed_by
+  target: pt:dre:553875:por
+  label: "Revogado pelo DEC LEI.245/2000.2000.09.29.MADRP DR.IS-A [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2000-553875
+  date: '2000-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:07Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +123,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [90/677/CEE](https://data.europa.eu/eli/dir/1990/677/oj?locale=pt), do Conselho, de 13 de Dezembro, e [92/18/CEE](https://data.europa.eu/eli/dir/1992/18/oj?locale=pt), da Comissão, de 20 de Março, que estabelecem normas para medicamentos veterinários imunológicos e requisitos especiais aplicáveis aos ensaios destes produtos de uso veterinário.
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [90/677/CEE](https://data.europa.eu/eli/dir/1990/677/oj?locale=pt), do Conselho, de 13 de Dezembro, e [92/18/CEE](https://data.europa.eu/eli/dir/1992/18/oj?locale=pt), da Comissão, de 20 de Março, que estabelecem normas para medicamentos veterinários imunológicos e requisitos especiais aplicáveis aos ensaios destes produtos de uso veterinário.
 
-###### Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 2.º As normas técnicas de execução do presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 3.º Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA) e à Inspecção-Geral das Actividades Económicas (IGAE) assegurar a fiscalização do cumprimento das normas do presente diploma e respectiva regulamentação, sem prejuízo das competências atribuídas por lei a outras entidades.
+Art. 3.º Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA) e à Inspecção-Geral das Actividades Económicas (IGAE) assegurar a fiscalização do cumprimento das normas do presente diploma e respectiva regulamentação, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Art. 4.º - 1 - Constituem contra-ordenações puníveis pelo presidente do conselho directivo do IPPAA, com coima cujo montante mínimo é de 100000$00 e máximo de 500000$00:
+Art. 4.º - 1 - Constituem contra-ordenações puníveis pelo presidente do conselho directivo do IPPAA, com coima cujo montante mínimo é de 100000$00 e máximo de 500000$00:
 
 a) A instalação de laboratórios fabricantes de medicamentos veterinários imunológicos sem a licença emitida pelo IPPAA;
 
@@ -138,7 +143,7 @@ d) O incumprimento das normas relativas à prescrição e utilização dos medic
 
 3 - As coimas aplicadas às pessoas colectivas podem elevar-se até aos montantes máximos de 6000000$00, em caso de dolo, e de 3000000$00, em caso de negligência.
 
-###### Art. 5.º - 1 - Simultaneamente com a coima podem ser aplicadas as seguintes sanções acessórias:
+Art. 5.º - 1 - Simultaneamente com a coima podem ser aplicadas as seguintes sanções acessórias:
 
 a) Apreensão de produtos;
 
@@ -148,11 +153,11 @@ c) Encerramento, até dois anos, do estabelecimento ou cancelamento de serviços
 
 2 - Quando seja aplicada a sanção de encerramento do estabelecimento ou de cancelamento de serviços, licenças ou alvarás, a reabertura do estabelecimento e a emissão ou a renovação da licença ou alvará só terão lugar quando se encontrem reunidas as condições legais e regulamentares exigidas para o seu normal funcionamento.
 
-###### Art. 6.º - 1 - A instrução dos processos de contra-ordenação é da competência da IGAE, à qual são enviados os autos de notícia levantados por outras entidades.
+Art. 6.º - 1 - A instrução dos processos de contra-ordenação é da competência da IGAE, à qual são enviados os autos de notícia levantados por outras entidades.
 
 2 - Finda a instrução, os processos são remetidos ao conselho directivo do IPPAA para decisão.
 
-###### Art. 7.º O produto das coimas reverte:
+Art. 7.º O produto das coimas reverte:
 
 a) Em 20% para o IPPAA;
 
@@ -162,16 +167,16 @@ c) Em 10% para a IGAE;
 
 d) Em 60% para o Estado.
 
-###### Art. 8.º É revogado, a partir da data da entrada em vigor da portaria a que se refere o artigo 2.º do presente diploma, o Decreto-Lei n.º 76/87, de 13 de Fevereiro.
+Art. 8.º É revogado, a partir da data da entrada em vigor da portaria a que se refere o artigo 2.º do presente diploma, o Decreto-Lei n.º 76/87, de 13 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Joaquim Fernando Nogueira - António Duarte Silva - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

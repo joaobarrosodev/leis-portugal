@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20208-1963-683785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 188611d5833163b812ce91e41ce27f1504d65a5e6fa8b6c915609dfa2ffe9a62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a84a0eb93798c131556f36cfdc2c269690825b619770c4933d44535e11306c5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Colonial
+- Admissão de Pessoal
+- Ensino Primário
+- Escola do Magistério Primário
+- Formas de Provimento
+- Pessoal Docente
+- Recrutamento de Pessoal
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:414041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:516702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686233:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:02Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +113,11 @@ Assim, obedecendo ao disposto no artigo 3.º do [Decreto n.º 44240](https://dia
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que sejam aplicados às províncias ultramarinas os artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, com a seguinte redacção:
 
-###### Artigo 1.º - 1. As funções de secretário-tesoureiro das escolas do magistério primário passam a ser exercidas pelos professores dos respectivos quadros que forem designados livremente pelos governadores ou governadores-gerais das respectivas províncias.
+Artigo 1.º - 1. As funções de secretário-tesoureiro das escolas do magistério primário passam a ser exercidas pelos professores dos respectivos quadros que forem designados livremente pelos governadores ou governadores-gerais das respectivas províncias.
 
 2. ...
 
-###### Art. 2.º - 1. O provimento das vagas de professor da disciplina de Desenho e Trabalhos Manuais Educativos das escolas do magistério primário, a efectuar nos termos da alínea d) do artigo 4.º do [Decreto n.º 44240](https://diariodarepublica.pt/dr/detalhe/decreto/44240-1962-516702), de 17 de Março de 1962, poderá ser requerido pelos interessados no prazo que for estabelecido em aviso publicado no Diário do Governo e transcrito no Boletim Oficial das províncias ultramarinas.
+Art. 2.º - 1. O provimento das vagas de professor da disciplina de Desenho e Trabalhos Manuais Educativos das escolas do magistério primário, a efectuar nos termos da alínea d) do artigo 4.º do [Decreto n.º 44240](https://diariodarepublica.pt/dr/detalhe/decreto/44240-1962-516702), de 17 de Março de 1962, poderá ser requerido pelos interessados no prazo que for estabelecido em aviso publicado no Diário do Governo e transcrito no Boletim Oficial das províncias ultramarinas.
 
 2. No caso de não haver requerentes, poderá o Ministro do Ultramar autorizar o contrato para a regência daquela disciplina, em igualdade de condições de remuneração com os professores citados no n.º 1, de indivíduos diplomados com o curso superior de Pintura, Escultura ou Arquitectura. A estes contratos é aplicável a regra do artigo 35.º do [Decreto n.º 38963](https://diariodarepublica.pt/dr/detalhe/decreto/38963-1952-671378), de 24 de Outubro de 1952.
 
@@ -107,7 +127,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 4.º Os professores das disciplinas de Psicologia Aplicada à Educação e Organização Política e Administrativa da Nação e de Didáctica Especial e Legislação e Administração Escolares são nomeados por um período de dois anos, renovável por mais outro período de dois anos, mediante simples despacho ministerial, sobre proposta fundamentada do director da escola e parecer favorável dos serviços de inspecção. A nomeação considera-se de carácter temporário e a sua renovação faz-se independentemente de nova nomeação, visto e posse.
+Art. 4.º Os professores das disciplinas de Psicologia Aplicada à Educação e Organização Política e Administrativa da Nação e de Didáctica Especial e Legislação e Administração Escolares são nomeados por um período de dois anos, renovável por mais outro período de dois anos, mediante simples despacho ministerial, sobre proposta fundamentada do director da escola e parecer favorável dos serviços de inspecção. A nomeação considera-se de carácter temporário e a sua renovação faz-se independentemente de nova nomeação, visto e posse.
 
 § 1.º Quando o primeiro período de dois anos terminar no decurso de um ano lectivo, considerar-se-á sempre prorrogado até o fim desse ano lectivo, iniciando-se no começo do ano lectivo seguinte o segundo período de renovação.
 

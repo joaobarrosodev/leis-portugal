@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d37de5284b6c47cc6b2fbd9b2eefb9e329fe1f1db798f4541c0aa9b8b4e8f042
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9107a37dc68b326d6ef22d9268ff13f73cf03ccded0a7b043b012812274290d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Penal
-- Multa
 - Contra-ordenação
+- Custas Judiciais
 - Definição de Competências
+- Direito Penal
 - Direito Público
-- Pagamento
 - Ilícito de MERA Ordenação Social
 - Impugnação
 - Justiça
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Sanção Penal
+- Ministério Público
+- Multa
+- Pagamento
 - Prazo
 - Processo de Ilícito de MERA Ordenação Social
 - Processo Judicial
-- Direito Penal
-- Regime de Prescrição
+- Processo Penal
+- Recurso
 - Regime das contra Ordenações
+- Regime de Prescrição
 - Regime Jurídico
-- Ministério Público
+- Sanção Penal
 - Taxa
-- Custas Judiciais
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:116152179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: Alterados os art.s 17º, 73º, 80º e 93º do Dec Lei 433/82, de 27-Out, na redacção do presente diploma, pelo DEC LEI.323/2001.2001.12.17.MJ
+    DR.IS-A [290]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:536642:por
+  label: "Alterados os arts. 27.º e 27.º-A do Dec Lei 433/82. de 27-Out, na redacção do presente diploma, pela LEI.109/2001.2001.12.24.AR\
+    \ DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-2001-536642
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:693064:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do n.º 1 do art 74.º do Dec Lei\
+    \ 433/82, de 27-Out, na redacção do presente diploma, conjugada com o artigo 411.º do Código de Processo Penal, aprovado\
+    \ pelo Dec Lei 78/87 de 17-Fev, quando dela decorre um prazo mais curto para o recorrente motivar o recurso, pelo AC.27/2006.10.01.2006.TCS,\
+    \ DR.IS-A [45] de 03.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/27-2006-693064
+  date: '2006-01-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1995/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1995/05/05/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
 article_structure:
-  article_count: 171
+  article_count: 170
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:29Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +184,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 13/95](https://diariodarepublica.pt/dr/detalhe/lei/13-1995-512830), de 5 de Maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 3.º, 4.º, 9.º, 13.º, 16.º a 19.º, 21.º a 27.º, 29.º, 33.º, 35.º, 38.º, 39.º, 41.º, 45.º, 49.º a 51.º, 53.º, 56.º, 58.º a 62.º, 64.º, 65.º, 68.º a 76.º, 78.º a 83.º, 85.º e 87.º a 95.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, alterado pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 3.º, 4.º, 9.º, 13.º, 16.º a 19.º, 21.º a 27.º, 29.º, 33.º, 35.º, 38.º, 39.º, 41.º, 45.º, 49.º a 51.º, 53.º, 56.º, 58.º a 62.º, 64.º, 65.º, 68.º a 76.º, 78.º a 83.º, 85.º e 87.º a 95.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, alterado pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -634,7 +670,7 @@ A decisão de apreensão pode ser impugnada judicialmente, sendo aplicáveis as 
 
 2 - ...
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, alterado pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, os artigos 21.º-A, 27.º-A, 30.º-A, 48.º-A, 65.º-A, 72.º-A e 89.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, alterado pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, os artigos 21.º-A, 27.º-A, 30.º-A, 48.º-A, 65.º-A, 72.º-A e 89.º-A, com a seguinte redacção:
 
 ###### Artigo 21.º-A — Pressupostos da aplicação das sanções acessórias
 
@@ -686,23 +722,23 @@ A prescrição do procedimento por contra-ordenação suspende-se, para além do
 
 2 - A correspondência entre o montante da coima aplicada e a duração da prestação de trabalho, bem como as formas da sua execução, são reguladas por legislação especial.
 
-###### Art. 3.º São revogados os artigos 84.º e 86.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+Art. 3.º São revogados os artigos 84.º e 86.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Art. 4.º É republicado em anexo o texto do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, e pelo presente diploma.
+Art. 4.º É republicado em anexo o texto do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, e pelo presente diploma.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Outubro de 1995.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Outubro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 I PARTE
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/026a00/04800486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/1994/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1994-496680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb7874d9c8fcd7e489318496b2cb8a8bea338ec2aaf46cce805b2c65fcca53af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d41b1bf296524260873bb3d65213fa57614dcd60b3e5a97da823aff66e3b2fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Higiene do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
 - Contra-ordenação Laboral
-- Saúde
-- Segurança no Trabalho
+- Higiene do Trabalho
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Multa
 - Patronato
 - Prestação de Serviços
-- Condições de Higiene e Segurança no Trabalho
+- Saúde
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:2448796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173689:por
+  label: "Alterados os arts. 1º, 2º, 4º, 6º, 8º, 9º, 10º, 11º, 13º, 14º, 16º, 17º, 18º, 22º, 23º, 24º, 26º, 27º, 28º, 30º,\
+    \ 31º e 32º e aditado o art. 26º-A pela LEI.7/95.1995.03.29.AR, DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-1995-173689
+  date: '1995-03-29'
+- type: amended_by
+  target: pt:dre:423061:por
+  label: "Alterada a redacção do art. 28.º, na redacção dada pela Lei 7/95, de 29-Mar LEI.118/99.1999.08.11.AR DR.IS-A [186]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-1999-423061
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:302964:por
+  label: "Alterados os arts. 4º, 5º, 8º, 9º, 10º, 11º, 14º, 16º, 17º, 18º, 22º, 23º, 26º e 28º, aditados os arts. 5º-A, 5º-B,\
+    \ 10º-A e 25º-A e revogados os arts. 21º, 29º e 30º pelo DEC LEI.109/2000.2000.06.30.MTS,DR.IS-A [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2000-302964
+  date: '2000-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/441/1991/11/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/441/1991/11/14/p/dre
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500698:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490009:por
+  label: Revogado, a partir de 01.10.2009 e sem prejuízo dos nºs 2 e 3 do art. 120.º, pela LEI.102/2009.10.09.2009.AR, DR.IS
+    [176] de 10.09.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/102-2009-490009
+  date: '2009-09-10'
 article_structure:
   article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:30Z'
   warnings: []
   errors: []
 ---
@@ -518,12 +558,12 @@ Sem prejuízo do disposto nos artigos 27.º e 30.º, o presente diploma entra em
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Janeiro de 1994.**
+Promulgado em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Janeiro de 1994.**
+Referendado em 11 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/134a00/37623764.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/1995/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1995-517787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a70fd8d35f77002802a9b623da12b0e681a69ba79618c6d64b11b14fc9414e37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0913b6744be7c258aa5ac01f09d0a25faea550bd2f3957e9b422d4c168a9b7c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Comissão Nacional Fal-sec
-- Transporte Aéreo
-- Criação de Serviços
 - ANA
 - Aviação Civil
+- Comissão Nacional Fal-sec
+- Criação de Serviços
 - Segurança Aérea
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:239805:por
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1994/05/14/p/dre
+- type: cites
+  target: pt:dre:264276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308169:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239805:por
+  label: "Revogado pelo DEC LEI.322/98.1998.10.28.MEPAT DR.IS-A [249]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1998-239805
+  date: '1998-10-28'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:15Z'
   warnings: []
   errors: []
 ---
@@ -235,12 +248,12 @@ Os regulamentos internos da Comissão Nacional FAL/SEC e das comissões aeroport
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Manuel Dias Loureiro - Eduardo de Almeida Catroga - José Manuel Briosa e Gala - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 15 de Maio de 1995.**
+Promulgado em 15 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Maio de 1995.**
+Referendado em 17 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/12/291a00/72807281.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/303/1994/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1994-571176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa425e261ca440d0ac673324afc5e8cf98453cb25d7cecc91e3f60940c8e73c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95cee846d7a1c1f2ff3cdbe99a98e9c41de22495ef9ff0842ccc0f34d4c8f30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,42 @@ reuse:
 subjects:
 - Agência do Controle das Ajudas Comunitárias ao Sector do Azeite
 - Azeite
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho Fiscal
 - Definição de Competências
 - Equiparação de Cargos
+- Gestão Financeira
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:469063:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:687468:por
+  label: "Alterado o art. 6º do Dec Lei 70/89 de 02-Mar, com a redacção do presente diploma, pelo DEC LEI.309/97.13.11.1997.MADRP,\
+    \ DR.IS-A [263] de 13.11.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-1997-687468
+  date: '1997-11-13'
 - type: cites
   target: celex:31984R2262
   label: null
   source: http://data.europa.eu/eli/reg/1984/2262/oj
+- type: repealed_by
+  target: pt:dre:469063:por
+  label: "Revogado pelo DEC LEI.231/2005.29.12.2005.MADRP, DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2005-469063
+  date: '2005-12-29'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:26Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +122,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 6.º, 8.º, 13.º e 24.º do Decreto-Lei n.º 70/89, de 2 de Março, passam a ter a seguinte redacção:
+Artigo único. Os artigos 6.º, 8.º, 13.º e 24.º do Decreto-Lei n.º 70/89, de 2 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — [...]
 
@@ -153,12 +164,12 @@ O conselho fiscal reúne, ordinariamente, de três em três meses e, extraordina
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Dezembro de 1994.**
+Referendado em 5 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

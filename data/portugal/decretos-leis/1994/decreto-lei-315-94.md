@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/1994/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1994-575294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61ba0665ca5c4d460ffee7b2fe99a3070a4a68ac5216a2fd78227b2de4f147cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23cfb301a465d9f8b27f0aaf58061dc9db3180ebdf21d1a3842bf4ebd1972902
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,36 @@ reuse:
 subjects:
 - Aposentação
 - Aposentação Bonificada
-- Sociedade Anónima
-- RDP
 - Caixa Geral de Aposentações
 - Licença sem Vencimento
-- Reforma Antecipada
 - Quadro de Pessoal
+- RDP
 - Recursos Humanos
+- Reforma Antecipada
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1994/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1994/01/10/p/dre
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:42Z'
   warnings: []
   errors: []
 ---
@@ -107,11 +115,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os trabalhadores da Radiodifusão Portuguesa, S. A. (RDP, S. A.), que sejam subscritores da Caixa Geral de Aposentações, com 20 ou mais anos de serviço, podem requerer a aposentação, independentemente da idade e de submissão a junta médica, tendo direito, se possuírem 30 ou mais anos de serviço, a uma bonificação da respectiva pensão no valor de 20%, sem prejuízo, porém, do limite máximo da mesma, correspondente a 36 anos de serviço.
+Artigo 1.º - 1 - Os trabalhadores da Radiodifusão Portuguesa, S. A. (RDP, S. A.), que sejam subscritores da Caixa Geral de Aposentações, com 20 ou mais anos de serviço, podem requerer a aposentação, independentemente da idade e de submissão a junta médica, tendo direito, se possuírem 30 ou mais anos de serviço, a uma bonificação da respectiva pensão no valor de 20%, sem prejuízo, porém, do limite máximo da mesma, correspondente a 36 anos de serviço.
 
 2 - A submissão dos requerimentos à apreciação da Caixa Geral de Aposentações depende de parecer favorável do conselho de administração da RDP, S. A., o qual não poderá proceder, por recrutamento externo, à substituição dos requerentes.
 
-###### Art. 2.º - 1 - Os trabalhadores referidos no artigo anterior que possuam idade igual ou superior a 55 anos ou 25 ou mais anos de serviço prestado ao Estado, contável pela Caixa Geral de Aposentações, podem requerer a situação de pré-aposentação, que se traduz pela suspensão do respectivo vínculo à RDP, S. A., mediante o direito à percepção de uma prestação pecuniária mensal correspondente a 50% da respectiva remuneração base e do subsídio de Natal e, bem assim, a igual percentagem do subsídio de férias a que tenham direito, a abonar pela RDP, S. A.
+Art. 2.º - 1 - Os trabalhadores referidos no artigo anterior que possuam idade igual ou superior a 55 anos ou 25 ou mais anos de serviço prestado ao Estado, contável pela Caixa Geral de Aposentações, podem requerer a situação de pré-aposentação, que se traduz pela suspensão do respectivo vínculo à RDP, S. A., mediante o direito à percepção de uma prestação pecuniária mensal correspondente a 50% da respectiva remuneração base e do subsídio de Natal e, bem assim, a igual percentagem do subsídio de férias a que tenham direito, a abonar pela RDP, S. A.
 
 2 - A passagem à situação de pré-aposentação depende de decisão favorável do conselho de administração da RDP, S. A., o qual não pode proceder, por recrutamento externo, à substituição dos requerentes.
 
@@ -135,7 +143,7 @@ a) É actualizada anualmente em percentagem igual à que o trabalhador beneficia
 
 b) Está sujeita aos correspondentes descontos para efeitos de aposentação, sobrevivência e assistência na doença, sem prejuízo do disposto na parte final da alínea c) do número anterior.
 
-###### Art. 3.º - 1 - Os trabalhadores referidos no artigo 1.º podem requerer licença sem vencimento por tempo indeterminado, a qual não pode ter duração inferior a dois anos.
+Art. 3.º - 1 - Os trabalhadores referidos no artigo 1.º podem requerer licença sem vencimento por tempo indeterminado, a qual não pode ter duração inferior a dois anos.
 
 2 - A licença determina a suspensão do vínculo à RDP, S. A., e a sua concessão depende de decisão favorável do conselho de administração, o qual não pode proceder, por recrutamento externo, à substituição dos requerentes.
 
@@ -145,16 +153,16 @@ b) Está sujeita aos correspondentes descontos para efeitos de aposentação, so
 
 5 - A cessação da licença sem vencimento depende de decisão favorável do conselho de administração da RDP, S. A., o qual pode não anuir no regresso do trabalhador, se tal se mostrar desajustado às necessidades quantitativas e ou qualitativas do quadro de pessoal da RDP, S. A.
 
-###### Art. 4.º O presente diploma caduca 90 dias após a data da sua entrada em vigor, sem prejuízo dos efeitos que se produzam para além dessa data e nele expressamente previstos.
+Art. 4.º O presente diploma caduca 90 dias após a data da sua entrada em vigor, sem prejuízo dos efeitos que se produzam para além dessa data e nele expressamente previstos.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Bernardo Veloso Falcão e Cunha - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 1 de Dezembro de 1994.**
+Promulgado em 1 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Dezembro de 1994.**
+Referendado em 16 de Dezembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

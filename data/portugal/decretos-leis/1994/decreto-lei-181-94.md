@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/1994/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1994-290004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bd8a206890da6ab2fc49ddf3884b9e8ad694b4276a14c823c81fceba372e0ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af51c261397fd749cf2ae2653b5c38d0ed9fc9279968c5392203954ed0e4abb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,39 @@ subjects:
 - Aquisição de Imóveis
 - Aquisição de Solos
 - ÁREA Metropolitana
-- Multa
+- Autarquia Local
 - Concurso Público
 - Contra-ordenação
-- Lisboa
+- Habitação
 - Habitação Social
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Programa
-- Habitação
-- Autarquia Local
+- Lisboa
+- Multa
 - Porto
+- Programa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/1993/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/164/1993/05/07/p/dre
+- type: cites
+  target: pt:dre:274241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:31:49Z'
   warnings: []
   errors: []
 ---
@@ -114,9 +122,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º e 14.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º e 14.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - ...
 
@@ -124,19 +132,19 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Na apresentação da candidatura o concorrente pode, para além da área destinada a habitações económicas, propor a afectação de determinada área a outros fins habitacionais, de indústria, comércio ou serviços, alienável em regime livre, que não pode exceder uma percentagem da área de construção, a fixar no respectivo caderno de encargos para cada empreendimento, até ao limite de 35%.
 
-###### Art. 14.º Constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro:
+Art. 14.º Constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro:
 
 a) A venda de habitações económicas por preço superior ao que for estabelecido pela aplicação do disposto nos n.os 3 e 4 do artigo 5.º ou ao que resultar dos termos do concurso;
 
 b) A violação do regime de fixação de renda previsto no n.º 2 do artigo 12.º
 
-###### Art. 2.º - 1 - A não afectação das habitações económicas aos fins previstos no artigo 11.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, constitui contra-ordenação punível com coima de 100000$00 a 500000$00, no caso de pessoas singulares, e de 1000000$00 a 6000000$00, no caso de pessoas colectivas.
+Art. 2.º - 1 - A não afectação das habitações económicas aos fins previstos no artigo 11.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, constitui contra-ordenação punível com coima de 100000$00 a 500000$00, no caso de pessoas singulares, e de 1000000$00 a 6000000$00, no caso de pessoas colectivas.
 
 2 - A instrução do processo contra-ordenacional a instaurar ao abrigo do disposto no número anterior, bem como a aplicação das coimas previstas no n.º 1, é da competência do IGAPHE.
 
 3 - O montante das coimas reverte em 60% para o Estado e em 40% para o IGAPHE.
 
-###### Art. 3.º - 1 - As habitações adquiridas, no âmbito do Programa de Construção de Habitações Económicas, por fundos de investimento imobiliário, sociedades de gestão e investimento imobiliário, sociedades gestoras de fundos de pensões e instituições de crédito podem ser alienadas antes do decurso do prazo previsto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, por preço a definir por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+Art. 3.º - 1 - As habitações adquiridas, no âmbito do Programa de Construção de Habitações Económicas, por fundos de investimento imobiliário, sociedades de gestão e investimento imobiliário, sociedades gestoras de fundos de pensões e instituições de crédito podem ser alienadas antes do decurso do prazo previsto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, por preço a definir por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
 2 - No caso da alienação a que se refere o número anterior, fica o adquirente sujeito ao ónus de intransmissibilidade, nos termos do artigo 12.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, até ao termo do prazo de cinco anos a contar da data da primeira transmissão.
 
@@ -144,12 +152,12 @@ b) A violação do regime de fixação de renda previsto no n.º 2 do artigo 12.
 
 Visto e aprovado em Conselho de Ministros de 7 de Abril de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 1 de Junho de 1994.**
+Promulgado em 1 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Junho de 1994.**
+Referendado em 3 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

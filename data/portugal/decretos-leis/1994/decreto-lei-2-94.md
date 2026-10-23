@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/1994/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1994-531791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c021e41388988ff72542ca0e3235d61823f3dca712c7880b311f4f071fea66b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 259e5b9e8c34a7eb85b60c1cd6277df166299bfb6d75fd0e50fd195aa861bb9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- RDP
 - Estatuto
+- RDP
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:656091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656091:por
+  label: "Revogados os arts. 3º, 4º, 6º e nº 2 do art. 8º do presente diploma, revogados os arts 20º a 22º e alterados os\
+    \ arts. 3º, 4º, 5º, 7º e 12º dos Estatutos publicados em anexo, pela LEI.33/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2003-656091
+  date: '2003-08-22'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:16Z'
   warnings: []
   errors: []
 ---
@@ -109,17 +131,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Radiodifusão Portuguesa, E. P., adiante designada por RDP, E. P., criada como empresa pública pelo [Decreto-Lei n.º 674-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484), de 2 de Dezembro, e que se rege pelos estatutos aprovados pelo [Decreto-Lei n.º 167/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1984-383999), de 22 de Maio, é transformada, pelo presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de Radiodifusão Portuguesa, S. A., adiante designada por RDP, S. A.
+Artigo 1.º - 1 - A Radiodifusão Portuguesa, E. P., adiante designada por RDP, E. P., criada como empresa pública pelo [Decreto-Lei n.º 674-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484), de 2 de Dezembro, e que se rege pelos estatutos aprovados pelo [Decreto-Lei n.º 167/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1984-383999), de 22 de Maio, é transformada, pelo presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de Radiodifusão Portuguesa, S. A., adiante designada por RDP, S. A.
 
 2 - O presente diploma constitui título bastante da transformação prevista no número anterior, para todos os efeitos legais, incluindo os de registo.
 
-###### Art. 2.º - 1 - A RDP, S. A., rege-se pelo presente decreto-lei, pelos respectivos estatutos, pelos princípios definidos pela [Lei n.º 87/88](https://diariodarepublica.pt/dr/detalhe/lei/87-1988-377928), de 30 de Julho, e pela demais legislação que lhe seja aplicável.
+Art. 2.º - 1 - A RDP, S. A., rege-se pelo presente decreto-lei, pelos respectivos estatutos, pelos princípios definidos pela [Lei n.º 87/88](https://diariodarepublica.pt/dr/detalhe/lei/87-1988-377928), de 30 de Julho, e pela demais legislação que lhe seja aplicável.
 
 2 - A RDP, S. A., sucede à empresa pública RDP, E. P., e continua a personalidade jurídica desta, assumindo a universalidade dos seus direitos e das suas obrigações, legais ou contratuais, nomeadamente a prestação do serviço público de radiodifusão sonora.
 
 3 - Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a RDP, E. P., as mesmas relações que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstância para efeitos dos referidos contratos.
 
-###### Art. 3.º Sem prejuízo da percepção de receitas que lhe são cometidas por lei especial, para a prossecução dos seus fins e como concessionária do serviço público de radiodifusão sonora, são conferidos à RDP, S. A., os direitos de:
+Art. 3.º Sem prejuízo da percepção de receitas que lhe são cometidas por lei especial, para a prossecução dos seus fins e como concessionária do serviço público de radiodifusão sonora, são conferidos à RDP, S. A., os direitos de:
 
 a) Ocupar terrenos do domínio público e privado do Estado, das autarquias ou de outras pessoas colectivas de direito público para instalação de circuitos áudio ou de energia eléctrica, bem como dos equipamentos indispensáveis à prestação do serviço público, em conformidade com as leis e regulamentos em vigor;
 
@@ -129,7 +151,7 @@ c) Beneficiar de protecção das suas instalações nos mesmos termos da dos ser
 
 d) Utilizar e administrar os bens do domínio público que se encontrem ou venham a ficar afectos ao exercício da actividade do serviço público de radiodifusão sonora.
 
-###### Art. 4.º - 1 - Os termos da concessão do serviço público de radiodifusão, no qual sucede agora a RDP, S. A., serão definidos no contrato de concessão a celebrar com o Estado.
+Art. 4.º - 1 - Os termos da concessão do serviço público de radiodifusão, no qual sucede agora a RDP, S. A., serão definidos no contrato de concessão a celebrar com o Estado.
 
 2 - O contrato de concessão é outorgado pelos membros do Governo responsáveis pela área das finanças e da comunicação social, em representação do Estado.
 
@@ -167,25 +189,25 @@ h) Desenvolver a cooperação com os países de língua oficial portuguesa;
 
 i) Manter, dentro do quadro da política externa do Governo, relações de cooperação e intercâmbio com a UER e outras organizações internacionais, bem como com as entidades estrangeiras ligadas à radiodifusão, negociando os necessários acordos e privilegiando, sempre que possível, as dos países de língua oficial portuguesa.
 
-###### Art. 5.º O cumprimento das obrigações de serviço público referidas no artigo anterior e do contrato de concessão nele previsto conferem à RDP, S. A., o direito a uma prestação designada por indemnização compensatória, a fixar pelo Governo com base em critérios objectivamente quantificáveis e no respeito pelos princípios da eficiência de gestão.
+Art. 5.º O cumprimento das obrigações de serviço público referidas no artigo anterior e do contrato de concessão nele previsto conferem à RDP, S. A., o direito a uma prestação designada por indemnização compensatória, a fixar pelo Governo com base em critérios objectivamente quantificáveis e no respeito pelos princípios da eficiência de gestão.
 
-###### Art. 6.º - 1 - A RDP, S. A., tem um capital social inicial de 5410910000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente decreto-lei.
+Art. 6.º - 1 - A RDP, S. A., tem um capital social inicial de 5410910000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente decreto-lei.
 
 2 - As acções representativas do capital de que o Estado é titular são detidas pela Direcção-Geral do Tesouro, podendo a sua gestão ser cometida a uma outra pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
 
 3 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da comunicação social, salvo quando a gestão tenha sido cometida a outra entidade, nos termos do número anterior.
 
-###### Art. 7.º - 1 - Os trabalhadores e pensionistas da RDP, E. P., mantêm perante a RDP, S. A., todos os direitos e obrigações, conforme o estatuto que detiverem à data da entrada em vigor do presente diploma.
+Art. 7.º - 1 - Os trabalhadores e pensionistas da RDP, E. P., mantêm perante a RDP, S. A., todos os direitos e obrigações, conforme o estatuto que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer cargos ou funções na RDP, S. A., em regime de requisição, conservando todos os direitos inerentes ao quadro de origem, incluindo a antiguidade, a reforma e outras regalias.
 
 3 - Os trabalhadores da RDP, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada são prejudicados por esses factos, regressando à empresa logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 8.º - 1 - A RDP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos respectivos estatutos.
+Art. 8.º - 1 - A RDP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos respectivos estatutos.
 
 2 - A RDP, S. A., dispõe ainda de um conselho de opinião, composto, nomeadamente, por representantes designados pela Assembleia da República, pelo Governo, pelas Regiões Autónomas, pelos trabalhadores da empresa e pelas principais associações representativas da sociedade civil, ao qual compete pronunciar-se sobre os planos e bases gerais da actividade da empresa no âmbito da programação, da cooperação com os países de expressão portuguesa e do apoio às comunidades portuguesas no estrangeiro.
 
-###### Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 9.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -193,7 +215,7 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará, trimestralmente, ao Ministro das Finanças e ao membro do Governo responsável pela área da comunicação social um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 10.º - 1 - Nos serviços de informação da RDP, S. A., é conferida aos jornalistas a faculdade de constituir um conselho de redacção, composto por um número ímpar de elementos, eleitos entre si por todos os jornalistas profissionais que se encontram ao serviço da sociedade.
+Art. 10.º - 1 - Nos serviços de informação da RDP, S. A., é conferida aos jornalistas a faculdade de constituir um conselho de redacção, composto por um número ímpar de elementos, eleitos entre si por todos os jornalistas profissionais que se encontram ao serviço da sociedade.
 
 2 - Compete ao conselho de redacção pronunciar-se sobre:
 
@@ -201,47 +223,47 @@ a) A admissão e o despedimento de jornalistas profissionais e a aplicação aos
 
 b) O exercício da actividade profissional dos jornalistas da sociedade, face ao disposto no Estatuto do Jornalista, no código deontológico e demais legislação aplicável.
 
-###### Art. 11.º - 1 - São aprovados os Estatutos da RDP, S. A., em anexo ao presente diploma, os quais não carecem de redução a escritura pública e produzem efeitos em relação a terceiros independentemente dos respectivos registos, que devem ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Art. 11.º - 1 - São aprovados os Estatutos da RDP, S. A., em anexo ao presente diploma, os quais não carecem de redução a escritura pública e produzem efeitos em relação a terceiros independentemente dos respectivos registos, que devem ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - Todos os actos de inscrição, registo ou averbamento, perante quaisquer conservatórias, repartições ou serviços públicos, designadamente junto do Registo Nacional de Pessoas Colectivas, conservatórias do registo comercial e do registo predial e da propriedade automóvel, são feitos com base em simples requerimento assinado por dois membros do conselho de administração da sociedade e isentos de quaisquer taxas ou emolumentos.
 
 3 - As futuras alterações aos Estatutos far-se-ão nos termos da lei comercial.
 
-###### Art. 12.º Não é aplicável ao Estado, relativamente à RDP, S. A., o disposto nos artigos 83.º e 84.º do Código das Sociedades Comerciais.
+Art. 12.º Não é aplicável ao Estado, relativamente à RDP, S. A., o disposto nos artigos 83.º e 84.º do Código das Sociedades Comerciais.
 
-###### Art. 13.º - 1 - É por esta forma convocada a assembleia geral da RDP, a qual deve reunir na sede da sociedade até ao 90.º dia posterior à data da entrada em vigor do presente decreto-lei, a fim de eleger os titulares dos órgãos sociais e deliberar sobre as respectivas remunerações.
+Art. 13.º - 1 - É por esta forma convocada a assembleia geral da RDP, a qual deve reunir na sede da sociedade até ao 90.º dia posterior à data da entrada em vigor do presente decreto-lei, a fim de eleger os titulares dos órgãos sociais e deliberar sobre as respectivas remunerações.
 
 2 - Os membros em exercício do conselho de administração e da comissão de fiscalização da RDP, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da RDP, S. A., com as competências fixadas nos Estatutos, respectivamente para os conselhos de administração e fiscal.
 
-###### Art. 14.º É revogado o [Decreto-Lei n.º 167/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1984-383999), de 22 de Maio, mantendo-se em vigor a demais legislação aplicável à RDP, E. P., passando as referências àquela empresa pública a considerar-se feitas à RDP, S. A.
+Art. 14.º É revogado o [Decreto-Lei n.º 167/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1984-383999), de 22 de Maio, mantendo-se em vigor a demais legislação aplicável à RDP, E. P., passando as referências àquela empresa pública a considerar-se feitas à RDP, S. A.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Janeiro de 1994.**
+Referendado em 3 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatutos da RDP, S. A.
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação de Radiodifusão Portuguesa, S. A., adiante abreviadamente designada por RDP, S. A.
+Artigo 1.º - 1 - A sociedade adopta a forma de sociedade anónima e a denominação de Radiodifusão Portuguesa, S. A., adiante abreviadamente designada por RDP, S. A.
 
 2 - A sociedade rege-se pelo Decreto-Lei n.º 2/94, de 10 de Janeiro, pelos presentes Estatutos e pela legislação geral ou especial que lhe seja aplicável.
 
-###### Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Avenida do Engenheiro Duarte Pacheco, 6.
+Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Avenida do Engenheiro Duarte Pacheco, 6.
 
 2 - A sociedade tem uma delegação em cada Região Autónoma, denominada centro regional.
 
 3 - A sociedade pode deliberar a criação de agências, de delegações ou de quaisquer outras formas de representação em qualquer ponto do território nacional ou fora dele.
 
-###### Art. 3.º - 1 - A sociedade tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas, bem como a prestação do serviço público de radiodifusão sonora, nos termos da [Lei n.º 87/88](https://diariodarepublica.pt/dr/detalhe/lei/87-1988-377928), de 30 de Julho, e do Decreto-Lei n.º 2/94, de 10 de Janeiro.
+Art. 3.º - 1 - A sociedade tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas, bem como a prestação do serviço público de radiodifusão sonora, nos termos da [Lei n.º 87/88](https://diariodarepublica.pt/dr/detalhe/lei/87-1988-377928), de 30 de Julho, e do Decreto-Lei n.º 2/94, de 10 de Janeiro.
 
 2 - A sociedade pode prosseguir quaisquer outras actividades relacionadas com o serviço de radiodifusão, designadamente as seguintes:
 
@@ -255,7 +277,7 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 3 - A sociedade, para exercício do seu objecto social e por deliberação do conselho de administração, ouvido o conselho fiscal, pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico, bem como no capital social de outras sociedades, por qualquer das formas previstas na legislação comercial.
 
-###### Art. 4.º - 1 - A sociedade, sem prejuízo da sua total independência na definição da programação, deve, em virtude do exercício do serviço público de radiodifusão, observar, designadamente, os princípios definidos no artigo 4.º do Decreto-Lei n.º 2/94, de 10 de Janeiro.
+Art. 4.º - 1 - A sociedade, sem prejuízo da sua total independência na definição da programação, deve, em virtude do exercício do serviço público de radiodifusão, observar, designadamente, os princípios definidos no artigo 4.º do Decreto-Lei n.º 2/94, de 10 de Janeiro.
 
 2 - O conteúdo da programação e da informação da RDP, S. A., é da exclusiva responsabilidade dos directores que chefiam aquelas áreas.
 
@@ -263,13 +285,13 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 ### CAPÍTULO II — Capital social e acções
 
-###### Art. 5.º - 1 - O capital social é de 5410910000$00, está integralmente realizado pelo Estado e é dividido em acções com o valor nominal de 1000$00 cada uma, podendo haver títulos de 1, 10, 15 e 100 acções e de múltiplos de 100 até 10000.
+Art. 5.º - 1 - O capital social é de 5410910000$00, está integralmente realizado pelo Estado e é dividido em acções com o valor nominal de 1000$00 cada uma, podendo haver títulos de 1, 10, 15 e 100 acções e de múltiplos de 100 até 10000.
 
 2 - As acções são nominativas, não podendo ser convertidas em acções ao portador, ficando desde já autorizada, nos termos da legislação aplicável, a emissão ou conversão de acções escriturais, as quais seguem o regime das acções nominativas.
 
 3 - As acções representativas do capital social devem pertencer exclusivamente ao Estado, a pessoas colectivas de direito público, a empresas públicas ou a sociedades de capitais exclusivamente públicos.
 
-###### Art. 6.º - 1 - Os aumentos de capital social são sempre deliberados pela assembleia geral, sem prejuízo do disposto no n.º 3 do artigo anterior.
+Art. 6.º - 1 - Os aumentos de capital social são sempre deliberados pela assembleia geral, sem prejuízo do disposto no n.º 3 do artigo anterior.
 
 2 - Quando haja aumentos de capital, os accionistas têm preferência na subscrição das novas acções na proporção das que já possuírem.
 
@@ -277,7 +299,7 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 7.º - 1 - São órgãos sociais da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º - 1 - São órgãos sociais da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.
 
@@ -285,7 +307,7 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 #### SECÇÃO II — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 1000 acções corresponde um voto.
 
@@ -293,7 +315,7 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 4 - As deliberações são tomadas por maioria dos votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei ou os presentes Estatutos não exijam maior número.
 
-###### Art. 9.º Cabe à assembleia geral prosseguir as competências que lhe estão cometidas nos presentes Estatutos e na lei geral e, em especial:
+Art. 9.º Cabe à assembleia geral prosseguir as competências que lhe estão cometidas nos presentes Estatutos e na lei geral e, em especial:
 
 a) Eleger a mesa da assembleia e os membros do conselho de administração e do conselho fiscal;
 
@@ -315,21 +337,21 @@ i) Aprovar o plano anual de actividades, bem como os planos de investimentos;
 
 j) Pronunciar-se sobre qualquer outro assunto para que tenha sido convocada.
 
-###### Art. 10.º - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+Art. 10.º - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
 
 2 - A assembleia geral é convocada pelo presidente da respectiva mesa, com uma antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
-###### Art. 11.º - 1 - A assembleia geral reúne, pelo menos, uma vez por ano e sempre que for requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 10% do capital social, neste caso em carta que indique com precisão os assuntos a incluir na ordem do dia e os respectivos fundamentos.
+Art. 11.º - 1 - A assembleia geral reúne, pelo menos, uma vez por ano e sempre que for requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 10% do capital social, neste caso em carta que indique com precisão os assuntos a incluir na ordem do dia e os respectivos fundamentos.
 
 2 - Para efeitos das alíneas a), b) e h) do artigo 9.º, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem mais de 50% do capital social.
 
 #### SECÇÃO III — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente, um vice-presidente e um ou três vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente, um vice-presidente e um ou três vogais.
 
 2 - Os administradores são dispensados da prestação de caução.
 
-###### Art. 13.º - 1 - Ao conselho de administração compete:
+Art. 13.º - 1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -347,7 +369,7 @@ g) Exercer as demais competências que lhe sejam atribuídas pela lei ou pela as
 
 2 - O conselho de administração pode delegar num ou mais dos seus membros, ou numa comissão executiva, a gestão corrente da sociedade.
 
-###### Art. 14.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
+Art. 14.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo e fora dele;
 
@@ -359,13 +381,13 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nos seus impedimentos ou faltas, o presidente é substituído pelo vice-presidente do conselho de administração.
 
-###### Art. 15.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reunir extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos administradores.
+Art. 15.º - 1 - O conselho de administração deve fixar as datas ou a periodicidade das suas reuniões ordinárias e reunir extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos administradores.
 
 2 - O conselho de administração não pode deliberar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal reconhecido pelo presidente, caso em que os votos podem ser expressos por carta dirigida a este ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração constam sempre de acta e são tomadas por maioria dos votos presentes, tendo o presidente, ou quem legalmente o substitua, voto de qualidade.
 
-###### Art. 16.º - 1 - A sociedade obriga-se:
+Art. 16.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração, sendo um obrigatoriamente o presidente;
 
@@ -379,7 +401,7 @@ c) Pela assinatura dos mandatários constituídos, no âmbito e nos termos do co
 
 #### SECÇÃO IV — Conselho fiscal
 
-###### Art. 17.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente.
+Art. 17.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente são revisores oficiais de contas ou sociedades de revisores de contas.
 
@@ -387,7 +409,7 @@ c) Pela assinatura dos mandatários constituídos, no âmbito e nos termos do co
 
 4 - O conselho fiscal deve, obrigatória e anualmente, solicitar uma auditoria sobre a aplicação dos empréstimos concedidos pelo Estado.
 
-###### Art. 18.º Além das competências constantes da lei geral, cabe, em especial, ao conselho fiscal:
+Art. 18.º Além das competências constantes da lei geral, cabe, em especial, ao conselho fiscal:
 
 a) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da sociedade;
 
@@ -399,13 +421,13 @@ d) Emitir parecer sobre o instrumento de pactuação da indemnização compensat
 
 e) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração.
 
-###### Art. 19.º - 1 - O conselho fiscal deve reunir, pelo menos, uma vez por mês.
+Art. 19.º - 1 - O conselho fiscal deve reunir, pelo menos, uma vez por mês.
 
 2 - As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício, tendo o presidente voto de qualidade.
 
 #### SECÇÃO V — Conselho de opinião
 
-###### Art. 20.º - 1 - O conselho de opinião é constituído por:
+Art. 20.º - 1 - O conselho de opinião é constituído por:
 
 a) Cinco representantes eleitos pela Assembleia da República segundo o sistema proporcional;
 
@@ -445,7 +467,7 @@ r) Seis personalidades de reconhecido mérito, cooptadas pelos restantes membros
 
 3 - Os presidentes da assembleia geral, do conselho de administração e do conselho fiscal podem assistir às reuniões do conselho de opinião e participar nos trabalhos, sem direito de voto.
 
-###### Art. 21.º - 1 - Compete ao conselho de opinião:
+Art. 21.º - 1 - Compete ao conselho de opinião:
 
 a) Apreciar os planos de actividades e orçamento relativos ao ano seguinte, bem como os planos plurianuais da sociedade;
 
@@ -459,11 +481,11 @@ e) Pronunciar-se sobre quaisquer assuntos que os órgãos sociais entendam subme
 
 2 - O conselho de opinião elege, de entre os seus membros, o presidente.
 
-###### Art. 22.º O conselho de opinião reúne ordinariamente uma vez por semestre e extraordinariamente mediante solicitação de dois terços dos seus membros.
+Art. 22.º O conselho de opinião reúne ordinariamente uma vez por semestre e extraordinariamente mediante solicitação de dois terços dos seus membros.
 
 ### CAPÍTULO IV — Dos exercícios sociais e aplicação de resultados
 
-###### Art. 23.º - 1 - A gestão económica e financeira da sociedade é programada e disciplinada por planos de actividade e financeiros, anuais e plurianuais, bem como por orçamentos anuais de exploração e investimentos que consignem os recursos indispensáveis à cobertura das despesas neles previstas.
+Art. 23.º - 1 - A gestão económica e financeira da sociedade é programada e disciplinada por planos de actividade e financeiros, anuais e plurianuais, bem como por orçamentos anuais de exploração e investimentos que consignem os recursos indispensáveis à cobertura das despesas neles previstas.
 
 2 - Os planos financeiros devem prever a evolução das despesas, os investimentos projectados e as fontes de financiamento.
 
@@ -471,7 +493,7 @@ e) Pronunciar-se sobre quaisquer assuntos que os órgãos sociais entendam subme
 
 4 - Os exercícios coincidem com os anos civis.
 
-###### Art. 24.º Os lucros do exercício, devidamente aprovados, têm a seguinte aplicação:
+Art. 24.º Os lucros do exercício, devidamente aprovados, têm a seguinte aplicação:
 
 a) Um mínimo de 10% para constituição ou eventual reintegração da reserva legal, até atingir o montante exigível;
 
@@ -479,7 +501,7 @@ b) O restante para os fins que a assembleia geral delibere de interesse para a s
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 25.º - 1 - Sem prejuízo do disposto nos números seguintes, as relações entre a sociedade e o pessoal ao seu serviço regem-se pelo regime do contrato individual de trabalho ou pela lei civil e pelo disposto nestes Estatutos.
+Art. 25.º - 1 - Sem prejuízo do disposto nos números seguintes, as relações entre a sociedade e o pessoal ao seu serviço regem-se pelo regime do contrato individual de trabalho ou pela lei civil e pelo disposto nestes Estatutos.
 
 2 - Ressalvado o disposto no número anterior, os trabalhadores oriundos da extinta Emissora Nacional de Radiodifusão e do quadro geral de adidos mantêm a natureza vitalícia do respectivo vínculo à função pública, naquilo que é inerente à natureza do provimento.
 

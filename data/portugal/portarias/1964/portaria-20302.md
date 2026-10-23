@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/01/00500/00260026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20302-1964-222048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dd54ae3a6ee99e266d6934ba7757727b0688b10b7e71be51063a3166418bb77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 593b1b651ca0b492b9c23b693c9dd627b4211f0d8c4cfe6785540cc9aa91f701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,33 @@ relationships:
   target: pt:dre:225977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275435:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:225977:por
+  label: "Revogada pela PORT.202/70.21.04.1970.MECO, DG.IS [93] de 21.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/202-1970-225977
+  date: '1970-04-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:00Z'
   warnings: []
   errors: []
 ---
@@ -96,8 +113,8 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 Regulamento Que Fixa a Unidade de Cultura para o Distrito de Viana do Castelo
 
-###### Artigo 1.º A área da unidade de cultura é fixada, no distrito de Viana do Castelo, em 0,5 ha para os terrenos de regadio e 1 ha para os terrenos de sequeiro.
+Artigo 1.º A área da unidade de cultura é fixada, no distrito de Viana do Castelo, em 0,5 ha para os terrenos de regadio e 1 ha para os terrenos de sequeiro.
 
-###### Art. 2.º Nos termos do n.º 2 da base XXXIII da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962, deixam de ser aplicáveis, naquele distrito, os artigos 106.º e 107.º do [Decreto n.º 16731](https://diariodarepublica.pt/dr/detalhe/decreto/16731-1929-275435), de 13 de Abril de 1929.
+Art. 2.º Nos termos do n.º 2 da base XXXIII da [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/2116-1962-163451), de 14 de Agosto de 1962, deixam de ser aplicáveis, naquele distrito, os artigos 106.º e 107.º do [Decreto n.º 16731](https://diariodarepublica.pt/dr/detalhe/decreto/16731-1929-275435), de 13 de Abril de 1929.
 
 Secretaria de Estado da Agricultura, 7 de Janeiro de 1964. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.

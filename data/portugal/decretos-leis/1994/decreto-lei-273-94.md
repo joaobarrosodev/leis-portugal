@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/250a00/64856485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/273/1994/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1994-621542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a710fa731ca7d9383d27fedb4651b2519074b14001989a0fd7d2f81e8bdfb8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6117cc09dc87424d8e1e0d18bd0c15e07f1130d315f1dca723f1d66cd057c8f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Publicidade
 - Etiquetagem
+- Produto Alimentar
 - Proteção do Consumidor
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:654933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164052:por
+  label: "Aditados os nºs 5 e 6 ao art. 3º do Dec Lei 170/92 de 08-Ago, na redacção do presente diploma, pelo DEC LEI.159/97.1997.06.24.MADRP,\
+    \ DR.IS-A [143]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1997-164052
+  date: '1997-06-24'
 - type: cites
   target: celex:31979L0112
   label: null
@@ -84,16 +90,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/170/1992/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/170/1992/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:654933:por
+  label: "Revogado pelo DEC LEI.560/99.1999.12.18.MADRP DR.IS-A [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/560-1999-654933
+  date: '1999-12-18'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:49Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +121,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º e 8.º do Decreto-Lei n.º 170/92, de 8 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º e 8.º do Decreto-Lei n.º 170/92, de 8 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Menções obrigatórias na rotulagem
 
@@ -142,18 +153,18 @@ f) O nome, firma ou denominação social e o domicílio do produtor ou do embala
 
 3 - Nos casos dos produtos com rotulagem em língua estrangeira, aquela pode ser mantida, desde que as menções obrigatórias previstas neste diploma ou em legislação específica e as menções destinadas a acautelar a saúde e segurança dos consumidores sejam também redigidas em português, em caracteres com o mínimo de 3 mm ou, quando os caracteres do rótulo de origem forem inferiores, com dimensão idêntica à daqueles.
 
-###### Art. 2.º À lista de géneros alimentícios constantes do anexo ao Decreto-Lei n.º 170/92, de 8 de Agosto, são acrescentados os seguintes produtos:
+Art. 2.º À lista de géneros alimentícios constantes do anexo ao Decreto-Lei n.º 170/92, de 8 de Agosto, são acrescentados os seguintes produtos:
 
 Pastilhas elásticas e produtos similares para mascar.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1994. - Aníbal António Cavaco Silva - António Duarte Silva - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

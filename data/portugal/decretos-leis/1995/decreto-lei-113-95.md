@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/121a00/32843284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/1995/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1995-529471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379a9c2b94a0cc052d3b67d315ff19913333244c8f3b9e240845f0e8d39aee16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daeb1fd8f06a908e141c5a509661fb7bae364f55441f49a3fc85d22f819d69ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Pública
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Modernização Administrativa
 - Cheque
+- Cobrança de Dívidas
 - Cobrança de Impostos
-- Contabilidade
-- Gestão Financeira
-- Direcção Geral do Tesouro
 - Conta Geral do Estado
+- Contabilidade
+- Contabilidade Pública
+- Contribuições e Impostos
 - CTT
 - Despesas Públicas
+- Direcção Geral do Tesouro
 - Dívidas ao Estado
 - Documento de Cobrança
-- Administração Pública
 - Execução Fiscal
 - Fazenda Pública
 - Fiscalização
 - Fundo Permanente
 - Gestão do Património
+- Gestão Financeira
 - Imposto do SELO
-- Contribuições e Impostos
+- Modernização Administrativa
 - Operações de Caixa
 - Operações de Tesouraria
-- Tesouraria
 - Receita Fiscal
 - Receita Pública
-- Cobrança de Dívidas
 - Reembolso
 - Regime Jurídico
 - Reposição de Verbas
 - Restituição de Impostos
-- Contabilidade Pública
+- Tesouraria
 - Tesouraria da Fazenda Pública
 - VALE de Correio
 relationships:
@@ -107,6 +107,12 @@ relationships:
   target: pt:dre:105583346:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105583346:por
+  label: Alterado o art. 35.º do Dec Lei 155/92, de 28-jul, na redação do presente diploma pelo(a) Decreto-Lei n.º 85/2016
+    - Diário da República n.º 243/2016, Série I de 2016-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2016-105583346
+  date: '2016-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -115,16 +121,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310379:por
+  label: "Revogado o Dec Lei 275-A/93 de 09-Ago, na redacção dada pelo presente diploma pelo DEC LEI.191/99.1999.06.05.MF,DR.IS-A\
+    \ [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1999-310379
+  date: '1999-06-05'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:47Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +165,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 41.º do [Decreto-Lei n.º 275-A/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), de 9 de Agosto, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 41.º do [Decreto-Lei n.º 275-A/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), de 9 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 41.º — Contabilização de reembolsos ou restituições
 
@@ -151,7 +175,7 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/90](https:/
 
 3 - Os registos referidos nos números anteriores processam-se através da inserção nas tabelas da receita de uma coluna para os registos de reembolso de impostos e anulações de cobrança e para os registos de restituições ou reembolsos de receita de natureza diversa, adaptando-se em conformidade os registos para relevação de receita bruta e líquida.
 
-###### Art. 2.º O artigo 35.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 35.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 35.º — Restituições ou reembolsos
 
@@ -167,12 +191,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/90](https:/
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

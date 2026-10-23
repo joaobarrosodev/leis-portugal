@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/1994/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1994-253856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c73d25900d959243b459cbe429cb2dfd3691894525b86d627535b360decdab7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcf4909a44f98af9418d39e4f013e99b72bd73dd83ed976d12e0332717cde066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
+- Conselho Consultivo
+- Conselho Diretivo
 - Estatuto
 - FLAD
-- Conselho Diretivo
-- Conselho Consultivo
+- Fundação
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:498680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498680:por
+  label: "Dada nova redação aos arts. 8.º, 9.º e 12.º dos Estatutos da Fundação Luso-Americana para o Desenvolvimento, aprovados\
+    \ e publicados em anexo ao Dec Lei 168/85 de 20-mai, alterados pelo presente diploma, pelo DEC LEI.107/2013.31.07.2013.PCM,\
+    \ DR.IS [146] de 31.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2013-498680
+  date: '2013-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/288/1991/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/288/1991/08/10/p/dre
+- type: cites
+  target: pt:dre:151525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680628:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:345968:por
+  label: "Retificado o presente diploma, na parte em que adita um nº 11 ao art. 8º dos Estatutos da Fundação Luso-Americana\
+    \ para o Desenvolvimento, aprovados pelo Dec Lei 168/85 de 20-mai, pela DECL-RECT.85/94.30.06.1994.PCM, DR.IS-A [149-3.ºSupl]\
+    \ de 30.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/85-1994-345968
+  date: '1994-06-30'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:17Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +137,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 9.º e 12.º dos Estatutos da Fundação Luso-Americana para o Desenvolvimento (FLAD), publicados em anexo ao [Decreto-Lei n.º 168/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1985-151525), de 20 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os [45/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), de 11 de Fevereiro, e [288/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1991-680628), de 10 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 9.º e 12.º dos Estatutos da Fundação Luso-Americana para o Desenvolvimento (FLAD), publicados em anexo ao [Decreto-Lei n.º 168/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1985-151525), de 20 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os [45/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163), de 11 de Fevereiro, e [288/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1991-680628), de 10 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 8.º — [...]
 
@@ -163,16 +189,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 3 - ...
 
-###### Art. 2.º Os actuais membros dos conselhos directivo, executivo e consultivo da FLAD mantêm-se em funções até ao termo dos presentes mandatos, devendo as futuras designações cumprir a disciplina estabelecida pelas novas redacções dadas pelo artigo anterior.
+Art. 2.º Os actuais membros dos conselhos directivo, executivo e consultivo da FLAD mantêm-se em funções até ao termo dos presentes mandatos, devendo as futuras designações cumprir a disciplina estabelecida pelas novas redacções dadas pelo artigo anterior.
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Durão Barroso.
 
-**Promulgado em 16 de Março de 1994.**
+Promulgado em 16 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1994.**
+Referendado em 18 de Março de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

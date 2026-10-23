@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/1995/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1995-519642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:37:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1efbb99d62386791b801d0a4cbd71c6d21c87bc7a243d335e8cb01d09632bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 349f17ce54b2065e008693e5c2061d3dc85705e27fff61aac2caafb628e3804c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:37:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Castro Marim
+- Abastecimento de Água
 - Algarve
+- Autarquia Local
+- Castro Marim
 - Faro
 - IPE
 - Olhão
-- Abastecimento de Água
+- Sociedade Anónima
 - Tavira
 - Tratamento de ÁGUA
-- Autarquia Local
 - Vila Real de Santo António
 relationships:
+- type: amended_by
+  target: pt:dre:2251797:por
+  label: "Alargado o âmbito de utilizadores concretizado pelo DESP.18423/2000(2ªSÉRIE).2000.08.03.MAOT DR.IIS [210] DE 11/SET/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/18423-2000-2251797
+  date: '2000-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/319/1994/12/24/p/dre
   label: null
@@ -85,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:37:12Z'
   warnings: []
   errors: []
 ---
@@ -213,13 +231,13 @@ Fica desde já convocada a assembleia geral da sociedade para se reunir, na sede
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1995. - Aníbal António Cavaco Silva Eduardo de Almeida Catroga - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 26 de Abril de 1995.**
+Promulgado em 26 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1995.**
+Referendado em 27 de Abril de 1995.
 
 O Primeiro Ministro, Aníbal António Cavaco Silva.
 
@@ -227,9 +245,9 @@ O Primeiro Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.° A sociedade adopta a denominação de Águas do Sotavento Algarvio, S. A., e durará por tempo indeterminado.
+Artigo 1.° A sociedade adopta a denominação de Águas do Sotavento Algarvio, S. A., e durará por tempo indeterminado.
 
-###### Art. 2.° - 1 - A sede social é na cidade de Faro.
+Art. 2.° - 1 - A sede social é na cidade de Faro.
 
 2 - Por deliberação do conselho de administração a sede da sociedade pode ser deslocada para qualquer outro local dentro do mesmo concelho.
 
@@ -237,15 +255,15 @@ O Primeiro Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO II — Objecto
 
-###### Art. 3.° - 1 - A sociedade tem por objecto social exclusivo a exploração e gestão do sistema multimunicipal de captação, tratamento e abastecimento de água criado pelo artigo 3.°, n.º 3, alínea a), do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro.
+Art. 3.° - 1 - A sociedade tem por objecto social exclusivo a exploração e gestão do sistema multimunicipal de captação, tratamento e abastecimento de água criado pelo artigo 3.°, n.º 3, alínea a), do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro.
 
 2 - Incluem-se no objecto social da sociedade, nomeadamente, a construção, extensão, reparação, renovação, manutenção e melhoria das obras e equipamentos necessários para o desenvolvimento da actividade prevista no número anterior.
 
-###### Art. 4.° - 1 - O capital social é de 1200000000$00, encontrando-se realizado em 360000000$00, devendo o remanescente, na importância de 840000000$00, ser realizado em dinheiro, por uma ou mais vezes, até três anos contados da constituição da sociedade, de acordo com as chamadas do conselho de administração feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento da realização das entradas.
+Art. 4.° - 1 - O capital social é de 1200000000$00, encontrando-se realizado em 360000000$00, devendo o remanescente, na importância de 840000000$00, ser realizado em dinheiro, por uma ou mais vezes, até três anos contados da constituição da sociedade, de acordo com as chamadas do conselho de administração feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento da realização das entradas.
 
 2 - O capital social é representado por 912000 acções da classe A e 288000 acções da classe B, com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.° - 1 - O conselho de administração poderá, por uma ou mais vezes, deliberar o aumento de capital até ao montante global de 1500000000$00.
+Art. 5.° - 1 - O conselho de administração poderá, por uma ou mais vezes, deliberar o aumento de capital até ao montante global de 1500000000$00.
 
 2 - Os aumentos de capital social serão realizados através da emissão de acções da classe A ou da classe B, ou das classes A e B, devendo as acções da classe A representar sempre pelo menos 51% do capital social com direito a voto.
 
@@ -259,11 +277,11 @@ O Primeiro Ministro, Aníbal António Cavaco Silva.
 
 7 - Desde que não seja ultrapassado o limite fixado no n.º 2, as acções da classe A poderão ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral.
 
-###### Art. 6.° - 1 - Poderão ser emitidas acções preferenciais sem voto, até ao montante máximo de 50% por cento do capital social, nos termos e condições definidos na deliberação dos accionistas.
+Art. 6.° - 1 - Poderão ser emitidas acções preferenciais sem voto, até ao montante máximo de 50% por cento do capital social, nos termos e condições definidos na deliberação dos accionistas.
 
 2 - Por deliberação dos accionistas, as acções preferenciais poderão ser sujeitas a remição, devendo esta ser feita pelo valor nominal das acções eventualmente acrescido de um prémio determinado pela mesma deliberação.
 
-###### Art. 7.° - 1 - As acções da classe A são e serão sempre nominativas; as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador, a pedido do accionista e mediante deliberação da assembleia geral.
+Art. 7.° - 1 - As acções da classe A são e serão sempre nominativas; as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador, a pedido do accionista e mediante deliberação da assembleia geral.
 
 2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
 
@@ -273,7 +291,7 @@ O Primeiro Ministro, Aníbal António Cavaco Silva.
 
 5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
 
-###### Art. 8.° - 1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 5 do artigo 5.° e, sempre sem prejuízo do aí disposto, no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
+Art. 8.° - 1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 5 do artigo 5.° e, sempre sem prejuízo do aí disposto, no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
 
 2 - A transmissão de acções em violação do disposto no número anterior é nula.
 
@@ -283,13 +301,13 @@ O Primeiro Ministro, Aníbal António Cavaco Silva.
 
 5 - A sociedade primeiro e depois todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B, estando o respectivo exercício sujeito, com as devidas adaptações, às mesmas condições estabelecidas no número anterior.
 
-###### Art. 9.° - 1 - Mediante deliberação dos sócios, a sociedade poderá amortizar as acções detidas com infracção do disposto no artigo 5.°, n.º 5, ou quaisquer acções da classe A que forem penhoradas, arrestadas, arroladas, incluídas em massa falida ou, em geral, forem apreendidas no âmbito de qualquer acção judicial ou estiverem em condições de ser transmitidas judicialmente.
+Art. 9.° - 1 - Mediante deliberação dos sócios, a sociedade poderá amortizar as acções detidas com infracção do disposto no artigo 5.°, n.º 5, ou quaisquer acções da classe A que forem penhoradas, arrestadas, arroladas, incluídas em massa falida ou, em geral, forem apreendidas no âmbito de qualquer acção judicial ou estiverem em condições de ser transmitidas judicialmente.
 
 2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
 3 - A assembleia geral que deliberar a amortização nos termos dos números anteriores deliberará também o aumento do capital social por emissão de acções da classe A de modo a restabelecer a percentagem para esta classe de acções prevista no n.º 2 do artigo 5.°
 
-###### Art. 10.° - 1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos accionistas ou deliberação do conselho de administração.
+Art. 10.° - 1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei, mediante deliberação dos accionistas ou deliberação do conselho de administração.
 
 2 - Às obrigações emitidas pela sociedade aplica-se o disposto no n.º 4 do artigo 7.°
 
@@ -297,35 +315,35 @@ O Primeiro Ministro, Aníbal António Cavaco Silva.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 11.° - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 11.° - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
-###### Art. 12.° Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito de designar um administrador, contanto que essa minoria represente, pelo menos, 10% do capital social.
+Art. 12.° Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito de designar um administrador, contanto que essa minoria represente, pelo menos, 10% do capital social.
 
 #### SECÇÃO II — Assembleia geral
 
-###### Art. 13.° - 1 - Os accionistas com direito de voto poderão participar nas assembleias gerais desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
+Art. 13.° - 1 - Os accionistas com direito de voto poderão participar nas assembleias gerais desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
 
-###### Art. 14.° - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
+Art. 14.° - 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
 
 2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.
 
 3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.
 
-###### Art. 15.° - 1 - A assembleia geral reunirá no 1.° trimestre subsequente ao encerramento do exercício anterior.
+Art. 15.° - 1 - A assembleia geral reunirá no 1.° trimestre subsequente ao encerramento do exercício anterior.
 
 2 - A assembleia geral reunirá ainda sempre que o requeiram o conselho de administração, o conselho fiscal ou os accionistas que representem, pelo menos, 5% do capital social.
 
-###### Art. 16.° - 1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as acções da sociedade.
+Art. 16.° - 1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória enquanto forem nominativas todas as acções da sociedade.
 
 2 - A assembleia geral pode deliberar, em primeira convocação, desde que estejam presentes ou representados accionistas que detenham mais de dois terços do capital social.
 
 3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, para o caso de a mesma não poder reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias.
 
-###### Art. 17.° - 1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
+Art. 17.° - 1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.
 
 2 - Compete, em especial, à assembleia:
 
@@ -341,7 +359,7 @@ d) Eleger os membros dos órgãos sociais.
 
 #### SECÇÃO III — Administração da sociedade
 
-###### Art. 18.° - 1 - A administração da sociedade será exercida por um conselho de administração composto por três ou cinco membros.
+Art. 18.° - 1 - A administração da sociedade será exercida por um conselho de administração composto por três ou cinco membros.
 
 2 - Compete à assembleia geral eleger, de entre os membros do conselho de administração, o respectivo presidente.
 
@@ -349,23 +367,23 @@ d) Eleger os membros dos órgãos sociais.
 
 4 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de vencimentos por aquela nomeada.
 
-###### Art. 19.° O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
+Art. 19.° O conselho de administração terá os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas.
 
-###### Art. 20.° O conselho de administração poderá delegar num administrador ou numa comissão executiva de três administradores a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
+Art. 20.° O conselho de administração poderá delegar num administrador ou numa comissão executiva de três administradores a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma.
 
-###### Art. 21.° A sociedade obriga-se perante terceiros:
+Art. 21.° A sociedade obriga-se perante terceiros:
 
 a) Pela assinatura conjunta de dois administradores, um dos quais deve pertencer à comissão executiva, quando esta exista;
 
 b) Pela assinatura do administrador-delegado, quando exista, dentro dos limites da delegação.
 
-###### Art. 22.° - 1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.
+Art. 22.° - 1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.
 
 2 - Independentemente do disposto no número anterior, o conselho de administração reunirá, pelo menos, uma vez por mês.
 
 3 - Os membros do conselho de administração serão convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada ou se se tratar de reuniões com periodicidade fixa estabelecida em acta anterior e devidamente aprovada, casos em que é dispensada a convocatória.
 
-###### Art. 23.° - 1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
+Art. 23.° - 1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
 2 - As deliberações são tomadas pela maioria dos votos emitidos.
 
@@ -375,14 +393,14 @@ b) Pela assinatura do administrador-delegado, quando exista, dentro dos limites 
 
 #### SECÇÃO IV — Fiscalização da sociedade
 
-###### Art. 24.° - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por três membros efectivos e um suplente.
+Art. 24.° - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por três membros efectivos e um suplente.
 
 2 - Um dos membros efectivos e o suplente serão revisores oficiais de contas ou sociedades de revisores oficiais de contas.
 
-###### Art. 25.° O conselho fiscal reunirá todos os trimestres e sempre que tal for solicitado por qualquer dos seus membros ou pelo conselho de administração.
+Art. 25.° O conselho fiscal reunirá todos os trimestres e sempre que tal for solicitado por qualquer dos seus membros ou pelo conselho de administração.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 26.° - 1 - O ano social coincide com o ano civil.
+Art. 26.° - 1 - O ano social coincide com o ano civil.
 
 2 - Os resultados apurados em cada exercício, exceptuada a parte destinada à constituição ou reintegração das reservas legal e de renovação e conservação, terão a aplicação que a assembleia geral deliberar.

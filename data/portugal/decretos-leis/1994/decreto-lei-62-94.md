@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/1994/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1994-517180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:35:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 153e7355d655c69fb3fc403f6b746bee9328de15385677c9b783c7d13422c009
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4997a68d998d0ffeba964ef442f7c456ee4696304aa0da6d42da15196d3dfc6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:35:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre
+- type: cites
+  target: pt:dre:247386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691623:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:35:38Z'
   warnings: []
   errors: []
 ---
@@ -113,13 +129,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se ao pessoal civil das Oficinas Gerais de Material Aeronáutico (OGMA), que transita para a OGMA - Indústria Aeronáutica de Portugal, S. A. (OGMA, S. A.).
+Artigo 1.º O presente diploma aplica-se ao pessoal civil das Oficinas Gerais de Material Aeronáutico (OGMA), que transita para a OGMA - Indústria Aeronáutica de Portugal, S. A. (OGMA, S. A.).
 
-###### Art. 2.º - 1 - O pessoal civil vinculado às OGMA mantém na sua relação jurídico-laboral com a OGMA, S. A., o actual regime, podendo optar pelo contrato individual de trabalho, caso em que manterá o direito à contagem do tempo de serviço prestado.
+Art. 2.º - 1 - O pessoal civil vinculado às OGMA mantém na sua relação jurídico-laboral com a OGMA, S. A., o actual regime, podendo optar pelo contrato individual de trabalho, caso em que manterá o direito à contagem do tempo de serviço prestado.
 
 2 - No prazo de 90 dias a contar da data da entrada em vigor do presente diploma será aprovada pelo Ministro da Defesa Nacional lista nominativa do pessoal referido no número anterior.
 
-###### Art. 3.º - 1 - O pessoal civil que não optar pelo regime individual de trabalho pode ser aposentado por sua iniciativa e sem submissão à junta médica, desde que o requeira, no prazo de um ano a contar da data da entrada em vigor do presente diploma, e preencha uma das seguintes condições:
+Art. 3.º - 1 - O pessoal civil que não optar pelo regime individual de trabalho pode ser aposentado por sua iniciativa e sem submissão à junta médica, desde que o requeira, no prazo de um ano a contar da data da entrada em vigor do presente diploma, e preencha uma das seguintes condições:
 
 a) Reúna 25 ou mais anos de serviço, qualquer que seja a idade;
 
@@ -129,22 +145,22 @@ c) Conste do elenco de categorias e carreiras aprovado por despacho do Ministro 
 
 2 - A pensão a atribuir aos trabalhadores que venham a aposentar-se é determinada nos termos da legislação aplicável.
 
-###### Art. 4.º - 1 - A OGMA, S. A., passa a entregar mensalmente à Caixa Geral de Aposentações, a título de contribuição para o financiamento do sistema, montante igual ao das quotas deduzidas nas remunerações do respectivo pessoal, simultaneamente com a remessa destas quotizações.
+Art. 4.º - 1 - A OGMA, S. A., passa a entregar mensalmente à Caixa Geral de Aposentações, a título de contribuição para o financiamento do sistema, montante igual ao das quotas deduzidas nas remunerações do respectivo pessoal, simultaneamente com a remessa destas quotizações.
 
 2 - A inobservância do prazo a que se refere o número anterior obriga a OGMA, S. A., ao pagamento de juros, de acordo com a legislação aplicável.
 
-###### Art. 5.º A OGMA, S. A., suporta, relativamente aos trabalhadores que mantiverem o actual regime jurídico, os encargos com a protecção social, nos moldes que o são actualmente pelas OGMA.
+Art. 5.º A OGMA, S. A., suporta, relativamente aos trabalhadores que mantiverem o actual regime jurídico, os encargos com a protecção social, nos moldes que o são actualmente pelas OGMA.
 
-###### Art. 6.º As condições de trabalho do pessoal civil das OGMA que mantiver o actual regime são fixadas pelos órgãos sociais da OGMA, S. A., dentro dos poderes que legal e estatutariamente lhe são conferidos.
+Art. 6.º As condições de trabalho do pessoal civil das OGMA que mantiver o actual regime são fixadas pelos órgãos sociais da OGMA, S. A., dentro dos poderes que legal e estatutariamente lhe são conferidos.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 11 de Fevereiro de 1994.**
+Promulgado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1994.**
+Referendado em 15 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

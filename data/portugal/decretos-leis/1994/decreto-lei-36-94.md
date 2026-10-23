@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/032a00/06160617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/1994/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1994-521451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b28a8d74bb4d983ce8ef7b4027705992809a14509a409cb55b296f5ad8e2b6ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e227a0e29ce3a635086da2bada83573cdede01b4476bf988bf170aef8fa83594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Bombeiro
 - Contrato de Seguro
 - Seguro
-- Bombeiro
 relationships:
 - type: amended_by
   target: pt:dre:639318:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678023:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639318:por
+  label: "Revogado a partir de 01.09.2007 pelo DEC LEI.241/2007.21.06.2007.MAI, DR.IS [118] de 21.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-2007-639318
+  date: '2007-06-21'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:34:57Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +134,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 O artigo 6.º do [Decreto-Lei n.º 35746](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35746-1946-155655), de 12 de Julho de 1946, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - Os municípios procederão obrigatoriamente ao seguro contra acidentes pessoais dos bombeiros profissionais e voluntários com o âmbito previsto na alínea e) do n.º 1 do artigo 6.º da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho.
+Art. 6.º - 1 - Os municípios procederão obrigatoriamente ao seguro contra acidentes pessoais dos bombeiros profissionais e voluntários com o âmbito previsto na alínea e) do n.º 1 do artigo 6.º da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho.
 
 2 - As condições mínimas do seguro, incluindo as quantias e riscos compreendidos, são fixadas por portaria conjunta dos Ministros da Administração Interna, das Finanças e do Planeamento e da Administração do Território, depois de ouvidos a Associação Nacional de Municípios Portugueses, a Liga dos Bombeiros Portugueses e o Instituto de Seguros de Portugal.
 
@@ -133,12 +154,12 @@ Os contratos de seguro contra acidentes pessoais existentes à data da entrada e
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1993. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 21 de Janeiro de 1994.**
+Promulgado em 21 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Janeiro de 1994.**
+Referendado em 24 de Janeiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

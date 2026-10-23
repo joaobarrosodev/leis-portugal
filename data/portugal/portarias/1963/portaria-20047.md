@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20047-1963-685648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d489524656cee80ede5ede7aeb5ee3597acb1c836cb30cd176e705dc5be65d86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b29f0483290685a6ffb9fac0ae15efd4e1fb18d722685ccba049e070b9d5d40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Farinha
+- Indústria Agro-alimentar
+- Indústria de Moagem
+- Milho
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:472746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472746:por
+  label: "Substituído provisoriamente o diagrama estabelecido pelo presente diploma, pela PORT.22010.20.05.1966.MECO, DG.IS\
+    \ [119] de 20.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22010-1966-472746
+  date: '1966-05-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:34Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +105,7 @@ Despesa:
 
 Transporte do cereal ... $071
 
-# Parte do encargo do saco e arredondamento ... $0066
+Parte do encargo do saco e arredondamento ... $0066
 
 Taxa de moagem ... $389
 

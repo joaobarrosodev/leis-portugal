@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/1994/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1994-626222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9caaa76c76a2d39dd17e34e65e05f84eb5009570eac63af676ba42a2fdde03a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d4887606eb1ed2777a5c94ecaee6031aa1815296248d08a6b69aa1d15967278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional da ÁGUA
 - Empreitada de Obras Públicas
-- Protecção do Litoral
+- Instituto Nacional da ÁGUA
 - Obras Públicas
+- Protecção do Litoral
 - Temporal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:34Z'
   warnings: []
   errors: []
 ---
@@ -103,24 +103,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constitução, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma cria um regime excepcional para execução, em regime de empreitada, das obras necessárias à reparação das infra-estruturas da costa sob jurisdição do Instituto Nacional da Água (INAG) especialmente afectadas pelas condições climatéricas adversas do último Inverno.
+Artigo 1.º O presente diploma cria um regime excepcional para execução, em regime de empreitada, das obras necessárias à reparação das infra-estruturas da costa sob jurisdição do Instituto Nacional da Água (INAG) especialmente afectadas pelas condições climatéricas adversas do último Inverno.
 
-###### Art. 2.º O regime constante do presente diploma aplica-se aos troços de costa entre Caminha e São Pedro de Muel e entre Sagres e Olhão.
+Art. 2.º O regime constante do presente diploma aplica-se aos troços de costa entre Caminha e São Pedro de Muel e entre Sagres e Olhão.
 
-###### Art. 3.º Fica o INAG excepcionalmente autorizado a proceder, até 31 de Dezembro de 1994, ao ajuste directo de trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a 150 milhões de escudos, mediante consulta prévia a pelo menos três entidades.
+Art. 3.º Fica o INAG excepcionalmente autorizado a proceder, até 31 de Dezembro de 1994, ao ajuste directo de trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a 150 milhões de escudos, mediante consulta prévia a pelo menos três entidades.
 
-###### Art. 4.º Os estudos e projectos necessários à execução dos trabalhos poderão ser obtidos com dispensa de concurso público ou limitado e consulta a três entidades, desde que o seu custo seja inferior a 10 milhões de escudos, não considerando o IVA.
+Art. 4.º Os estudos e projectos necessários à execução dos trabalhos poderão ser obtidos com dispensa de concurso público ou limitado e consulta a três entidades, desde que o seu custo seja inferior a 10 milhões de escudos, não considerando o IVA.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 7 de Outubro de 1994.**
+Promulgado em 7 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1994.**
+Referendado em 10 de Outubro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

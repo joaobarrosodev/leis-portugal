@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/1994/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1994-606525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bfc93731c594705162e9992fc5ce477559a3112126c58108a0d3f3f190262b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c739c6834527490147a13d14806cf7c60d18c4be7d8caaf771426b42ef4811cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/81/1994/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1994/03/10/p/dre
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598157:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:33:08Z'
   warnings: []
   errors: []
 ---
@@ -105,13 +117,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 265/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1992-598157), de 24 de Novembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 20.º, 21.º e 22.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 265/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1992-598157), de 24 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 20.º - 1 - A DGDR é o serviço dotado de autonomia administrativa e financeira incumbido do estudo e execução da política de desenvolvimento regional, da coordenação das intervenções dos fundos estruturais comunitários e da preparação e execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER) e pelo Fundo de Coesão.
+Art. 20.º - 1 - A DGDR é o serviço dotado de autonomia administrativa e financeira incumbido do estudo e execução da política de desenvolvimento regional, da coordenação das intervenções dos fundos estruturais comunitários e da preparação e execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER) e pelo Fundo de Coesão.
 
 2 - A autonomia financeira prevista no número anterior cessa com a conclusão da execução do 2.º Quadro Comunitário de Apoio.
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 a) ...
 
@@ -135,7 +147,7 @@ j) Assegurar a representação do Ministério do Planeamento e da Administraçã
 
 l) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
 
-###### Art. 22.º - 1 - ...
+Art. 22.º - 1 - ...
 
 a) Núcleo de Políticas Regionais;
 
@@ -169,12 +181,12 @@ e) Participar às entidades competentes as irregularidades que detectar.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1994. - Aníbal António Cavaco Silva - Norberto Emílio Sequeira da Rosa - João António Romão Pereira Reis.
 
-**Promulgado em 5 de Setembro de 1994.**
+Promulgado em 5 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1994.**
+Referendado em 8 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

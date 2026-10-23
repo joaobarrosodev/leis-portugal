@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/1994/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec52d280761656cae220c0aa6279d3d4c447facc83f2c9ad7079f1c09496a6dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 701b86f924b57be0836fc80e9f69eac0852d2c932f529741365f681d722d01e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
+- Aquicultura
 - Comissão Consultiva
 - Contrato
 - Criação de Serviços
 - Definição de Competências
-- Equipamento de Pesca
-- Frota de Pesca
-- Pesca
-- QCA
-- Reestruturação Industrial
-- Aquicultura
-- Porto de Pesca
 - Desenvolvimento Económico
+- Empresa
+- Equipamento de Pesca
+- Financiamento
+- Frota de Pesca
+- Ifadap
+- Pesca
+- Porto de Pesca
 - Produtos de Pesca
 - Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA
+- Reestruturação Industrial
 - Regime Jurídico
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:257010:por
@@ -104,16 +104,22 @@ relationships:
   target: celex:31993R3699
   label: null
   source: http://data.europa.eu/eli/reg/1993/3699/oj
+- type: repealed_by
+  target: pt:dre:257010:por
+  label: "Revogados os nºs 2 e 3 do art. 6º e art. 7º, pelo DEC LEI.16/2013.28.01.2013.MAMAOT, DR.IS [19] de 28.01.2013, na\
+    \ parte em que contrariem o que ele dispõe.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2013-257010
+  date: '2013-01-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:01Z'
   warnings: []
   errors: []
 ---
@@ -134,11 +140,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma define o regime geral do Programa para o Desenvolvimento Económico do Sector das Pescas, adiante também designado por PROPESCA, do Quadro Comunitário de Apoio de 1994 a 1999.
+Artigo 1.º - 1 - O presente diploma define o regime geral do Programa para o Desenvolvimento Económico do Sector das Pescas, adiante também designado por PROPESCA, do Quadro Comunitário de Apoio de 1994 a 1999.
 
 2 - O regime definido no presente diploma e demais legislação complementar tem por âmbito de aplicação todo o território do continente.
 
-###### Art. 2.º - 1 - O PROPESCA tem por objectivo garantir a sustentabilidade do sector das pescas mediante o restabelecimento do equilíbrio entre os recursos e o esforço de pesca e assegurar uma modernização do sector que aumente a produtividade e melhore a competitividade das empresas.
+Art. 2.º - 1 - O PROPESCA tem por objectivo garantir a sustentabilidade do sector das pescas mediante o restabelecimento do equilíbrio entre os recursos e o esforço de pesca e assegurar uma modernização do sector que aumente a produtividade e melhore a competitividade das empresas.
 
 2 - Para prossecução dos objectivos enunciados no número anterior são estabelecidos os seguintes regimes de apoio:
 
@@ -166,7 +172,7 @@ j) Prospecção e investigação científica.
 
 4 - Os regimes de apoio a conceder no âmbito do presente diploma são objecto de resolução do Conselho de Ministros, excepto quando se trata de apoios a conceder ao abrigo de regulamentos comunitários de natureza horizontal, caso em que são objecto de portaria do Ministro do Mar.
 
-###### Art. 3.º - 1 - É criada a Comissão Consultiva do PROPESCA, composta pelos dirigentes máximos dos serviços do Ministério do Mar e ainda por quatro personalidades de reconhecido mérito ligadas ao sector da pesca designadas por despacho do Ministro do Mar.
+Art. 3.º - 1 - É criada a Comissão Consultiva do PROPESCA, composta pelos dirigentes máximos dos serviços do Ministério do Mar e ainda por quatro personalidades de reconhecido mérito ligadas ao sector da pesca designadas por despacho do Ministro do Mar.
 
 2 - Compete à Comissão Consultiva do PROPESCA:
 
@@ -174,7 +180,7 @@ a) Pronunciar-se sobre o funcionamento e execução do PROPESCA tendo em vista a
 
 b) Dar parecer sobre o impacte dos investimentos efectuados tendo em vista a avaliação do PROPESCA.
 
-###### Art. 4.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
+Art. 4.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
 
 a) Bonificação de juros;
 
@@ -186,11 +192,11 @@ c) Subsídio reembolsável.
 
 3 - As condições de atribuição dos apoios financeiros, nomeadamente os seus montantes específicos, serão fixadas em regulamentação específica.
 
-###### Art. 5.º - 1 - A atribuição dos apoios previstos no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
+Art. 5.º - 1 - A atribuição dos apoios previstos no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
 
 2 - Exceptuam-se do disposto no número anterior os apoios concedidos a organismos da Administração Pública.
 
-###### Art. 6.º - 1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes dos contratos, o IFADAP pode modificar ou rescindir unilateralmente os contratos.
+Art. 6.º - 1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes dos contratos, o IFADAP pode modificar ou rescindir unilateralmente os contratos.
 
 2 - Em caso de rescisão do contrato pelo IFADAP, o beneficiário será notificado para, no prazo de 15 dias, proceder à restituição das importâncias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
@@ -202,28 +208,28 @@ c) Subsídio reembolsável.
 
 6 - A rescisão do contrato pelo IFADAP também determina para os beneficiários a suspensão do direito de se candidatarem, individual ou colectivamente, quando participem em posição dominante, aos apoios previstos no presente diploma durante o restante período a que se refere o apoio, mas nunca por prazo inferior a três anos.
 
-###### Art. 7.º O beneficiário poderá, mediante requerimento, desistir do apoio, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
+Art. 7.º O beneficiário poderá, mediante requerimento, desistir do apoio, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
 
-###### Art. 8.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP.
+Art. 8.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP.
 
 2 - As certidões referidas no número anterior devem indicar a data de emissão, a identificação e domicílio do devedor, a proveniência da dívida, a indicação, por extenso, do montante e a data a partir da qual são devidos juros e a importância sobre que incidem.
 
 3 - Para as execuções instauradas ao abrigo do presente diploma é sempre competente o foro da comarca de Lisboa.
 
-###### Art. 9.º Os apoios referidos no presente diploma e respectiva legislação complementar não são acumuláveis com quaisquer outros da mesma natureza.
+Art. 9.º Os apoios referidos no presente diploma e respectiva legislação complementar não são acumuláveis com quaisquer outros da mesma natureza.
 
-###### Art. 10.º A Direcção-Geral de Pescas e o IFADAP, enquanto entidades responsáveis pela gestão e controlo do PROPESCA, prestarão à Inspecção-Geral de Finanças todas as informações necessárias à coordenação do sistema de controlo previsto no Decreto-Lei n.º 99/94, de 19 de Abril.
+Art. 10.º A Direcção-Geral de Pescas e o IFADAP, enquanto entidades responsáveis pela gestão e controlo do PROPESCA, prestarão à Inspecção-Geral de Finanças todas as informações necessárias à coordenação do sistema de controlo previsto no Decreto-Lei n.º 99/94, de 19 de Abril.
 
-###### Art. 11.º São revogados os Decretos-Leis n.os 399/87, de 31 de Dezembro, 443/91, de 16 de Novembro, e 444/91, de 16 de Novembro, e as Portarias n.os 80/88, de 5 de Fevereiro, 3/89, de 2 de Janeiro, 172/90, de 6 de Março, 85/92, de 10 de Fevereiro, e 1239/92, de 31 de Dezembro.
+Art. 11.º São revogados os Decretos-Leis n.os 399/87, de 31 de Dezembro, 443/91, de 16 de Novembro, e 444/91, de 16 de Novembro, e as Portarias n.os 80/88, de 5 de Fevereiro, 3/89, de 2 de Janeiro, 172/90, de 6 de Março, 85/92, de 10 de Fevereiro, e 1239/92, de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - José Bernardo Veloso Falcão e Cunha - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 25 de Junho de 1994.**
+Promulgado em 25 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1994.**
+Referendado em 29 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

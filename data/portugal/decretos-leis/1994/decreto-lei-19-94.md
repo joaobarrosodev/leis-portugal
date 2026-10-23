@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/1994/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1994-496132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5d46f5f12bb9679fdf992fca25cbd921f41fb1039706c32e3c8077fe63c3b38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1452b21f4e9c7fba1bb4227f0d4c1088d24b31301e76a6cfbce75332eff8790c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Rodoviário
 - Apoio ao Investimento
+- Transporte Rodoviário
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/1992/10/13/p/dre
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/923/1992/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/923/1992/09/24/p/dre
+- type: cites
+  target: pt:dre:225816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:32:01Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +130,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 75-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1991-537851), de 15 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 75-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1991-537851), de 15 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 6.º — [...]
 
@@ -136,7 +152,7 @@ e) ...
 
 4 - ...
 
-###### Art. 2.º O artigo 4.º do [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), de 13 de Outubro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 4.º do [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), de 13 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -156,7 +172,7 @@ e) ...
 
 3 - ...
 
-###### Art. 3.º O n.º 5.º da [Portaria n.º 923/92](https://diariodarepublica.pt/dr/detalhe/portaria/923-1992-232345), de 24 de Setembro, passa a ter a seguinte redacção:
+Art. 3.º O n.º 5.º da [Portaria n.º 923/92](https://diariodarepublica.pt/dr/detalhe/portaria/923-1992-232345), de 24 de Setembro, passa a ter a seguinte redacção:
 
 5.º
 
@@ -176,7 +192,7 @@ b) ...
 
 5 - ...
 
-###### Art. 4.º O n.º 5.º da [Portaria n.º 606-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/606-a-1993-646721), de 28 de Junho, passa a ter a seguinte redacção:
+Art. 4.º O n.º 5.º da [Portaria n.º 606-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/606-a-1993-646721), de 28 de Junho, passa a ter a seguinte redacção:
 
 5.º
 
@@ -202,16 +218,16 @@ b) [Anterior alínea c).]
 
 4 - ...
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - António José Fernandes de Sousa - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 23 de Dezembro de 1993.**
+Promulgado em 23 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1993.**
+Referendado em 28 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

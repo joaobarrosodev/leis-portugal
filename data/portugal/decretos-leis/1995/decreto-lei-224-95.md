@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/1995/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1995-551195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c447df157447e84393cca1e1093750a6065b1435174ec33b17345c5f9b87c92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00412469f1a3eb2a1289cd9f6bffa12e68402e3f8fa05ac416e5775033a4bd85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Projeto de Investimento
-- Linha de Crédito
 - Agricultura
+- Financiamento
 - Ifadap
+- Linha de Crédito
 - Projecto de Desenvolvimento Rural Integrado de Trás-os-montes
+- Projeto de Investimento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:05Z'
   warnings: []
   errors: []
 ---
@@ -103,30 +103,30 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É estabelecida uma moratória destinada a permitir o prolongamento, por três anos, do plano de reembolso das operações relativas à execução de projectos de investimento incluídos nas alíneas a) e b) do Despacho n.º 55/83-IX do Ministro das Finanças e do Plano, publicado no Diário da República, 2.ª série, de 21 de Dezembro de 1983, no âmbito do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes - PDRITM-I.
+Artigo 1.º É estabelecida uma moratória destinada a permitir o prolongamento, por três anos, do plano de reembolso das operações relativas à execução de projectos de investimento incluídos nas alíneas a) e b) do Despacho n.º 55/83-IX do Ministro das Finanças e do Plano, publicado no Diário da República, 2.ª série, de 21 de Dezembro de 1983, no âmbito do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes - PDRITM-I.
 
-###### Art. 2.º Têm acesso à moratória prevista no artigo anterior os mutuários de contratos celebrados ao abrigo do PDRITM-I que demonstrem possuir capacidade económica e financeira para viabilizar o investimento realizado no âmbito daquele Programa.
+Art. 2.º Têm acesso à moratória prevista no artigo anterior os mutuários de contratos celebrados ao abrigo do PDRITM-I que demonstrem possuir capacidade económica e financeira para viabilizar o investimento realizado no âmbito daquele Programa.
 
-###### Art. 3.º Durante o período da moratória, os beneficiários não efectuarão quaisquer prestações de reembolso de capital, que serão deferidas para os três anos posteriores ao fim daquele período.
+Art. 3.º Durante o período da moratória, os beneficiários não efectuarão quaisquer prestações de reembolso de capital, que serão deferidas para os três anos posteriores ao fim daquele período.
 
-###### Art. 4.º Durante o período de três anos correspondente à duração da moratória, a parte não bonificada dos juros devidos pelos beneficiários será suportada pelo Estado, sem prejuízo do pagamento das bonificações decorrentes do PDRITM-I e previstas nos contratos de mútuo celebrados.
+Art. 4.º Durante o período de três anos correspondente à duração da moratória, a parte não bonificada dos juros devidos pelos beneficiários será suportada pelo Estado, sem prejuízo do pagamento das bonificações decorrentes do PDRITM-I e previstas nos contratos de mútuo celebrados.
 
-###### Art. 5.º Cabe ao Ministério das Finanças o encargo do suporte das verbas necessárias à execução do previsto neste diploma, através das inscrições do Orçamento do Estado.
+Art. 5.º Cabe ao Ministério das Finanças o encargo do suporte das verbas necessárias à execução do previsto neste diploma, através das inscrições do Orçamento do Estado.
 
-###### Art. 6.º Compete ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) o pagamento às instituições de crédito mutuantes das importâncias referidas no artigo 4.º
+Art. 6.º Compete ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) o pagamento às instituições de crédito mutuantes das importâncias referidas no artigo 4.º
 
-###### Art. 7.º As normas técnicas e financeiras de execução do previsto no presente diploma são objecto de portaria do Ministro da Agricultura.
+Art. 7.º As normas técnicas e financeiras de execução do previsto no presente diploma são objecto de portaria do Ministro da Agricultura.
 
-###### Art. 8.º Pelo desempenho das funções que lhe são atribuídas pelo presente diploma, o IFADAP cobrará uma taxa remuneratória equivalente à praticada no âmbito do PDRITM-I.
+Art. 8.º Pelo desempenho das funções que lhe são atribuídas pelo presente diploma, o IFADAP cobrará uma taxa remuneratória equivalente à praticada no âmbito do PDRITM-I.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - António Duarte Silva.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

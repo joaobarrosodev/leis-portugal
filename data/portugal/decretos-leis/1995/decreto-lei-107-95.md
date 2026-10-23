@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/1995/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1995-503652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:36:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93f006ca9f2a82b2b4e0ba2ddd726a753119eefafffb48234cfde992ca3afce4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a23d80c07115d81b0ae67388e9c6963653f63f4963757cdd6ea328885a86ba0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:36:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,24 @@ reuse:
 subjects:
 - Aumento de Capital
 - Banco Interamericano de Desenvolvimento
-- Portugal
-- Ministro das Finanças
 - Junta de Crédito Público
-relationships: []
+- Ministro das Finanças
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:218926:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:36:40Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +105,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Ministro das Finanças é autorizado a aumentar a quota de Portugal no Banco Interamericano de Desenvolvimento de 1282 acções para um total de 4474 acções, através da subscrição de 3192 novas acções, no valor nominal de 12063,43238 dólares americanos cada.
+Artigo 1.º - 1 - O Ministro das Finanças é autorizado a aumentar a quota de Portugal no Banco Interamericano de Desenvolvimento de 1282 acções para um total de 4474 acções, através da subscrição de 3192 novas acções, no valor nominal de 12063,43238 dólares americanos cada.
 
 2 - Das 3192 acções a subscrever, 126 constituirão capital realizável e 3066 capital exigível.
 
 3 - A participação portuguesa no capital do BID a que se referem os números anteriores implicará a realização de cerca de 3,95% do total a subscrever, correspondente a 126 acções, no valor equivalente a 1519992 dólares americanos, e deverá ser efectuada através da emissão de seis notas promissórias, de igual montante, a emitir consoante as datas que o conselho de administração do Banco vier a determinar, dentro de um período que se estenderá, pelo menos, até 1999.
 
-###### Art. 2.º - 1 - O Ministro das Finanças fica igualmente autorizado a aumentar a contribuição portuguesa para o FOE de 5818262 dólares até ao montante total de 7452079 dólares.
+Art. 2.º - 1 - O Ministro das Finanças fica igualmente autorizado a aumentar a contribuição portuguesa para o FOE de 5818262 dólares até ao montante total de 7452079 dólares.
 
 2 - A contribuição portuguesa para o FOE será equivalente ao montante de 1633817 dólares americanos, a efectuar sob a forma de notas promissórias, a emitir nas datas efectivas que o conselho de administração do BID vier a determinar.
 
-###### Art. 3.º - 1 - Cabe ao Ministro das Finanças praticar todos os actos necessários à realização do previsto nos artigos anteriores, nomeadamente emitir os títulos de obrigação, representados por promissórias, nos termos do regime aplicável ao 8.º aumento geral dos recursos do BID.
+Art. 3.º - 1 - Cabe ao Ministro das Finanças praticar todos os actos necessários à realização do previsto nos artigos anteriores, nomeadamente emitir os títulos de obrigação, representados por promissórias, nos termos do regime aplicável ao 8.º aumento geral dos recursos do BID.
 
 2 - A emissão das referidas promissórias fica a cargo da Junta do Crédito Público e delas constarão os seguintes elementos:
 
@@ -127,18 +131,18 @@ e) Os diplomas qua autorizam a emissão.
 
 3 - As promissórias serão assinadas, por chancela, pelo Ministro das Finanças, ou por delegação sua, e pelo presidente da Junta do Crédito Público, levando também a assinatura de um dos vogais e o selo branco da mesma Junta.
 
-###### Art. 4.º O Banco de Portugal será depositário dos haveres em escudos e de outros activos do BID, conforme previsto no artigo 4.º do [Decreto-Lei n.º 40-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1980-218926), de 14 de Março, e na secção 4 do artigo XIV do Convénio Constitutivo deste Banco.
+Art. 4.º O Banco de Portugal será depositário dos haveres em escudos e de outros activos do BID, conforme previsto no artigo 4.º do [Decreto-Lei n.º 40-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1980-218926), de 14 de Março, e na secção 4 do artigo XIV do Convénio Constitutivo deste Banco.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
